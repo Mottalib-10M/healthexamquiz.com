@@ -1,0 +1,47 @@
+---
+/**
+ * Renders one tool with its page defaults. Quizzes draw their first questions here, at build time,
+ * with a seed from the page id (§17.5): the HTML holds real questions, readable without JavaScript.
+ */
+import Quiz from './calc/Quiz';
+import Bank from './calc/Bank';
+import Progress from './calc/Progress';
+import MiniSim from './calc/MiniSim';
+import SkillsChecklist from './calc/SkillsChecklist';
+import DrugCards from './calc/DrugCards';
+import StateCost from './calc/StateCost';
+import CertFinder from './calc/CertFinder';
+import OrderOfDraw from './calc/OrderOfDraw';
+import { route, hasRoute, type Locale } from '../i18n/routes';
+import { getSpec } from '../lib/mini-specs';
+import { BANK } from '../lib/banks-build';
+import { buildMock, buildPractice, pool, seedOf, domainsOf, type ExamId } from '../lib/engine/exam';
+import type { ToolDef } from '../lib/guide-types';
+interface Props { tool: ToolDef; lang?: Locale; primary?: boolean; idPrefix?: string; seedKey?: string }
+const { tool, lang = 'en', primary = false, idPrefix, seedKey = 'home' } = Astro.props;
+const props = (tool.props ?? {}) as Record<string, any>;
+const kind = tool.kind;
+const exam = (props.exam ?? 'cna') as ExamId;
+const mode = (props.mode ?? 'practice') as 'practice' | 'mock' | 'review';
+const domain: string | null = props.domain != null ? String(props.domain) : null;
+const n = Number(props.n ?? (primary ? 10 : 5));
+const seed = seedOf(`${seedKey}-${kind}-${exam}-${domain ?? ''}-${mode}`);
+const initial = kind === 'quiz' ? (mode === 'mock' ? buildMock(BANK, exam, seed) : mode === 'review' ? [] : buildPractice(BANK, exam, domain, seed, n)) : [];
+const bankDomain = domain ?? domainsOf(exam)[0].code;
+const bankInitial = kind === 'bank' ? pool(BANK, exam, bankDomain) : [];
+const mini = kind.startsWith('mini:') ? kind.slice(5) : null;
+const spec = mini ? getSpec(mini) : null;
+const link = (id?: string) => (id && hasRoute(id, lang) ? route(id, lang) : undefined);
+const numDefaults: Record<string, number> = {};
+for (const [k, v] of Object.entries(props)) if (typeof v === 'number') numDefaults[k] = v;
+const pre = idPrefix ?? (primary ? 'p' : 'm');
+---
+{kind === 'quiz' && <Quiz client:load exam={exam} mode={mode} domain={domain} n={n} pick={!!props.pick} initial={initial} seed={seed} idPrefix={pre} secondary={!primary} />}
+{kind === 'bank' && <Bank client:load exam={exam} domain={bankDomain} initial={bankInitial} total={pool(BANK, exam).length} idPrefix={pre} />}
+{kind === 'progress' && <Progress client:load exam={exam} reviewHref={link('review-mistakes')} idPrefix={pre} secondary={!primary} />}
+{kind === 'skills' && <SkillsChecklist client:load skill={String(props.skill ?? 'hand-hygiene')} idPrefix={pre} secondary={!primary} />}
+{kind === 'drugs' && <DrugCards client:load mode={(props.mode ?? 'cards') as 'cards' | 'quiz' | 'suffix'} idPrefix={pre} secondary={!primary} />}
+{kind === 'states' && <StateCost client:load state={String(props.state ?? 'ca')} idPrefix={pre} secondary={!primary} />}
+{kind === 'finder' && <CertFinder client:load goal={Number(props.goal ?? 0)} idPrefix={pre} secondary={!primary} links={{ cna: link('cna-practice-test'), ptce: link('ptcb-practice-test'), excpt: link('excpt-practice-test'), ccma: link('ccma-practice-test'), cma: link('cma-practice-test'), cpt: link('phlebotomy-practice-test'), cet: link('ekg-practice-test'), emt: link('nremt-practice-test') }} />}
+{kind === 'draw' && <OrderOfDraw client:load idPrefix={pre} secondary={!primary} />}
+{mini && <MiniSim client:load kind={mini} href={link(spec?.ctaPage)} defaults={numDefaults} primary={primary} idPrefix={pre} />}

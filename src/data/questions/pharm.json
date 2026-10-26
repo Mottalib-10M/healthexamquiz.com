@@ -1,0 +1,3730 @@
+{
+  "questions": [
+    {
+      "id": "rx-med-01",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (generic and brand names)",
+      "q": "Which brand name corresponds to atorvastatin?",
+      "options": [
+        "Zocor",
+        "Crestor",
+        "Lipitor",
+        "Pravachol"
+      ],
+      "answer": 2,
+      "explain": "Atorvastatin is marketed as Lipitor. The other three are also statins, which is why they tempt: Zocor is simvastatin, Crestor is rosuvastatin and Pravachol is pravastatin. Matching the exact generic to its brand matters because statins differ in potency and dosing."
+    },
+    {
+      "id": "rx-med-02",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (generic and brand names)",
+      "q": "A prescription is written for Zoloft 50 mg. Which generic drug should be selected during order entry?",
+      "options": [
+        "Sertraline",
+        "Escitalopram",
+        "Fluoxetine",
+        "Paroxetine"
+      ],
+      "answer": 0,
+      "explain": "Zoloft is the brand name of sertraline, a selective serotonin reuptake inhibitor. Escitalopram (Lexapro), fluoxetine (Prozac) and paroxetine (Paxil) belong to the same class, so they are plausible distractors, but each is a different drug and cannot be substituted for sertraline."
+    },
+    {
+      "id": "rx-med-03",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Lisinopril belongs to which therapeutic class?",
+      "options": [
+        "Angiotensin II receptor blockers",
+        "Beta blockers",
+        "Calcium channel blockers",
+        "ACE inhibitors"
+      ],
+      "answer": 3,
+      "explain": "Drugs ending in pril, such as lisinopril, enalapril and ramipril, are angiotensin converting enzyme (ACE) inhibitors. Angiotensin II receptor blockers act on the same system but end in sartan, which is why that option is tempting. Beta blockers end in olol."
+    },
+    {
+      "id": "rx-med-04",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Losartan, valsartan and irbesartan share which mechanism class?",
+      "options": [
+        "Angiotensin converting enzyme inhibitors",
+        "Angiotensin II receptor blockers",
+        "Thiazide type diuretics",
+        "Alpha 1 adrenergic blockers"
+      ],
+      "answer": 1,
+      "explain": "The sartan suffix identifies angiotensin II receptor blockers (ARBs). They block the receptor rather than the converting enzyme, so they are distinct from ACE inhibitors (pril), even though both groups are used for hypertension and heart failure."
+    },
+    {
+      "id": "rx-med-05",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Which side effect is most characteristic of lisinopril and other ACE inhibitors?",
+      "options": [
+        "Red orange urine",
+        "Persistent dry cough",
+        "Tooth discoloration",
+        "Gingival overgrowth"
+      ],
+      "answer": 1,
+      "explain": "ACE inhibitors raise bradykinin levels, which can cause a persistent dry cough, a classic reason patients are switched to an ARB. Red orange body fluids are linked to rifampin, tooth discoloration to tetracyclines, and gingival overgrowth to phenytoin."
+    },
+    {
+      "id": "rx-med-06",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "A patient starting rifampin is likely to be warned about which harmless but surprising effect?",
+      "options": [
+        "Blue tinted vision for several hours",
+        "Black discoloration of the tongue",
+        "Green coloring of the stool",
+        "Red orange discoloration of urine and tears"
+      ],
+      "answer": 3,
+      "explain": "Rifampin commonly turns urine, sweat and tears red orange and can stain soft contact lenses. Blue tinted vision is associated with sildenafil, and a black tongue with bismuth subsalicylate, so those are tempting but belong to other drugs."
+    },
+    {
+      "id": "rx-med-07",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (boxed warnings and adverse effects)",
+      "q": "Fluoroquinolones such as ciprofloxacin and levofloxacin carry a boxed warning for which adverse effect?",
+      "options": [
+        "Tendinitis and tendon rupture",
+        "Gingival hyperplasia and bleeding",
+        "Permanent loss of scalp hair",
+        "Severe persistent dry cough"
+      ],
+      "answer": 0,
+      "explain": "The FDA boxed warning for systemic fluoroquinolones includes tendinitis and tendon rupture, along with peripheral neuropathy and central nervous system effects. Gingival hyperplasia is linked to phenytoin and dry cough to ACE inhibitors, so neither applies to this class."
+    },
+    {
+      "id": "rx-med-08",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions)",
+      "q": "A profile shows warfarin, and the patient now buys ibuprofen regularly. What is the main concern with this combination?",
+      "options": [
+        "Reduced effect of warfarin",
+        "High blood sugar",
+        "Increased risk of bleeding",
+        "Serotonin syndrome"
+      ],
+      "answer": 2,
+      "explain": "NSAIDs such as ibuprofen inhibit platelet function and can irritate the stomach lining, so adding them to warfarin raises the risk of bleeding, including gastrointestinal bleeding. The interaction does not reduce warfarin effect, which is the tempting but wrong reversal. The pharmacist reviews such combinations."
+    },
+    {
+      "id": "rx-med-09",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions)",
+      "q": "Which combination is contraindicated because it can cause a severe drop in blood pressure?",
+      "options": [
+        "Sildenafil with metformin",
+        "Nitroglycerin with aspirin",
+        "Amlodipine with atorvastatin",
+        "Sildenafil with nitroglycerin"
+      ],
+      "answer": 3,
+      "explain": "Phosphodiesterase 5 inhibitors such as sildenafil and tadalafil potentiate the vasodilating effect of nitrates such as nitroglycerin and isosorbide, which can cause dangerous hypotension. Nitroglycerin with aspirin is commonly used together in heart disease and is not contraindicated."
+    },
+    {
+      "id": "rx-med-10",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug and food interactions)",
+      "q": "Why do patients taking simvastatin receive a warning about large amounts of grapefruit juice?",
+      "options": [
+        "It lowers simvastatin levels and LDL effect",
+        "It raises simvastatin levels and muscle risk",
+        "It causes a disulfiram like reaction",
+        "It binds the drug in the stomach"
+      ],
+      "answer": 1,
+      "explain": "Grapefruit juice inhibits the CYP3A4 enzyme in the intestine, so blood levels of simvastatin rise and so does the risk of muscle damage. A disulfiram like reaction is the alcohol interaction of metronidazole, and binding in the gut describes antacids with tetracyclines."
+    },
+    {
+      "id": "rx-med-11",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions)",
+      "q": "Doxycycline should be separated from antacids, calcium and iron supplements mainly because these products do what?",
+      "options": [
+        "Increase the antibiotic to toxic levels",
+        "Neutralize the antibiotic in the bloodstream",
+        "Bind the antibiotic and reduce its absorption",
+        "Cause a severe allergic reaction"
+      ],
+      "answer": 2,
+      "explain": "Polyvalent cations such as calcium, magnesium, aluminum and iron chelate tetracyclines and fluoroquinolones in the gut, lowering absorption and possibly causing treatment failure. The interaction does not raise levels, which is the common confusion with enzyme inhibitor interactions."
+    },
+    {
+      "id": "rx-med-12",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions)",
+      "q": "Patients receiving metronidazole are warned about alcohol because the combination can cause what?",
+      "options": [
+        "A disulfiram like reaction",
+        "Severe low blood sugar episodes",
+        "Serotonin syndrome with fever",
+        "Tendon rupture"
+      ],
+      "answer": 0,
+      "explain": "Metronidazole can produce a disulfiram like reaction with alcohol: flushing, nausea, vomiting, headache and rapid heartbeat. Serotonin syndrome results from combining serotonergic drugs such as an MAOI and an SSRI, and tendon rupture is a fluoroquinolone warning."
+    },
+    {
+      "id": "rx-med-13",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (indications)",
+      "q": "Montelukast (Singulair) is indicated for which conditions?",
+      "options": [
+        "Asthma maintenance and allergic rhinitis",
+        "Type 2 diabetes and obesity",
+        "Hypertension and heart failure",
+        "Gout flares and kidney stones"
+      ],
+      "answer": 0,
+      "explain": "Montelukast is a leukotriene receptor antagonist used for asthma maintenance, prevention of exercise induced bronchoconstriction and allergic rhinitis. It is not a rescue inhaler. Its boxed warning concerns neuropsychiatric events, not cardiovascular or metabolic effects."
+    },
+    {
+      "id": "rx-med-14",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (indications)",
+      "q": "Allopurinol is most commonly prescribed for which purpose?",
+      "options": [
+        "Rapid relief of an acute migraine",
+        "Treatment of a urinary tract infection",
+        "Long term lowering of uric acid in gout",
+        "Control of seasonal allergies"
+      ],
+      "answer": 2,
+      "explain": "Allopurinol is a xanthine oxidase inhibitor that lowers uric acid production and is used long term to prevent gout attacks and urate stones. It is not used to relieve an acute flare on its own; colchicine or an NSAID is typically used for flares."
+    },
+    {
+      "id": "rx-med-15",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (indications)",
+      "q": "Tamsulosin (Flomax) is primarily used to treat which condition?",
+      "options": [
+        "Erectile dysfunction in older men",
+        "Urinary symptoms of benign prostatic hyperplasia",
+        "Overactive bladder with incontinence",
+        "High blood pressure in pregnancy"
+      ],
+      "answer": 1,
+      "explain": "Tamsulosin is an alpha 1 blocker selective for the prostate and bladder neck, used to ease urinary flow in benign prostatic hyperplasia. Erectile dysfunction is treated with PDE5 inhibitors such as sildenafil, and overactive bladder with antimuscarinics such as oxybutynin."
+    },
+    {
+      "id": "rx-med-16",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Empagliflozin (Jardiance) belongs to which class of diabetes medications?",
+      "options": [
+        "DPP 4 inhibitors",
+        "Sulfonylureas",
+        "GLP 1 receptor agonists",
+        "SGLT2 inhibitors"
+      ],
+      "answer": 3,
+      "explain": "The gliflozin suffix marks sodium glucose cotransporter 2 (SGLT2) inhibitors, which increase glucose loss in the urine. DPP 4 inhibitors end in gliptin (sitagliptin), and GLP 1 receptor agonists end in glutide (semaglutide, liraglutide), which is the tempting confusion."
+    },
+    {
+      "id": "rx-med-17",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (generic and brand names)",
+      "q": "Which brand name product contains semaglutide?",
+      "options": [
+        "Januvia",
+        "Trulicity",
+        "Ozempic",
+        "Jardiance"
+      ],
+      "answer": 2,
+      "explain": "Ozempic is an injectable semaglutide product, a GLP 1 receptor agonist. Trulicity is also a GLP 1 receptor agonist, which makes it tempting, but it contains dulaglutide. Januvia is sitagliptin and Jardiance is empagliflozin."
+    },
+    {
+      "id": "rx-med-18",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (generic and brand names)",
+      "q": "Apixaban is dispensed under which brand name?",
+      "options": [
+        "Eliquis",
+        "Xarelto",
+        "Pradaxa",
+        "Plavix"
+      ],
+      "answer": 0,
+      "explain": "Apixaban is Eliquis, an oral factor Xa inhibitor anticoagulant. Xarelto is rivaroxaban, another factor Xa inhibitor, and Pradaxa is dabigatran, a direct thrombin inhibitor. Plavix is clopidogrel, an antiplatelet rather than an anticoagulant."
+    },
+    {
+      "id": "rx-med-19",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Clopidogrel (Plavix) is classified as which type of drug?",
+      "options": [
+        "Factor Xa inhibitor",
+        "Thrombolytic agent",
+        "Vitamin K antagonist",
+        "Antiplatelet agent"
+      ],
+      "answer": 3,
+      "explain": "Clopidogrel blocks the P2Y12 receptor on platelets and prevents them from clumping, so it is an antiplatelet agent. Factor Xa inhibitors (apixaban) and vitamin K antagonists (warfarin) are anticoagulants that act on clotting factors instead of platelets."
+    },
+    {
+      "id": "rx-med-20",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (administration instructions)",
+      "q": "Which instruction typically accompanies alendronate tablets taken by mouth?",
+      "options": [
+        "Take with milk to protect the stomach lining",
+        "Take with plain water and stay upright 30 minutes",
+        "Take at bedtime right before lying down",
+        "Take with orange juice to improve absorption"
+      ],
+      "answer": 1,
+      "explain": "Alendronate is poorly absorbed and can irritate the esophagus, so it is taken on an empty stomach in the morning with a full glass of plain water, and the patient stays upright for at least 30 minutes. Milk and juice reduce absorption, and lying down raises the risk of esophageal injury."
+    },
+    {
+      "id": "rx-med-21",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Patients using an inhaled corticosteroid such as fluticasone are told to rinse the mouth after each use to reduce the risk of what?",
+      "options": [
+        "Tooth enamel staining",
+        "Oral thrush",
+        "Rebound congestion",
+        "Tremor and palpitations"
+      ],
+      "answer": 1,
+      "explain": "Inhaled corticosteroid deposited in the mouth and throat can allow Candida to overgrow and cause oral thrush and hoarseness; rinsing and spitting lowers that risk. Tremor and palpitations are typical of beta agonists such as albuterol, not of inhaled steroids."
+    },
+    {
+      "id": "rx-med-22",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Which opioid side effect usually persists even after the patient develops tolerance to other effects?",
+      "options": [
+        "Daytime drowsiness",
+        "Nausea and vomiting",
+        "Euphoria",
+        "Constipation"
+      ],
+      "answer": 3,
+      "explain": "Tolerance develops to opioid induced drowsiness, nausea and euphoria over time, but little or no tolerance develops to constipation, so it usually persists for the length of therapy. That is why a bowel regimen is often prescribed alongside chronic opioids."
+    },
+    {
+      "id": "rx-med-23",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (indications)",
+      "q": "Levothyroxine (Synthroid) is used to treat which condition?",
+      "options": [
+        "Hypothyroidism",
+        "Hyperthyroidism",
+        "Type 1 diabetes",
+        "Adrenal insufficiency"
+      ],
+      "answer": 0,
+      "explain": "Levothyroxine is synthetic T4 thyroid hormone used to replace missing hormone in hypothyroidism. Hyperthyroidism is treated with drugs such as methimazole that reduce hormone production, so choosing it reverses the logic of replacement therapy."
+    },
+    {
+      "id": "rx-med-24",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "drugs"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Which of these medications is a benzodiazepine?",
+      "options": [
+        "Buspirone",
+        "Zolpidem",
+        "Lorazepam",
+        "Sertraline"
+      ],
+      "answer": 2,
+      "explain": "Lorazepam (Ativan) is a benzodiazepine, like alprazolam, clonazepam and diazepam. Zolpidem acts at a related receptor site but is not chemically a benzodiazepine, and buspirone is a non benzodiazepine anxiolytic. Sertraline is an SSRI antidepressant."
+    },
+    {
+      "id": "rx-med-25",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (narrow therapeutic index drugs)",
+      "q": "Which drug is considered to have a narrow therapeutic index?",
+      "options": [
+        "Amoxicillin",
+        "Loratadine",
+        "Omeprazole",
+        "Warfarin"
+      ],
+      "answer": 3,
+      "explain": "A narrow therapeutic index drug has a small gap between effective and toxic doses, so small changes in dose or blood level can cause harm. Warfarin is a classic example, monitored with the INR. Amoxicillin, loratadine and omeprazole have wide safety margins."
+    },
+    {
+      "id": "rx-med-26",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (narrow therapeutic index drugs)",
+      "q": "Which mood stabilizer requires routine blood level monitoring because of its narrow therapeutic index?",
+      "options": [
+        "Quetiapine",
+        "Lithium",
+        "Aripiprazole",
+        "Bupropion"
+      ],
+      "answer": 1,
+      "explain": "Lithium has a narrow therapeutic range, and toxicity can follow dehydration, kidney changes or interacting drugs such as NSAIDs and thiazides, so serum levels are monitored. Quetiapine and aripiprazole are antipsychotics also used in bipolar disorder but do not need routine level checks."
+    },
+    {
+      "id": "rx-med-27",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (narrow therapeutic index drugs)",
+      "q": "Digoxin (Lanoxin) toxicity is classically associated with which symptoms?",
+      "options": [
+        "Dry cough and swelling of the lips",
+        "Tendon pain and numb fingers",
+        "Nausea and yellow green visual halos",
+        "Red orange urine and tears"
+      ],
+      "answer": 2,
+      "explain": "Digoxin is a narrow therapeutic index drug. Early toxicity often shows as nausea, loss of appetite and visual disturbances such as yellow green halos, and it can progress to dangerous arrhythmias. Lip swelling with cough suggests ACE inhibitor angioedema, a different problem."
+    },
+    {
+      "id": "rx-med-28",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (dosage forms)",
+      "q": "What does the suffix XL in a product name such as Toprol XL indicate?",
+      "options": [
+        "Extended release dosage form",
+        "Extra large tablet size",
+        "Extra strength concentration",
+        "Sublingual dosage form"
+      ],
+      "answer": 0,
+      "explain": "XL stands for extended release: the tablet releases drug over many hours, allowing once daily dosing. Such tablets should not be crushed or chewed, since that could release the full dose at once. The suffix says nothing about tablet size or concentration."
+    },
+    {
+      "id": "rx-med-29",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (dosage forms)",
+      "q": "A prescription calls for ondansetron ODT. What does ODT mean?",
+      "options": [
+        "Orally disintegrating tablet",
+        "Oral delayed release tablet",
+        "Once daily timed release tablet",
+        "Oral dispersible troche"
+      ],
+      "answer": 0,
+      "explain": "ODT means orally disintegrating tablet: it dissolves on the tongue without water, useful for nauseated patients or those who have trouble swallowing. Delayed release products are usually labeled DR or EC, which is why oral delayed tablet is a tempting distractor."
+    },
+    {
+      "id": "rx-med-30",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (dosage forms)",
+      "q": "Which statement about ophthalmic and otic products is correct?",
+      "options": [
+        "Ear drops may be used in the eye when eye drops are out",
+        "Both are sterile and fully interchangeable in all cases",
+        "Eye drops may be used in the ear if ordered, not the reverse",
+        "Neither type needs to be sterile when it is dispensed"
+      ],
+      "answer": 2,
+      "explain": "Ophthalmic products must be sterile and are formulated to be tolerated by the eye, so a prescriber may order an ophthalmic product for the ear. Otic products are not required to meet the same standards and should never be placed in the eye. The two are therefore not interchangeable."
+    },
+    {
+      "id": "rx-med-31",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (storage requirements)",
+      "q": "Unopened insulin vials should be stored under which condition?",
+      "options": [
+        "Frozen until the day of use",
+        "Refrigerated at 2°C to 8°C, not frozen",
+        "At room temperature up to 30°C",
+        "In a freezer door shelf at 0°C"
+      ],
+      "answer": 1,
+      "explain": "Unopened insulin is kept refrigerated between 2°C and 8°C (36°F to 46°F) until the expiration date and must not be frozen, because freezing damages the protein. Once in use, many products may be kept at room temperature for a limited time set by the manufacturer."
+    },
+    {
+      "id": "rx-med-32",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (storage requirements)",
+      "q": "USP controlled room temperature for storing medications is defined as which range?",
+      "options": [
+        "2°C to 8°C (36°F to 46°F)",
+        "8°C to 15°C (46°F to 59°F)",
+        "30°C to 40°C (86°F to 104°F)",
+        "20°C to 25°C (68°F to 77°F)"
+      ],
+      "answer": 3,
+      "explain": "USP defines controlled room temperature as 20°C to 25°C (68°F to 77°F), with brief excursions allowed. The range 2°C to 8°C is refrigeration, and 8°C to 15°C is described as cool, so those options describe other storage terms."
+    },
+    {
+      "id": "rx-med-33",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (storage requirements)",
+      "q": "How should sublingual nitroglycerin tablets be stored to keep them potent?",
+      "options": [
+        "In a weekly plastic pill organizer",
+        "In the refrigerator inside a plastic bag",
+        "In the original glass bottle, tightly closed",
+        "Loose in a pocket for quick access"
+      ],
+      "answer": 2,
+      "explain": "Nitroglycerin is volatile and loses potency when exposed to air, heat, moisture or plastic, so sublingual tablets stay in the original glass container with the cap tightly closed. Moving them into plastic organizers or carrying them loose speeds the loss of potency."
+    },
+    {
+      "id": "rx-med-34",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (storage of reconstituted products)",
+      "q": "After reconstitution, amoxicillin oral suspension is generally labeled to be discarded after how many days?",
+      "options": [
+        "14 days",
+        "7 days",
+        "30 days",
+        "90 days"
+      ],
+      "answer": 0,
+      "explain": "Amoxicillin powder for oral suspension, once mixed with water, is labeled for use within 14 days, with refrigeration preferred but not required. Other antibiotic suspensions have different limits, which is why a pharmacy checks each product's labeling rather than applying one number to all."
+    },
+    {
+      "id": "rx-med-35",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (storage requirements)",
+      "q": "Unopened bottles of latanoprost (Xalatan) eye drops are stored how?",
+      "options": [
+        "In the freezer",
+        "At controlled warm temperature",
+        "In direct sunlight",
+        "In the refrigerator"
+      ],
+      "answer": 3,
+      "explain": "The labeling for latanoprost calls for refrigeration of unopened bottles, protected from light. After opening, the bottle may be kept at room temperature for a limited period stated in the labeling. Freezing and sunlight would both damage the product."
+    },
+    {
+      "id": "rx-med-36",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (dosage forms and administration)",
+      "q": "A fentanyl transdermal system is typically replaced at what interval?",
+      "options": [
+        "Every 12 hours",
+        "Every 72 hours",
+        "Every 24 hours",
+        "Every 7 days"
+      ],
+      "answer": 1,
+      "explain": "Fentanyl transdermal patches are designed to deliver drug for 72 hours, so a new patch is usually applied every three days. Some other patches are changed daily or weekly, such as certain nicotine or clonidine systems, which makes those intervals tempting distractors."
+    },
+    {
+      "id": "rx-med-37",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (physical and chemical incompatibilities)",
+      "q": "Ceftriaxone must not be mixed or given simultaneously in neonates with which type of IV solution?",
+      "options": [
+        "Sterile water for injection",
+        "Calcium containing solutions",
+        "Plain 0.9% sodium chloride",
+        "Plain 5% dextrose in water"
+      ],
+      "answer": 1,
+      "explain": "Ceftriaxone can form an insoluble ceftriaxone calcium precipitate, and fatal precipitates have been reported in neonates. It must not be mixed with calcium containing solutions such as lactated Ringer's, and in neonates such solutions must not be given at the same time. Plain saline and dextrose are compatible diluents."
+    },
+    {
+      "id": "rx-med-38",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (physical and chemical incompatibilities)",
+      "q": "Intravenous phenytoin is diluted in which fluid because it tends to precipitate in dextrose?",
+      "options": [
+        "5% dextrose in water",
+        "Lactated Ringer's with dextrose",
+        "10% dextrose in water",
+        "0.9% sodium chloride"
+      ],
+      "answer": 3,
+      "explain": "Phenytoin is formulated at a high pH and precipitates in dextrose containing solutions, so when it is diluted for infusion, normal saline is used. Choosing any dextrose solution would risk crystals forming in the line."
+    },
+    {
+      "id": "rx-med-39",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (physical and chemical incompatibilities)",
+      "q": "Conventional amphotericin B deoxycholate is incompatible with which diluent?",
+      "options": [
+        "Sodium chloride solutions",
+        "5% dextrose in water",
+        "Sterile water for injection",
+        "None, it mixes with any fluid"
+      ],
+      "answer": 0,
+      "explain": "Conventional amphotericin B precipitates in the presence of electrolytes such as sodium chloride, so it is reconstituted with sterile water and diluted in 5% dextrose. Saline is the fluid to avoid, which reverses the phenytoin rule and is a frequent source of confusion."
+    },
+    {
+      "id": "rx-med-40",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (high alert medications)",
+      "q": "Which medication appears on ISMP's list of high alert medications for community and ambulatory settings?",
+      "options": [
+        "Amoxicillin",
+        "Loratadine",
+        "Insulin",
+        "Famotidine"
+      ],
+      "answer": 2,
+      "explain": "High alert medications carry a heightened risk of significant patient harm when used in error. Insulin, oral anticoagulants, opioids and oral methotrexate are examples on the ISMP community list. Amoxicillin, loratadine and famotidine can still be involved in errors but are not on that list."
+    },
+    {
+      "id": "rx-med-41",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (look alike and sound alike medications)",
+      "q": "Celebrex (celecoxib) is frequently confused with which other brand name?",
+      "options": [
+        "Cymbalta",
+        "Crestor",
+        "Coreg",
+        "Celexa"
+      ],
+      "answer": 3,
+      "explain": "Celebrex, an NSAID, and Celexa, the antidepressant citalopram, look and sound alike and appear on ISMP's list of confused drug names. The other options start with the same letter but are less similar in spelling and sound, making them weaker matches."
+    },
+    {
+      "id": "rx-med-42",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (look alike and sound alike medications)",
+      "q": "Hydroxyzine and hydralazine are a look alike pair. What is hydralazine used for?",
+      "options": [
+        "Relieving itching and anxiety",
+        "Lowering blood pressure",
+        "Treating nausea",
+        "Treating fungal infections"
+      ],
+      "answer": 1,
+      "explain": "Hydralazine is a vasodilator used for hypertension, while hydroxyzine is an antihistamine used for itching and anxiety. Because the names are similar, tall man lettering (hydrALAZINE and hydrOXYzine) is used to tell them apart. The anxiety option describes the partner drug."
+    },
+    {
+      "id": "rx-med-43",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Which diuretic can raise potassium levels rather than lower them?",
+      "options": [
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Spironolactone",
+        "Bumetanide"
+      ],
+      "answer": 2,
+      "explain": "Spironolactone is a potassium sparing diuretic that blocks aldosterone, so it can cause hyperkalemia, especially with ACE inhibitors or potassium supplements. Loop diuretics such as furosemide and bumetanide and thiazides such as hydrochlorothiazide tend to lower potassium."
+    },
+    {
+      "id": "rx-med-44",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Amlodipine (Norvasc) commonly causes which side effect?",
+      "options": [
+        "Swelling of the ankles and feet",
+        "Persistent dry hacking cough",
+        "Slow heart rate and fatigue",
+        "Low blood potassium levels"
+      ],
+      "answer": 0,
+      "explain": "Dihydropyridine calcium channel blockers such as amlodipine dilate arterioles and commonly cause peripheral edema of the ankles and feet. Dry cough is typical of ACE inhibitors, and a slow heart rate is more typical of beta blockers or nondihydropyridine calcium channel blockers."
+    },
+    {
+      "id": "rx-med-45",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (common side effects)",
+      "q": "Which symptom should a patient on a statin report because it can signal muscle injury?",
+      "options": [
+        "Unexplained muscle pain or weakness",
+        "Mild flushing after a hot drink",
+        "Occasional seasonal sneezing",
+        "Slight dryness of the lips"
+      ],
+      "answer": 0,
+      "explain": "Statins can cause myopathy and, rarely, rhabdomyolysis, so unexplained muscle pain, tenderness or weakness, especially with dark urine, should be reported. The other symptoms are minor and not associated with statin toxicity."
+    },
+    {
+      "id": "rx-med-46",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (therapeutic classes)",
+      "q": "Metformin (Glucophage) belongs to which class?",
+      "options": [
+        "Sulfonylureas",
+        "Thiazolidinediones",
+        "Biguanides",
+        "Meglitinides"
+      ],
+      "answer": 2,
+      "explain": "Metformin is the only biguanide in common use. It reduces liver glucose output and improves insulin sensitivity, and gastrointestinal upset is a common early side effect. Sulfonylureas such as glipizide stimulate insulin release and can cause hypoglycemia, which metformin alone rarely does."
+    },
+    {
+      "id": "rx-med-47",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions and supplements)",
+      "q": "Pyridoxine (vitamin B6) is often given with isoniazid to prevent which adverse effect?",
+      "options": [
+        "Hearing loss and tinnitus",
+        "Peripheral neuropathy",
+        "Calcium kidney stones",
+        "Sunburn like photosensitivity"
+      ],
+      "answer": 1,
+      "explain": "Isoniazid interferes with pyridoxine metabolism and can cause peripheral neuropathy, so supplemental vitamin B6 is commonly given, especially to patients at higher risk. Hearing loss is associated with aminoglycosides, and photosensitivity with tetracyclines and fluoroquinolones."
+    },
+    {
+      "id": "rx-med-48",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (drug interactions)",
+      "q": "A prescription for sertraline arrives for a patient whose profile lists phenelzine, an MAOI. Which risk does this combination create?",
+      "options": [
+        "Severe hypoglycemia",
+        "Disulfiram like reaction",
+        "Excess bleeding only",
+        "Serotonin syndrome"
+      ],
+      "answer": 3,
+      "explain": "Combining an MAOI such as phenelzine with an SSRI such as sertraline can cause serotonin syndrome, a potentially fatal reaction with agitation, fever, tremor and rapid heartbeat. A washout period is required between them. The technician brings the alert to the pharmacist."
+    },
+    {
+      "id": "rx-med-49",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (auxiliary labels)",
+      "q": "Which auxiliary label is commonly applied to doxycycline because of its photosensitivity risk?",
+      "options": [
+        "May cause discoloration of urine",
+        "Do not take with a full glass of water",
+        "Avoid prolonged exposure to sunlight",
+        "Shake well before using each dose"
+      ],
+      "answer": 2,
+      "explain": "Tetracyclines, especially doxycycline, can cause exaggerated sunburn reactions, so a sunlight warning label is commonly attached. Urine discoloration labels go on drugs such as rifampin or phenazopyridine, and shake well labels go on suspensions."
+    },
+    {
+      "id": "rx-med-50",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (dosage forms)",
+      "q": "Why does a suspension carry a Shake Well auxiliary label?",
+      "options": [
+        "Drug particles settle and must be redispersed for an even dose",
+        "Shaking activates the preservative in the bottle",
+        "Shaking cools the liquid to a safer temperature",
+        "The drug is dissolved and shaking speeds absorption"
+      ],
+      "answer": 0,
+      "explain": "In a suspension, solid drug particles are dispersed in a liquid and settle over time. Shaking redistributes them so each measured dose contains the intended amount. In a true solution the drug is already dissolved, so the label is not needed for that reason."
+    },
+    {
+      "id": "rx-med-51",
+      "exam": "ptce",
+      "domain": "med",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Medications (indications)",
+      "q": "Naloxone (Narcan) nasal spray is used for which purpose?",
+      "options": [
+        "Long term treatment of alcohol use",
+        "Relief of nasal allergy symptoms",
+        "Prevention of motion sickness",
+        "Emergency reversal of opioid overdose"
+      ],
+      "answer": 3,
+      "explain": "Naloxone is an opioid antagonist that rapidly reverses opioid induced respiratory depression in an overdose. Naltrexone, a related antagonist with a similar name, is used long term for alcohol and opioid use disorder, which is the tempting confusion."
+    },
+    {
+      "id": "rx-fed-01",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance schedules)",
+      "q": "Under federal law, hydrocodone with acetaminophen (for example, Norco) is in which schedule?",
+      "options": [
+        "Schedule III",
+        "Schedule II",
+        "Schedule IV",
+        "Schedule V"
+      ],
+      "answer": 1,
+      "explain": "Since October 2014, all hydrocodone combination products have been federally classified as Schedule II. Before that change they were Schedule III, which is why that answer is still tempting. Schedule II status means no refills under federal law."
+    },
+    {
+      "id": "rx-fed-02",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance schedules)",
+      "q": "Buprenorphine with naloxone (Suboxone) sublingual film is federally classified in which schedule?",
+      "options": [
+        "Schedule II",
+        "Schedule III",
+        "Schedule IV",
+        "Schedule V"
+      ],
+      "answer": 1,
+      "explain": "Buprenorphine products are Schedule III under federal law, along with anabolic steroids, ketamine and codeine combination tablets such as acetaminophen with codeine. Many full agonist opioids are Schedule II, which makes that option tempting."
+    },
+    {
+      "id": "rx-fed-03",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance schedules)",
+      "q": "Under federal law, tramadol is placed in which schedule?",
+      "options": [
+        "Schedule II",
+        "Schedule III",
+        "Schedule V",
+        "Schedule IV"
+      ],
+      "answer": 3,
+      "explain": "Tramadol has been federally controlled in Schedule IV since 2014, together with benzodiazepines, zolpidem and carisoprodol. Although it is an opioid analgesic, it is not in Schedule II like oxycodone or morphine."
+    },
+    {
+      "id": "rx-fed-04",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance schedules)",
+      "q": "Which medication is federally classified as Schedule V?",
+      "options": [
+        "Pregabalin",
+        "Alprazolam",
+        "Methylphenidate",
+        "Testosterone"
+      ],
+      "answer": 0,
+      "explain": "Pregabalin (Lyrica) is Schedule V, as are lacosamide and codeine cough preparations with limited codeine content. Alprazolam is Schedule IV, methylphenidate is Schedule II, and testosterone, an anabolic steroid, is Schedule III."
+    },
+    {
+      "id": "rx-fed-05",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance schedules)",
+      "q": "Which description fits a Schedule I controlled substance?",
+      "options": [
+        "High abuse potential with accepted medical use and strict limits",
+        "Moderate abuse potential with up to five refills allowed",
+        "High abuse potential and no accepted medical use in the US",
+        "Lowest abuse potential and some sold without a prescription"
+      ],
+      "answer": 2,
+      "explain": "Schedule I substances, such as heroin and LSD, have a high potential for abuse and no currently accepted medical use in treatment in the United States, so they cannot be prescribed. Schedule II drugs also have high abuse potential but do have accepted medical uses."
+    },
+    {
+      "id": "rx-fed-06",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (DEA forms)",
+      "q": "Which DEA form is used to order Schedule II controlled substances on paper from a supplier?",
+      "options": [
+        "DEA Form 106",
+        "DEA Form 41",
+        "DEA Form 224",
+        "DEA Form 222"
+      ],
+      "answer": 3,
+      "explain": "DEA Form 222 is the official order form for Schedule I and II substances; since 2021 it has been a single sheet form. Form 106 reports theft or significant loss, Form 41 records destruction, and Form 224 is the application for a retail pharmacy registration."
+    },
+    {
+      "id": "rx-fed-07",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (DEA forms)",
+      "q": "A pharmacy discovers a significant loss of oxycodone tablets after an inventory count. Which DEA form documents this loss?",
+      "options": [
+        "DEA Form 222",
+        "DEA Form 106",
+        "DEA Form 41",
+        "DEA Form 363"
+      ],
+      "answer": 1,
+      "explain": "DEA Form 106 is used to report theft or significant loss of controlled substances, and DEA must also be notified in writing within one business day of discovery. Form 41 is for drugs that are destroyed, not lost or stolen, which makes it the tempting wrong choice."
+    },
+    {
+      "id": "rx-fed-08",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (DEA forms)",
+      "q": "Which DEA form is used to record controlled substances that are destroyed?",
+      "options": [
+        "DEA Form 106",
+        "DEA Form 222",
+        "DEA Form 41",
+        "DEA Form 225"
+      ],
+      "answer": 2,
+      "explain": "DEA Form 41 records the destruction of controlled substances, including the drug, quantity and witnesses. Form 106 covers theft or loss and Form 222 covers ordering of Schedule II drugs. Form 225 is a registration application for manufacturers and distributors."
+    },
+    {
+      "id": "rx-fed-09",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (CSOS)",
+      "q": "What is CSOS in the context of controlled substance ordering?",
+      "options": [
+        "DEA's electronic system for ordering controlled drugs",
+        "An FDA database that lists drug recalls by class",
+        "A state program that monitors patient controlled fills",
+        "A USP standard for compounding sterile drugs"
+      ],
+      "answer": 0,
+      "explain": "The Controlled Substance Ordering System (CSOS) allows electronic orders for controlled substances, including Schedule II, using DEA issued digital certificates in place of paper Form 222. A prescription drug monitoring program, which tracks patient fills, is a separate state program."
+    },
+    {
+      "id": "rx-fed-10",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance refills)",
+      "q": "Under federal law, how many times may a Schedule III or IV prescription be refilled?",
+      "options": [
+        "Up to 5 times within 6 months of the date written",
+        "Up to 11 times within 12 months of the date written",
+        "Up to 2 times within 30 days of the date written",
+        "No refills are permitted for these schedules"
+      ],
+      "answer": 0,
+      "explain": "Federal law allows prescriptions for Schedule III and IV substances to be refilled up to five times within six months of the date issued, after which a new prescription is needed. Schedule II prescriptions may not be refilled at all, which is the tempting distractor."
+    },
+    {
+      "id": "rx-fed-11",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance refills)",
+      "q": "Under federal law, what is true about refills for Schedule II prescriptions?",
+      "options": [
+        "Up to 5 refills are allowed within 6 months",
+        "One refill is allowed within 30 days",
+        "Refills are not allowed; a new prescription is needed",
+        "Refills are allowed if the prescriber calls"
+      ],
+      "answer": 2,
+      "explain": "Federal law prohibits refilling Schedule II prescriptions. Each fill requires a new valid prescription, although prescribers may issue multiple prescriptions with fill dates under specific federal rules. Five refills in six months applies to Schedules III and IV."
+    },
+    {
+      "id": "rx-fed-12",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (Schedule II partial fills)",
+      "q": "Under federal law, when a Schedule II prescription is partially filled at the patient's request, by when must the remaining quantity be dispensed?",
+      "options": [
+        "Within 72 hours after the partial fill",
+        "Within 30 days after the date written",
+        "Within 6 months after the date written",
+        "Within 7 days after the partial fill"
+      ],
+      "answer": 1,
+      "explain": "Under the Comprehensive Addiction and Recovery Act, a Schedule II prescription may be partially filled at the request of the patient or prescriber, with the remainder dispensed no later than 30 days after the date written. The 72 hour rule applies when the pharmacy cannot supply the full quantity."
+    },
+    {
+      "id": "rx-fed-13",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance inventory)",
+      "q": "Under federal law, how often must a pharmacy take a complete inventory of its controlled substances?",
+      "options": [
+        "At least every month",
+        "At least every 6 months",
+        "At least every 5 years",
+        "At least every 2 years"
+      ],
+      "answer": 3,
+      "explain": "DEA requires an initial inventory when a registrant begins business and a biennial inventory at least every two years after that. Many pharmacies count more often by internal policy or state law, but every two years is the federal minimum."
+    },
+    {
+      "id": "rx-fed-14",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance inventory)",
+      "q": "During the federal biennial inventory, an opened bottle of 100 lorazepam tablets is counted. What does federal law allow?",
+      "options": [
+        "An exact count is required for any opened bottle",
+        "The bottle is excluded from the inventory",
+        "An estimated count of the contents",
+        "Only the sealed bottles must be recorded"
+      ],
+      "answer": 2,
+      "explain": "For Schedule III through V drugs, an opened container holding 1,000 or fewer units may be estimated, while a larger opened container must be counted exactly. Every opened Schedule II container must be counted exactly. Lorazepam is Schedule IV, so an estimate is allowed."
+    },
+    {
+      "id": "rx-fed-15",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (recordkeeping)",
+      "q": "Under federal law, controlled substance records must be kept available for inspection for at least how long?",
+      "options": [
+        "2 years",
+        "6 months",
+        "1 year",
+        "10 years"
+      ],
+      "answer": 0,
+      "explain": "The Controlled Substances Act requires that inventories and records of controlled substances be kept for at least two years and be available for DEA inspection. Many states require longer retention, so pharmacies follow whichever rule is stricter."
+    },
+    {
+      "id": "rx-fed-16",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (DEA registration)",
+      "q": "Which DEA form does a new retail pharmacy submit to apply for registration?",
+      "options": [
+        "DEA Form 222",
+        "DEA Form 106",
+        "DEA Form 41",
+        "DEA Form 224"
+      ],
+      "answer": 3,
+      "explain": "Retail pharmacies apply for DEA registration using Form 224, and the registration is renewed every three years. Form 222 is for ordering Schedule II drugs, Form 106 for theft or loss, and Form 41 for destruction."
+    },
+    {
+      "id": "rx-fed-17",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (pseudoephedrine sales)",
+      "q": "Under the federal Combat Methamphetamine Epidemic Act, what is the daily retail sales limit of pseudoephedrine base per purchaser?",
+      "options": [
+        "7.5 grams",
+        "3.6 grams",
+        "9 grams",
+        "1.2 grams"
+      ],
+      "answer": 1,
+      "explain": "The CMEA limits retail sales to 3.6 grams of pseudoephedrine base per purchaser per day, and 9 grams within a 30 day period. The 7.5 gram figure is the 30 day limit for mobile retail vendors and mail order sales. States may set stricter limits."
+    },
+    {
+      "id": "rx-fed-18",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (pseudoephedrine sales)",
+      "q": "Under federal law, how much pseudoephedrine base may one purchaser buy at retail within a 30 day period?",
+      "options": [
+        "3.6 grams",
+        "9 grams",
+        "15 grams",
+        "20 grams"
+      ],
+      "answer": 1,
+      "explain": "The CMEA caps retail purchases at 9 grams of pseudoephedrine base in 30 days, in addition to the 3.6 gram daily limit. The 3.6 gram option is the daily limit, so it is the most common mix up."
+    },
+    {
+      "id": "rx-fed-19",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (pseudoephedrine sales)",
+      "q": "Under federal law, which requirement applies to selling pseudoephedrine products?",
+      "options": [
+        "Sold only with a prescription",
+        "Displayed on open shelves with other cold products",
+        "Sold only to customers over age 25",
+        "Kept behind the counter or locked, with a logbook"
+      ],
+      "answer": 3,
+      "explain": "The CMEA requires that these products be placed behind the counter or in a locked cabinet, that the buyer show photo identification and sign a logbook, and that the logbook be kept for at least two years. Federal law does not require a prescription, although some states do."
+    },
+    {
+      "id": "rx-fed-20",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (FDA recalls)",
+      "q": "Which FDA recall class is the most serious?",
+      "options": [
+        "Class I",
+        "Class II",
+        "Class III",
+        "Class IV"
+      ],
+      "answer": 0,
+      "explain": "A Class I recall involves a reasonable probability that using the product will cause serious adverse health consequences or death. Class II involves temporary or medically reversible problems, and Class III involves products unlikely to cause adverse health effects. There is no Class IV."
+    },
+    {
+      "id": "rx-fed-21",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (FDA recalls)",
+      "q": "A product is recalled because a label has a minor misprint that is unlikely to cause any health problem. Which recall class fits best?",
+      "options": [
+        "Class I",
+        "Class II",
+        "Class III",
+        "Market withdrawal"
+      ],
+      "answer": 2,
+      "explain": "A Class III recall covers products that violate FDA rules but are not likely to cause adverse health consequences, such as a minor labeling error. Class I and II involve real risk of harm. A market withdrawal concerns a minor issue that FDA would not take legal action on, so it is not a recall class."
+    },
+    {
+      "id": "rx-fed-22",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (restricted drug programs)",
+      "q": "The iPLEDGE program is a REMS for which medication?",
+      "options": [
+        "Thalidomide",
+        "Clozapine",
+        "Warfarin",
+        "Isotretinoin"
+      ],
+      "answer": 3,
+      "explain": "iPLEDGE is the risk evaluation and mitigation strategy for isotretinoin, designed to prevent fetal exposure because the drug causes severe birth defects. Thalidomide has its own separate REMS program, and warfarin has no REMS."
+    },
+    {
+      "id": "rx-fed-23",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (REMS)",
+      "q": "What is a REMS, as required for some medications?",
+      "options": [
+        "A DEA registration needed to dispense opioids",
+        "An FDA required safety strategy for certain high risk drugs",
+        "A state list of drugs that cannot be substituted",
+        "A USP chapter on hazardous drug handling"
+      ],
+      "answer": 1,
+      "explain": "A Risk Evaluation and Mitigation Strategy is a drug safety program that the FDA can require for medications with serious safety concerns, to make sure benefits outweigh risks. Elements can include medication guides, prescriber or pharmacy certification and patient enrollment."
+    },
+    {
+      "id": "rx-fed-24",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (hazardous drug handling, USP 800)",
+      "q": "Under USP 800, gloves worn when handling antineoplastic hazardous drugs must meet which standard?",
+      "options": [
+        "Any powdered latex examination glove",
+        "Standard vinyl food service gloves",
+        "ASTM D6978 chemotherapy glove testing",
+        "Any glove labeled sterile"
+      ],
+      "answer": 2,
+      "explain": "USP 800 requires chemotherapy gloves tested to ASTM D6978 when gloves are needed for hazardous drugs, and powder free gloves. Vinyl gloves offer poor protection against many chemicals, and sterile labeling alone says nothing about permeation resistance."
+    },
+    {
+      "id": "rx-fed-25",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (hazardous drug handling, USP 800)",
+      "q": "Which list is used to identify hazardous drugs that fall under USP 800?",
+      "options": [
+        "The NIOSH list of hazardous drugs",
+        "The FDA Orange Book",
+        "The DEA controlled substance schedules",
+        "The ISMP list of error prone abbreviations"
+      ],
+      "answer": 0,
+      "explain": "USP 800 relies on the NIOSH list of hazardous drugs in healthcare settings, which each entity must review at least every 12 months. The Orange Book lists therapeutic equivalence ratings, and DEA schedules concern abuse potential, not occupational hazard."
+    },
+    {
+      "id": "rx-fed-26",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (hazardous drug handling, USP 800)",
+      "q": "Under USP 800, what rule applies to tablets and capsules of antineoplastic hazardous drugs?",
+      "options": [
+        "They must not go in automated counting machines",
+        "They may be counted on any shared tray",
+        "They must be crushed before repackaging",
+        "They need no special handling once dispensed"
+      ],
+      "answer": 0,
+      "explain": "USP 800 states that antineoplastic hazardous drug tablets and capsules must not be placed in automated counting or packaging machines, which can create contaminated powder. Counting on shared equipment or crushing tablets would spread residue."
+    },
+    {
+      "id": "rx-fed-27",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (emergency Schedule II prescriptions)",
+      "q": "Under federal law, after a pharmacy dispenses an emergency oral Schedule II prescription, within how many days must the prescriber deliver the written or electronic prescription?",
+      "options": [
+        "72 hours",
+        "14 days",
+        "7 days",
+        "30 days"
+      ],
+      "answer": 2,
+      "explain": "For an emergency oral Schedule II order, the pharmacy dispenses only the amount needed for the emergency period, and the prescriber must deliver a written or electronic prescription within 7 days. If it does not arrive, the pharmacist notifies the DEA. The 72 hour figure applies to partial fills, not this rule."
+    },
+    {
+      "id": "rx-fed-28",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (controlled substance transfers)",
+      "q": "Under federal law, how many times may a Schedule III, IV or V prescription be transferred between pharmacies that do not share a real time online database?",
+      "options": [
+        "Up to 5 times",
+        "One time only",
+        "As many times as refills allow",
+        "Never, transfers are prohibited"
+      ],
+      "answer": 1,
+      "explain": "Federal rules allow a one time transfer of a Schedule III through V prescription for refill purposes. Pharmacies that share a real time online database may transfer up to the maximum refills allowed. Schedule II prescriptions cannot be transferred for refills because they have none."
+    },
+    {
+      "id": "rx-fed-29",
+      "exam": "ptce",
+      "domain": "fed",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "laws"
+        }
+      ],
+      "ref": "PTCE outline 2026, Federal Requirements (DEA registration verification)",
+      "q": "A prescription is signed by Dr. Carla Jensen, a physician. Using the standard DEA number check, which number is valid?",
+      "options": [
+        "BJ6125344",
+        "BC6125341",
+        "BJ6125381",
+        "BJ6125341"
+      ],
+      "answer": 3,
+      "explain": "Add digits 1, 3 and 5 (6+2+3=11), add digits 2, 4 and 6 (1+5+4=10) and double them (20). The total 31 ends in 1, matching the last digit, and J matches Jensen. BC uses the first name, BJ6125344 has a wrong check digit, and BJ6125381 gives 39, so its last digit should be 9."
+    },
+    {
+      "id": "rx-safe-01",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "ISMP lists the abbreviation U as error prone. What should be written instead?",
+      "options": [
+        "U.",
+        "Intl U",
+        "units",
+        "un."
+      ],
+      "answer": 2,
+      "explain": "A handwritten U can be mistaken for a zero or a four, leading to a tenfold or larger insulin overdose. ISMP and The Joint Commission recommend writing units in full. IU is also on the error prone list because it can be read as IV or 10."
+    },
+    {
+      "id": "rx-safe-02",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone dose designations)",
+      "q": "Why should a dose be written as 5 mg rather than 5.0 mg?",
+      "options": [
+        "A trailing zero can be misread as 50 mg",
+        "It makes the label too long to print",
+        "The decimal shows the drug is a liquid",
+        "Whole numbers are not allowed on labels"
+      ],
+      "answer": 0,
+      "explain": "If the decimal point in 5.0 mg is missed, the dose can be read as 50 mg, a tenfold overdose. Trailing zeros after a decimal point are therefore on the ISMP do not use list, except in specific situations such as lab results."
+    },
+    {
+      "id": "rx-safe-03",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone dose designations)",
+      "q": "Which dose expression follows ISMP safe writing practice?",
+      "options": [
+        ".5 mg",
+        "0.50 mg",
+        "1/2 mg",
+        "0.5 mg"
+      ],
+      "answer": 3,
+      "explain": "A leading zero is required before a decimal point when the dose is less than one, so 0.5 mg is correct. Without it, .5 mg can be read as 5 mg. Writing 0.50 mg adds a trailing zero, and fractions are less clear than a decimal with a leading zero."
+    },
+    {
+      "id": "rx-safe-04",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "Which term should replace QD on a prescription, according to ISMP?",
+      "options": [
+        "q.d.",
+        "daily",
+        "QID",
+        "every other day"
+      ],
+      "answer": 1,
+      "explain": "QD has been mistaken for QID, which leads to a fourfold overdose, so ISMP recommends writing daily. Adding periods does not remove the risk. Every other day is the meaning of the also prohibited QOD, so it would change the order."
+    },
+    {
+      "id": "rx-safe-05",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "Why is MS on ISMP's error prone abbreviation list?",
+      "options": [
+        "It refers only to multiple sclerosis drugs",
+        "It can mean morphine sulfate or magnesium sulfate",
+        "It is a brand name and not a generic",
+        "It is a DEA code for scheduled products"
+      ],
+      "answer": 1,
+      "explain": "MS, MSO4 and MgSO4 have been confused with one another, mixing up morphine sulfate and magnesium sulfate, with serious harm. ISMP recommends writing the full drug name. The abbreviation is not a brand or a DEA code."
+    },
+    {
+      "id": "rx-safe-06",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (tall man lettering)",
+      "q": "What is the purpose of tall man lettering, as in predniSONE and prednisoLONE?",
+      "options": [
+        "Showing which product is the brand name",
+        "Marking products that are controlled substances",
+        "Showing that a drug must be refrigerated",
+        "Highlighting the differing letters of similar names"
+      ],
+      "answer": 3,
+      "explain": "Tall man lettering uses capital letters to emphasize the part of look alike names that differs, helping staff notice the difference during selection and verification. It does not indicate brand status, schedule or storage."
+    },
+    {
+      "id": "rx-safe-07",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (tall man lettering)",
+      "q": "Which pair is written with tall man lettering to reduce selection errors?",
+      "options": [
+        "glyBURIDE and glipiZIDE",
+        "LISinopril and LEVOthyroxine",
+        "WARfarin and ASPirin",
+        "OMEprazole and ATORvastatin"
+      ],
+      "answer": 0,
+      "explain": "glyBURIDE and glipiZIDE are on the FDA and ISMP lists of look alike names with recommended tall man letters. The other pairs do not look or sound alike, and their capitals are arbitrary rather than highlighting a confusing difference."
+    },
+    {
+      "id": "rx-safe-08",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (look alike sound alike prevention)",
+      "q": "Two strengths of the same tablet have nearly identical packaging. Which practice best reduces selection errors?",
+      "options": [
+        "Store them side by side so staff compare them",
+        "Keep only the strength used most often",
+        "Store them apart and add shelf alert labels",
+        "Rely on memory of the usual shelf location"
+      ],
+      "answer": 2,
+      "explain": "Separating look alike products and flagging them with shelf alerts is a recognized error prevention step. Placing them side by side increases the chance of grabbing the wrong one, and relying on memory fails when stock moves or new staff work."
+    },
+    {
+      "id": "rx-safe-09",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (technology for error prevention)",
+      "q": "During filling, the technician scans the stock bottle barcode. What error does this mainly prevent?",
+      "options": [
+        "Charging the wrong copay to the plan",
+        "Giving the bag to the wrong patient",
+        "Counting the wrong number of tablets",
+        "Dispensing a product that does not match the order"
+      ],
+      "answer": 3,
+      "explain": "Scanning the stock bottle compares its NDC with the product entered in the order, catching wrong drug, strength or dosage form. It does not verify quantity or the patient at pickup; those need separate checks such as counting and two identifiers."
+    },
+    {
+      "id": "rx-safe-10",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (event reporting)",
+      "q": "Which program collects voluntary, confidential reports of medication errors from practitioners?",
+      "options": [
+        "DEA Form 106 theft and loss reporting",
+        "The ISMP Medication Errors Reporting Program",
+        "The Vaccine Adverse Event Reporting System",
+        "The FDA Orange Book of equivalence ratings"
+      ],
+      "answer": 1,
+      "explain": "The ISMP National Medication Errors Reporting Program (MERP) accepts voluntary reports of errors and near misses so lessons can be shared nationally. VAERS is for vaccine adverse events, and DEA Form 106 is for theft or loss of controlled substances."
+    },
+    {
+      "id": "rx-safe-11",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (event reporting)",
+      "q": "A patient has a serious adverse reaction to a marketed drug. Which FDA program receives such reports?",
+      "options": [
+        "VAERS",
+        "iPLEDGE",
+        "MedWatch",
+        "CSOS portal"
+      ],
+      "answer": 2,
+      "explain": "MedWatch is the FDA's safety information and adverse event reporting program for drugs, biologics and devices, open to health professionals and consumers. VAERS is the joint CDC and FDA system for vaccines. iPLEDGE and CSOS are not reporting programs for adverse events."
+    },
+    {
+      "id": "rx-safe-12",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (event reporting)",
+      "q": "A patient reports a high fever and seizure the day after a vaccination. Which system is used to report this event?",
+      "options": [
+        "VAERS",
+        "MedWatch only",
+        "ISMP MERP",
+        "DEA Form 41"
+      ],
+      "answer": 0,
+      "explain": "The Vaccine Adverse Event Reporting System, run by the CDC and FDA, collects reports of adverse events after vaccination. MedWatch covers other drugs and products. ISMP MERP is aimed at medication errors rather than reactions after correct administration."
+    },
+    {
+      "id": "rx-safe-13",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error classification)",
+      "q": "A technician picks the wrong strength, but the pharmacist catches it during final verification before the patient receives it. How is this event classified?",
+      "options": [
+        "A near miss",
+        "A sentinel event",
+        "An adverse drug reaction",
+        "A Class I recall"
+      ],
+      "answer": 0,
+      "explain": "A near miss is an error that is caught before it reaches the patient. Reporting near misses helps identify system weaknesses. A sentinel event involves death or serious harm, and an adverse drug reaction is harm from a correctly used drug."
+    },
+    {
+      "id": "rx-safe-14",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (quality improvement)",
+      "q": "After a dispensing error, the pharmacy team studies the event to find the underlying system causes. What is this process called?",
+      "options": [
+        "Failure mode and effects analysis",
+        "Drug utilization review",
+        "Root cause analysis",
+        "Biennial inventory"
+      ],
+      "answer": 2,
+      "explain": "Root cause analysis is a retrospective review of an event that has occurred, seeking system causes rather than blaming one person. Failure mode and effects analysis is prospective: it examines a process before errors happen, which makes it the tempting choice."
+    },
+    {
+      "id": "rx-safe-15",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (when to refer to the pharmacist)",
+      "q": "A customer asks the technician whether an OTC cold medicine is safe with her blood pressure prescriptions. What should the technician do?",
+      "options": [
+        "Recommend the product with the lowest price",
+        "Refer her to the pharmacist for counseling",
+        "Read the box and tell her it is fine",
+        "Suggest she double the dose for faster relief"
+      ],
+      "answer": 1,
+      "explain": "Questions about whether a product is appropriate for a patient, including OTC interactions with prescriptions, require the pharmacist's clinical judgment. Technicians can help locate products but do not make therapeutic recommendations, so the correct step is to involve the pharmacist."
+    },
+    {
+      "id": "rx-safe-16",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (when to refer to the pharmacist)",
+      "q": "During order entry, a drug interaction alert appears. What is the technician's appropriate action?",
+      "options": [
+        "Override the alert to keep workflow moving",
+        "Delete the older medication from the profile",
+        "Call the patient and change the dose",
+        "Bring the alert to the pharmacist for review"
+      ],
+      "answer": 3,
+      "explain": "Drug utilization review alerts require clinical evaluation, so the pharmacist decides whether to contact the prescriber or proceed. Technicians may not override clinical alerts on their own, change doses or remove medications from a profile without direction."
+    },
+    {
+      "id": "rx-safe-17",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (hygiene and cleaning)",
+      "q": "Why is the counting tray cleaned with 70% isopropyl alcohol after counting a sulfa drug?",
+      "options": [
+        "To sterilize the tray for sterile compounding",
+        "To remove barcode labels left on the tray",
+        "To prevent residue reaching another patient's tablets",
+        "To make the tablets count faster next time"
+      ],
+      "answer": 2,
+      "explain": "Drug dust left on a counting tray can contaminate the next prescription, which is dangerous for patients allergic to sulfonamides or penicillins. Cleaning with alcohol after such drugs prevents cross contamination. Counting trays are not part of sterile compounding."
+    },
+    {
+      "id": "rx-safe-18",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (hygiene and cleaning)",
+      "q": "Which hand hygiene practice is appropriate before preparing a nonsterile compound?",
+      "options": [
+        "Wash hands and forearms with soap and water",
+        "Rinse fingertips with plain water",
+        "Wipe hands on a clean lab coat",
+        "Apply lotion and then put on gloves"
+      ],
+      "answer": 0,
+      "explain": "USP 795 calls for hand washing with soap and water before nonsterile compounding, followed by gloves as needed. A water rinse does not remove contaminants, and wiping hands on clothing or applying lotion adds contamination rather than removing it."
+    },
+    {
+      "id": "rx-safe-19",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (patient identification)",
+      "q": "At the pickup counter, which practice best ensures the right patient receives the prescription?",
+      "options": [
+        "Ask only for the last name",
+        "Match the patient to the car they drove",
+        "Hand over any bag with a similar name",
+        "Confirm name and date of birth"
+      ],
+      "answer": 3,
+      "explain": "Using two patient identifiers, typically full name plus date of birth or address, is a standard safety practice that prevents handing medication to someone with a similar name. Asking for one identifier alone misses patients who share a last name."
+    },
+    {
+      "id": "rx-safe-20",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (expired and damaged stock)",
+      "q": "During a shelf check, a technician finds a bottle that expired last month. What should happen to it?",
+      "options": [
+        "Leave it to use up first since it is oldest",
+        "Remove it and place it in the area for returns",
+        "Move it to the back of the shelf",
+        "Relabel it with a new expiration date"
+      ],
+      "answer": 1,
+      "explain": "Expired products must be pulled from active stock and segregated for return or disposal so they cannot be dispensed. Using up the oldest stock first applies only to products that are still in date, and relabeling a manufacturer expiration date is never allowed."
+    },
+    {
+      "id": "rx-safe-21",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (high alert medications)",
+      "q": "A new prescription reads methotrexate 2.5 mg, take 1 tablet daily, for rheumatoid arthritis. What should the technician do?",
+      "options": [
+        "Process it as written since daily is usual",
+        "Flag it for the pharmacist as a possible weekly dose error",
+        "Change the directions to weekly without asking",
+        "Fill it and add a drowsiness warning label"
+      ],
+      "answer": 1,
+      "explain": "For rheumatoid arthritis, oral methotrexate is usually taken once weekly, and accidental daily dosing has caused deaths. Oral methotrexate is a high alert drug, so an unusual daily order goes to the pharmacist to clarify with the prescriber. A technician never changes directions alone."
+    },
+    {
+      "id": "rx-safe-22",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (high alert medications)",
+      "q": "What makes a medication high alert according to ISMP?",
+      "options": [
+        "It is the most expensive item in stock",
+        "It is a Schedule II controlled substance",
+        "It is sold with a prescription only",
+        "Errors with it carry a higher risk of serious harm"
+      ],
+      "answer": 3,
+      "explain": "High alert medications are those with a heightened risk of significant harm when used in error, even if errors are not more frequent. Some are controlled substances, such as opioids, but many are not, such as insulin and anticoagulants."
+    },
+    {
+      "id": "rx-safe-23",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (look alike sound alike prevention)",
+      "q": "Novolog and Novolin are a known confused pair. What is the key difference?",
+      "options": [
+        "Novolog is insulin aspart; Novolin is human insulin",
+        "Novolog is a pill; Novolin is an injection",
+        "Both are the same insulin from one company",
+        "Novolog is long acting; Novolin is rapid acting"
+      ],
+      "answer": 0,
+      "explain": "Novolog contains insulin aspart, a rapid acting analog, while Novolin products contain human insulin, such as regular or NPH. Mixing them up changes onset and duration and can cause hypoglycemia. The reversed long and rapid acting option is the trap."
+    },
+    {
+      "id": "rx-safe-24",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (safety culture)",
+      "q": "Which approach to errors supports patient safety in a pharmacy?",
+      "options": [
+        "Punishing every staff member after any error",
+        "Keeping errors private to protect morale",
+        "Encouraging reporting and fixing system weak points",
+        "Reporting only errors that cause harm"
+      ],
+      "answer": 2,
+      "explain": "A just culture encourages reporting of errors and near misses, looks for system causes and holds people accountable for reckless behavior rather than honest mistakes. Punishing all errors discourages reporting, and ignoring near misses wastes chances to prevent harm."
+    },
+    {
+      "id": "rx-safe-25",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (roles in counseling)",
+      "q": "A patient picking up a new prescription asks how to take it and what side effects to expect. Who should answer?",
+      "options": [
+        "The technician at the register",
+        "The cashier on duty",
+        "The delivery driver",
+        "The pharmacist"
+      ],
+      "answer": 3,
+      "explain": "Counseling on how to take a medication, side effects and interactions requires a pharmacist. Federal OBRA 90 rules require an offer to counsel Medicaid patients, and states apply similar rules. Technicians can relay the question but not provide clinical answers."
+    },
+    {
+      "id": "rx-safe-26",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "Why does ISMP list D/C as an error prone abbreviation?",
+      "options": [
+        "It stands only for a dosage change",
+        "It can mean discharge or discontinue",
+        "It is a DEA code for destruction",
+        "It means daily in some regions"
+      ],
+      "answer": 1,
+      "explain": "D/C has been read as discontinue when discharge was meant, causing patients' discharge medications to be stopped in error. ISMP recommends writing discharge or discontinue in full. It is not a DEA code or a dosing frequency."
+    },
+    {
+      "id": "rx-safe-27",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "What should be written instead of SC or SQ for an injection route?",
+      "options": [
+        "sub q",
+        "SL route",
+        "subcut",
+        "S.C. route"
+      ],
+      "answer": 2,
+      "explain": "SQ has been misread as SL (sublingual), and the q in sub q has been read as every, so ISMP recommends subcut or subcutaneously. SL means sublingual, a different route entirely, and adding periods does not prevent the misreading."
+    },
+    {
+      "id": "rx-safe-28",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "ISMP recommends replacing cc with which unit?",
+      "options": [
+        "mL",
+        "ccs",
+        "cm3",
+        "mcL"
+      ],
+      "answer": 0,
+      "explain": "The abbreviation cc can be mistaken for U (units) when handwritten poorly. ISMP recommends mL for volume. Although a cubic centimeter equals a milliliter, writing cm3 still invites confusion, and mcL is a different, much smaller unit."
+    },
+    {
+      "id": "rx-safe-29",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "Which unit should be used instead of the symbol µg?",
+      "options": [
+        "mcg",
+        "mg",
+        "ug",
+        "mgm"
+      ],
+      "answer": 0,
+      "explain": "The symbol µg can be misread as mg, a thousandfold error. ISMP recommends writing mcg for micrograms. Replacing the symbol with mg would change the dose itself, which makes it the most dangerous of the distractors."
+    },
+    {
+      "id": "rx-safe-30",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error prone abbreviations)",
+      "q": "Why is IU on ISMP's list of error prone abbreviations?",
+      "options": [
+        "It is the brand name of an insulin",
+        "It refers only to vitamin dosing",
+        "It can be read as IV or the number 10",
+        "It is reserved for injectable products"
+      ],
+      "answer": 2,
+      "explain": "IU, meaning international units, has been mistaken for IV (intravenous) or 10, leading to wrong route or dose errors. ISMP recommends writing units or international units in full. It is not a brand name."
+    },
+    {
+      "id": "rx-safe-31",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (hazardous drug spills)",
+      "q": "A stock bottle of an antineoplastic hazardous tablet breaks and spills on the floor. What is the appropriate response?",
+      "options": [
+        "Sweep the tablets up with the regular broom",
+        "Use the hazardous drug spill kit with proper PPE per policy",
+        "Leave it for the cleaning crew at closing",
+        "Pick up the tablets bare handed and recount them"
+      ],
+      "answer": 1,
+      "explain": "USP 800 requires spill kits and trained staff wearing appropriate PPE, such as chemotherapy gloves and a gown, to contain and clean hazardous drug spills, followed by documentation. A regular broom or bare hands spreads contamination and exposes staff."
+    },
+    {
+      "id": "rx-safe-32",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (when to refer to the pharmacist)",
+      "q": "A patient's profile lists a penicillin allergy, and a new prescription for amoxicillin arrives. What should the technician do?",
+      "options": [
+        "Fill it since amoxicillin is a different name",
+        "Remove the allergy from the profile",
+        "Switch the order to azithromycin",
+        "Alert the pharmacist before the order moves on"
+      ],
+      "answer": 3,
+      "explain": "Amoxicillin is a penicillin, so an allergy alert needs the pharmacist's review and possibly a call to the prescriber. Technicians do not delete allergies or change drugs. The different name is the trap: the drug belongs to the same class."
+    },
+    {
+      "id": "rx-safe-33",
+      "exam": "ptce",
+      "domain": "safe",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "msqa"
+        }
+      ],
+      "ref": "PTCE outline 2026, Patient Safety and Quality Assurance (error reporting)",
+      "q": "A patient returns saying the tablets in her bottle look different from her usual ones. What should the technician do first?",
+      "options": [
+        "Tell her generics often look different and send her home",
+        "Exchange the tablets without recording anything",
+        "Notify the pharmacist right away to check the fill",
+        "Ask her to finish the bottle and come back later"
+      ],
+      "answer": 2,
+      "explain": "A change in appearance can reflect a different generic manufacturer, but it can also signal a dispensing error. The pharmacist must check the prescription, product and NDC before reassuring the patient, and any error is documented and reported per policy."
+    },
+    {
+      "id": "rx-order-01",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (days supply calculation)",
+      "q": "A prescription reads amoxicillin 500 mg capsules, 1 capsule by mouth three times daily, dispense #30. What is the days supply?",
+      "options": [
+        "10 days",
+        "7 days",
+        "15 days",
+        "30 days"
+      ],
+      "answer": 0,
+      "explain": "Three times daily means 3 capsules per day. Days supply = quantity / daily use = 30 / 3 = 10 days. Choosing 30 days treats the quantity as one capsule per day, a common slip."
+    },
+    {
+      "id": "rx-order-02",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (days supply with household measures)",
+      "q": "Directions read 1 tsp by mouth twice daily, and 150 mL is dispensed. Using 1 tsp = 5 mL, what is the days supply?",
+      "options": [
+        "30 days",
+        "10 days",
+        "7 days",
+        "15 days"
+      ],
+      "answer": 3,
+      "explain": "One teaspoon is 5 mL, so twice daily uses 10 mL per day. Days supply = 150 mL / 10 mL per day = 15 days. The 30 day answer forgets that the dose is taken twice a day."
+    },
+    {
+      "id": "rx-order-03",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (quantity calculation)",
+      "q": "A prescriber orders 1 tablet by mouth four times daily for 7 days. How many tablets should be dispensed?",
+      "options": [
+        "21 tablets",
+        "28 tablets",
+        "14 tablets",
+        "35 tablets"
+      ],
+      "answer": 1,
+      "explain": "Four times daily is 4 tablets per day. Quantity = 4 tablets per day x 7 days = 28 tablets. The 21 tablet answer uses three times daily by mistake."
+    },
+    {
+      "id": "rx-order-04",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (insulin days supply)",
+      "q": "A patient uses 30 units of U-100 insulin daily. A box holds 5 pens of 3 mL each. Ignoring priming and in-use limits, how many days will the box last?",
+      "options": [
+        "15 days",
+        "50 days",
+        "30 days",
+        "45 days"
+      ],
+      "answer": 1,
+      "explain": "U-100 means 100 units per mL. Total units = 5 pens x 3 mL x 100 units per mL = 1,500 units. Days = 1,500 / 30 = 50 days. Real billing may also consider priming and how long an opened pen may be used, which the stem tells you to ignore."
+    },
+    {
+      "id": "rx-order-05",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (ophthalmic days supply)",
+      "q": "An eye drop is dispensed in a 5 mL bottle. Directions: 1 drop in each eye twice daily. Assuming 20 drops per mL, what is the days supply?",
+      "options": [
+        "50 days",
+        "20 days",
+        "10 days",
+        "25 days"
+      ],
+      "answer": 3,
+      "explain": "Total drops = 5 mL x 20 drops per mL = 100 drops. Daily use = 1 drop x 2 eyes x 2 times = 4 drops. Days supply = 100 / 4 = 25 days. The 50 day answer counts only one eye."
+    },
+    {
+      "id": "rx-order-06",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (weight based dosing)",
+      "q": "A child weighs 44 lb. The ordered dose is 15 mg/kg. Using 1 kg = 2.2 lb, what is the dose?",
+      "options": [
+        "300 mg",
+        "660 mg",
+        "150 mg",
+        "30 mg"
+      ],
+      "answer": 0,
+      "explain": "Convert weight: 44 lb / 2.2 = 20 kg. Dose = 15 mg/kg x 20 kg = 300 mg. Multiplying 15 by 44 lb without converting gives 660 mg, the most common error."
+    },
+    {
+      "id": "rx-order-07",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (liquid dose volume)",
+      "q": "Amoxicillin suspension is available as 250 mg/5 mL. How many mL contain a 400 mg dose?",
+      "options": [
+        "5 mL",
+        "6.25 mL",
+        "8 mL",
+        "10 mL"
+      ],
+      "answer": 2,
+      "explain": "Concentration is 250 mg per 5 mL, or 50 mg per mL. Volume = 400 mg / 50 mg per mL = 8 mL. Choosing 5 mL would deliver only 250 mg, the amount in one labeled dose, not the 400 mg ordered."
+    },
+    {
+      "id": "rx-order-08",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (temperature conversion)",
+      "q": "A storage label reads 77°F. What is this in degrees Celsius?",
+      "options": [
+        "20°C",
+        "30°C",
+        "45°C",
+        "25°C"
+      ],
+      "answer": 3,
+      "explain": "Use °C = (°F minus 32) x 5/9. So (77 minus 32) x 5/9 = 45 x 5/9 = 25°C. The 45 option forgets to multiply by 5/9 after subtracting 32."
+    },
+    {
+      "id": "rx-order-09",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (percentage strength)",
+      "q": "How many grams of active ingredient are in 30 g of a 2% (w/w) cream?",
+      "options": [
+        "6 g",
+        "0.6 g",
+        "1.5 g",
+        "0.06 g"
+      ],
+      "answer": 1,
+      "explain": "A 2% w/w preparation contains 2 g of drug per 100 g. In 30 g: 30 x 2 / 100 = 0.6 g. Moving the decimal one place too far gives 6 g or 0.06 g."
+    },
+    {
+      "id": "rx-order-10",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (dilution calculation)",
+      "q": "How much diluent must be added to 100 mL of a 10% solution to make a 5% solution?",
+      "options": [
+        "50 mL",
+        "200 mL",
+        "100 mL",
+        "150 mL"
+      ],
+      "answer": 2,
+      "explain": "Use C1 x V1 = C2 x V2: 10% x 100 mL = 5% x V2, so V2 = 200 mL. That is the final volume; diluent added = 200 minus 100 = 100 mL. Choosing 200 mL confuses the final volume with the amount added."
+    },
+    {
+      "id": "rx-order-11",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (ratio strength)",
+      "q": "Epinephrine is labeled 1:1,000. How many milligrams of epinephrine are in 1 mL?",
+      "options": [
+        "1 mg",
+        "0.1 mg",
+        "10 mg",
+        "0.01 mg"
+      ],
+      "answer": 0,
+      "explain": "A ratio of 1:1,000 means 1 g in 1,000 mL, which is 1,000 mg in 1,000 mL, or 1 mg per mL. The 0.1 mg answer corresponds to 1:10,000, a different concentration also used for epinephrine."
+    },
+    {
+      "id": "rx-order-12",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (IV flow rate)",
+      "q": "An order calls for 1,000 mL of fluid to infuse over 8 hours. What is the rate in mL per hour?",
+      "options": [
+        "125 mL/hr",
+        "100 mL/hr",
+        "80 mL/hr",
+        "150 mL/hr"
+      ],
+      "answer": 0,
+      "explain": "Rate = total volume / time = 1,000 mL / 8 hr = 125 mL per hour. The 100 mL/hr option would deliver only 800 mL in 8 hours."
+    },
+    {
+      "id": "rx-order-13",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (IV drip rate)",
+      "q": "A bag of 1,200 mL is to run over 10 hours using a set that delivers 15 drops per mL. What is the drip rate in drops per minute?",
+      "options": [
+        "20 drops/min",
+        "120 drops/min",
+        "30 drops/min",
+        "45 drops/min"
+      ],
+      "answer": 2,
+      "explain": "Hourly rate = 1,200 / 10 = 120 mL per hour, or 2 mL per minute. Drops per minute = 2 mL x 15 drops per mL = 30. Answering 120 confuses mL per hour with drops per minute."
+    },
+    {
+      "id": "rx-order-14",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (alligation)",
+      "q": "A pharmacy must prepare 240 g of a 5% ointment by mixing 10% and 2% ointments. How many grams of the 10% ointment are needed?",
+      "options": [
+        "150 g",
+        "90 g",
+        "120 g",
+        "60 g"
+      ],
+      "answer": 1,
+      "explain": "Alligation: parts of 10% = 5 minus 2 = 3; parts of 2% = 10 minus 5 = 5; total 8 parts. 10% ointment = 3/8 x 240 g = 90 g, and 2% ointment = 150 g. Choosing 150 g swaps the two components."
+    },
+    {
+      "id": "rx-order-15",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (Roman numerals)",
+      "q": "A prescription states Disp #XXIV. How many units should be dispensed?",
+      "options": [
+        "26",
+        "14",
+        "16",
+        "24"
+      ],
+      "answer": 3,
+      "explain": "X is 10, so XX is 20. IV is 5 minus 1, which is 4. XXIV = 20 + 4 = 24. Reading IV as 6 gives 26, the most common mistake."
+    },
+    {
+      "id": "rx-order-16",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (inhaler days supply)",
+      "q": "An inhaler contains 200 actuations. Directions: 2 puffs four times daily. What is the days supply?",
+      "options": [
+        "50 days",
+        "30 days",
+        "25 days",
+        "33 days"
+      ],
+      "answer": 2,
+      "explain": "Daily use = 2 puffs x 4 times = 8 puffs. Days supply = 200 / 8 = 25 days. The 50 day answer counts only one puff per dose."
+    },
+    {
+      "id": "rx-order-17",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (taper quantity)",
+      "q": "Prednisone 10 mg tablets: take 40 mg daily for 3 days, then 30 mg daily for 3 days, then 20 mg daily for 3 days, then 10 mg daily for 3 days. How many tablets are needed?",
+      "options": [
+        "30 tablets",
+        "12 tablets",
+        "100 tablets",
+        "36 tablets"
+      ],
+      "answer": 0,
+      "explain": "Tablets per day are 4, 3, 2 and 1. Total = (4 x 3) + (3 x 3) + (2 x 3) + (1 x 3) = 12 + 9 + 6 + 3 = 30 tablets. The 12 tablet answer counts only the number of days."
+    },
+    {
+      "id": "rx-order-18",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (pricing calculations)",
+      "q": "A product costs the pharmacy $40.00 and is sold for $55.00. What is the markup as a percentage of cost?",
+      "options": [
+        "27.3%",
+        "15%",
+        "55%",
+        "37.5%"
+      ],
+      "answer": 3,
+      "explain": "Markup = selling price minus cost = $15.00. Markup percent on cost = 15 / 40 x 100 = 37.5%. The 27.3% figure is the margin based on selling price (15 / 55), which answers a different question."
+    },
+    {
+      "id": "rx-order-19",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (reimbursement calculations)",
+      "q": "AWP is $120.00 per 100 tablets. A plan pays AWP minus 15% plus a $2.00 dispensing fee. What is the payment for 30 tablets?",
+      "options": [
+        "$36.00",
+        "$32.60",
+        "$30.60",
+        "$38.00"
+      ],
+      "answer": 1,
+      "explain": "AWP for 30 tablets = $1.20 x 30 = $36.00. Minus 15% ($5.40) = $30.60. Add the $2.00 fee: $32.60. Stopping at $30.60 forgets the fee, and $38.00 forgets the discount."
+    },
+    {
+      "id": "rx-order-20",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (apothecary conversion)",
+      "q": "Using 1 gr = 65 mg, how many milligrams are in 5 gr of aspirin?",
+      "options": [
+        "300 mg",
+        "325 mg",
+        "650 mg",
+        "130 mg"
+      ],
+      "answer": 1,
+      "explain": "Multiply grains by 65 mg: 5 x 65 = 325 mg. Some references round a grain to 60 mg, which would give 300 mg, but the stem sets 65 mg."
+    },
+    {
+      "id": "rx-order-21",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (weight based dosing)",
+      "q": "An adult weighs 154 lb. The order is 0.5 mg/kg. Using 1 kg = 2.2 lb, what dose is needed?",
+      "options": [
+        "77 mg",
+        "70 mg",
+        "3.5 mg",
+        "35 mg"
+      ],
+      "answer": 3,
+      "explain": "Weight = 154 / 2.2 = 70 kg. Dose = 0.5 mg/kg x 70 kg = 35 mg. Using pounds directly gives 77 mg, and stopping at the weight gives 70."
+    },
+    {
+      "id": "rx-order-22",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (concentration calculation)",
+      "q": "A bag contains 2 g of drug in 500 mL. What is the concentration in mg per mL?",
+      "options": [
+        "4 mg/mL",
+        "0.4 mg/mL",
+        "40 mg/mL",
+        "250 mg/mL"
+      ],
+      "answer": 0,
+      "explain": "Convert grams to milligrams: 2 g = 2,000 mg. Concentration = 2,000 mg / 500 mL = 4 mg/mL. The 0.4 and 40 options are decimal place errors, which is why the unit conversion is written out first."
+    },
+    {
+      "id": "rx-order-23",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (days supply for as needed orders)",
+      "q": "Directions: 1 tablet by mouth every 8 hours as needed for pain, dispense #20. What days supply is entered, rounding down to whole days?",
+      "options": [
+        "7 days",
+        "10 days",
+        "6 days",
+        "20 days"
+      ],
+      "answer": 2,
+      "explain": "Every 8 hours allows at most 3 tablets per day. Days supply = 20 / 3 = 6.67, rounded down to 6 days. For as needed orders, the maximum allowed daily use is used, so 7 days would round up wrongly."
+    },
+    {
+      "id": "rx-order-24",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (quantity with household measures)",
+      "q": "Directions: 1.5 tsp by mouth three times daily for 10 days. Using 1 tsp = 5 mL, what volume should be dispensed?",
+      "options": [
+        "150 mL",
+        "45 mL",
+        "75 mL",
+        "225 mL"
+      ],
+      "answer": 3,
+      "explain": "Each dose = 1.5 x 5 mL = 7.5 mL. Daily = 7.5 x 3 = 22.5 mL. For 10 days: 22.5 x 10 = 225 mL. The 150 mL answer uses 1 tsp per dose instead of 1.5."
+    },
+    {
+      "id": "rx-order-25",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (days supply with household measures)",
+      "q": "A 4 fl oz bottle is dispensed with directions of 1 tbsp by mouth once daily. Using 1 fl oz = 30 mL and 1 tbsp = 15 mL, what is the days supply?",
+      "options": [
+        "4 days",
+        "8 days",
+        "24 days",
+        "12 days"
+      ],
+      "answer": 1,
+      "explain": "Volume = 4 x 30 mL = 120 mL. Daily dose = 15 mL. Days supply = 120 / 15 = 8 days. Treating a tablespoon as 5 mL gives 24 days, which is the teaspoon mix up."
+    },
+    {
+      "id": "rx-order-26",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (compounding measurements)",
+      "q": "A balance has a sensitivity requirement of 6 mg. What is the minimum weighable quantity for a maximum error of 5%?",
+      "options": [
+        "30 mg",
+        "300 mg",
+        "120 mg",
+        "12 mg"
+      ],
+      "answer": 2,
+      "explain": "Minimum weighable quantity = sensitivity requirement / acceptable error = 6 mg / 0.05 = 120 mg. Multiplying 6 by 5 gives 30 mg, which confuses percent with a factor."
+    },
+    {
+      "id": "rx-order-27",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (percentage strength)",
+      "q": "How many grams of dextrose are in 250 mL of 5% dextrose in water (D5W)?",
+      "options": [
+        "12.5 g",
+        "5 g",
+        "25 g",
+        "1.25 g"
+      ],
+      "answer": 0,
+      "explain": "A 5% w/v solution has 5 g per 100 mL. For 250 mL: 250 x 5 / 100 = 12.5 g. The 5 g answer gives the amount in 100 mL only."
+    },
+    {
+      "id": "rx-order-28",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (compounding calculations)",
+      "q": "30 g of 1% hydrocortisone cream is mixed with 30 g of 2.5% hydrocortisone cream. What is the final percentage strength?",
+      "options": [
+        "1.75%",
+        "3.5%",
+        "1.25%",
+        "2.25%"
+      ],
+      "answer": 0,
+      "explain": "Drug in first cream = 0.3 g; in second = 0.75 g; total 1.05 g in 60 g. Strength = 1.05 / 60 x 100 = 1.75%. Adding the percentages (3.5%) is the trap; mixing equal amounts gives the average."
+    },
+    {
+      "id": "rx-order-29",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (sig codes)",
+      "q": "What does the sig 1 tab po bid mean?",
+      "options": [
+        "Take 1 tablet by mouth at bedtime",
+        "Take 1 tablet under the tongue daily",
+        "Take 1 tablet by mouth twice daily",
+        "Take 1 tablet by mouth every other day"
+      ],
+      "answer": 2,
+      "explain": "Tab means tablet, po means by mouth (per os) and bid means twice a day (bis in die). Every other day would be written in words, since QOD is on ISMP's error prone list."
+    },
+    {
+      "id": "rx-order-30",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (sig codes)",
+      "q": "On a prescription, what does the abbreviation ac mean?",
+      "options": [
+        "After meals",
+        "Before meals",
+        "As needed",
+        "At bedtime"
+      ],
+      "answer": 1,
+      "explain": "Ac comes from ante cibum, meaning before meals. Pc (post cibum) means after meals, which is the usual confusion. As needed is prn."
+    },
+    {
+      "id": "rx-order-31",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (sig codes)",
+      "q": "A prescription reads nitroglycerin 0.4 mg, 1 tab SL. How is the tablet taken?",
+      "options": [
+        "Swallowed whole with water",
+        "Chewed and then swallowed",
+        "Placed between cheek and gum",
+        "Dissolved under the tongue"
+      ],
+      "answer": 3,
+      "explain": "SL stands for sublingual: the tablet dissolves under the tongue and absorbs quickly. Placement between the cheek and gum is buccal, a separate route. Swallowing would expose the drug to first pass metabolism."
+    },
+    {
+      "id": "rx-order-32",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (sig codes)",
+      "q": "What does prn mean in a sig?",
+      "options": [
+        "Every night",
+        "Immediately",
+        "As needed",
+        "With food"
+      ],
+      "answer": 2,
+      "explain": "Prn comes from pro re nata, meaning as needed. Immediately is stat. When entering prn orders, days supply is based on the maximum daily dose allowed by the directions."
+    },
+    {
+      "id": "rx-order-33",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (sig codes)",
+      "q": "Directions read 1 cap po q6h. How many capsules per day does this allow at most?",
+      "options": [
+        "4 capsules",
+        "6 capsules",
+        "3 capsules",
+        "2 capsules"
+      ],
+      "answer": 0,
+      "explain": "q6h means every 6 hours. A day has 24 hours, so 24 / 6 = 4 doses per day, which is 4 capsules. Reading the 6 as the number of doses per day is the common error."
+    },
+    {
+      "id": "rx-order-34",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (NDC structure)",
+      "q": "How is a 10 digit National Drug Code structured?",
+      "options": [
+        "Labeler, lot and expiration segments",
+        "Product, price and package segments",
+        "Schedule, labeler and package segments",
+        "Labeler, product and package segments"
+      ],
+      "answer": 3,
+      "explain": "The NDC has three segments: the labeler code assigned by the FDA, the product code for strength and dosage form, and the package code for size and type. Lot numbers and expiration dates are printed separately and are not part of the NDC."
+    },
+    {
+      "id": "rx-order-35",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (NDC structure)",
+      "q": "Which NDC segment changes when the same tablet strength is sold in a 100 count bottle instead of a 500 count bottle?",
+      "options": [
+        "The labeler code",
+        "The package code",
+        "The product code",
+        "The lot code"
+      ],
+      "answer": 1,
+      "explain": "The package code, the last segment of the NDC, identifies package size and type. The labeler code stays the same for one company, and the product code stays the same for one strength and dosage form. A lot code is not part of the NDC."
+    },
+    {
+      "id": "rx-order-36",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (packaging requirements, PPPA)",
+      "q": "What does the Poison Prevention Packaging Act require for most oral prescription drugs?",
+      "options": [
+        "Unit dose blister packaging",
+        "Child resistant packaging",
+        "Light resistant amber glass",
+        "Tamper evident outer boxes"
+      ],
+      "answer": 1,
+      "explain": "The PPPA requires that most oral prescription drugs be dispensed in child resistant containers, designed to be hard for young children to open but not hard for adults. Light resistance and tamper evidence are separate packaging features."
+    },
+    {
+      "id": "rx-order-37",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (packaging requirements, PPPA)",
+      "q": "Which product is exempt from PPPA child resistant packaging requirements?",
+      "options": [
+        "Oral amoxicillin 500 mg capsules",
+        "Lisinopril tablets",
+        "Oxycodone tablets",
+        "Sublingual nitroglycerin tablets"
+      ],
+      "answer": 3,
+      "explain": "Sublingual nitroglycerin is exempt so patients can reach it quickly during chest pain. Oral contraceptives in memory aid packages are another exemption. Antibiotic capsules, blood pressure tablets and opioids require child resistant packaging unless a valid request is made."
+    },
+    {
+      "id": "rx-order-38",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (packaging requirements, PPPA)",
+      "q": "Under the PPPA, who may request that prescriptions be dispensed in non child resistant containers?",
+      "options": [
+        "The patient or the prescriber",
+        "Only the pharmacy owner",
+        "Only the insurance plan",
+        "Only a caregiver over 65"
+      ],
+      "answer": 0,
+      "explain": "The patient may request non child resistant packaging, including a blanket request for all prescriptions, and the prescriber may request it for an individual prescription. Insurance plans and pharmacy owners do not make this choice."
+    },
+    {
+      "id": "rx-order-39",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (beyond use dates, nonsterile)",
+      "q": "Under USP 795, what is the default beyond use date for a nonpreserved aqueous nonsterile compound stored in a refrigerator?",
+      "options": [
+        "35 days",
+        "90 days",
+        "14 days",
+        "180 days"
+      ],
+      "answer": 2,
+      "explain": "Without stability data, USP 795 assigns 14 days refrigerated to aqueous dosage forms without a preservative. Preserved aqueous forms get 35 days, nonaqueous forms 90 days and solid forms 180 days."
+    },
+    {
+      "id": "rx-order-40",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (beyond use dates, nonsterile)",
+      "q": "Under USP 795, what default beyond use date applies to a compounded solid dosage form such as capsules?",
+      "options": [
+        "14 days",
+        "30 days",
+        "365 days",
+        "180 days"
+      ],
+      "answer": 3,
+      "explain": "USP 795 allows a default beyond use date of up to 180 days for solid dosage forms when no stability data support another date, unless an ingredient expires sooner. 14 days applies to nonpreserved aqueous forms."
+    },
+    {
+      "id": "rx-order-41",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (nonsterile compounding techniques)",
+      "q": "What is levigation in nonsterile compounding?",
+      "options": [
+        "Grinding a dry powder into finer particles",
+        "Wetting a powder with a liquid to form a smooth paste",
+        "Mixing powders in a sealed plastic bag",
+        "Heating an ointment base until it melts"
+      ],
+      "answer": 1,
+      "explain": "Levigation means rubbing a powder with a small amount of a compatible liquid, such as mineral oil, to form a paste before mixing it into an ointment, which reduces grittiness. Grinding dry powder in a mortar is trituration, the tempting look alike term."
+    },
+    {
+      "id": "rx-order-42",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (nonsterile compounding techniques)",
+      "q": "Why is geometric dilution used when mixing a small amount of potent powder with a large amount of diluent?",
+      "options": [
+        "To shorten the beyond use date",
+        "To dissolve the drug in water",
+        "To spread the drug evenly through the mixture",
+        "To remove moisture from the powder"
+      ],
+      "answer": 2,
+      "explain": "Geometric dilution mixes the potent drug with an equal amount of diluent, then repeatedly doubles the mixture with equal portions, giving a uniform distribution. Adding everything at once risks uneven doses."
+    },
+    {
+      "id": "rx-order-43",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (lot numbers and expiration dates)",
+      "q": "Why is a product's lot number recorded during dispensing or receiving?",
+      "options": [
+        "To identify affected units if a recall occurs",
+        "To calculate the patient's copay",
+        "To set the days supply for billing",
+        "To show the product's schedule"
+      ],
+      "answer": 0,
+      "explain": "A lot number identifies a specific manufacturing batch. If a recall affects certain lots, the pharmacy can find and remove those units and, when needed, identify patients who received them. It has no role in copays or controlled substance schedules."
+    },
+    {
+      "id": "rx-order-44",
+      "exam": "ptce",
+      "domain": "order",
+      "also": [
+        {
+          "exam": "excpt",
+          "domain": "disp"
+        }
+      ],
+      "ref": "PTCE outline 2026, Order Entry and Processing (lot numbers and expiration dates)",
+      "q": "A stock bottle is labeled EXP 06/2027 with no day listed. Through what date may it be used?",
+      "options": [
+        "June 30, 2027",
+        "June 1, 2027",
+        "May 31, 2027",
+        "December 31, 2027"
+      ],
+      "answer": 0,
+      "explain": "When an expiration date lists only month and year, the product is good through the last day of that month, so June 30, 2027. Choosing June 1 would discard usable stock early."
+    },
+    {
+      "id": "rx-role-01",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "safe"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (technician and pharmacist tasks)",
+      "q": "Which task must be performed by a pharmacist rather than a pharmacy technician?",
+      "options": [
+        "Counting tablets for a refill",
+        "Entering the patient's insurance card",
+        "Final verification of a filled prescription",
+        "Reordering stock from the wholesaler"
+      ],
+      "answer": 2,
+      "explain": "Final verification, clinical review and patient counseling require a pharmacist. Technicians commonly count, enter prescriptions and insurance data and manage inventory under supervision. State rules set further details, but final verification belongs to the pharmacist."
+    },
+    {
+      "id": "rx-role-02",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (third party billing, DAW codes)",
+      "q": "The prescriber wrote 'brand medically necessary' on a prescription. Which DAW code is submitted with the claim?",
+      "options": [
+        "DAW 0",
+        "DAW 1",
+        "DAW 2",
+        "DAW 5"
+      ],
+      "answer": 1,
+      "explain": "DAW 1 means substitution is not allowed by the prescriber. DAW 2 is used when the prescriber allows a generic but the patient requests the brand, which is the tempting choice. DAW 0 means no product selection was indicated."
+    },
+    {
+      "id": "rx-role-03",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (third party billing, DAW codes)",
+      "q": "The prescriber allows generic substitution, but the patient insists on the brand. Which DAW code applies?",
+      "options": [
+        "DAW 1",
+        "DAW 0",
+        "DAW 7",
+        "DAW 2"
+      ],
+      "answer": 3,
+      "explain": "DAW 2 tells the plan that substitution was allowed by the prescriber but the patient requested the brand product. Plans often charge the patient the price difference. DAW 1 is for prescriber required brand."
+    },
+    {
+      "id": "rx-role-04",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (rejected claims)",
+      "q": "A claim rejects with the message 'Refill too soon'. What does this usually mean?",
+      "options": [
+        "The prescription has expired and needs renewal",
+        "The patient's coverage has been terminated",
+        "The plan thinks too little of the last fill has been used",
+        "The NDC is not on the plan's formulary"
+      ],
+      "answer": 2,
+      "explain": "Refill too soon means the plan calculates that the previous supply should not yet be used up, based on the days supply billed. The technician can check the days supply entered and refer valid reasons, such as a dose increase, to the pharmacist or plan."
+    },
+    {
+      "id": "rx-role-05",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (prior authorization)",
+      "q": "A claim rejects with 'Prior authorization required'. What is the usual next step?",
+      "options": [
+        "Notify the prescriber so they can submit a request",
+        "Change the drug to a covered alternative",
+        "Resubmit the claim with a different NDC",
+        "Tell the patient the drug is not available"
+      ],
+      "answer": 0,
+      "explain": "A prior authorization is a request from the prescriber to the plan explaining why the drug is needed. The pharmacy informs the prescriber and the patient; the pharmacy does not switch drugs on its own. The patient may also choose to pay cash while waiting."
+    },
+    {
+      "id": "rx-role-06",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (third party billing)",
+      "q": "On a prescription insurance card, what does the BIN identify?",
+      "options": [
+        "The patient's individual member number",
+        "The patient's position in the family",
+        "The drug's formulary tier",
+        "The processor that receives the claim"
+      ],
+      "answer": 3,
+      "explain": "The Bank Identification Number (BIN) routes the claim to the correct processor. The cardholder ID identifies the member, and the person code identifies which family member is receiving the prescription."
+    },
+    {
+      "id": "rx-role-07",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (third party billing)",
+      "q": "What does the person code on a prescription insurance card identify?",
+      "options": [
+        "The pharmacy that submitted the claim",
+        "Which covered family member is receiving the fill",
+        "The doctor who wrote the prescription",
+        "The plan's processor control number"
+      ],
+      "answer": 1,
+      "explain": "The person code distinguishes the cardholder from a spouse or dependents who share the same ID number. A wrong person code is a frequent reason for rejected claims. The PCN is a separate field used with the BIN for routing."
+    },
+    {
+      "id": "rx-role-08",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (coordination of benefits)",
+      "q": "A patient has two prescription plans. What is the correct billing order?",
+      "options": [
+        "Bill the secondary plan first, then the primary",
+        "Bill the primary plan first, then the secondary",
+        "Bill whichever plan pays more",
+        "Bill both plans at the same time for full price"
+      ],
+      "answer": 1,
+      "explain": "Coordination of benefits means the primary plan is billed first, and the remaining balance is then sent to the secondary plan. Billing out of order or billing both for the full amount causes rejected or incorrect payments."
+    },
+    {
+      "id": "rx-role-09",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (insurance terms)",
+      "q": "What is a deductible in a prescription benefit?",
+      "options": [
+        "The fixed fee paid each time a drug is filled",
+        "The percentage of the cost the patient shares",
+        "The plan's list of covered drugs",
+        "What is paid before the plan starts paying"
+      ],
+      "answer": 3,
+      "explain": "A deductible is what the patient pays each benefit period before the plan begins to pay. A copay is a fixed amount per fill, coinsurance is a percentage of the cost, and the formulary is the list of covered drugs."
+    },
+    {
+      "id": "rx-role-10",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (insurance terms)",
+      "q": "In pharmacy benefits, what is a formulary?",
+      "options": [
+        "The list of drugs a plan covers",
+        "A book of tested compounding recipes",
+        "A record of controlled drug destruction",
+        "A list of drugs on recall"
+      ],
+      "answer": 0,
+      "explain": "A formulary lists the drugs a health plan covers or a hospital stocks, often arranged in tiers that set the patient's cost. A drug not on the formulary may need a prior authorization or a switch to a covered alternative."
+    },
+    {
+      "id": "rx-role-11",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (inventory management)",
+      "q": "When putting away a wholesaler order, where should newly received stock with a later expiration date be placed?",
+      "options": [
+        "In front of the stock already on the shelf",
+        "On a separate shelf in another aisle",
+        "Behind the stock already on the shelf",
+        "In the refrigerator to extend dating"
+      ],
+      "answer": 2,
+      "explain": "Stock rotation places the product with the earliest expiration in front so it is used first, and newer stock goes behind. This reduces waste from expired drugs. Refrigerating a room temperature product does not extend its expiration."
+    },
+    {
+      "id": "rx-role-12",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (inventory management)",
+      "q": "In pharmacy inventory, what is a par level?",
+      "options": [
+        "The highest price allowed for an item",
+        "The number of refills left on a prescription",
+        "The cost difference between brand and generic",
+        "The amount of an item to keep on hand"
+      ],
+      "answer": 3,
+      "explain": "A par level is the target quantity to keep in stock; when inventory falls to the reorder point, enough is ordered to return to par. It is set from usage history and lead time and has nothing to do with pricing or refills."
+    },
+    {
+      "id": "rx-role-13",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (inventory management)",
+      "q": "What is a perpetual inventory?",
+      "options": [
+        "A full count done once every two years",
+        "A count updated with each receipt and sale",
+        "A list of drugs the pharmacy never stocks at all",
+        "A record of only expired items"
+      ],
+      "answer": 1,
+      "explain": "A perpetual inventory updates the on hand count continuously as products are received and dispensed. Many pharmacies keep one for Schedule II drugs. The biennial inventory is a separate count required by the DEA every two years."
+    },
+    {
+      "id": "rx-role-14",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (inventory management)",
+      "q": "What usually happens to short dated or expired stock that is eligible for credit?",
+      "options": [
+        "It is sold at a discount to patients",
+        "It is given to staff for personal use",
+        "It goes to a reverse distributor",
+        "It is returned to the shelf after relabeling"
+      ],
+      "answer": 2,
+      "explain": "Pharmacies use reverse distributors to return expired or unwanted products for manufacturer credit or proper disposal. Dispensing, discounting or relabeling expired product is not allowed. Controlled substances need extra documentation."
+    },
+    {
+      "id": "rx-role-15",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (customer service)",
+      "q": "A patient is upset about a high copay. Which response is most appropriate for the technician?",
+      "options": [
+        "Listen calmly and offer to check options with the pharmacist",
+        "Tell the patient the price cannot be discussed",
+        "Argue that the plan sets prices, not the pharmacy",
+        "Lower the price on your own to end the dispute"
+      ],
+      "answer": 0,
+      "explain": "Good service means listening, staying calm and offering help, such as checking for a covered alternative, a coupon program or a 90 day supply, with the pharmacist or prescriber as needed. Arguing or changing prices without authority makes things worse."
+    },
+    {
+      "id": "rx-role-16",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (customer service)",
+      "q": "A patient who speaks limited English needs help at the counter. What is the best approach?",
+      "options": [
+        "Use the pharmacy's interpreter or language line service",
+        "Speak louder and more slowly in English",
+        "Ask a child in the family to translate",
+        "Give the bag without explaining anything"
+      ],
+      "answer": 0,
+      "explain": "Professional interpreter services give accurate communication and protect privacy. Speaking louder does not improve understanding, and relying on family members, especially children, risks errors and breaches of confidentiality."
+    },
+    {
+      "id": "rx-role-17",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "safe"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (confidentiality)",
+      "q": "Which practice protects patient privacy at the pharmacy counter?",
+      "options": [
+        "Reading the full drug list aloud to confirm",
+        "Leaving filled bags open on the counter",
+        "Speaking quietly and keeping labels out of view",
+        "Calling out diagnoses across the waiting area"
+      ],
+      "answer": 2,
+      "explain": "HIPAA requires reasonable safeguards for protected health information. Lowering the voice, using the consultation area and keeping labels and screens out of public view reduce incidental disclosures. Announcing drug names or diagnoses aloud exposes PHI."
+    },
+    {
+      "id": "rx-role-18",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (workflow)",
+      "q": "Which sequence reflects a typical community pharmacy workflow for a new prescription?",
+      "options": [
+        "Filling, intake, pickup, data entry, verification",
+        "Intake, data entry, filling, pharmacist verification, pickup",
+        "Pickup, verification, filling, intake, data entry",
+        "Data entry, pickup, intake, filling, verification"
+      ],
+      "answer": 1,
+      "explain": "A prescription is received and checked at intake, entered and billed, filled, verified by the pharmacist and then released to the patient with counseling. Pickup before verification would allow unchecked medication to reach the patient."
+    },
+    {
+      "id": "rx-role-19",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (third party billing)",
+      "q": "A filled prescription was billed to insurance but never picked up. Before returning the medication to stock, what must be done?",
+      "options": [
+        "Leave the claim as paid",
+        "Bill the patient for the full price",
+        "Send the claim to the secondary plan",
+        "Reverse the claim with the plan"
+      ],
+      "answer": 3,
+      "explain": "If a billed prescription is not dispensed, the claim must be reversed so the plan is not charged for something the patient never received. Leaving it paid misrepresents the dispensing and can be treated as fraud in an audit."
+    },
+    {
+      "id": "rx-role-20",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "safe"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (technician and pharmacist tasks)",
+      "q": "A patient asks the technician whether to take a missed dose now or skip it. What should the technician do?",
+      "options": [
+        "Tell the patient to double the next dose",
+        "Advise skipping all doses for the day",
+        "Have the pharmacist answer the question",
+        "Look it up online and answer directly"
+      ],
+      "answer": 2,
+      "explain": "Advice on missed doses depends on the drug and the patient, so it requires the pharmacist's judgment. Technicians do not give clinical advice. Doubling doses can cause harm for many medications."
+    },
+    {
+      "id": "rx-role-21",
+      "exam": "excpt",
+      "domain": "role",
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (insurance programs)",
+      "q": "Medicare Part D covers which type of benefit?",
+      "options": [
+        "Outpatient prescription drugs",
+        "Inpatient hospital stays",
+        "Physician office visits",
+        "Long term custodial care"
+      ],
+      "answer": 0,
+      "explain": "Part D is the Medicare outpatient prescription drug benefit, provided through private plans. Part A covers inpatient hospital care, and Part B covers physician services and some drugs given in clinics. Custodial long term care is generally not covered by Medicare."
+    },
+    {
+      "id": "rx-role-22",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (rejected claims)",
+      "q": "A claim rejects for 'Quantity limit exceeded'. What does this indicate?",
+      "options": [
+        "The patient's date of birth does not match",
+        "The prescriber is not licensed in the state",
+        "The drug requires refrigeration during shipping",
+        "The amount billed exceeds what the plan allows for that time period"
+      ],
+      "answer": 3,
+      "explain": "Plans set quantity limits per fill or per period for many drugs. Options include billing the allowed quantity, checking that days supply and quantity were entered correctly, or having the prescriber request an exception. A date of birth mismatch gives a different rejection."
+    },
+    {
+      "id": "rx-role-23",
+      "exam": "excpt",
+      "domain": "role",
+      "also": [
+        {
+          "exam": "ptce",
+          "domain": "order"
+        }
+      ],
+      "ref": "ExCPT test plan 2023, Role, Responsibilities and General Duties (patient profiles)",
+      "q": "When creating a profile for a new patient, which information is essential to collect?",
+      "options": [
+        "Favorite store hours and parking needs",
+        "Allergies, date of birth and current medications",
+        "The patient's employer and job title",
+        "The patient's preferred brand of vitamins"
+      ],
+      "answer": 1,
+      "explain": "Allergies, date of birth, other medications, conditions and insurance details allow accurate billing and allow the pharmacist to screen for allergies and interactions. Employer details are not needed for dispensing."
+    }
+  ]
+}

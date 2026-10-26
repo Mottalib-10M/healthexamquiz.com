@@ -1,0 +1,93 @@
+---
+/**
+ * Home: the practice quiz first (exam picker included), then the eight exams as tiles, the
+ * certification finder, the formats table, and every page by group. Every figure is read from
+ * params-2026.json or the bank.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Tool from './Tool.astro';
+import Clamp from './Clamp.astro';
+import Sources from './Sources.astro';
+import { route, hasRoute } from '../i18n/routes';
+import { PAGES } from '../lib/guides';
+import { GROUPS_ORDER, groupLabel } from '../i18n/nav';
+import { helpers } from '../lib/helpers';
+import { LAST_UPDATED, AUTHOR_NAME } from '../data/site-config';
+import { displayDate } from '../lib/format';
+import { EXAM_IDS, type ExamId } from '../lib/engine/exam';
+import { faqSchema, webApplicationSchema, websiteSchema, organizationSchema } from '../lib/seo';
+const lang = 'en';
+const h = helpers(lang, !process.env.LAX);
+const { X, R } = h;
+const cards = (g: (typeof GROUPS_ORDER)[number]) => PAGES.filter((p) => p.group === g).map((p) => ({ href: route(p.id, lang), name: p.en.nav, text: p.en.card }));
+const practice: Record<ExamId, string> = { cna: 'cna-practice-test', ptce: 'ptcb-practice-test', excpt: 'excpt-practice-test', ccma: 'ccma-practice-test', cma: 'cma-practice-test', cpt: 'phlebotomy-practice-test', cet: 'ekg-practice-test', emt: 'nremt-practice-test' };
+const job: Record<ExamId, string> = { cna: 'Nurse aide', ptce: 'Pharmacy technician', excpt: 'Pharmacy technician', ccma: 'Medical assistant', cma: 'Medical assistant', cpt: 'Phlebotomist', cet: 'EKG technician', emt: 'Emergency medical technician' };
+const fee = (e: ExamId) => (e === 'cna' ? 'State fee' : X(e).fee ? h.usd(X(e).fee) : 'Not published');
+const qn = (e: ExamId) => (e === 'emt' ? '70 to 120' : h.num(X(e).items));
+const href = (id: string) => (hasRoute(id, lang) ? route(id, lang) : route('home', lang));
+
+const title = 'Health Certification Practice Tests: CNA, PTCB, CMA, EMT';
+const description = 'Free health certification practice tests for the CNA, PTCE, ExCPT, CCMA, CMA, CPT, CET and NREMT EMT: quizzes by outline domain, timed mocks, fees and retakes.';
+const faqs = [
+  { q: 'Are these the questions of the real certification exams?', a: `No. The certifiers keep their item banks secret, and no honest site can promise the real questions. Each of our ${h.num(h.count)} questions was written by ${AUTHOR_NAME} from a topic of the public content outline or test plan, with an explanation and the outline point it trains. They prepare you for the same knowledge and the same format, not for memorized answers.` },
+  { q: 'Which health care certification is the quickest to get?', a: `It depends on the job and the state, but the nurse aide route has the shortest federal minimum: ${R.cnaFederal.trainingHours} hours of training, ${R.cnaFederal.clinicalHours} of them supervised practice, before the state exam. Phlebotomy, EKG and pharmacy technician programs are often a few months. The finder on this page lists the official route to each exam.` },
+  { q: 'How is a mock exam on this site marked?', a: `A mock has the published number of questions and the published time, split across the outline domains as the outline weights them. The real exams report scaled scores or state pass marks that cannot be rebuilt from a count of right answers, so the mock compares your share of correct answers with a study target of ${h.pc(X('ptce').target)} set by this site, and shows the official passing standard next to it.` },
+  { q: 'Where is my progress saved?', a: 'Only in this browser, in its local storage: the questions you answered, whether the last answer was right, and your last mock scores. Nothing is sent to us or anyone else, there is no account, and another browser or a private window starts from zero. The review page shows the saved data and has a button that erases it at once.' },
+  { q: 'How long should I study before a certification exam?', a: `Most candidates study during their training program and add two to six weeks of focused review at the end. A practical test of readiness is to reach the study target on two full mocks taken on different days, with no outline domain far behind the others. The study plan calculator turns the days you have left into a number of questions a day.` },
+  { q: 'Do I need a certification to work as a pharmacy technician or medical assistant?', a: 'It depends on the state and the employer. Many state boards of pharmacy require or accept the CPhT credential from the PTCE or the ExCPT, and many employers ask medical assistants for the CCMA or the CMA even where no law does. Nurse aides in nursing homes funded by Medicare or Medicaid must pass a state competency evaluation.' },
+];
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webApplicationSchema({ name: 'Health certification practice tests', description, path: route('home', lang), lang }), faqSchema(faqs, lang)];
+const resume = `Entry-level health care jobs in the United States are reached through a handful of certification exams, each written by a different body. Nurse aides pass a state competency evaluation, a written or oral test and a skills test, often in the NNAAP format run by Credentia. Pharmacy technicians sit the PTCE of the PTCB (${X('ptce').items} questions in ${h.time('ptce')}) or the ExCPT of the NHA. Medical assistants take the CCMA of the NHA (${X('ccma').items} questions) or the CMA of the AAMA (${X('cma').items} questions in four segments). The NHA also certifies phlebotomy technicians (CPT) and EKG technicians (CET), and EMTs pass the adaptive cognitive exam of the NREMT, between 70 and 120 questions. The quiz above draws from our bank of ${h.num(h.count)} questions written by ${AUTHOR_NAME} from those outlines, one exam and one domain at a time, and shows the explanation after each answer. Registration, scheduling and results happen only with the certifier and its test vendor; this site is independent of all of them.`;
+const rows = EXAM_IDS.map((e) => { const x = X(e); return [`<a href="${href(practice[e])}">${x.label}</a>`, x.owner, qn(e), h.hm(x.minutes), x.passText.replace('Official pass: ', '').replace('Official pass mark: ', ''), fee(e)]; });
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={jsonLd} faqs={faqs} breadcrumbs={[]}>
+  <header class="mb-3">
+    <p class="kicker"><span class="cross" aria-hidden="true"></span>CNA · PTCE · ExCPT · CCMA · CMA · CPT · CET · NREMT</p>
+    <h1 class="mt-0 text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">Health certification practice tests, domain by domain</h1>
+    <p class="mt-2 text-base text-navy-700 sm:text-lg">Choose your exam and an outline domain: ten questions, each corrected and explained at once. No account, no email, nothing to pay.</p>
+  </header>
+  <div data-outil class="mb-4"><Tool tool={{ kind: 'quiz', props: { exam: 'cna', mode: 'practice', pick: true, n: 10 } }} primary={true} seedKey="home" /></div>
+  <Clamp text={resume} id="clamp-home" lang={lang} class="mb-3" />
+  <p class="mb-8 text-sm text-navy-600">Formats and fees checked on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-US')}</time> · {AUTHOR_NAME} · <a href={route('method', lang)} class="underline hover:text-navy-900">How questions and mocks are built</a> · <a href={route('about', lang)} class="underline hover:text-navy-900">About this site</a></p>
+
+  <section class="mb-10">
+    <h2 class="mb-4 font-serif text-2xl font-bold text-navy-900">Pick your exam</h2>
+    <ul class="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      {EXAM_IDS.map((e) => (
+        <li><a href={href(practice[e])} class="block h-full rounded-xl border border-navy-200 p-4 hover:border-accent-500 hover:bg-accent-50">
+          <span class="block text-xs font-medium uppercase tracking-wide text-navy-500">{job[e]}</span>
+          <span class="mt-1 block font-serif text-xl font-bold text-navy-900">{X(e).label}</span>
+          <span class="mt-1 block text-sm text-navy-700">{qn(e)} questions · {h.hm(X(e).minutes)}</span>
+          <span class="block text-sm text-navy-700">{X(e).owner} · {fee(e)}</span>
+        </a></li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="mb-3 font-serif text-2xl font-bold text-navy-900">Not sure which exam? Start from the job</h2>
+    <p class="mb-4 text-navy-700">Each job has its own certifying body and its own route to eligibility: a training program, hours of work, or both. Pick the job you are aiming at to see the exam, the official fee, the route and the renewal cycle. The <a class="underline" href={href('which-certification')}>full guide</a> compares them.</p>
+    <Tool tool={{ kind: 'finder' }} idPrefix="h1" />
+  </section>
+
+  <section class="mb-10">
+    <h2 class="mb-3 font-serif text-2xl font-bold text-navy-900">Eight exams side by side</h2>
+    <Fragment set:html={h.table(['Exam', 'Run by', 'Questions', 'Time', 'Official passing standard', 'Fee'], rows, `Read on the certifiers' pages on ${h.read}. Question counts include unscored pretest questions.`, ['l', 'l', 'r', 'r', 'l', 'r'])} />
+  </section>
+
+  <div class="prose prose-slate max-w-none">
+    <h2>Three ways to practice</h2>
+    <p><strong>By domain</strong>, with the correction after each answer: the fastest way to find a weak area, because every outline domain has its own pool. <strong>Full mocks</strong>, timed, with the published number of questions spread over the domains, a question map and flags, and the corrections at the end. <strong>Review</strong> of the questions you missed: the site remembers, in this browser only, which answers were wrong and serves them again until they are right. The <a href={href('review-mistakes')}>review page</a> shows where you stand in each domain.</p>
+    <h2>Every page of the site</h2>
+  </div>
+  <div class="not-prose mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3" data-sommaire>
+    {GROUPS_ORDER.map((g) => (
+      <section><h3 class="mb-2 text-lg font-semibold text-navy-900">{groupLabel(g)}</h3><ul class="space-y-2 text-sm">{cards(g).map((c) => <li><a href={c.href} class="font-medium text-accent-700 underline">{c.name}</a><span class="block text-navy-700">{c.text}</span></li>)}</ul></section>
+    ))}
+  </div>
+  <div class="prose prose-slate mt-8 max-w-none">
+    <h2>Independent, and what that means</h2>
+    <p>{AUTHOR_NAME} publishes this site on its own. It is not the PTCB, the NHA, the AAMA, the NREMT, a state nurse aide registry, Credentia, Prometric, Pearson VUE or a school; it sells no course and links to none. The outlines it works from are public, but their text is not reproduced: each question is our own wording on one of their topics. Clinical facts on the site are exam content, not medical advice. When a certifier changes a format, a fee or a rule, the parameter file changes and every page follows.</p>
+    <Sources lang={lang} keys={['ptcb_cpht', 'nha_excpt_plan', 'aama_cert', 'nremt_exams', 'ecfr_483_154', 'credentia_outline', 'nha_cpt_plan', 'nha_cet_plan']} />
+  </div>
+</PageLayout>

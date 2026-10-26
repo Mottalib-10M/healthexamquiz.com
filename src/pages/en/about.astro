@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { PAGES } from '../../lib/guides';
+import { helpers } from '../../lib/helpers';
+const lang = 'en';
+const h = helpers(lang);
+const n = PAGES.length + 1;
+---
+<PageLayout title="Radif Partners, publisher of US Health Exams: who we are" description="Who publishes US Health Exams, how its CNA, pharmacy technician, medical assistant, phlebotomy, EKG and EMT practice questions are written, what it never sells." lang={lang} jsonLd={[organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+  <header class="mb-6"><p class="kicker">About</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Who is behind {SITE_NAMES[lang]}</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>{SITE_NAMES[lang]} is published by {AUTHOR_NAME}, a company that builds free tools on public rules and public data. This site is for people taking a first credential in health care: nurse aides facing the state competency exam, pharmacy technicians preparing the PTCE or the ExCPT, medical assistants heading for the CCMA or the CMA, phlebotomy and EKG technicians, and EMT students before the NREMT exam.</p>
+    <h2>What the site does</h2>
+    <p>It offers practice by outline domain with each answer explained, full mock exams with the published number of questions and time limit, and a review mode that brings back the questions you missed. Around the exams, it lists the CNA skills step by step, trains the top 200 drug names and classes, works out pharmacy math and dosage arithmetic, and gives the fees, eligibility routes and retake waits of each exam, with nurse aide exam fees for ten states. Everything is free, without an account or an email address; progress stays in your browser.</p>
+    <h2>Where the questions and rules come from</h2>
+    <p>We wrote all {h.num(h.count)} practice questions ourselves, each from a topic of a public content outline or test plan. Their text is not reproduced, and we never present our questions as real exam questions. Formats, fees and rules were read on the pages of the PTCB, the NHA, the AAMA, the NREMT, the nurse aide testing vendors and the state agencies, and every page links to the official page behind it. Drug names and classes come from the National Library of Medicine. The <a href={route('method', lang)}>method page</a> explains how a mock is drawn and marked.</p>
+    <h2>What we are not</h2>
+    <p>We are not a certifying body, a test vendor, a state registry, a school or a training program. We cannot register you, schedule an exam, see a score report or judge your eligibility. The site uses no official logo or seal, and nothing on it is medical advice.</p>
+    <h2>How the site is paid for</h2>
+    <p>The site sells no course, book or flash cards, takes no commission and links to no school or prep company. If advertising is added one day, it will never sit inside a quiz, and it cannot use your answers, which never leave your browser.</p>
+    <h2>Tell us when something is wrong</h2>
+    <p>Write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> with the rule, or the first words of the question. The <a href={route('editorial', lang)}>editorial policy</a> explains how a correction is made and dated. The site has {n} pages.</p>
+    <p class="text-sm text-navy-600">Formats and fees last checked on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-US')}</time>.</p>
+  </div>
+</PageLayout>

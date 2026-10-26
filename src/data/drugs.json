@@ -1,0 +1,1982 @@
+{
+ "retrieved_at": "2026-10-26",
+ "source": "RxNorm and RxClass (DailyMed EPC), US National Library of Medicine",
+ "drugs": [
+  {
+   "generic": "atorvastatin",
+   "brand": "Lipitor",
+   "use": "Cholesterol",
+   "epc": [
+    "HMG-CoA Reductase Inhibitor"
+   ],
+   "rxcui": "83367",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "levothyroxine",
+   "brand": "Synthroid",
+   "use": "Thyroid",
+   "epc": [
+    "l-Thyroxine"
+   ],
+   "rxcui": "10582",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "lisinopril",
+   "brand": "Zestril",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin Converting Enzyme Inhibitor"
+   ],
+   "rxcui": "29046",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "metformin",
+   "brand": "Glucophage",
+   "use": "Diabetes",
+   "epc": [
+    "Biguanide"
+   ],
+   "rxcui": "6809",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "amlodipine",
+   "brand": "Norvasc",
+   "use": "Blood pressure",
+   "epc": [
+    "Dihydropyridine Calcium Channel Blocker",
+    "Calcium Channel Blocker"
+   ],
+   "rxcui": "17767",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "metoprolol",
+   "brand": "Lopressor",
+   "use": "Heart and blood pressure",
+   "epc": [
+    "beta-Adrenergic Blocker"
+   ],
+   "rxcui": "6918",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "albuterol",
+   "brand": "",
+   "use": "Asthma and COPD",
+   "epc": [
+    "beta2-Adrenergic Agonist"
+   ],
+   "rxcui": "435",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "omeprazole",
+   "brand": "Prilosec",
+   "use": "Stomach acid",
+   "epc": [
+    "Proton Pump Inhibitor"
+   ],
+   "rxcui": "7646",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "losartan",
+   "brand": "Cozaar",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin 2 Receptor Blocker"
+   ],
+   "rxcui": "52175",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "simvastatin",
+   "brand": "Zocor",
+   "use": "Cholesterol",
+   "epc": [
+    "HMG-CoA Reductase Inhibitor"
+   ],
+   "rxcui": "36567",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "gabapentin",
+   "brand": "Neurontin",
+   "use": "Nerve pain and seizures",
+   "epc": [],
+   "rxcui": "25480",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "hydrochlorothiazide",
+   "brand": "",
+   "use": "Blood pressure and fluid",
+   "epc": [
+    "Thiazide Diuretic"
+   ],
+   "rxcui": "5487",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "sertraline",
+   "brand": "Zoloft",
+   "use": "Depression and anxiety",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "36437",
+   "area": "Mental health"
+  },
+  {
+   "generic": "rosuvastatin",
+   "brand": "Crestor",
+   "use": "Cholesterol",
+   "epc": [
+    "HMG-CoA Reductase Inhibitor"
+   ],
+   "rxcui": "301542",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "montelukast",
+   "brand": "Singulair",
+   "use": "Asthma and allergy",
+   "epc": [
+    "Leukotriene Receptor Antagonist"
+   ],
+   "rxcui": "88249",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "escitalopram",
+   "brand": "Lexapro",
+   "use": "Depression and anxiety",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "321988",
+   "area": "Mental health"
+  },
+  {
+   "generic": "bupropion",
+   "brand": "Wellbutrin",
+   "use": "Depression and smoking cessation",
+   "epc": [
+    "Aminoketone"
+   ],
+   "rxcui": "42347",
+   "area": "Mental health"
+  },
+  {
+   "generic": "pantoprazole",
+   "brand": "Protonix",
+   "use": "Stomach acid",
+   "epc": [
+    "Proton Pump Inhibitor"
+   ],
+   "rxcui": "40790",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "furosemide",
+   "brand": "Lasix",
+   "use": "Fluid and heart failure",
+   "epc": [
+    "Loop Diuretic"
+   ],
+   "rxcui": "4603",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "fluticasone",
+   "brand": "Flonase",
+   "use": "Nasal allergy",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "41126",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "dextroamphetamine",
+   "brand": "Dexedrine",
+   "use": "ADHD",
+   "epc": [
+    "Central Nervous System Stimulant"
+   ],
+   "rxcui": "3288",
+   "area": "Mental health"
+  },
+  {
+   "generic": "insulin glargine",
+   "brand": "Lantus",
+   "use": "Diabetes",
+   "epc": [
+    "Insulin Analog"
+   ],
+   "rxcui": "274783",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "tamsulosin",
+   "brand": "Flomax",
+   "use": "Prostate",
+   "epc": [
+    "alpha-Adrenergic Blocker"
+   ],
+   "rxcui": "77492",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "trazodone",
+   "brand": "",
+   "use": "Depression and sleep",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "10737",
+   "area": "Mental health"
+  },
+  {
+   "generic": "fluoxetine",
+   "brand": "Prozac",
+   "use": "Depression",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "4493",
+   "area": "Mental health"
+  },
+  {
+   "generic": "carvedilol",
+   "brand": "Coreg",
+   "use": "Heart failure and blood pressure",
+   "epc": [
+    "alpha-Adrenergic Blocker",
+    "beta-Adrenergic Blocker"
+   ],
+   "rxcui": "20352",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "meloxicam",
+   "brand": "Mobic",
+   "use": "Pain and arthritis",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug"
+   ],
+   "rxcui": "41493",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "clopidogrel",
+   "brand": "Plavix",
+   "use": "Clot prevention",
+   "epc": [
+    "P2Y12 Platelet Inhibitor"
+   ],
+   "rxcui": "32968",
+   "area": "Blood clots"
+  },
+  {
+   "generic": "prednisone",
+   "brand": "Deltasone",
+   "use": "Inflammation",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "8640",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "citalopram",
+   "brand": "Celexa",
+   "use": "Depression",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "2556",
+   "area": "Mental health"
+  },
+  {
+   "generic": "duloxetine",
+   "brand": "Cymbalta",
+   "use": "Depression and nerve pain",
+   "epc": [
+    "Serotonin and Norepinephrine Reuptake Inhibitor"
+   ],
+   "rxcui": "72625",
+   "area": "Mental health"
+  },
+  {
+   "generic": "pravastatin",
+   "brand": "Pravachol",
+   "use": "Cholesterol",
+   "epc": [
+    "HMG-CoA Reductase Inhibitor"
+   ],
+   "rxcui": "42463",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "potassium chloride",
+   "brand": "Klor-Con",
+   "use": "Electrolyte",
+   "epc": [],
+   "rxcui": "8591",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "ibuprofen",
+   "brand": "Motrin",
+   "use": "Pain and fever",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug"
+   ],
+   "rxcui": "5640",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "tramadol",
+   "brand": "Ultram",
+   "use": "Pain",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "10689",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "alprazolam",
+   "brand": "Xanax",
+   "use": "Anxiety",
+   "epc": [
+    "Benzodiazepine"
+   ],
+   "rxcui": "596",
+   "area": "Mental health"
+  },
+  {
+   "generic": "cyclobenzaprine",
+   "brand": "Amrix",
+   "use": "Muscle spasm",
+   "epc": [
+    "Muscle Relaxant"
+   ],
+   "rxcui": "21949",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "venlafaxine",
+   "brand": "Effexor",
+   "use": "Depression and anxiety",
+   "epc": [
+    "Serotonin and Norepinephrine Reuptake Inhibitor"
+   ],
+   "rxcui": "39786",
+   "area": "Mental health"
+  },
+  {
+   "generic": "amoxicillin",
+   "brand": "",
+   "use": "Infection",
+   "epc": [
+    "Penicillin-class Antibacterial"
+   ],
+   "rxcui": "723",
+   "area": "Infections"
+  },
+  {
+   "generic": "warfarin",
+   "brand": "Coumadin",
+   "use": "Clot prevention",
+   "epc": [
+    "Vitamin K Antagonist"
+   ],
+   "rxcui": "11289",
+   "area": "Blood clots"
+  },
+  {
+   "generic": "allopurinol",
+   "brand": "Zyloprim",
+   "use": "Gout",
+   "epc": [
+    "Xanthine Oxidase Inhibitor"
+   ],
+   "rxcui": "519",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "apixaban",
+   "brand": "Eliquis",
+   "use": "Clot prevention",
+   "epc": [
+    "Factor Xa Inhibitor"
+   ],
+   "rxcui": "1364430",
+   "area": "Blood clots"
+  },
+  {
+   "generic": "atenolol",
+   "brand": "Tenormin",
+   "use": "Blood pressure",
+   "epc": [
+    "beta-Adrenergic Blocker"
+   ],
+   "rxcui": "1202",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "glipizide",
+   "brand": "Glucotrol",
+   "use": "Diabetes",
+   "epc": [
+    "Sulfonylurea"
+   ],
+   "rxcui": "4821",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "zolpidem",
+   "brand": "Ambien",
+   "use": "Sleep",
+   "epc": [
+    "gamma-Aminobutyric Acid A Receptor Positive Modulator"
+   ],
+   "rxcui": "39993",
+   "area": "Mental health"
+  },
+  {
+   "generic": "spironolactone",
+   "brand": "Aldactone",
+   "use": "Fluid and heart failure",
+   "epc": [
+    "Aldosterone Antagonist"
+   ],
+   "rxcui": "9997",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "famotidine",
+   "brand": "Pepcid",
+   "use": "Stomach acid",
+   "epc": [
+    "Histamine-2 Receptor Antagonist"
+   ],
+   "rxcui": "4278",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "cetirizine",
+   "brand": "Zyrtec",
+   "use": "Allergy",
+   "epc": [
+    "Histamine-1 Receptor Antagonist"
+   ],
+   "rxcui": "20610",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "loratadine",
+   "brand": "Claritin",
+   "use": "Allergy",
+   "epc": [],
+   "rxcui": "28889",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "lamotrigine",
+   "brand": "Lamictal",
+   "use": "Seizures and bipolar disorder",
+   "epc": [
+    "Mood Stabilizer",
+    "Anti-epileptic Agent"
+   ],
+   "rxcui": "28439",
+   "area": "Mental health"
+  },
+  {
+   "generic": "clonazepam",
+   "brand": "Klonopin",
+   "use": "Seizures and panic disorder",
+   "epc": [
+    "Benzodiazepine"
+   ],
+   "rxcui": "2598",
+   "area": "Mental health"
+  },
+  {
+   "generic": "quetiapine",
+   "brand": "Seroquel",
+   "use": "Schizophrenia and bipolar disorder",
+   "epc": [
+    "Atypical Antipsychotic"
+   ],
+   "rxcui": "51272",
+   "area": "Mental health"
+  },
+  {
+   "generic": "estradiol",
+   "brand": "Estrace",
+   "use": "Hormone therapy",
+   "epc": [
+    "Radioactive Diagnostic Agent",
+    "Estrogen"
+   ],
+   "rxcui": "4083",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "propranolol",
+   "brand": "Inderal",
+   "use": "Blood pressure and tremor",
+   "epc": [
+    "beta-Adrenergic Blocker"
+   ],
+   "rxcui": "8787",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "lorazepam",
+   "brand": "Ativan",
+   "use": "Anxiety",
+   "epc": [
+    "Benzodiazepine"
+   ],
+   "rxcui": "6470",
+   "area": "Mental health"
+  },
+  {
+   "generic": "topiramate",
+   "brand": "Topamax",
+   "use": "Seizures and migraine",
+   "epc": [],
+   "rxcui": "38404",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "aripiprazole",
+   "brand": "Abilify",
+   "use": "Schizophrenia and bipolar disorder",
+   "epc": [
+    "Atypical Antipsychotic"
+   ],
+   "rxcui": "89013",
+   "area": "Mental health"
+  },
+  {
+   "generic": "buspirone",
+   "brand": "Buspar",
+   "use": "Anxiety",
+   "epc": [],
+   "rxcui": "1827",
+   "area": "Mental health"
+  },
+  {
+   "generic": "diclofenac",
+   "brand": "Voltaren",
+   "use": "Pain and arthritis",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug"
+   ],
+   "rxcui": "3355",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "rivaroxaban",
+   "brand": "Xarelto",
+   "use": "Clot prevention",
+   "epc": [
+    "Factor Xa Inhibitor"
+   ],
+   "rxcui": "1114195",
+   "area": "Blood clots"
+  },
+  {
+   "generic": "ondansetron",
+   "brand": "",
+   "use": "Nausea",
+   "epc": [
+    "Serotonin-3 Receptor Antagonist"
+   ],
+   "rxcui": "26225",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "hydroxyzine",
+   "brand": "Vistaril",
+   "use": "Itching and anxiety",
+   "epc": [
+    "Antihistamine"
+   ],
+   "rxcui": "5553",
+   "area": "Mental health"
+  },
+  {
+   "generic": "empagliflozin",
+   "brand": "Jardiance",
+   "use": "Diabetes and heart failure",
+   "epc": [
+    "Sodium-Glucose Cotransporter 2 Inhibitor"
+   ],
+   "rxcui": "1545653",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "dulaglutide",
+   "brand": "Trulicity",
+   "use": "Diabetes",
+   "epc": [
+    "GLP-1 Receptor Agonist"
+   ],
+   "rxcui": "1551291",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "semaglutide",
+   "brand": "Ozempic",
+   "use": "Diabetes",
+   "epc": [
+    "GLP-1 Receptor Agonist"
+   ],
+   "rxcui": "1991302",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "sitagliptin",
+   "brand": "Januvia",
+   "use": "Diabetes",
+   "epc": [
+    "Dipeptidyl Peptidase 4 Inhibitor"
+   ],
+   "rxcui": "593411",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "pioglitazone",
+   "brand": "Actos",
+   "use": "Diabetes",
+   "epc": [
+    "Peroxisome Proliferator-activated Receptor alpha Agonist",
+    "Peroxisome Proliferator-activated Receptor gamma Agonist"
+   ],
+   "rxcui": "33738",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "glimepiride",
+   "brand": "",
+   "use": "Diabetes",
+   "epc": [
+    "Sulfonylurea"
+   ],
+   "rxcui": "25789",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "glyburide",
+   "brand": "Glynase",
+   "use": "Diabetes",
+   "epc": [
+    "Sulfonylurea"
+   ],
+   "rxcui": "4815",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "insulin lispro",
+   "brand": "Humalog",
+   "use": "Diabetes",
+   "epc": [
+    "Insulin Analog"
+   ],
+   "rxcui": "86009",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "insulin aspart",
+   "brand": "Novolog",
+   "use": "Diabetes",
+   "epc": [],
+   "rxcui": "51428",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "methylphenidate",
+   "brand": "Ritalin",
+   "use": "ADHD",
+   "epc": [
+    "Central Nervous System Stimulant"
+   ],
+   "rxcui": "6901",
+   "area": "Mental health"
+  },
+  {
+   "generic": "lisdexamfetamine",
+   "brand": "Vyvanse",
+   "use": "ADHD",
+   "epc": [
+    "Central Nervous System Stimulant"
+   ],
+   "rxcui": "700810",
+   "area": "Mental health"
+  },
+  {
+   "generic": "finasteride",
+   "brand": "Proscar",
+   "use": "Prostate",
+   "epc": [
+    "5-alpha Reductase Inhibitor"
+   ],
+   "rxcui": "25025",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "oxybutynin",
+   "brand": "",
+   "use": "Overactive bladder",
+   "epc": [
+    "Cholinergic Muscarinic Antagonist"
+   ],
+   "rxcui": "32675",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "sumatriptan",
+   "brand": "Imitrex",
+   "use": "Migraine",
+   "epc": [
+    "Serotonin-1b and Serotonin-1d Receptor Agonist"
+   ],
+   "rxcui": "37418",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "fenofibrate",
+   "brand": "Tricor",
+   "use": "Triglycerides",
+   "epc": [
+    "Peroxisome Proliferator-activated Receptor alpha Agonist"
+   ],
+   "rxcui": "8703",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "ezetimibe",
+   "brand": "Zetia",
+   "use": "Cholesterol",
+   "epc": [
+    "Dietary Cholesterol Absorption Inhibitor"
+   ],
+   "rxcui": "341248",
+   "area": "Cholesterol"
+  },
+  {
+   "generic": "valsartan",
+   "brand": "Diovan",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin 2 Receptor Blocker"
+   ],
+   "rxcui": "69749",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "olmesartan",
+   "brand": "Benicar",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin 2 Receptor Blocker"
+   ],
+   "rxcui": "321064",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "irbesartan",
+   "brand": "Avapro",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin 2 Receptor Blocker"
+   ],
+   "rxcui": "83818",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "benazepril",
+   "brand": "Lotensin",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin Converting Enzyme Inhibitor"
+   ],
+   "rxcui": "18867",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "enalapril",
+   "brand": "Vasotec",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin Converting Enzyme Inhibitor"
+   ],
+   "rxcui": "3827",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "ramipril",
+   "brand": "Altace",
+   "use": "Blood pressure",
+   "epc": [
+    "Angiotensin Converting Enzyme Inhibitor"
+   ],
+   "rxcui": "35296",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "diltiazem",
+   "brand": "Cardizem",
+   "use": "Blood pressure and heart rhythm",
+   "epc": [
+    "Calcium Channel Blocker"
+   ],
+   "rxcui": "3443",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "verapamil",
+   "brand": "Calan",
+   "use": "Blood pressure and heart rhythm",
+   "epc": [
+    "Calcium Channel Blocker"
+   ],
+   "rxcui": "11170",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "nifedipine",
+   "brand": "Procardia",
+   "use": "Blood pressure",
+   "epc": [
+    "Dihydropyridine Calcium Channel Blocker"
+   ],
+   "rxcui": "7417",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "hydralazine",
+   "brand": "",
+   "use": "Blood pressure",
+   "epc": [
+    "Arteriolar Vasodilator"
+   ],
+   "rxcui": "5470",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "clonidine",
+   "brand": "Catapres",
+   "use": "Blood pressure",
+   "epc": [
+    "Central alpha-2 Adrenergic Agonist"
+   ],
+   "rxcui": "2599",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "doxazosin",
+   "brand": "Cardura",
+   "use": "Blood pressure and prostate",
+   "epc": [
+    "alpha-Adrenergic Blocker"
+   ],
+   "rxcui": "49276",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "chlorthalidone",
+   "brand": "Thalitone",
+   "use": "Blood pressure",
+   "epc": [
+    "Thiazide-like Diuretic"
+   ],
+   "rxcui": "2409",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "torsemide",
+   "brand": "",
+   "use": "Fluid",
+   "epc": [
+    "Loop Diuretic"
+   ],
+   "rxcui": "38413",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "bumetanide",
+   "brand": "Bumex",
+   "use": "Fluid",
+   "epc": [
+    "Loop Diuretic"
+   ],
+   "rxcui": "1808",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "triamterene",
+   "brand": "Dyrenium",
+   "use": "Fluid",
+   "epc": [
+    "Potassium-sparing Diuretic"
+   ],
+   "rxcui": "10763",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "digoxin",
+   "brand": "Lanoxin",
+   "use": "Heart failure and heart rhythm",
+   "epc": [
+    "Cardiac Glycoside"
+   ],
+   "rxcui": "3407",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "amiodarone",
+   "brand": "Pacerone",
+   "use": "Heart rhythm",
+   "epc": [
+    "Antiarrhythmic"
+   ],
+   "rxcui": "703",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "isosorbide mononitrate",
+   "brand": "",
+   "use": "Angina",
+   "epc": [
+    "Nitrate Vasodilator"
+   ],
+   "rxcui": "28004",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "nitroglycerin",
+   "brand": "Nitrostat",
+   "use": "Angina",
+   "epc": [
+    "Nitrate Vasodilator"
+   ],
+   "rxcui": "4917",
+   "area": "Heart and blood pressure"
+  },
+  {
+   "generic": "dabigatran etexilate",
+   "brand": "Pradaxa",
+   "use": "Clot prevention",
+   "epc": [],
+   "rxcui": "1037042",
+   "area": "Blood clots"
+  },
+  {
+   "generic": "mirtazapine",
+   "brand": "Remeron",
+   "use": "Depression",
+   "epc": [],
+   "rxcui": "15996",
+   "area": "Mental health"
+  },
+  {
+   "generic": "paroxetine",
+   "brand": "Paxil",
+   "use": "Depression and anxiety",
+   "epc": [
+    "Serotonin Reuptake Inhibitor"
+   ],
+   "rxcui": "32937",
+   "area": "Mental health"
+  },
+  {
+   "generic": "amitriptyline",
+   "brand": "Elavil",
+   "use": "Depression and nerve pain",
+   "epc": [
+    "Tricyclic Antidepressant"
+   ],
+   "rxcui": "704",
+   "area": "Mental health"
+  },
+  {
+   "generic": "nortriptyline",
+   "brand": "Pamelor",
+   "use": "Depression",
+   "epc": [
+    "Tricyclic Antidepressant"
+   ],
+   "rxcui": "7531",
+   "area": "Mental health"
+  },
+  {
+   "generic": "risperidone",
+   "brand": "Risperdal",
+   "use": "Schizophrenia and bipolar disorder",
+   "epc": [
+    "Atypical Antipsychotic"
+   ],
+   "rxcui": "35636",
+   "area": "Mental health"
+  },
+  {
+   "generic": "olanzapine",
+   "brand": "Zyprexa",
+   "use": "Schizophrenia and bipolar disorder",
+   "epc": [
+    "Atypical Antipsychotic"
+   ],
+   "rxcui": "61381",
+   "area": "Mental health"
+  },
+  {
+   "generic": "haloperidol",
+   "brand": "Haldol",
+   "use": "Schizophrenia",
+   "epc": [
+    "Typical Antipsychotic"
+   ],
+   "rxcui": "5093",
+   "area": "Mental health"
+  },
+  {
+   "generic": "lithium carbonate",
+   "brand": "Lithobid",
+   "use": "Bipolar disorder",
+   "epc": [],
+   "rxcui": "42351",
+   "area": "Mental health"
+  },
+  {
+   "generic": "divalproex sodium",
+   "brand": "Depakote",
+   "use": "Seizures and bipolar disorder",
+   "epc": [],
+   "rxcui": "266856",
+   "area": "Mental health"
+  },
+  {
+   "generic": "levetiracetam",
+   "brand": "Keppra",
+   "use": "Seizures",
+   "epc": [],
+   "rxcui": "114477",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "carbamazepine",
+   "brand": "Tegretol",
+   "use": "Seizures",
+   "epc": [
+    "Mood Stabilizer"
+   ],
+   "rxcui": "2002",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "oxcarbazepine",
+   "brand": "Trileptal",
+   "use": "Seizures",
+   "epc": [
+    "Anti-epileptic Agent"
+   ],
+   "rxcui": "32624",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "phenytoin",
+   "brand": "Dilantin",
+   "use": "Seizures",
+   "epc": [
+    "Anti-epileptic Agent"
+   ],
+   "rxcui": "8183",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "pregabalin",
+   "brand": "Lyrica",
+   "use": "Nerve pain",
+   "epc": [],
+   "rxcui": "187832",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "diazepam",
+   "brand": "Valium",
+   "use": "Anxiety and muscle spasm",
+   "epc": [
+    "Benzodiazepine"
+   ],
+   "rxcui": "3322",
+   "area": "Mental health"
+  },
+  {
+   "generic": "temazepam",
+   "brand": "Restoril",
+   "use": "Sleep",
+   "epc": [
+    "Benzodiazepine"
+   ],
+   "rxcui": "10355",
+   "area": "Mental health"
+  },
+  {
+   "generic": "baclofen",
+   "brand": "Lioresal",
+   "use": "Muscle spasm",
+   "epc": [
+    "gamma-Aminobutyric Acid-ergic Agonist"
+   ],
+   "rxcui": "1292",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "tizanidine",
+   "brand": "Zanaflex",
+   "use": "Muscle spasm",
+   "epc": [
+    "Central alpha-2 Adrenergic Agonist"
+   ],
+   "rxcui": "57258",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "methocarbamol",
+   "brand": "Robaxin",
+   "use": "Muscle spasm",
+   "epc": [
+    "Muscle Relaxant"
+   ],
+   "rxcui": "6845",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "donepezil",
+   "brand": "Aricept",
+   "use": "Dementia",
+   "epc": [
+    "Cholinesterase Inhibitor"
+   ],
+   "rxcui": "135447",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "memantine",
+   "brand": "Namenda",
+   "use": "Dementia",
+   "epc": [
+    "N-methyl-D-aspartate Receptor Antagonist"
+   ],
+   "rxcui": "6719",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "ropinirole",
+   "brand": "",
+   "use": "Parkinson disease and restless legs",
+   "epc": [
+    "Nonergot Dopamine Agonist"
+   ],
+   "rxcui": "72302",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "pramipexole",
+   "brand": "Mirapex",
+   "use": "Parkinson disease and restless legs",
+   "epc": [
+    "Nonergot Dopamine Agonist"
+   ],
+   "rxcui": "746741",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "carbidopa",
+   "brand": "Lodosyn",
+   "use": "Parkinson disease",
+   "epc": [
+    "Aromatic Amino Acid Decarboxylation Inhibitor"
+   ],
+   "rxcui": "2019",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "oxycodone",
+   "brand": "Roxicodone",
+   "use": "Pain",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "7804",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "morphine",
+   "brand": "MS Contin",
+   "use": "Pain",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "7052",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "hydromorphone",
+   "brand": "Dilaudid",
+   "use": "Pain",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "3423",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "methadone",
+   "brand": "Dolophine",
+   "use": "Pain and opioid use disorder",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "6813",
+   "area": "Mental health"
+  },
+  {
+   "generic": "buprenorphine",
+   "brand": "",
+   "use": "Opioid use disorder",
+   "epc": [
+    "Partial Opioid Agonist"
+   ],
+   "rxcui": "1819",
+   "area": "Mental health"
+  },
+  {
+   "generic": "naloxone",
+   "brand": "Narcan",
+   "use": "Opioid overdose",
+   "epc": [
+    "Opioid Antagonist"
+   ],
+   "rxcui": "7242",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "naltrexone",
+   "brand": "Revia",
+   "use": "Alcohol and opioid use disorder",
+   "epc": [
+    "Opioid Antagonist"
+   ],
+   "rxcui": "7243",
+   "area": "Mental health"
+  },
+  {
+   "generic": "acetaminophen",
+   "brand": "Tylenol",
+   "use": "Pain and fever",
+   "epc": [],
+   "rxcui": "161",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "naproxen",
+   "brand": "Naprosyn",
+   "use": "Pain and arthritis",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug"
+   ],
+   "rxcui": "7258",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "celecoxib",
+   "brand": "Celebrex",
+   "use": "Pain and arthritis",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug"
+   ],
+   "rxcui": "140587",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "colchicine",
+   "brand": "Colcrys",
+   "use": "Gout",
+   "epc": [
+    "Alkaloid"
+   ],
+   "rxcui": "2683",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "methotrexate",
+   "brand": "Trexall",
+   "use": "Arthritis and cancer",
+   "epc": [
+    "Folate Analog Metabolic Inhibitor"
+   ],
+   "rxcui": "6851",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "hydroxychloroquine",
+   "brand": "Plaquenil",
+   "use": "Lupus and arthritis",
+   "epc": [
+    "Antimalarial",
+    "Antirheumatic Agent"
+   ],
+   "rxcui": "5521",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "azithromycin",
+   "brand": "Zithromax",
+   "use": "Infection",
+   "epc": [
+    "Macrolide Antimicrobial"
+   ],
+   "rxcui": "18631",
+   "area": "Infections"
+  },
+  {
+   "generic": "cephalexin",
+   "brand": "Keflex",
+   "use": "Infection",
+   "epc": [
+    "Cephalosporin Antibacterial"
+   ],
+   "rxcui": "2231",
+   "area": "Infections"
+  },
+  {
+   "generic": "ciprofloxacin",
+   "brand": "Cipro",
+   "use": "Infection",
+   "epc": [
+    "Fluoroquinolone Antibacterial"
+   ],
+   "rxcui": "2551",
+   "area": "Infections"
+  },
+  {
+   "generic": "levofloxacin",
+   "brand": "Levaquin",
+   "use": "Infection",
+   "epc": [
+    "Fluoroquinolone Antibacterial"
+   ],
+   "rxcui": "82122",
+   "area": "Infections"
+  },
+  {
+   "generic": "doxycycline",
+   "brand": "Vibramycin",
+   "use": "Infection",
+   "epc": [
+    "Tetracycline-class Drug"
+   ],
+   "rxcui": "3640",
+   "area": "Infections"
+  },
+  {
+   "generic": "sulfamethoxazole",
+   "brand": "Bactrim",
+   "use": "Infection",
+   "epc": [
+    "Sulfonamide Antimicrobial"
+   ],
+   "rxcui": "10180",
+   "area": "Infections"
+  },
+  {
+   "generic": "nitrofurantoin",
+   "brand": "Macrobid",
+   "use": "Urinary infection",
+   "epc": [
+    "Nitrofuran Antibacterial"
+   ],
+   "rxcui": "7454",
+   "area": "Infections"
+  },
+  {
+   "generic": "clindamycin",
+   "brand": "Cleocin",
+   "use": "Infection",
+   "epc": [
+    "Lincosamide Antibacterial"
+   ],
+   "rxcui": "2582",
+   "area": "Infections"
+  },
+  {
+   "generic": "metronidazole",
+   "brand": "Flagyl",
+   "use": "Infection",
+   "epc": [
+    "Nitroimidazole Antimicrobial"
+   ],
+   "rxcui": "6922",
+   "area": "Infections"
+  },
+  {
+   "generic": "cefdinir",
+   "brand": "",
+   "use": "Infection",
+   "epc": [
+    "Cephalosporin Antibacterial"
+   ],
+   "rxcui": "25037",
+   "area": "Infections"
+  },
+  {
+   "generic": "penicillin V",
+   "brand": "",
+   "use": "Infection",
+   "epc": [
+    "Penicillin-class Antibacterial"
+   ],
+   "rxcui": "7984",
+   "area": "Infections"
+  },
+  {
+   "generic": "valacyclovir",
+   "brand": "Valtrex",
+   "use": "Herpes infections",
+   "epc": [
+    "Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",
+    "Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor"
+   ],
+   "rxcui": "73645",
+   "area": "Infections"
+  },
+  {
+   "generic": "acyclovir",
+   "brand": "Zovirax",
+   "use": "Herpes infections",
+   "epc": [
+    "Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor",
+    "Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor"
+   ],
+   "rxcui": "281",
+   "area": "Infections"
+  },
+  {
+   "generic": "oseltamivir",
+   "brand": "Tamiflu",
+   "use": "Influenza",
+   "epc": [
+    "Neuraminidase Inhibitor"
+   ],
+   "rxcui": "260101",
+   "area": "Infections"
+  },
+  {
+   "generic": "fluconazole",
+   "brand": "Diflucan",
+   "use": "Fungal infection",
+   "epc": [
+    "Azole Antifungal"
+   ],
+   "rxcui": "4450",
+   "area": "Infections"
+  },
+  {
+   "generic": "terbinafine",
+   "brand": "Lamisil",
+   "use": "Fungal infection",
+   "epc": [
+    "Allylamine Antifungal"
+   ],
+   "rxcui": "37801",
+   "area": "Infections"
+  },
+  {
+   "generic": "nystatin",
+   "brand": "",
+   "use": "Fungal infection",
+   "epc": [
+    "Polyene Antifungal"
+   ],
+   "rxcui": "7597",
+   "area": "Infections"
+  },
+  {
+   "generic": "mupirocin",
+   "brand": "Bactroban",
+   "use": "Skin infection",
+   "epc": [
+    "RNA Synthetase Inhibitor Antibacterial"
+   ],
+   "rxcui": "42372",
+   "area": "Infections"
+  },
+  {
+   "generic": "triamcinolone",
+   "brand": "Kenalog",
+   "use": "Skin inflammation",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "10759",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "hydrocortisone",
+   "brand": "Cortef",
+   "use": "Inflammation",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "5492",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "methylprednisolone",
+   "brand": "Medrol",
+   "use": "Inflammation",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "6902",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "dexamethasone",
+   "brand": "Decadron",
+   "use": "Inflammation",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "3264",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "budesonide",
+   "brand": "Pulmicort",
+   "use": "Asthma",
+   "epc": [
+    "Corticosteroid"
+   ],
+   "rxcui": "19831",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "tiotropium",
+   "brand": "Spiriva",
+   "use": "COPD",
+   "epc": [
+    "Anticholinergic"
+   ],
+   "rxcui": "69120",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "ipratropium",
+   "brand": "Atrovent",
+   "use": "COPD",
+   "epc": [
+    "Anticholinergic"
+   ],
+   "rxcui": "7213",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "benzonatate",
+   "brand": "Tessalon Perles",
+   "use": "Cough",
+   "epc": [
+    "Non-narcotic Antitussive"
+   ],
+   "rxcui": "18993",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "promethazine",
+   "brand": "Phenergan",
+   "use": "Nausea and allergy",
+   "epc": [
+    "Phenothiazine"
+   ],
+   "rxcui": "8745",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "meclizine",
+   "brand": "Antivert",
+   "use": "Vertigo",
+   "epc": [
+    "Antiemetic"
+   ],
+   "rxcui": "6676",
+   "area": "Brain and nerves"
+  },
+  {
+   "generic": "diphenhydramine",
+   "brand": "Benadryl",
+   "use": "Allergy and sleep",
+   "epc": [
+    "Histamine-1 Receptor Antagonist"
+   ],
+   "rxcui": "3498",
+   "area": "Mental health"
+  },
+  {
+   "generic": "fexofenadine",
+   "brand": "Allegra",
+   "use": "Allergy",
+   "epc": [
+    "Histamine-1 Receptor Antagonist"
+   ],
+   "rxcui": "87636",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "levocetirizine",
+   "brand": "Xyzal",
+   "use": "Allergy",
+   "epc": [
+    "Histamine-1 Receptor Antagonist"
+   ],
+   "rxcui": "356887",
+   "area": "Lungs and allergy"
+  },
+  {
+   "generic": "esomeprazole",
+   "brand": "Nexium",
+   "use": "Stomach acid",
+   "epc": [
+    "Proton Pump Inhibitor"
+   ],
+   "rxcui": "283742",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "lansoprazole",
+   "brand": "Prevacid",
+   "use": "Stomach acid",
+   "epc": [
+    "Proton Pump Inhibitor"
+   ],
+   "rxcui": "17128",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "sucralfate",
+   "brand": "Carafate",
+   "use": "Ulcer",
+   "epc": [
+    "Aluminum Complex"
+   ],
+   "rxcui": "10156",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "metoclopramide",
+   "brand": "Reglan",
+   "use": "Nausea and slow stomach emptying",
+   "epc": [
+    "Dopamine-2 Receptor Antagonist"
+   ],
+   "rxcui": "6915",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "dicyclomine",
+   "brand": "Bentyl",
+   "use": "Irritable bowel",
+   "epc": [
+    "Anticholinergic"
+   ],
+   "rxcui": "3361",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "docusate",
+   "brand": "Colace",
+   "use": "Constipation",
+   "epc": [],
+   "rxcui": "82003",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "polyethylene glycol 3350",
+   "brand": "Miralax",
+   "use": "Constipation",
+   "epc": [
+    "Osmotic Laxative"
+   ],
+   "rxcui": "221147",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "loperamide",
+   "brand": "Imodium",
+   "use": "Diarrhea",
+   "epc": [
+    "Opioid Agonist"
+   ],
+   "rxcui": "6468",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "mesalamine",
+   "brand": "Lialda",
+   "use": "Ulcerative colitis",
+   "epc": [
+    "Aminosalicylate"
+   ],
+   "rxcui": "52582",
+   "area": "Stomach and bowel"
+  },
+  {
+   "generic": "tolterodine",
+   "brand": "Detrol",
+   "use": "Overactive bladder",
+   "epc": [
+    "Cholinergic Muscarinic Antagonist"
+   ],
+   "rxcui": "119565",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "mirabegron",
+   "brand": "Myrbetriq",
+   "use": "Overactive bladder",
+   "epc": [
+    "beta3-Adrenergic Agonist"
+   ],
+   "rxcui": "1300786",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "sildenafil",
+   "brand": "Viagra",
+   "use": "Erectile dysfunction",
+   "epc": [
+    "Phosphodiesterase 5 Inhibitor"
+   ],
+   "rxcui": "136411",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "tadalafil",
+   "brand": "Cialis",
+   "use": "Erectile dysfunction and prostate",
+   "epc": [
+    "Phosphodiesterase 5 Inhibitor"
+   ],
+   "rxcui": "358263",
+   "area": "Urinary and prostate"
+  },
+  {
+   "generic": "medroxyprogesterone",
+   "brand": "Provera",
+   "use": "Hormone therapy",
+   "epc": [
+    "Progestin"
+   ],
+   "rxcui": "6691",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "norethindrone",
+   "brand": "",
+   "use": "Hormone therapy",
+   "epc": [
+    "Progestin"
+   ],
+   "rxcui": "7514",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "progesterone",
+   "brand": "Prometrium",
+   "use": "Hormone therapy",
+   "epc": [
+    "Progesterone"
+   ],
+   "rxcui": "8727",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "raloxifene",
+   "brand": "Evista",
+   "use": "Osteoporosis",
+   "epc": [
+    "Estrogen Agonist/Antagonist"
+   ],
+   "rxcui": "72143",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "alendronate",
+   "brand": "",
+   "use": "Osteoporosis",
+   "epc": [
+    "Bisphosphonate"
+   ],
+   "rxcui": "46041",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "ibandronate",
+   "brand": "",
+   "use": "Osteoporosis",
+   "epc": [
+    "Bisphosphonate"
+   ],
+   "rxcui": "115264",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "liothyronine",
+   "brand": "Cytomel",
+   "use": "Thyroid",
+   "epc": [
+    "l-Triiodothyronine"
+   ],
+   "rxcui": "10814",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "methimazole",
+   "brand": "",
+   "use": "Overactive thyroid",
+   "epc": [
+    "Thyroid Hormone Synthesis Inhibitor"
+   ],
+   "rxcui": "6835",
+   "area": "Diabetes and thyroid"
+  },
+  {
+   "generic": "testosterone",
+   "brand": "Androgel",
+   "use": "Hormone therapy",
+   "epc": [
+    "Androgen"
+   ],
+   "rxcui": "10379",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "latanoprost",
+   "brand": "Xalatan",
+   "use": "Glaucoma",
+   "epc": [
+    "Prostaglandin Analog"
+   ],
+   "rxcui": "43611",
+   "area": "Eyes and skin"
+  },
+  {
+   "generic": "timolol",
+   "brand": "Timoptic",
+   "use": "Glaucoma",
+   "epc": [
+    "beta-Adrenergic Blocker"
+   ],
+   "rxcui": "10600",
+   "area": "Eyes and skin"
+  },
+  {
+   "generic": "brimonidine",
+   "brand": "Alphagan",
+   "use": "Glaucoma",
+   "epc": [
+    "alpha-Adrenergic Agonist"
+   ],
+   "rxcui": "134615",
+   "area": "Eyes and skin"
+  },
+  {
+   "generic": "ketorolac",
+   "brand": "Sprix",
+   "use": "Pain",
+   "epc": [
+    "Nonsteroidal Anti-inflammatory Drug",
+    "Cyclooxygenase Inhibitor"
+   ],
+   "rxcui": "35827",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "lidocaine",
+   "brand": "Lidoderm",
+   "use": "Local pain",
+   "epc": [
+    "Antiarrhythmic",
+    "Amide Local Anesthetic"
+   ],
+   "rxcui": "6387",
+   "area": "Pain and inflammation"
+  },
+  {
+   "generic": "folic acid",
+   "brand": "",
+   "use": "Vitamin",
+   "epc": [],
+   "rxcui": "4511",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "cyanocobalamin",
+   "brand": "",
+   "use": "Vitamin B12",
+   "epc": [],
+   "rxcui": "11248",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "ergocalciferol",
+   "brand": "Drisdol",
+   "use": "Vitamin D",
+   "epc": [
+    "Provitamin D2 Compound"
+   ],
+   "rxcui": "4018",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "ferrous sulfate",
+   "brand": "Feosol",
+   "use": "Iron",
+   "epc": [],
+   "rxcui": "24947",
+   "area": "Hormones, bones and supplements"
+  },
+  {
+   "generic": "clotrimazole",
+   "brand": "Lotrimin",
+   "use": "Fungal infection",
+   "epc": [
+    "Azole Antifungal"
+   ],
+   "rxcui": "2623",
+   "area": "Infections"
+  },
+  {
+   "generic": "guaifenesin",
+   "brand": "Mucinex",
+   "use": "Chest congestion",
+   "epc": [
+    "Expectorant"
+   ],
+   "rxcui": "5032",
+   "area": "Lungs and allergy"
+  }
+ ]
+}

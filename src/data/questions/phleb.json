@@ -1,0 +1,2554 @@
+{
+  "questions": [
+    {
+      "id": "ph-safety-01",
+      "exam": "cpt",
+      "domain": "safety",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (patient identification)",
+      "q": "Which pair of identifiers is appropriate for confirming a patient's identity before venipuncture?",
+      "options": [
+        "Room number and bed number",
+        "Diagnosis and ordering provider",
+        "Full name and date of birth",
+        "Last name and room number"
+      ],
+      "answer": 2,
+      "explain": "Two patient specific identifiers, such as full name and date of birth or a medical record number, must match the requisition and, for inpatients, the ID band. A room or bed number is never an identifier because patients move and rooms are reassigned."
+    },
+    {
+      "id": "ph-safety-02",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (patient identification)",
+      "q": "How should an outpatient be asked to confirm identity?",
+      "options": [
+        "Ask the patient to state their full name and date of birth",
+        "Ask 'Are you Maria Lopez?' and wait for a yes",
+        "Read the name aloud from the requisition",
+        "Check the name on the patient's insurance card only"
+      ],
+      "answer": 0,
+      "explain": "Open ended questions require the patient to supply the information, which avoids a confused, hard of hearing or distracted patient simply agreeing. A yes or no question, or reading the name aloud, invites a false confirmation."
+    },
+    {
+      "id": "ph-safety-03",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (patient identification)",
+      "q": "An inpatient has no identification band on the wrist. What should the phlebotomist do?",
+      "options": [
+        "Collect the sample and label it from the door sign",
+        "Ask a visitor to confirm the patient's name",
+        "Tape a temporary label to the bed rail and draw",
+        "Ask the nurse to place an ID band before collecting"
+      ],
+      "answer": 3,
+      "explain": "Inpatients must have an ID band matched to the requisition before collection. The phlebotomist notifies the nurse, who confirms identity and applies a band per facility policy. Door signs and visitors are not reliable identifiers."
+    },
+    {
+      "id": "ph-safety-04",
+      "exam": "cpt",
+      "domain": "safety",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (infection control, hand hygiene)",
+      "q": "When may an alcohol based hand rub be used instead of soap and water?",
+      "options": [
+        "Only after caring for a C. difficile patient",
+        "When hands are not visibly soiled",
+        "When hands are visibly dirty with blood",
+        "Never, soap and water is always required"
+      ],
+      "answer": 1,
+      "explain": "Alcohol based hand rub is the preferred method for routine hand hygiene when hands are not visibly soiled. Visible soiling requires soap and water, and so does caring for patients with C. difficile, because alcohol does not kill its spores."
+    },
+    {
+      "id": "ph-safety-05",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (infection control, hand hygiene)",
+      "q": "A phlebotomist leaves the room of a patient with Clostridioides difficile. Which hand hygiene method is preferred?",
+      "options": [
+        "Alcohol based hand rub only",
+        "Washing with soap and running water",
+        "Wiping hands with an alcohol prep pad",
+        "Putting on a new pair of gloves"
+      ],
+      "answer": 1,
+      "explain": "C. difficile forms spores that alcohol does not reliably kill. Washing with soap and water physically removes them. Gloves do not replace hand hygiene, and an alcohol pad is not a hand hygiene method."
+    },
+    {
+      "id": "ph-safety-06",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (infection control, gloves)",
+      "q": "When must gloves be changed during patient care?",
+      "options": [
+        "Only at the end of each work shift",
+        "Only when they visibly tear or leak",
+        "After every third patient on the list",
+        "Between patients, with hand hygiene"
+      ],
+      "answer": 3,
+      "explain": "Gloves are single use: they are changed between patients, and hand hygiene is performed after removal because gloves can have small defects and hands can be contaminated during removal. Wearing the same gloves for several patients spreads infection."
+    },
+    {
+      "id": "ph-safety-07",
+      "exam": "cpt",
+      "domain": "safety",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (sharps safety)",
+      "q": "When should the safety feature on a venipuncture needle be activated?",
+      "options": [
+        "Right after the needle leaves the vein",
+        "After the tubes have been labeled",
+        "Before the needle first enters the skin",
+        "When the patient has left the room"
+      ],
+      "answer": 0,
+      "explain": "The safety device is activated right after the needle leaves the vein, ideally with one hand, so the contaminated point is never exposed. Waiting until labeling or later leaves an exposed needle on the tray and raises the risk of a stick."
+    },
+    {
+      "id": "ph-safety-08",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (sharps safety)",
+      "q": "What is the correct practice for a used venipuncture needle?",
+      "options": [
+        "Recap it with both hands before discarding",
+        "Bend the needle so it cannot be reused",
+        "Do not recap; activate the safety device and discard it",
+        "Remove the needle from the holder by hand"
+      ],
+      "answer": 2,
+      "explain": "OSHA's bloodborne pathogens standard prohibits recapping, bending or removing contaminated needles unless no alternative exists. The safety device is engaged and the needle and holder go into a sharps container as one unit when designed for single use."
+    },
+    {
+      "id": "ph-safety-09",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (sharps safety)",
+      "q": "When should a sharps container be replaced?",
+      "options": [
+        "Only when it is completely full to the top",
+        "At the end of every shift regardless of level",
+        "When a needle sticks out of the opening",
+        "When it reaches the fill line marked on the container"
+      ],
+      "answer": 3,
+      "explain": "Sharps containers are closed and replaced when contents reach the manufacturer's fill line, usually about three quarters full. Overfilling leads to needles protruding and sticks during disposal; a protruding needle means the container was already overfilled."
+    },
+    {
+      "id": "ph-safety-10",
+      "exam": "cpt",
+      "domain": "safety",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (needlestick exposure)",
+      "q": "A phlebotomist sustains a needlestick from a used needle. What is the first action?",
+      "options": [
+        "Squeeze the wound and apply bleach",
+        "Wash the site with soap and water",
+        "Finish the draw and report at shift end",
+        "Cover the wound and continue working"
+      ],
+      "answer": 1,
+      "explain": "First aid for a needlestick is to wash the area with soap and water right away, then report the exposure immediately so post exposure evaluation and any needed treatment can start promptly. Bleach and squeezing are not recommended, and delaying the report wastes valuable time."
+    },
+    {
+      "id": "ph-safety-11",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (needlestick exposure)",
+      "q": "After first aid for a needlestick, why must the exposure be reported to the supervisor immediately?",
+      "options": [
+        "So the patient can be billed for the event",
+        "So the phlebotomist can be scheduled off",
+        "So post exposure evaluation can begin quickly",
+        "So the needle brand can be changed"
+      ],
+      "answer": 2,
+      "explain": "Under OSHA, employers must provide a confidential medical evaluation and follow up after an exposure incident. Some treatments, such as HIV post exposure prophylaxis, work best when started within hours, so prompt reporting matters."
+    },
+    {
+      "id": "ph-safety-12",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (OSHA bloodborne pathogens standard)",
+      "q": "Under OSHA's bloodborne pathogens standard, what must the employer offer workers with occupational exposure?",
+      "options": [
+        "Hepatitis B vaccination at no cost",
+        "Hepatitis C vaccination at no cost",
+        "HIV vaccination at reduced cost",
+        "Annual flu shots paid by the worker"
+      ],
+      "answer": 0,
+      "explain": "Employers must offer the hepatitis B vaccine series free of charge to employees with occupational exposure, within 10 working days of initial assignment. There is no vaccine for hepatitis C or HIV. A worker may decline by signing a declination form."
+    },
+    {
+      "id": "ph-safety-13",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (OSHA bloodborne pathogens standard)",
+      "q": "How often must an employer's Exposure Control Plan be reviewed and updated under OSHA?",
+      "options": [
+        "At least once a year",
+        "Every 5 years",
+        "Only after an exposure",
+        "Every 3 months"
+      ],
+      "answer": 0,
+      "explain": "OSHA requires the Exposure Control Plan to be reviewed and updated at least annually and whenever tasks or procedures change. The review must consider safer medical devices and include input from frontline employees."
+    },
+    {
+      "id": "ph-safety-14",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (Needlestick Safety and Prevention Act)",
+      "q": "Which requirement was added by the Needlestick Safety and Prevention Act?",
+      "options": [
+        "Free HIV vaccine for all healthcare workers",
+        "Recapping all needles using two hands",
+        "Safety engineered sharps and an injury log",
+        "Reusing needle holders after cleaning"
+      ],
+      "answer": 2,
+      "explain": "The Act updated OSHA's standard to require evaluation and use of safety engineered sharps, a sharps injury log and input from frontline workers in choosing devices. Recapping with two hands is prohibited, and no HIV vaccine exists."
+    },
+    {
+      "id": "ph-safety-15",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (standard precautions)",
+      "q": "What do standard precautions require?",
+      "options": [
+        "Wearing gloves only for patients known to be infected",
+        "Treating all blood and body fluids as potentially infectious",
+        "Using precautions only in isolation rooms",
+        "Testing every patient for HIV before a draw"
+      ],
+      "answer": 1,
+      "explain": "Standard precautions apply to every patient regardless of diagnosis, because infection status is often unknown. They include hand hygiene, gloves for contact with blood, and other PPE when splashes are likely."
+    },
+    {
+      "id": "ph-safety-16",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (transmission based precautions)",
+      "q": "A patient is on contact precautions. Which PPE does the phlebotomist put on before entering?",
+      "options": [
+        "N95 respirator only",
+        "Surgical mask only",
+        "Shoe covers only",
+        "Gown and gloves"
+      ],
+      "answer": 3,
+      "explain": "Contact precautions, used for organisms such as MRSA, require a gown and gloves on entry. An N95 respirator is for airborne precautions, and a surgical mask is for droplet precautions."
+    },
+    {
+      "id": "ph-safety-17",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (transmission based precautions)",
+      "q": "Which PPE is required for droplet precautions, used for illnesses such as influenza?",
+      "options": [
+        "A fit tested N95 respirator",
+        "A gown only",
+        "A surgical mask",
+        "No PPE beyond gloves"
+      ],
+      "answer": 2,
+      "explain": "Droplet precautions call for a surgical mask when entering the room, because large respiratory droplets travel only a short distance. An N95 respirator is required for airborne diseases such as tuberculosis, measles and chickenpox."
+    },
+    {
+      "id": "ph-safety-18",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (transmission based precautions)",
+      "q": "A patient with suspected tuberculosis needs a blood draw. Which respiratory protection is required?",
+      "options": [
+        "A fit tested N95 respirator",
+        "A standard surgical mask",
+        "A face shield alone",
+        "No mask if the patient wears one"
+      ],
+      "answer": 0,
+      "explain": "Tuberculosis spreads by airborne particles, so airborne precautions apply: a fit tested N95 or higher respirator, and the patient is placed in an airborne infection isolation room. A surgical mask does not filter the smallest particles."
+    },
+    {
+      "id": "ph-safety-19",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (PPE removal)",
+      "q": "According to CDC guidance, which item of PPE is usually removed first?",
+      "options": [
+        "Mask",
+        "Goggles",
+        "Gown",
+        "Gloves"
+      ],
+      "answer": 3,
+      "explain": "CDC's sequence removes the most contaminated item, gloves, first, then goggles or face shield, then gown, then mask or respirator, with hand hygiene at the end. An alternative method removes gown and gloves together. Removing the mask first risks touching the face with contaminated gloves."
+    },
+    {
+      "id": "ph-safety-20",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (PPE donning)",
+      "q": "In CDC's recommended sequence for putting on PPE, which item goes on last?",
+      "options": [
+        "Gown",
+        "Gloves",
+        "Mask",
+        "Goggles"
+      ],
+      "answer": 1,
+      "explain": "PPE is put on as gown, mask or respirator, goggles or face shield, then gloves last, so the gloves can be pulled over the gown cuffs. Putting gloves on first would mean handling the other items with gloved hands and leaving gaps at the wrists."
+    },
+    {
+      "id": "ph-safety-21",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (spill cleanup)",
+      "q": "Blood spills on the drawing station counter. Which disinfectant is appropriate after absorbing the spill?",
+      "options": [
+        "Plain tap water followed by a dry paper towel",
+        "1:10 bleach or EPA registered disinfectant",
+        "70% alcohol sprayed on and wiped off at once",
+        "Hand lotion to loosen and lift the dried blood"
+      ],
+      "answer": 1,
+      "explain": "After absorbing visible blood with gloves on, the area is disinfected with a freshly prepared 1:10 dilution of household bleach or an EPA registered disinfectant, left on for the labeled contact time. Water alone does not disinfect, and wiping alcohol off immediately does not allow contact time."
+    },
+    {
+      "id": "ph-safety-22",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (biohazard waste)",
+      "q": "Which container is appropriate for blood soaked gauze?",
+      "options": [
+        "A regular trash can with a lid",
+        "The nearest sharps disposal container",
+        "A paper recycling bin",
+        "A red or biohazard labeled waste bag"
+      ],
+      "answer": 3,
+      "explain": "Gauze saturated with blood is regulated medical waste and goes in a red bag or biohazard labeled container. The sharps container is for needles and other sharps; filling it with soft waste wastes capacity and may violate policy."
+    },
+    {
+      "id": "ph-safety-23",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (chain of infection)",
+      "q": "Performing hand hygiene between patients breaks which link of the chain of infection?",
+      "options": [
+        "Mode of transmission",
+        "Infectious agent",
+        "Reservoir of the organism",
+        "Susceptible host"
+      ],
+      "answer": 0,
+      "explain": "The chain of infection includes the infectious agent, reservoir, portal of exit, mode of transmission, portal of entry and susceptible host. Hand hygiene interrupts the mode of transmission because hands are a major way organisms travel between patients. Vaccination protects the susceptible host."
+    },
+    {
+      "id": "ph-safety-24",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (bloodborne pathogens)",
+      "q": "Which bloodborne pathogen carries the highest risk of infection after a needlestick from an infected source when the worker is not immune?",
+      "options": [
+        "HIV",
+        "Hepatitis C virus",
+        "Hepatitis B virus",
+        "Influenza virus"
+      ],
+      "answer": 2,
+      "explain": "The risk of hepatitis B transmission after a needlestick from an infected source is far higher than for hepatitis C or HIV in an unvaccinated worker, and the virus can survive in dried blood for days. Vaccination greatly reduces this risk. Influenza is not a bloodborne pathogen."
+    },
+    {
+      "id": "ph-safety-25",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (HIPAA)",
+      "q": "Which action complies with HIPAA privacy rules?",
+      "options": [
+        "Talking about a patient's results in the elevator",
+        "Leaving requisitions face up at the waiting area",
+        "Posting a patient's name with a test on social media",
+        "Discussing results only with authorized staff who need them"
+      ],
+      "answer": 3,
+      "explain": "HIPAA limits use and disclosure of protected health information to those who need it for treatment, payment or operations. Conversations in public areas, uncovered paperwork and social media posts can expose PHI."
+    },
+    {
+      "id": "ph-safety-26",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (HIPAA)",
+      "q": "The HIPAA minimum necessary standard means what for a phlebotomist?",
+      "options": [
+        "Draw the minimum blood volume for any test",
+        "Access only the information needed to do the job",
+        "Collect the fewest tubes possible per patient",
+        "Share results only with the patient's employer"
+      ],
+      "answer": 1,
+      "explain": "The minimum necessary standard limits access to and disclosure of protected health information to what is needed for the task. It does not concern blood volumes. Employers are generally not entitled to results without patient authorization."
+    },
+    {
+      "id": "ph-safety-27",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (quality control, supplies)",
+      "q": "Why must evacuated tube expiration dates be checked before use?",
+      "options": [
+        "Expired tubes change color and confuse the order of draw",
+        "Expired tubes are heavier and harder to fill",
+        "Expired tubes may lose vacuum or have degraded additives",
+        "Expired tubes are fine if still sealed"
+      ],
+      "answer": 2,
+      "explain": "After expiration, tubes may lose vacuum, causing short draws, and additives may break down, affecting results. Expired tubes are discarded. Sealing does not prevent the slow loss of vacuum over time."
+    },
+    {
+      "id": "ph-safety-28",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (quality control, equipment)",
+      "q": "Why are daily temperature logs kept for a specimen refrigerator?",
+      "options": [
+        "To document that specimens are stored in range",
+        "To track how often staff open the door",
+        "To record the number of specimens stored",
+        "To show when the refrigerator was cleaned"
+      ],
+      "answer": 0,
+      "explain": "Temperature logs are a quality control record that shows specimens and reagents were kept within the required range. If a reading falls out of range, corrective action is taken and documented. Other records track cleaning or specimen counts."
+    },
+    {
+      "id": "ph-safety-29",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (incident reporting)",
+      "q": "A phlebotomist realizes a tube was labeled with the wrong patient's name after it was sent. What is the appropriate action?",
+      "options": [
+        "Report it to the supervisor and lab at once",
+        "Ignore it since the lab will catch it",
+        "Relabel the tube once it is back in the lab",
+        "Wait to see whether results look abnormal"
+      ],
+      "answer": 0,
+      "explain": "Mislabeling can lead to wrong diagnoses or transfusion errors, so it must be reported at once so the specimen can be rejected and recollected. Incident reports support quality improvement. Relabeling a specimen after it leaves the patient is not acceptable."
+    },
+    {
+      "id": "ph-safety-30",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (workplace safety)",
+      "q": "Which practice is required in areas where specimens are handled?",
+      "options": [
+        "Food may be stored with specimens if wrapped",
+        "Drinks are allowed on the counter with lids",
+        "No eating, drinking or applying cosmetics",
+        "Snacks are allowed if gloves are worn"
+      ],
+      "answer": 2,
+      "explain": "OSHA prohibits eating, drinking, smoking, applying cosmetics or lip balm and handling contact lenses where occupational exposure is likely. Food and drinks may not be stored in refrigerators or on counters where blood is present."
+    },
+    {
+      "id": "ph-safety-31",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (fire safety)",
+      "q": "In the RACE fire response, what does the first letter stand for?",
+      "options": [
+        "Run",
+        "Rescue",
+        "Report",
+        "Remove"
+      ],
+      "answer": 1,
+      "explain": "RACE stands for Rescue, Alarm, Contain and Extinguish or Evacuate. The first step is to rescue anyone in immediate danger, then activate the alarm. Running or reporting are not the terms used in this sequence."
+    },
+    {
+      "id": "ph-safety-32",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (fire safety)",
+      "q": "In the PASS method for a fire extinguisher, what does the A stand for?",
+      "options": [
+        "Activate the alarm",
+        "Alert the supervisor",
+        "Approach from downwind",
+        "Aim at the base of the fire"
+      ],
+      "answer": 3,
+      "explain": "PASS means Pull the pin, Aim at the base of the fire, Squeeze the handle and Sweep side to side. Activating the alarm belongs to the RACE sequence, a separate memory aid used for the overall fire response."
+    },
+    {
+      "id": "ph-safety-33",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (chemical safety)",
+      "q": "Where can a phlebotomist find hazard and first aid information for a chemical used in the lab?",
+      "options": [
+        "The patient's requisition form",
+        "The centrifuge maintenance log",
+        "The Safety Data Sheet for that chemical",
+        "The tube manufacturer's color chart"
+      ],
+      "answer": 2,
+      "explain": "Under OSHA's Hazard Communication Standard, employers keep Safety Data Sheets for hazardous chemicals, listing hazards, handling, PPE and first aid. The other documents do not provide chemical hazard information."
+    },
+    {
+      "id": "ph-safety-34",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (exposure response)",
+      "q": "Blood splashes into a phlebotomist's eyes. How long should the eyes be flushed at the eyewash station?",
+      "options": [
+        "At least 15 minutes",
+        "About 30 seconds",
+        "About 2 minutes",
+        "Until the stinging stops"
+      ],
+      "answer": 0,
+      "explain": "Eyewash standards call for flushing for at least 15 minutes, holding the eyelids open, followed by reporting the exposure. A short rinse may not remove all the material, and stinging can stop before the eye is clean."
+    },
+    {
+      "id": "ph-safety-35",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (gloves)",
+      "q": "A glove tears during a venipuncture. Once the draw is safely completed, what should the phlebotomist do?",
+      "options": [
+        "Cover the tear with tape and continue",
+        "Put a second glove over the torn one",
+        "Finish the shift with the torn glove",
+        "Change gloves after hand hygiene"
+      ],
+      "answer": 3,
+      "explain": "A torn glove no longer protects the wearer. After the patient is safe, the gloves are removed, hand hygiene is performed and new gloves are put on. Taping or layering over a tear does not remove contamination that may already be on the skin."
+    },
+    {
+      "id": "ph-safety-36",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (infection control, equipment)",
+      "q": "Why do many facilities use single use tourniquets?",
+      "options": [
+        "Single use tourniquets apply more pressure",
+        "Reusable tourniquets can carry bacteria such as MRSA",
+        "Single use tourniquets are required for children only",
+        "Reusable tourniquets cause hemolysis"
+      ],
+      "answer": 1,
+      "explain": "Studies have found reusable tourniquets contaminated with bacteria, including MRSA, so single use tourniquets help prevent transmission between patients. They do not change pressure or cause hemolysis."
+    },
+    {
+      "id": "ph-safety-37",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (isolation procedures)",
+      "q": "Which practice is correct when collecting blood from a patient in contact isolation?",
+      "options": [
+        "Bring the full tray into the room",
+        "Bring in only needed supplies",
+        "Skip hand hygiene since PPE is worn",
+        "Carry the specimens out without a bag"
+      ],
+      "answer": 1,
+      "explain": "To prevent contamination, only the supplies needed are taken into the room, and the phlebotomy tray stays outside. Hand hygiene is still needed before and after PPE. Specimens are placed in a biohazard bag per facility policy."
+    },
+    {
+      "id": "ph-safety-38",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (consent)",
+      "q": "After the phlebotomist explains the procedure, a patient silently rolls up a sleeve and extends an arm. What type of consent is this?",
+      "options": [
+        "Informed written consent",
+        "Expressed verbal consent",
+        "Emergency consent",
+        "Implied consent"
+      ],
+      "answer": 3,
+      "explain": "Implied consent is shown through actions, such as offering an arm after the procedure is explained, and is generally accepted for routine venipuncture. Informed written consent is used for more invasive procedures. The patient may still withdraw consent at any time."
+    },
+    {
+      "id": "ph-safety-39",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (patient rights)",
+      "q": "A patient refuses to have blood drawn. What is the appropriate action?",
+      "options": [
+        "Respect the refusal, notify the nurse or provider and document",
+        "Restrain the patient so the test can be done",
+        "Draw the blood while the patient is distracted",
+        "Tell the patient they have no right to refuse"
+      ],
+      "answer": 0,
+      "explain": "Competent patients have the right to refuse procedures. The phlebotomist may explain the purpose but must not pressure or force the patient, and the refusal is reported to the nurse or provider and documented per policy."
+    },
+    {
+      "id": "ph-safety-40",
+      "exam": "cpt",
+      "domain": "safety",
+      "ref": "NHA CPT test plan 2025, Safety and Compliance (quality assurance)",
+      "q": "Which activity is an example of quality assurance in phlebotomy?",
+      "options": [
+        "Choosing the fastest tube brand available",
+        "Drawing extra tubes in case of errors",
+        "Monitoring specimen rejection rates and correcting causes",
+        "Skipping documentation when the lab is busy"
+      ],
+      "answer": 2,
+      "explain": "Quality assurance tracks indicators such as rejected specimens, recollections and patient identification errors, then addresses their causes. Drawing extra tubes without orders wastes blood, and skipping documentation undermines quality."
+    },
+    {
+      "id": "ph-prep-01",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (requisitions)",
+      "q": "Which item must appear on a laboratory requisition?",
+      "options": [
+        "The patient's employer",
+        "The phlebotomist's home phone",
+        "The patient's height and weight",
+        "The name of the ordering provider"
+      ],
+      "answer": 3,
+      "explain": "A requisition identifies the patient, the ordering provider, the tests requested and other details such as date, special instructions and diagnosis codes for billing. Employer details and the collector's personal information are not required."
+    },
+    {
+      "id": "ph-prep-02",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (fasting)",
+      "q": "A patient fasting for a lipid panel asks what may be consumed. Which is generally allowed during the fast?",
+      "options": [
+        "Black coffee with sugar",
+        "Plain water",
+        "Chewing gum",
+        "A small glass of juice"
+      ],
+      "answer": 1,
+      "explain": "During a typical 8 to 12 hour fast, plain water is usually allowed and helps keep veins full. Coffee with sugar, juice and gum can change glucose and other results, so they are avoided unless the provider instructs otherwise."
+    },
+    {
+      "id": "ph-prep-03",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (fasting)",
+      "q": "A patient scheduled for a fasting glucose says he ate breakfast an hour ago. What should the phlebotomist do?",
+      "options": [
+        "Collect it and label it fasting anyway",
+        "Send the patient home without telling anyone",
+        "Follow policy, such as contacting the provider, and document",
+        "Have the patient drink water and wait 15 minutes"
+      ],
+      "answer": 2,
+      "explain": "A nonfasting sample can give misleading results. The phlebotomist follows facility policy, which often means notifying the provider for instructions and, if collected, clearly documenting that the patient was not fasting. Labeling it fasting would be falsification."
+    },
+    {
+      "id": "ph-prep-04",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (patient positioning)",
+      "q": "Which position is appropriate for an outpatient venipuncture?",
+      "options": [
+        "Seated in a drawing chair with an armrest",
+        "Standing at the counter with arm extended",
+        "Sitting on a stool with no arm support",
+        "Perched on the edge of an exam table"
+      ],
+      "answer": 0,
+      "explain": "Patients should sit in a phlebotomy chair with an armrest that supports the arm and can prevent a fall if the patient faints, or lie down. Standing, sitting on a stool or perching on a table edge creates a fall risk."
+    },
+    {
+      "id": "ph-prep-05",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (patient positioning)",
+      "q": "A patient says she has fainted during past blood draws. What is the best preparation?",
+      "options": [
+        "Have her lie down for the procedure",
+        "Ask her to stand so it goes faster",
+        "Have her hold her breath during the draw",
+        "Use the arm on the side she sleeps on"
+      ],
+      "answer": 0,
+      "explain": "Patients with a history of fainting should lie down, which keeps blood flowing to the brain and prevents falls. Standing increases the risk of injury, and holding the breath can contribute to lightheadedness."
+    },
+    {
+      "id": "ph-prep-06",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (fainting)",
+      "q": "During a venipuncture, the seated patient becomes pale and says she feels faint. What should the phlebotomist do first?",
+      "options": [
+        "Continue until all tubes are filled",
+        "Give her an ammonia inhalant right away",
+        "Release the tourniquet and remove the needle",
+        "Ask her to stand up and walk around"
+      ],
+      "answer": 2,
+      "explain": "At the first sign of fainting, the procedure is stopped: tourniquet released, needle removed, pressure applied and the patient's head lowered or the patient lowered to lie down, with help called as needed. Continuing the draw or standing her up risks injury."
+    },
+    {
+      "id": "ph-prep-07",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (vein selection)",
+      "q": "Which antecubital vein is usually the first choice for venipuncture?",
+      "options": [
+        "Basilic",
+        "Median cubital",
+        "Cephalic",
+        "Accessory cephalic"
+      ],
+      "answer": 1,
+      "explain": "The median cubital vein is generally large, well anchored and away from major nerves and arteries, so it is usually the first choice. The cephalic is second, and the basilic is last because it lies near the brachial artery and the median nerve. There is no radial vein used routinely."
+    },
+    {
+      "id": "ph-prep-08",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (vein selection)",
+      "q": "Why is the basilic vein usually the last choice in the antecubital area?",
+      "options": [
+        "It is the largest vein and bleeds too much",
+        "It is always too deep to reach with a needle",
+        "It cannot be used for evacuated tubes",
+        "It lies near the brachial artery and median nerve"
+      ],
+      "answer": 3,
+      "explain": "The basilic vein runs close to the brachial artery and the median nerve and tends to roll, so arterial puncture and nerve injury are more likely. It can be used when no other vein is suitable, with extra care."
+    },
+    {
+      "id": "ph-prep-09",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (contraindicated sites)",
+      "q": "A patient had a left mastectomy with lymph node removal. Which arm should be used?",
+      "options": [
+        "The left arm",
+        "Either arm with a tighter tourniquet",
+        "The right arm",
+        "The left arm below the elbow"
+      ],
+      "answer": 2,
+      "explain": "After a mastectomy with lymph node removal, the arm on that side is at risk of lymphedema and infection, and results can be affected. Blood is drawn from the opposite arm unless the provider gives permission otherwise."
+    },
+    {
+      "id": "ph-prep-10",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (contraindicated sites)",
+      "q": "A patient has an IV infusing in the left forearm, and the right arm is available. Where should blood be drawn?",
+      "options": [
+        "From the right arm",
+        "From the left arm above the IV",
+        "From the IV line itself",
+        "From the left arm right next to the IV"
+      ],
+      "answer": 0,
+      "explain": "Drawing from the arm without an IV avoids contamination of the sample with IV fluid. If both arms have IVs, a draw below the IV after the infusion is stopped for a time set by policy may be done. Drawing above an IV is not acceptable."
+    },
+    {
+      "id": "ph-prep-11",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (contraindicated sites)",
+      "q": "A dialysis patient has an arteriovenous fistula in the left arm. What is the rule for that arm?",
+      "options": [
+        "Use it since the vein is large and easy",
+        "Draw from the fistula with a large needle",
+        "Use it only for blood cultures",
+        "Do not use it for venipuncture or a tourniquet"
+      ],
+      "answer": 3,
+      "explain": "An AV fistula or graft is the patient's dialysis lifeline. Venipuncture or a tourniquet on that arm can damage it or cause clotting or infection. Blood is drawn from the other arm unless a physician directs otherwise."
+    },
+    {
+      "id": "ph-prep-12",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (site selection)",
+      "q": "Why should an edematous (swollen) area be avoided for venipuncture?",
+      "options": [
+        "Edema makes the blood clot faster",
+        "Tissue fluid can dilute and alter the sample",
+        "The skin is too thin to cleanse properly",
+        "Edema raises the patient's blood pressure"
+      ],
+      "answer": 1,
+      "explain": "Edematous tissue contains excess fluid that can contaminate the specimen and change results. Veins are also hard to find and the site may heal poorly. Another site is chosen."
+    },
+    {
+      "id": "ph-prep-13",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (site selection)",
+      "q": "A patient has a large bruise from a previous draw in the right antecubital area. What should the phlebotomist do?",
+      "options": [
+        "Draw directly through the bruise",
+        "Choose another site away from the hematoma",
+        "Apply the tourniquet over the bruise",
+        "Massage the bruise to find the vein"
+      ],
+      "answer": 1,
+      "explain": "Drawing through a hematoma is painful and can yield old blood or hemolyzed samples. Another site is chosen; if that area must be used, the draw is made below the hematoma. Massaging the bruise does not help."
+    },
+    {
+      "id": "ph-prep-14",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (site selection)",
+      "q": "Which area should be avoided when selecting a venipuncture site?",
+      "options": [
+        "The median cubital vein of the non dominant arm",
+        "Veins on the back of the hand",
+        "The cephalic vein on the thumb side",
+        "Areas with extensive scars or burns"
+      ],
+      "answer": 3,
+      "explain": "Scarred or burned tissue is hard to penetrate, veins are difficult to feel and healing and infection risks are greater. Hand veins and the cephalic vein are acceptable alternatives when antecubital veins are not suitable."
+    },
+    {
+      "id": "ph-prep-15",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (latex allergy)",
+      "q": "A patient states a latex allergy. Which step is correct?",
+      "options": [
+        "Use latex free gloves, tourniquet and bandage",
+        "Use latex gloves but a latex free bandage",
+        "Place gauze between skin and a latex tourniquet",
+        "Proceed normally since contact is brief"
+      ],
+      "answer": 0,
+      "explain": "For a patient with latex allergy, all items that touch the patient, including gloves, tourniquet and bandage, must be latex free, and the room should be free of latex products. Even brief contact can trigger a severe reaction."
+    },
+    {
+      "id": "ph-prep-16",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (vein palpation)",
+      "q": "How does a suitable vein usually feel when palpated?",
+      "options": [
+        "Pulsating with each heartbeat",
+        "Hard and cordlike",
+        "Bouncy and resilient",
+        "Rigid like a tendon"
+      ],
+      "answer": 2,
+      "explain": "A good vein feels bouncy or springy. A pulse means an artery, which must not be used for routine venipuncture. A hard, cordlike vein may be sclerosed or thrombosed, and tendons feel rigid."
+    },
+    {
+      "id": "ph-prep-17",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (tourniquet application)",
+      "q": "Where is a tourniquet placed for an antecubital venipuncture?",
+      "options": [
+        "Directly over the intended site",
+        "At the wrist below the site",
+        "About 10 inches above the elbow",
+        "About 3 to 4 inches above the intended site"
+      ],
+      "answer": 3,
+      "explain": "The tourniquet goes about 3 to 4 inches above the puncture site, tight enough to slow venous return but not arterial flow. Too close to the site can make veins collapse when the needle goes in, and too far up has little effect."
+    },
+    {
+      "id": "ph-prep-18",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (vein selection aids)",
+      "q": "Which technique can help make a patient's veins more prominent?",
+      "options": [
+        "Raising the arm above the heart",
+        "Lowering the arm and applying a warm compress",
+        "Having the patient pump the fist hard",
+        "Applying ice to the antecubital area"
+      ],
+      "answer": 1,
+      "explain": "Gravity and warmth increase blood flow to the veins. Raising the arm or applying ice does the opposite. Vigorous fist pumping is avoided because it can falsely raise potassium and other results."
+    },
+    {
+      "id": "ph-prep-19",
+      "exam": "cpt",
+      "domain": "prep",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Patient Preparation (patient preparation)",
+      "q": "Why should a patient not repeatedly pump the fist before venipuncture?",
+      "options": [
+        "It causes the needle to bend",
+        "It lowers the blood glucose",
+        "It can falsely raise potassium levels",
+        "It prevents the tourniquet from working"
+      ],
+      "answer": 2,
+      "explain": "Repeated fist clenching causes muscle cells to release potassium, which can falsely elevate the result. The patient may make a gentle fist, but pumping is avoided. It does not affect the needle or glucose."
+    },
+    {
+      "id": "ph-prep-20",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (vein selection)",
+      "q": "Antecubital veins are unusable, but good veins are visible on the back of the hand. Which equipment is usually preferred?",
+      "options": [
+        "A winged set with a smaller gauge needle",
+        "A large gauge needle with a syringe",
+        "A capillary lancet for all tubes",
+        "A 16 gauge needle for faster flow"
+      ],
+      "answer": 0,
+      "explain": "Hand veins are smaller and more fragile, so a winged (butterfly) set with a smaller needle, often 23 gauge, is commonly used. A 16 gauge needle is far too large, and capillary collection cannot provide multiple venous tubes."
+    },
+    {
+      "id": "ph-prep-21",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (pediatric patients)",
+      "q": "During venipuncture on a young child, what is the role of a parent or second staff member?",
+      "options": [
+        "Helping keep the child still and comforted",
+        "Holding the tubes while the needle is placed",
+        "Choosing which vein should be used",
+        "Applying the tourniquet for the phlebotomist"
+      ],
+      "answer": 0,
+      "explain": "Children may move suddenly, risking injury. A second person helps immobilize and comfort the child, following facility policy. Equipment handling and vein selection remain the phlebotomist's responsibility."
+    },
+    {
+      "id": "ph-prep-22",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (alternate sites)",
+      "q": "Antecubital and hand veins are unavailable. What is usually required before drawing from a vein in the foot or leg?",
+      "options": [
+        "Approval from the patient's family",
+        "A second phlebotomist to confirm the vein",
+        "Permission from the provider per facility policy",
+        "Nothing, since leg veins are first choice"
+      ],
+      "answer": 2,
+      "explain": "Leg, ankle and foot veins carry a higher risk of clots and infection, especially in patients with diabetes or poor circulation, so most facilities require a provider's permission before using them. They are never first choice."
+    },
+    {
+      "id": "ph-prep-23",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (patient preparation)",
+      "q": "An inpatient is asleep when the phlebotomist arrives. What should be done?",
+      "options": [
+        "Draw the blood without waking the patient",
+        "Wake the patient gently and confirm identity",
+        "Ask the roommate to confirm the name",
+        "Use the name on the door sign"
+      ],
+      "answer": 1,
+      "explain": "A sleeping patient might startle and move, risking injury, and cannot confirm identity or consent. The patient is gently awakened and identified with two identifiers before the procedure. Roommates and door signs are not reliable."
+    },
+    {
+      "id": "ph-prep-24",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (patient preparation)",
+      "q": "A patient taking an anticoagulant has blood drawn. What adjustment is usually needed after the needle is removed?",
+      "options": [
+        "Apply no pressure to avoid bruising",
+        "Have the patient bend the elbow tightly",
+        "Wrap a tourniquet over the site",
+        "Apply pressure longer until bleeding stops"
+      ],
+      "answer": 3,
+      "explain": "Anticoagulants prolong bleeding, so pressure is held longer and the site checked to make sure bleeding has stopped before bandaging. Bending the elbow can reopen the puncture and cause a hematoma."
+    },
+    {
+      "id": "ph-prep-25",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (preanalytical variables)",
+      "q": "What does the term basal state mean for blood collection?",
+      "options": [
+        "Immediately after exercise and a meal",
+        "Late afternoon after a normal lunch",
+        "Early morning, rested, after fasting about 12 hours",
+        "Any time after taking all medications"
+      ],
+      "answer": 2,
+      "explain": "The basal state is the body's resting metabolic condition early in the morning after about 12 hours of fasting. Many reference ranges are based on it. Exercise, meals and time of day change many analytes."
+    },
+    {
+      "id": "ph-prep-26",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (preanalytical variables)",
+      "q": "Strenuous exercise before a blood draw can raise which test result?",
+      "options": [
+        "Creatine kinase (CK)",
+        "Hemoglobin A1c",
+        "Blood type",
+        "Hepatitis B antibody"
+      ],
+      "answer": 0,
+      "explain": "Muscle exertion releases enzymes such as creatine kinase into the blood, so strenuous exercise can raise CK for a day or more. Hemoglobin A1c reflects average glucose over months, and blood type and antibodies are not affected by exercise."
+    },
+    {
+      "id": "ph-prep-27",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (elderly patients)",
+      "q": "An elderly patient has thin skin and fragile veins. Which approach is appropriate?",
+      "options": [
+        "Use a large needle and a very tight tourniquet",
+        "Slap the vein repeatedly to raise it",
+        "Pull the skin firmly upward to anchor",
+        "Use a smaller needle and a loosely applied tourniquet"
+      ],
+      "answer": 3,
+      "explain": "Fragile veins can collapse or blow, and thin skin bruises and tears easily. A smaller needle or winged set, a gently applied tourniquet (sometimes over a sleeve) and careful anchoring reduce injury. Slapping can cause bruising and hemolysis."
+    },
+    {
+      "id": "ph-prep-28",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (preparation for timed tests)",
+      "q": "Why is cortisol often ordered at a specific time of day?",
+      "options": [
+        "It is unstable after noon",
+        "Its level varies in a daily rhythm",
+        "It requires an empty stomach",
+        "It can only be measured in the evening"
+      ],
+      "answer": 1,
+      "explain": "Cortisol shows diurnal variation, typically highest in the morning and lower later in the day, so the collection time must match the order for correct interpretation. Timing, not stability or fasting, is the main concern."
+    },
+    {
+      "id": "ph-prep-29",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (anxious patients)",
+      "q": "A patient says she is very nervous about needles. Which approach is most appropriate?",
+      "options": [
+        "Tell her not to look and start without warning",
+        "Explain each step calmly and offer to let her lie down",
+        "Ask a stranger in the waiting room to hold her arm",
+        "Reschedule the draw without telling the provider"
+      ],
+      "answer": 1,
+      "explain": "Calm explanation builds trust and lets the patient know what to expect, and lying down reduces the risk of injury if anxiety leads to fainting. Starting without warning can cause sudden movement and injury, and strangers should not be involved."
+    },
+    {
+      "id": "ph-prep-30",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (fainting risk)",
+      "q": "Which question asked before the draw helps identify a patient's risk of fainting?",
+      "options": [
+        "Which arm do you write with most days?",
+        "Did you bring your insurance card today?",
+        "Do you prefer a morning or afternoon visit?",
+        "Have you ever felt faint during a blood draw?"
+      ],
+      "answer": 3,
+      "explain": "A history of fainting or feeling faint during previous draws is a strong predictor of another episode. Knowing it in advance lets the phlebotomist position the patient lying down. Handedness can guide site choice, but it does not predict fainting."
+    },
+    {
+      "id": "ph-prep-31",
+      "exam": "cpt",
+      "domain": "prep",
+      "ref": "NHA CPT test plan 2025, Patient Preparation (equipment preparation)",
+      "q": "Before entering the patient's room, how does the phlebotomist decide which tubes to bring?",
+      "options": [
+        "By matching tubes to the tests on the requisition",
+        "By bringing one of every tube color available",
+        "By asking the patient which tubes they prefer",
+        "By using the same tubes as the previous patient"
+      ],
+      "answer": 0,
+      "explain": "The requisition lists the tests ordered, and each test requires a particular tube type and volume, per the laboratory's test directory. Bringing tubes at random wastes supplies and invites errors, and patients cannot select tube types."
+    },
+    {
+      "id": "ph-routine-01",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, CLSI GP41)",
+      "q": "According to the CLSI order of draw for venipuncture, which specimen is collected first?",
+      "options": [
+        "Light blue sodium citrate tube",
+        "Lavender EDTA tube",
+        "Blood culture bottles",
+        "Gold serum separator tube"
+      ],
+      "answer": 2,
+      "explain": "Blood cultures are collected first to keep them sterile and free of additive carryover. The sequence then continues with sodium citrate, serum tubes, heparin, EDTA and glycolytic inhibitor tubes."
+    },
+    {
+      "id": "ph-routine-02",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, CLSI GP41)",
+      "q": "Orders call for a PT/INR and a comprehensive metabolic panel in a gold SST. Which tube is drawn first?",
+      "options": [
+        "The gold serum separator tube",
+        "Either tube, the order does not matter",
+        "A lavender tube before both",
+        "The light blue sodium citrate tube"
+      ],
+      "answer": 3,
+      "explain": "In the CLSI order of draw, sodium citrate (light blue) comes before serum tubes, because clot activator carried into the citrate tube can affect coagulation results. No lavender tube was ordered, and the order of draw does matter."
+    },
+    {
+      "id": "ph-routine-03",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, CLSI GP41)",
+      "q": "A green heparin tube and a lavender EDTA tube are ordered. In what sequence are they drawn?",
+      "options": [
+        "Lavender, then green",
+        "Green, then lavender",
+        "Either order is acceptable",
+        "Lavender, with green from a separate stick"
+      ],
+      "answer": 1,
+      "explain": "Heparin tubes are drawn before EDTA tubes. EDTA carried into the heparin tube would bind calcium and add potassium, producing falsely low calcium and falsely high potassium in the chemistry results."
+    },
+    {
+      "id": "ph-routine-04",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, CLSI GP41)",
+      "q": "Where does the gray sodium fluoride and potassium oxalate tube fall in the CLSI order of draw?",
+      "options": [
+        "First, before blood cultures",
+        "Right after the light blue tube",
+        "Last, after the EDTA tube",
+        "Between the serum and heparin tubes"
+      ],
+      "answer": 2,
+      "explain": "Glycolytic inhibitor tubes such as gray tops are drawn last. Their additives, including oxalate and fluoride, could otherwise contaminate other tubes and interfere with tests such as electrolytes and enzyme assays."
+    },
+    {
+      "id": "ph-routine-05",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, CLSI GP41)",
+      "q": "Which sequence follows the CLSI order of draw?",
+      "options": [
+        "Culture, light blue, gold, green, lavender, gray",
+        "Culture, gold, light blue, lavender, green, gray",
+        "Light blue, culture, green, gold, gray, lavender",
+        "Lavender, light blue, culture, gold, green, gray"
+      ],
+      "answer": 0,
+      "explain": "The CLSI order is blood cultures, sodium citrate (light blue), serum tubes with or without clot activator or gel (red, gold), heparin (green), EDTA (lavender) and glycolytic inhibitor (gray). Placing gold before light blue risks clot activator reaching the coagulation tube."
+    },
+    {
+      "id": "ph-routine-06",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (order of draw, additive carryover)",
+      "q": "If EDTA carries over into a chemistry tube, which result pattern is most likely?",
+      "options": [
+        "Falsely high potassium and falsely low calcium",
+        "Falsely low potassium and falsely high calcium",
+        "Falsely high glucose and sodium",
+        "No change, since EDTA is inert"
+      ],
+      "answer": 0,
+      "explain": "The most common EDTA salt contains potassium and binds calcium. Carryover into a chemistry tube can therefore raise potassium and lower calcium falsely. Following the order of draw prevents this."
+    },
+    {
+      "id": "ph-routine-07",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube additives)",
+      "q": "Which additive is in a light blue top tube used for coagulation testing?",
+      "options": [
+        "Sodium heparin",
+        "K2 EDTA",
+        "Sodium citrate",
+        "Sodium fluoride"
+      ],
+      "answer": 2,
+      "explain": "Light blue tubes contain buffered sodium citrate, which binds calcium reversibly so clotting factors can be measured in tests such as PT/INR and aPTT. Heparin and EDTA are not used for routine coagulation testing."
+    },
+    {
+      "id": "ph-routine-08",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube filling)",
+      "q": "Why must a light blue sodium citrate tube be filled to its indicated volume?",
+      "options": [
+        "To make sure the blood clots completely",
+        "To keep the 9:1 blood to additive ratio",
+        "To prevent the gel barrier from moving",
+        "To keep the tube from breaking in the centrifuge"
+      ],
+      "answer": 1,
+      "explain": "Coagulation tests depend on a 9:1 ratio of blood to citrate. An underfilled tube has excess citrate, which falsely prolongs clotting times, so labs reject short draws. Light blue tubes do not contain gel and are meant to stay anticoagulated."
+    },
+    {
+      "id": "ph-routine-09",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (winged collection sets)",
+      "q": "A winged set is used, and a light blue tube is the first tube needed. What should be done first?",
+      "options": [
+        "Fill the light blue tube first with no discard",
+        "Tap the tubing to remove air before the stick",
+        "Use a syringe and push blood into the tube",
+        "Draw a discard tube to fill the tubing's air space"
+      ],
+      "answer": 3,
+      "explain": "The tubing of a winged set holds air. If the light blue tube is drawn first, that air takes up vacuum and causes underfilling. A discard tube, plain or citrate, is drawn first to prime the tubing. Pushing blood with a syringe plunger can hemolyze cells."
+    },
+    {
+      "id": "ph-routine-10",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube additives and tests)",
+      "q": "Which tube is typically used for a complete blood count (CBC)?",
+      "options": [
+        "Light blue top with citrate",
+        "Gray top with fluoride",
+        "Lavender top with EDTA",
+        "Red top with clot activator"
+      ],
+      "answer": 2,
+      "explain": "EDTA preserves the shape of blood cells and prevents clotting, so lavender tubes are standard for CBCs and hemoglobin A1c. Citrate is for coagulation, gray for glucose and red for serum tests."
+    },
+    {
+      "id": "ph-routine-11",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube additives and tests)",
+      "q": "Why is a gray top tube with sodium fluoride often used for glucose testing?",
+      "options": [
+        "Fluoride inhibits glycolysis by blood cells",
+        "Fluoride makes the blood clot faster",
+        "Fluoride removes lipids from the sample",
+        "Fluoride protects glucose from light"
+      ],
+      "answer": 0,
+      "explain": "Blood cells keep using glucose after collection, so glucose falls in an unseparated sample. Sodium fluoride inhibits glycolysis and preserves glucose, while potassium oxalate acts as the anticoagulant."
+    },
+    {
+      "id": "ph-routine-12",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube additives and tests)",
+      "q": "Which additive is in a green top tube?",
+      "options": [
+        "Sodium citrate",
+        "EDTA",
+        "Clot activator",
+        "Heparin"
+      ],
+      "answer": 3,
+      "explain": "Green tubes contain lithium or sodium heparin, which inhibits thrombin, and are used for plasma chemistry tests. Light green tubes also contain a gel separator. EDTA is in lavender tubes and citrate in light blue tubes."
+    },
+    {
+      "id": "ph-routine-13",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (serum tubes)",
+      "q": "What does a gold serum separator tube (SST) contain?",
+      "options": [
+        "EDTA and a gel separator",
+        "Clot activator and a gel separator",
+        "Lithium heparin and a gel separator",
+        "Buffered sodium citrate only"
+      ],
+      "answer": 1,
+      "explain": "An SST contains a clot activator to speed clotting and a gel that forms a barrier between serum and cells during centrifugation. Because it yields serum, it is drawn with serum tubes, after citrate and before heparin."
+    },
+    {
+      "id": "ph-routine-14",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (serum tubes)",
+      "q": "Where do plastic red top tubes with clot activator fall in the order of draw?",
+      "options": [
+        "Before blood culture bottles",
+        "After light blue, before heparin",
+        "After the gray tube at the very end",
+        "Between EDTA and gray tubes"
+      ],
+      "answer": 1,
+      "explain": "Red plastic tubes contain a clot activator and belong with the serum tubes, drawn after sodium citrate and before heparin, EDTA and gray tubes. Drawing them before the light blue tube could carry clot activator into the coagulation specimen."
+    },
+    {
+      "id": "ph-routine-15",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tourniquet time)",
+      "q": "What is the maximum time a tourniquet should remain in place during venipuncture?",
+      "options": [
+        "3 minutes",
+        "5 minutes",
+        "2 minutes",
+        "1 minute"
+      ],
+      "answer": 3,
+      "explain": "A tourniquet should stay on no longer than 1 minute. Longer application causes hemoconcentration, which can change many results. If more time is needed to find a vein, it is released and reapplied after about 2 minutes."
+    },
+    {
+      "id": "ph-routine-16",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tourniquet effects)",
+      "q": "Leaving the tourniquet on too long can cause which effect?",
+      "options": [
+        "Hemoconcentration of the sample",
+        "Hemodilution with falsely low proteins",
+        "Clotting of blood at the needle tip",
+        "Falsely lower potassium in the sample"
+      ],
+      "answer": 0,
+      "explain": "Prolonged tourniquet time pushes fluid out of the vein, concentrating cells, proteins and protein bound substances, so results such as total protein and cholesterol can be falsely high. Potassium may also rise rather than fall."
+    },
+    {
+      "id": "ph-routine-17",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (needle insertion)",
+      "q": "At what angle is the needle usually inserted for a routine venipuncture?",
+      "options": [
+        "45 to 60 degrees",
+        "90 degrees",
+        "30 degrees or less",
+        "Parallel to the skin at 0 degrees"
+      ],
+      "answer": 2,
+      "explain": "A shallow angle, typically 15 to 30 degrees, places the needle into the vein without passing through it. A steeper angle risks going through the back wall of the vein and causing a hematoma."
+    },
+    {
+      "id": "ph-routine-18",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (needle insertion)",
+      "q": "Which way should the needle bevel face during venipuncture?",
+      "options": [
+        "Down",
+        "Toward the thumb",
+        "It does not matter",
+        "Up"
+      ],
+      "answer": 3,
+      "explain": "With the bevel up, the sharp point enters the skin first and smoothly, causing less pain and making it easier to enter the vein. Bevel down can catch the vein wall and block blood flow."
+    },
+    {
+      "id": "ph-routine-19",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (anchoring the vein)",
+      "q": "How is a vein properly anchored before needle insertion?",
+      "options": [
+        "Index finger presses directly on the site",
+        "Thumb below the site pulls skin taut toward the hand",
+        "Thumb above the site pulls skin toward the shoulder",
+        "Two fingers form a V over the site"
+      ],
+      "answer": 1,
+      "explain": "Placing the thumb about 1 to 2 inches below the site and pulling the skin taut toward the hand keeps the vein from rolling. A finger over the site gets in the needle's path, and the V method risks a needlestick if the patient moves."
+    },
+    {
+      "id": "ph-routine-20",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (site cleansing)",
+      "q": "Why must the alcohol be allowed to air dry before the puncture?",
+      "options": [
+        "To make the vein easier to see",
+        "To keep the tourniquet from slipping",
+        "To disinfect well and avoid hemolysis",
+        "To prevent the blood from clotting in the tube"
+      ],
+      "answer": 2,
+      "explain": "Alcohol needs time to dry to disinfect effectively. Puncturing through wet alcohol stings and can hemolyze the sample. Blowing on or fanning the site would recontaminate it."
+    },
+    {
+      "id": "ph-routine-21",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (needle removal)",
+      "q": "When is the tourniquet released relative to needle removal?",
+      "options": [
+        "Before the needle is removed",
+        "After the needle is removed",
+        "After the bandage is applied",
+        "After the patient leaves"
+      ],
+      "answer": 0,
+      "explain": "The tourniquet is released before the needle is withdrawn, usually as the last tube fills. Removing the needle with the tourniquet on forces blood out of the puncture and causes a hematoma."
+    },
+    {
+      "id": "ph-routine-22",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (post puncture care)",
+      "q": "After the needle is withdrawn, how should pressure be applied?",
+      "options": [
+        "With gauze while the arm stays straight",
+        "With the arm bent tightly at the elbow",
+        "With an alcohol pad on the site",
+        "No pressure, just a bandage at once"
+      ],
+      "answer": 0,
+      "explain": "Firm pressure with clean gauze and the arm extended or slightly raised helps the puncture seal. Bending the elbow can reopen the site and cause bruising, and alcohol pads sting and slow clotting."
+    },
+    {
+      "id": "ph-routine-23",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (tube mixing)",
+      "q": "How should additive tubes be mixed after collection?",
+      "options": [
+        "Shaken vigorously for 10 seconds",
+        "Rolled slowly an hour later",
+        "Gently inverted right away",
+        "Left untouched until centrifuging"
+      ],
+      "answer": 2,
+      "explain": "Additive tubes are gently inverted immediately so the additive mixes with the blood, the number following manufacturer instructions. Vigorous shaking causes hemolysis, and delayed mixing can allow clots to form in anticoagulated tubes."
+    },
+    {
+      "id": "ph-routine-24",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (hemolysis)",
+      "q": "Which practice is a common cause of hemolyzed specimens?",
+      "options": [
+        "Using the median cubital vein",
+        "Shaking the tubes vigorously",
+        "Drawing tubes in the correct order",
+        "Allowing the alcohol to dry first"
+      ],
+      "answer": 1,
+      "explain": "Vigorous shaking ruptures red cells. Other causes include puncturing through wet alcohol, very small needles, forcing blood through a syringe needle and pulling hard on a syringe plunger. The other options are good practice."
+    },
+    {
+      "id": "ph-routine-25",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (hemolysis effects)",
+      "q": "Hemolysis most notably raises which test result?",
+      "options": [
+        "Sodium",
+        "Glucose",
+        "Albumin",
+        "Potassium"
+      ],
+      "answer": 3,
+      "explain": "Red blood cells contain much more potassium than plasma. When they rupture, potassium is released and the result is falsely high, so labs often reject hemolyzed specimens for potassium."
+    },
+    {
+      "id": "ph-routine-26",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (complications, hematoma)",
+      "q": "Which situation most often leads to a hematoma during venipuncture?",
+      "options": [
+        "The tourniquet is applied 3 to 4 inches above the site",
+        "The patient is seated in a drawing chair",
+        "The needle passes through the back wall of the vein",
+        "The bevel faces up during insertion"
+      ],
+      "answer": 2,
+      "explain": "Blood leaks into tissue when the needle goes through the vein, only partly enters it or when pressure afterward is inadequate. Removing the needle before releasing the tourniquet also causes hematomas. The other options are correct technique."
+    },
+    {
+      "id": "ph-routine-27",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (complications, arterial puncture)",
+      "q": "During a draw, the blood is bright red and pulses into the tube. What is the appropriate action?",
+      "options": [
+        "Remove the needle and apply firm pressure",
+        "Continue and label the tubes as venous",
+        "Apply a second tourniquet above the site",
+        "Raise the arm and leave the site uncovered"
+      ],
+      "answer": 0,
+      "explain": "Bright red, pulsing blood suggests an arterial puncture. The needle is removed and firm pressure applied for at least about 5 minutes, until bleeding stops, and the event is reported. Arterial blood should not be labeled as venous."
+    },
+    {
+      "id": "ph-routine-28",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (complications, nerve injury)",
+      "q": "A patient reports a sharp, electric pain shooting down the arm during the draw. What should the phlebotomist do?",
+      "options": [
+        "Probe gently to find a better spot",
+        "Ask the patient to hold still a minute",
+        "Tighten the tourniquet and continue",
+        "Remove the needle immediately"
+      ],
+      "answer": 3,
+      "explain": "Shooting or electric pain suggests nerve contact. The needle is removed immediately to avoid permanent injury, pressure is applied and the event is documented. Probing increases nerve damage."
+    },
+    {
+      "id": "ph-routine-29",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (troubleshooting)",
+      "q": "Blood flow stops partway through filling a tube, and the needle seems correctly placed. What is a reasonable first step?",
+      "options": [
+        "Probe in several directions to find the vein",
+        "Try a new tube in case the first lost its vacuum",
+        "Remove the needle and stick the other arm",
+        "Leave the tube on until it fills"
+      ],
+      "answer": 1,
+      "explain": "A tube that has lost vacuum will stop filling. Trying a new tube is a simple first check. Blind probing is painful and risks nerve or artery injury, and a new puncture is not needed before simple checks."
+    },
+    {
+      "id": "ph-routine-30",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (venipuncture attempts)",
+      "q": "Under common practice, after two unsuccessful attempts by one phlebotomist, what should happen?",
+      "options": [
+        "Keep trying until blood is obtained",
+        "Another phlebotomist tries, per policy",
+        "Draw from a nearby artery instead",
+        "Collect the sample from the IV line"
+      ],
+      "answer": 1,
+      "explain": "Common facility policies, based on CLSI guidance, limit a phlebotomist to two attempts. Another qualified person then tries, or the provider is notified. Repeated sticks cause pain and injury."
+    },
+    {
+      "id": "ph-routine-31",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (syringe collection)",
+      "q": "What is the safe way to fill tubes from a syringe draw?",
+      "options": [
+        "Push the needle through the stopper and press hard",
+        "Remove stoppers and squirt blood into the tubes",
+        "Pour blood from the syringe into the tubes",
+        "Use a syringe transfer device and let the vacuum fill tubes"
+      ],
+      "answer": 3,
+      "explain": "A transfer device prevents needlesticks, and letting each tube's vacuum draw the blood keeps the correct volume. Forcing blood with the plunger can hemolyze cells and pop stoppers. Removing stoppers breaks the closed system."
+    },
+    {
+      "id": "ph-routine-32",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (needle gauge)",
+      "q": "Which statement about needle gauge is correct?",
+      "options": [
+        "A higher gauge number means a smaller diameter",
+        "A higher gauge number means a larger diameter",
+        "Gauge refers to the length of the needle",
+        "All venipuncture needles share one gauge"
+      ],
+      "answer": 0,
+      "explain": "Gauge is inversely related to diameter: a 23 gauge needle is smaller than a 21 gauge. A 21 gauge is common for routine adult venipuncture. Length is measured separately in inches."
+    },
+    {
+      "id": "ph-routine-33",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture sites)",
+      "q": "Which area is appropriate for a heel puncture on an infant?",
+      "options": [
+        "The center of the back of the heel",
+        "The middle of the arch of the foot",
+        "Medial or lateral plantar heel surface",
+        "The fleshy tip of the big toe"
+      ],
+      "answer": 2,
+      "explain": "Heel punctures are made on the medial or lateral plantar surface, where the heel bone is deeper. The back curve of the heel, the arch and toes are avoided because bone, nerves or tendons lie close to the skin."
+    },
+    {
+      "id": "ph-routine-34",
+      "exam": "cpt",
+      "domain": "routine",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture sites)",
+      "q": "For an adult fingerstick, which site is preferred?",
+      "options": [
+        "The center of the thumb's fleshy pad",
+        "The tip of the index finger nail bed",
+        "The fifth finger close to the nail edge",
+        "Side of the middle or ring finger pad"
+      ],
+      "answer": 3,
+      "explain": "The middle and ring fingers of the non dominant hand are preferred, puncturing slightly to the side of the fleshy pad, across the fingerprint lines so blood forms a drop. The thumb has a pulse, the fifth finger has little tissue and the index finger is often calloused."
+    },
+    {
+      "id": "ph-routine-35",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture technique)",
+      "q": "Why is the first drop of blood usually wiped away in a capillary puncture?",
+      "options": [
+        "It contains too few red blood cells",
+        "It may contain tissue fluid and alcohol",
+        "It is always hemolyzed by the lancet",
+        "It clots before reaching the container"
+      ],
+      "answer": 1,
+      "explain": "The first drop can be contaminated with tissue fluid and residual alcohol, which affect results, so it is usually wiped away unless the test instructions say otherwise. Collection begins with the second drop."
+    },
+    {
+      "id": "ph-routine-36",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary order of draw)",
+      "q": "When several microcollection containers are filled from one skin puncture, which is generally collected first?",
+      "options": [
+        "The serum container",
+        "The gray fluoride container",
+        "The EDTA container",
+        "The green heparin container"
+      ],
+      "answer": 2,
+      "explain": "For skin puncture, CLSI recommends filling the EDTA container first, because platelets clump quickly at the site. Other additive containers come next and serum containers last. This differs from the venipuncture order."
+    },
+    {
+      "id": "ph-routine-37",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture technique)",
+      "q": "Why should the finger or heel not be squeezed hard during capillary collection?",
+      "options": [
+        "It causes hemolysis and tissue fluid dilution",
+        "It makes the puncture site close up faster",
+        "It increases the blood glucose falsely",
+        "It changes the color of the blood drops"
+      ],
+      "answer": 0,
+      "explain": "Strong squeezing, or milking, breaks red cells and forces tissue fluid into the sample, which can change potassium and other results. Gentle, intermittent pressure is acceptable."
+    },
+    {
+      "id": "ph-routine-38",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture technique)",
+      "q": "Why is a site warmed before a capillary puncture?",
+      "options": [
+        "To increase blood flow to the area",
+        "To sterilize the skin surface",
+        "To make the skin thicker",
+        "To slow the flow of blood"
+      ],
+      "answer": 0,
+      "explain": "Warming the site, for example with a commercial heel warmer for a few minutes, can increase blood flow several times over and makes collection easier. It does not sterilize the skin; cleansing with alcohol is still needed."
+    },
+    {
+      "id": "ph-routine-39",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (heel puncture depth)",
+      "q": "What is the maximum recommended depth of a heel puncture on an infant?",
+      "options": [
+        "3.5 mm",
+        "5.0 mm",
+        "2.0 mm",
+        "1 cm"
+      ],
+      "answer": 2,
+      "explain": "CLSI recommends heel punctures no deeper than 2.0 mm to avoid reaching the heel bone, which can cause osteomyelitis. Devices made for infants are designed to control depth."
+    },
+    {
+      "id": "ph-routine-40",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (capillary puncture limits)",
+      "q": "Which test generally cannot be collected by capillary puncture?",
+      "options": [
+        "Blood glucose",
+        "Blood cultures",
+        "Hemoglobin",
+        "Newborn screening"
+      ],
+      "answer": 1,
+      "explain": "Blood cultures require larger volumes collected by venipuncture into culture bottles. Glucose, hemoglobin and newborn screening are routinely performed on capillary blood."
+    },
+    {
+      "id": "ph-routine-41",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (specimen quality)",
+      "q": "A lavender tube for a CBC arrives with small clots. What is the most likely cause?",
+      "options": [
+        "Drawing the tube before the gray tube",
+        "Using a standard 21 gauge needle",
+        "Labeling the tube at the bedside",
+        "Inadequate mixing after collection"
+      ],
+      "answer": 3,
+      "explain": "EDTA must mix with blood right away. If the tube is not inverted promptly, small clots can form, making the CBC invalid. Drawing lavender before gray is the correct order, and needle size and bedside labeling are good practice."
+    },
+    {
+      "id": "ph-routine-42",
+      "exam": "cpt",
+      "domain": "routine",
+      "ref": "NHA CPT test plan 2025, Routine Blood Collections (venipuncture procedure)",
+      "q": "What is the first step before approaching a patient for venipuncture?",
+      "options": [
+        "Apply the tourniquet",
+        "Select the needle size",
+        "Review the requisition",
+        "Cleanse the site"
+      ],
+      "answer": 2,
+      "explain": "The phlebotomist begins by reviewing the requisition for the tests ordered, special requirements and patient information. Patient identification follows, then hand hygiene, gloves, vein selection and cleansing."
+    },
+    {
+      "id": "ph-special-01",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (blood cultures)",
+      "q": "Before collecting blood cultures, what is done to the culture bottle tops?",
+      "options": [
+        "Remove the caps and disinfect the tops with alcohol",
+        "Leave the caps on and puncture through them",
+        "Wipe the tops with povidone iodine and leave it",
+        "Rinse the tops with sterile water"
+      ],
+      "answer": 0,
+      "explain": "The protective caps are removed, and the septum is disinfected, usually with 70% alcohol, and allowed to dry. Iodine left on the stopper can damage some bottles. Contamination of the tops can cause false positive cultures."
+    },
+    {
+      "id": "ph-special-02",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (blood cultures)",
+      "q": "Blood cultures are collected with a winged set. Which bottle is usually filled first?",
+      "options": [
+        "The anaerobic bottle",
+        "Either bottle, the order does not matter",
+        "A gold SST before either bottle",
+        "The aerobic bottle"
+      ],
+      "answer": 3,
+      "explain": "With a winged set, air in the tubing enters the first bottle. Filling the aerobic bottle first keeps that air out of the anaerobic bottle, where oxygen would hinder anaerobic organisms. Cultures come before any other tubes."
+    },
+    {
+      "id": "ph-special-03",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (blood cultures)",
+      "q": "Why are blood culture sets commonly drawn from two separate sites?",
+      "options": [
+        "To make sure the patient is not anemic",
+        "To help tell true infection from skin contamination",
+        "To double the volume for chemistry tests",
+        "To allow one bottle to be discarded"
+      ],
+      "answer": 1,
+      "explain": "When the same organism grows in sets from separate venipunctures, it is more likely a true infection. Growth in only one set of a common skin organism suggests contamination. Culture volumes are not used for chemistry tests."
+    },
+    {
+      "id": "ph-special-04",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (blood cultures)",
+      "q": "Why must the skin antiseptic dry fully before a blood culture puncture?",
+      "options": [
+        "Wet skin can crack the culture bottles",
+        "Drying is part of how it kills microbes",
+        "Dry skin raises the culture volume",
+        "It prevents the blood from clotting"
+      ],
+      "answer": 1,
+      "explain": "Antiseptics such as chlorhexidine need contact time and drying to work. Puncturing too early increases the chance of skin bacteria entering the bottle and causing a false positive. The site is not touched again after cleansing."
+    },
+    {
+      "id": "ph-special-05",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (glucose tolerance test)",
+      "q": "How does an oral glucose tolerance test begin?",
+      "options": [
+        "With the glucose drink, then a fasting draw",
+        "With a random draw after breakfast",
+        "With a urine sample only",
+        "With a fasting blood specimen"
+      ],
+      "answer": 3,
+      "explain": "The OGTT starts with a fasting blood specimen; the glucose drink is given after that baseline, often after the fasting result is checked per protocol, and timed draws follow. A nonfasting start would invalidate the test."
+    },
+    {
+      "id": "ph-special-06",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (glucose tolerance test)",
+      "q": "During an oral glucose tolerance test, what instruction is given to the patient between draws?",
+      "options": [
+        "Rest without food, smoking or gum",
+        "Go for a brisk walk outside the building",
+        "Eat a light snack if hungry",
+        "Drink coffee to stay awake"
+      ],
+      "answer": 0,
+      "explain": "Food, smoking, gum, caffeinated drinks and exercise can change glucose levels, so the patient stays seated or at rest in the facility. Many protocols allow water. Leaving or exercising would distort results."
+    },
+    {
+      "id": "ph-special-07",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (glucose tolerance test)",
+      "q": "A patient vomits shortly after drinking the glucose solution for an OGTT. What should the phlebotomist do?",
+      "options": [
+        "Give a second drink and keep the schedule",
+        "Continue the draws and say nothing",
+        "Notify the provider before continuing",
+        "Have the patient eat to settle the stomach"
+      ],
+      "answer": 2,
+      "explain": "If the patient vomits, the amount of glucose absorbed is unknown, so results may not be valid. The provider or lab is notified to decide whether to stop or reschedule, and the event is documented."
+    },
+    {
+      "id": "ph-special-08",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (therapeutic drug monitoring)",
+      "q": "When is a trough level for therapeutic drug monitoring collected?",
+      "options": [
+        "Immediately after the dose is finished",
+        "At any time of day",
+        "Two days after the last dose",
+        "Just before the next scheduled dose"
+      ],
+      "answer": 3,
+      "explain": "A trough is the lowest drug concentration, so it is collected shortly before the next dose. A peak is collected after the dose is absorbed or infused, at a time that depends on the drug and route."
+    },
+    {
+      "id": "ph-special-09",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (therapeutic drug monitoring)",
+      "q": "Which information is essential to record with a therapeutic drug monitoring specimen?",
+      "options": [
+        "The patient's favorite drink",
+        "Collection time and time of the last dose",
+        "The tube manufacturer's lot only",
+        "The phlebotomist's years of experience"
+      ],
+      "answer": 1,
+      "explain": "Drug levels are interpreted in relation to dose timing. The exact collection time and the time the last dose was given allow the provider to judge whether the level is a true peak or trough."
+    },
+    {
+      "id": "ph-special-10",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (therapeutic drug monitoring)",
+      "q": "Why does peak level timing depend on the drug?",
+      "options": [
+        "All drugs peak exactly one hour after a dose",
+        "Peak levels are always drawn at midnight",
+        "Absorption differs by drug and route",
+        "Only oral drugs have peak levels"
+      ],
+      "answer": 2,
+      "explain": "The highest concentration occurs at different times depending on the drug, its form and route of administration. Collection times are set by the laboratory or prescriber for each drug. There is no single timing that fits all."
+    },
+    {
+      "id": "ph-special-11",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (chain of custody)",
+      "q": "What is the purpose of a chain of custody form for a forensic specimen?",
+      "options": [
+        "To record each person who handled it",
+        "To list the tests the patient can afford",
+        "To record insurance information",
+        "To replace the requisition"
+      ],
+      "answer": 0,
+      "explain": "A chain of custody form records every person who collects, transfers and receives the specimen, with dates and times, so results can stand up in legal proceedings. Any gap can make the result unusable."
+    },
+    {
+      "id": "ph-special-12",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (chain of custody)",
+      "q": "In a chain of custody urine drug collection, why is a tamper evident seal applied to the container?",
+      "options": [
+        "To show it was not opened or altered",
+        "To keep the urine from freezing",
+        "To identify the price of the test",
+        "To protect the printed label from water"
+      ],
+      "answer": 0,
+      "explain": "A tamper evident seal is placed over the cap, initialed by the donor and dated, so any opening would be visible. This protects the integrity of the specimen. Temperature and pricing are unrelated."
+    },
+    {
+      "id": "ph-special-13",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (chain of custody)",
+      "q": "In a federally regulated urine drug collection, within what time after voiding is the specimen temperature checked?",
+      "options": [
+        "Within 30 minutes",
+        "Within 1 hour",
+        "Within 4 minutes",
+        "Before the donor voids"
+      ],
+      "answer": 2,
+      "explain": "Federal drug testing procedures require reading the specimen temperature within 4 minutes of collection; an acceptable range is 32°C to 38°C. A reading outside the range may indicate a substituted specimen."
+    },
+    {
+      "id": "ph-special-14",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (newborn screening)",
+      "q": "How should blood be applied to a newborn screening filter paper card?",
+      "options": [
+        "Several small drops layered in each circle",
+        "One large drop per circle from one side, soaking through",
+        "Blood applied to both sides of the paper",
+        "Blood smeared with a capillary tube"
+      ],
+      "answer": 1,
+      "explain": "Each circle is filled with a single large drop applied to one side only, allowed to soak through to fill the circle completely. Layering drops, applying to both sides or touching the paper with devices causes uneven samples and rejection."
+    },
+    {
+      "id": "ph-special-15",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (newborn screening)",
+      "q": "How is a completed newborn screening card dried?",
+      "options": [
+        "In a stack with the other cards from the unit",
+        "Under a heat lamp for faster drying",
+        "In a sealed plastic bag right away",
+        "Flat at room temperature, away from heat"
+      ],
+      "answer": 3,
+      "explain": "Cards dry horizontally at room temperature, away from heat and direct sunlight, and are not stacked or sealed in plastic while wet. Heat damages analytes and moisture promotes degradation."
+    },
+    {
+      "id": "ph-special-16",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (newborn screening)",
+      "q": "Newborn screening specimens are generally collected at what age?",
+      "options": [
+        "Within the first hour after birth",
+        "At the two week checkup only",
+        "24 to 48 hours after birth",
+        "At six months of age"
+      ],
+      "answer": 2,
+      "explain": "Collection between 24 and 48 hours after birth allows enough feeding and metabolic activity for conditions such as phenylketonuria to show, while still allowing early treatment. Very early samples may give false negatives, and a repeat may be required."
+    },
+    {
+      "id": "ph-special-17",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (temperature sensitive specimens)",
+      "q": "How should a specimen for cold agglutinins be handled after collection?",
+      "options": [
+        "Kept at 37°C until serum is separated",
+        "Placed in an ice and water slurry at once",
+        "Frozen at the bedside immediately",
+        "Left in a sunny window to stay warm"
+      ],
+      "answer": 0,
+      "explain": "Cold agglutinins attach to red cells at cold temperatures. If the specimen cools before serum is separated, the antibodies bind to the cells and the result is falsely low. The tube is prewarmed and kept at 37°C."
+    },
+    {
+      "id": "ph-special-18",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (chilled specimens)",
+      "q": "A plasma ammonia is ordered. How is the specimen usually handled?",
+      "options": [
+        "Kept at body temperature in a warmer",
+        "Left at room temperature for about 4 hours",
+        "Protected from light with foil only",
+        "Chilled in an ice slurry and sent at once"
+      ],
+      "answer": 3,
+      "explain": "Ammonia levels rise in standing blood as cells metabolize, so the specimen is chilled in an ice and water slurry and delivered to the lab immediately for prompt processing. Warming is used for cold agglutinins, not ammonia."
+    },
+    {
+      "id": "ph-special-19",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (light sensitive specimens)",
+      "q": "Which specimen must be protected from light after collection?",
+      "options": [
+        "Potassium",
+        "Bilirubin",
+        "Glucose",
+        "Hemoglobin"
+      ],
+      "answer": 1,
+      "explain": "Bilirubin breaks down when exposed to light, leading to falsely low results, so the tube is wrapped in foil or an amber container is used. Vitamins such as B12 and A are also light sensitive."
+    },
+    {
+      "id": "ph-special-20",
+      "exam": "cpt",
+      "domain": "special",
+      "ref": "NHA CPT test plan 2025, Special Collections (blood alcohol collection)",
+      "q": "Which skin antiseptic should be avoided when collecting a blood alcohol specimen?",
+      "options": [
+        "Soap and water",
+        "Isopropyl alcohol",
+        "Povidone iodine",
+        "Chlorhexidine without alcohol"
+      ],
+      "answer": 1,
+      "explain": "Alcohol based antiseptics could contaminate the specimen and raise the result, which matters especially in legal cases. A nonalcohol antiseptic is used, and the tube is filled and kept tightly stoppered so alcohol does not evaporate."
+    },
+    {
+      "id": "ph-process-01",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (clotting time)",
+      "q": "How long should a serum tube generally stand upright at room temperature before centrifugation?",
+      "options": [
+        "About 2 minutes",
+        "About 4 hours",
+        "Overnight in a rack",
+        "About 30 minutes"
+      ],
+      "answer": 3,
+      "explain": "Serum tubes need time to clot completely, generally about 30 minutes at room temperature for tubes with clot activator, longer for patients on anticoagulants. Spinning too early leaves fibrin strands, and long delays can alter results."
+    },
+    {
+      "id": "ph-process-02",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (separation time)",
+      "q": "Within what time after collection should serum or plasma generally be separated from cells?",
+      "options": [
+        "Within 2 hours",
+        "Within 24 hours",
+        "Within 8 hours",
+        "Within 3 days"
+      ],
+      "answer": 0,
+      "explain": "CLSI guidance calls for separating serum or plasma from cells within 2 hours of collection unless stability data show otherwise. Cells continue to use glucose and leak potassium, which changes results."
+    },
+    {
+      "id": "ph-process-03",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (glycolysis)",
+      "q": "A red top tube for glucose sits unspun for 5 hours. How is the result likely affected?",
+      "options": [
+        "Falsely high glucose",
+        "No change in glucose",
+        "Falsely low glucose",
+        "Falsely high calcium"
+      ],
+      "answer": 2,
+      "explain": "Blood cells consume glucose, so it falls by a measurable amount each hour in unseparated serum or plasma. A gray fluoride tube or prompt separation prevents this. Calcium is not affected by glycolysis."
+    },
+    {
+      "id": "ph-process-04",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (centrifuge operation)",
+      "q": "How should tubes be loaded in a centrifuge?",
+      "options": [
+        "All tubes on one side of the rotor",
+        "Any arrangement, the machine self balances",
+        "Only one tube per run",
+        "Balanced, equal tubes opposite each other"
+      ],
+      "answer": 3,
+      "explain": "The centrifuge must be balanced, with tubes of similar size and volume placed directly opposite each other, using a water filled tube if needed. An unbalanced load can damage the centrifuge, break tubes and create aerosols."
+    },
+    {
+      "id": "ph-process-05",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (centrifuge operation)",
+      "q": "Why are stoppers kept on tubes during centrifugation?",
+      "options": [
+        "To speed the clotting process",
+        "To prevent aerosols and evaporation",
+        "To make the tubes heavier",
+        "To mix the additive with blood"
+      ],
+      "answer": 1,
+      "explain": "Spinning open tubes can release infectious aerosols and allows evaporation, which concentrates the sample. Tubes stay capped, and the lid is not opened until the rotor stops completely."
+    },
+    {
+      "id": "ph-process-06",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (centrifuge operation)",
+      "q": "When may the centrifuge lid be opened after a run?",
+      "options": [
+        "As soon as the timer reaches zero",
+        "While the rotor is slowing, to save time",
+        "Only after the rotor has stopped completely",
+        "Midway through the run to check tubes"
+      ],
+      "answer": 2,
+      "explain": "Opening the lid while the rotor is moving risks injury and aerosol release. Most centrifuges lock the lid until the rotor stops, but staff should wait for a full stop regardless."
+    },
+    {
+      "id": "ph-process-07",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (aliquoting)",
+      "q": "Which practice is correct when aliquoting serum into a transfer tube?",
+      "options": [
+        "Use a pipette and label the new tube",
+        "Pour serum into a clean unlabeled tube",
+        "Use a mouth pipette for accuracy",
+        "Pour the cells and serum together"
+      ],
+      "answer": 0,
+      "explain": "Serum is transferred with a disposable pipette, avoiding the cell layer, and each aliquot tube is labeled with the same patient identifiers and specimen type as the original. Mouth pipetting is prohibited, and pouring risks spills and cell carryover."
+    },
+    {
+      "id": "ph-process-08",
+      "exam": "cpt",
+      "domain": "process",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "phleb"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CPT test plan 2025, Processing (labeling)",
+      "q": "When should blood tubes be labeled?",
+      "options": [
+        "Right after collection, at the bedside",
+        "Before the draw, to save time",
+        "At the lab once all of the tubes arrive",
+        "At the end of the shift in a batch"
+      ],
+      "answer": 0,
+      "explain": "Tubes are labeled right after collection at the patient's side, and the labels are compared with the patient's identification. Prelabeling or labeling away from the patient increases the risk of wrong patient errors."
+    },
+    {
+      "id": "ph-process-09",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (labeling)",
+      "q": "Which information is required on a specimen label?",
+      "options": [
+        "Patient name and hospital room number only",
+        "Test name and price",
+        "Two identifiers, date, time and initials",
+        "Provider phone number and diagnosis"
+      ],
+      "answer": 2,
+      "explain": "A specimen label needs at least two patient identifiers, such as full name and date of birth or ID number, plus collection date and time and the collector's initials, according to facility policy. Room numbers are not identifiers."
+    },
+    {
+      "id": "ph-process-10",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (rejection criteria)",
+      "q": "Which specimen will most likely be rejected by the laboratory?",
+      "options": [
+        "A properly filled light blue tube",
+        "An unlabeled tube",
+        "A gold SST spun after clotting",
+        "A lavender tube mixed right away"
+      ],
+      "answer": 1,
+      "explain": "Unlabeled specimens are rejected because their source cannot be confirmed. The other options describe correctly handled specimens. Other common rejection reasons are mislabeling, hemolysis for certain tests, clotting and wrong tube type."
+    },
+    {
+      "id": "ph-process-11",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (rejection criteria)",
+      "q": "A potassium specimen arrives visibly hemolyzed. What usually happens?",
+      "options": [
+        "It is tested and reported without comment",
+        "It is diluted with saline and tested",
+        "It is spun again to remove hemolysis",
+        "It is rejected and recollection requested"
+      ],
+      "answer": 3,
+      "explain": "Hemolysis releases potassium from red cells, producing falsely high results, so labs typically reject hemolyzed potassium specimens and ask for a new collection. Spinning again cannot reverse hemolysis."
+    },
+    {
+      "id": "ph-process-12",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (rejection criteria)",
+      "q": "Why is a clotted lavender tube rejected for a CBC?",
+      "options": [
+        "Clotting raises the glucose result",
+        "Clotted blood cannot be labeled correctly",
+        "Clots trap cells, giving false counts",
+        "The tube changes color when clotted"
+      ],
+      "answer": 2,
+      "explain": "Clots consume platelets and trap cells, so counts are falsely low and can be unreliable. EDTA tubes must stay anticoagulated by immediate mixing. Glucose is not the concern for a CBC."
+    },
+    {
+      "id": "ph-process-13",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (rejection criteria)",
+      "q": "A light blue tube for a PT/INR is only half full. What is the likely outcome?",
+      "options": [
+        "Rejection due to excess citrate",
+        "Acceptance, since a small sample is enough",
+        "Acceptance after adding saline",
+        "Rejection only if the patient is a child"
+      ],
+      "answer": 0,
+      "explain": "An underfilled citrate tube has too much anticoagulant for the amount of blood, which falsely prolongs clotting times. Labs reject such specimens, and adding fluid would make things worse."
+    },
+    {
+      "id": "ph-process-14",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (specimen transport)",
+      "q": "How should specimens be packaged for transport to the laboratory?",
+      "options": [
+        "Loose in a lab coat pocket for speed",
+        "In a sealed bag together with the paperwork inside",
+        "Lying flat in an open tray",
+        "Upright in a sealed biohazard bag"
+      ],
+      "answer": 3,
+      "explain": "Specimens travel upright in a sealed, leakproof biohazard bag, with the requisition in the separate outer pocket so paperwork stays clean. Upright tubes help clotting and reduce hemolysis and stopper contamination."
+    },
+    {
+      "id": "ph-process-15",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (specimen transport)",
+      "q": "Why are tubes transported in an upright position?",
+      "options": [
+        "It keeps the printed labels from smudging",
+        "It helps clotting and limits stopper contact",
+        "It makes the tubes cool down faster in transit",
+        "It mixes additives during transport"
+      ],
+      "answer": 1,
+      "explain": "Keeping tubes upright lets serum tubes clot properly and keeps blood away from the stopper, which reduces contamination and aerosols when opened. Mixing is done at collection, not in transit."
+    },
+    {
+      "id": "ph-process-16",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (serum and plasma)",
+      "q": "What is the main difference between serum and plasma?",
+      "options": [
+        "Serum contains fibrinogen; plasma does not",
+        "Plasma contains fibrinogen; serum does not",
+        "Serum comes from anticoagulated tubes",
+        "Plasma is collected only in red tubes"
+      ],
+      "answer": 1,
+      "explain": "Plasma is the liquid part of anticoagulated blood and still contains clotting factors such as fibrinogen. Serum is the liquid left after blood clots, so fibrinogen has been used up. Serum comes from red or gold tubes."
+    },
+    {
+      "id": "ph-process-17",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (specimen appearance)",
+      "q": "After centrifugation, a serum sample looks milky white. Which condition does this suggest?",
+      "options": [
+        "Hemolysis",
+        "Icterus",
+        "Normal serum",
+        "Lipemia"
+      ],
+      "answer": 3,
+      "explain": "Milky or turbid serum suggests lipemia, high lipid content often after a recent meal. Hemolysis looks pink to red, and icterus, from high bilirubin, looks dark yellow. Normal serum is clear and pale yellow."
+    },
+    {
+      "id": "ph-process-18",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (specimen appearance)",
+      "q": "Serum that appears pink to red after centrifugation most likely indicates what?",
+      "options": [
+        "Hemolysis",
+        "Lipemia",
+        "Icterus",
+        "Excess gel"
+      ],
+      "answer": 0,
+      "explain": "Pink or red serum indicates hemoglobin released from ruptured red cells, called hemolysis. It can affect potassium, LDH and other tests. Lipemia is milky, and icterus is dark yellow."
+    },
+    {
+      "id": "ph-process-19",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (POCT quality control)",
+      "q": "Under CLIA, what must be followed when performing a waived point of care test?",
+      "options": [
+        "Any method the user prefers",
+        "Only the lab director's verbal advice",
+        "The manufacturer's instructions",
+        "No instructions, since waived tests are simple"
+      ],
+      "answer": 2,
+      "explain": "CLIA requires sites performing waived tests to follow the manufacturer's instructions exactly, including quality control steps and storage. Changing the procedure can make the test no longer waived."
+    },
+    {
+      "id": "ph-process-20",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (POCT quality control)",
+      "q": "Why are control solutions run on a glucose meter?",
+      "options": [
+        "To clean the meter's test port",
+        "To calibrate the patient's blood type",
+        "To warm the meter before use",
+        "To check meter and strip accuracy"
+      ],
+      "answer": 3,
+      "explain": "Running controls with known values checks that the meter and strips work correctly. Results outside the expected range mean patient testing stops until the problem is corrected. Controls are documented with lot numbers and dates."
+    },
+    {
+      "id": "ph-process-21",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (POCT documentation)",
+      "q": "Which record should be kept for point of care testing?",
+      "options": [
+        "The patient's favorite collection site",
+        "Control results and reagent lot numbers",
+        "The price paid for each box of test strips",
+        "The color of the meter used"
+      ],
+      "answer": 1,
+      "explain": "POCT documentation includes quality control results, lot numbers and expiration dates of strips and controls, and patient results, allowing problems to be traced. Costs and device colors are not quality records."
+    },
+    {
+      "id": "ph-process-22",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (specimen storage)",
+      "q": "A serum specimen will not be tested for several hours. What determines how it is stored?",
+      "options": [
+        "Whatever refrigerator space is available",
+        "The patient's stated preference",
+        "The lab's stability rules for the test",
+        "Room temperature in all cases"
+      ],
+      "answer": 2,
+      "explain": "Each analyte has its own stability: some specimens are refrigerated, some frozen and some kept at room temperature. Storage follows the laboratory's procedure for the test ordered. Using whatever space is available risks invalid results."
+    },
+    {
+      "id": "ph-process-23",
+      "exam": "cpt",
+      "domain": "process",
+      "ref": "NHA CPT test plan 2025, Processing (centrifuge quality control)",
+      "q": "Why is centrifuge speed checked and recorded on a schedule?",
+      "options": [
+        "Wrong speed can leave poor separation",
+        "Speed affects the patient's fasting status",
+        "Speed changes the tube color",
+        "It is needed only when the lid breaks"
+      ],
+      "answer": 0,
+      "explain": "Centrifuges are checked for speed and timer accuracy as part of quality control. A machine spinning too slowly leaves cells in the serum or plasma, and one spinning too fast can cause hemolysis."
+    }
+  ]
+}

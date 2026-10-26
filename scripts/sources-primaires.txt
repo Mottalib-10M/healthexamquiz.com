@@ -1,0 +1,29 @@
+# Sources primaires propres à us-health-exams : les organismes qui écrivent et font passer
+# les examens, et ceux que les États désignent pour les faire passer.
+
+# PTCB : organisme qui délivre la certification CPhT et publie le plan du PTCE.
+ptcb.org
+# NHA : organisme qui délivre les certifications ExCPT, CCMA, CPT et CET et publie leurs plans d'examen.
+nhanow.com
+# AAMA : organisme qui délivre la certification CMA (AAMA) et publie son plan d'examen.
+aama-ntl.org
+# NREMT : registre national qui fait passer l'examen EMT utilisé par les États.
+nremt.org
+# NCSBN : ancien propriétaire du NNAAP, annonce de la cession à Credentia.
+ncsbn.org
+# Credentia : propriétaire et opérateur du NNAAP, prestataire désigné par plusieurs États.
+credentia.com
+# Prometric : prestataire désigné par le Texas, la Floride et New York pour l'examen d'aide-soignant.
+prometric.com
+# D&S Diversified Technologies (Headmaster) : prestataire désigné par la Californie, l'Ohio et le Michigan.
+hdmaster.com
+# Southern Illinois University Carbondale : prestataire désigné par l'Illinois (INACE).
+nurseaidetesting.com
+# Golden West College, Regional Testing Center : prestataire agréé par le département de la santé de Californie.
+goldenwestcollege.edu
+# CLSI : organisme de normalisation des laboratoires, auteur de la norme GP41 sur l'ordre des tubes.
+clsi.org
+# Florida Board of Nursing : autorité de l'État pour les aides-soignants.
+floridasnursing.gov
+# Archive Internet : copies datées de pages officielles de la NHA, bloquées aux robots.
+web.archive.org

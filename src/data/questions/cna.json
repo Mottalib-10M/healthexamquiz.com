@@ -1,0 +1,1639 @@
+{
+  "questions": [
+    {
+      "id": "cna-adl-01",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, perineal care)",
+      "q": "While giving perineal care to a female resident, how should the nurse aide wipe the area?",
+      "options": [
+        "From back to front, using one section of the cloth throughout",
+        "From front to back, using a clean part of the cloth each stroke",
+        "In a circular motion starting at the rectal area and moving out",
+        "Side to side across the labia with the same area of the cloth"
+      ],
+      "answer": 1,
+      "explain": "Wiping front to back moves from the cleanest area toward the dirtiest, keeping bacteria from the rectal area away from the urethra and lowering the risk of urinary tract infection. Wiping back to front drags fecal bacteria toward the urethra, and reusing the same part of the cloth spreads them."
+    },
+    {
+      "id": "cna-adl-02",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, oral care for an unresponsive resident)",
+      "q": "A resident who is unresponsive needs mouth care. How should the nurse aide position the resident?",
+      "options": [
+        "Flat on the back with the chin tilted upward",
+        "Sitting fully upright with the head tipped back",
+        "On one side with the head turned so fluid drains out",
+        "Face down with the face resting on the pillow"
+      ],
+      "answer": 2,
+      "explain": "Side-lying with the head turned lets liquid run out of the mouth instead of into the airway, which lowers the risk of aspiration. Lying flat on the back allows fluid to pool in the throat. Only a small amount of liquid is used on the swabs."
+    },
+    {
+      "id": "cna-adl-03",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, denture care)",
+      "q": "Before cleaning a resident's dentures at the sink, what should the nurse aide do to prevent damage?",
+      "options": [
+        "Rinse the dentures under very hot running water",
+        "Line the sink with a towel or partly fill it with water",
+        "Soak the dentures in an alcohol-based mouthwash",
+        "Hold the dentures high above the dry sink basin"
+      ],
+      "answer": 1,
+      "explain": "A towel or some water in the basin cushions the dentures if they slip, so they are less likely to crack or chip. Hot water can warp denture material. When out of the mouth, dentures are stored in cool water in a labeled cup."
+    },
+    {
+      "id": "cna-adl-04",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (dressing, weak side)",
+      "q": "A resident has weakness on the right side after a stroke. When helping the resident put on a shirt, which arm should go into a sleeve first?",
+      "options": [
+        "The left arm, which is the stronger side",
+        "The right arm, which is the weaker side",
+        "Whichever arm the aide can reach more easily",
+        "Both arms together to keep the shirt even"
+      ],
+      "answer": 1,
+      "explain": "Dressing the weak side first lets the garment be eased over the limb that cannot move well, while the stronger arm can then bend into its own sleeve. Starting with the strong side leaves too little slack for the weak arm. Undressing is done in the reverse order."
+    },
+    {
+      "id": "cna-adl-05",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (dressing, undressing)",
+      "q": "A resident with a weak left arm is getting ready for a bath. Which sleeve should the nurse aide remove first?",
+      "options": [
+        "The sleeve on the right, stronger arm",
+        "The sleeve on the left, weaker arm",
+        "Both sleeves at once by pulling downward",
+        "The sleeve closest to the aide at the bedside"
+      ],
+      "answer": 0,
+      "explain": "Removing clothing from the strong side first creates slack, so the garment can then be slipped gently off the weak arm without forcing the joint. The rule for dressing is the opposite: the weak side goes first."
+    },
+    {
+      "id": "cna-adl-06",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, bathing safety)",
+      "q": "Before a resident gets into a tub bath, what is the best way for the nurse aide to check the water temperature?",
+      "options": [
+        "Use a bath thermometer or test it with the inner wrist",
+        "Touch the water quickly with the fingertips",
+        "Ask the resident to step in and say if it is hot",
+        "Let the tap run for five minutes, then fill the tub"
+      ],
+      "answer": 0,
+      "explain": "A thermometer gives an objective reading, and the inner wrist is more sensitive to heat than the fingertips. Older adults may have reduced sensation and can be burned before they feel the heat, so the aide checks first and the resident may then test it too."
+    },
+    {
+      "id": "cna-adl-07",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, foot and nail care)",
+      "q": "A resident with diabetes has long, thick toenails. What should the nurse aide do?",
+      "options": [
+        "Trim the nails straight across with nail clippers",
+        "Report it to the nurse and leave nail cutting to licensed staff",
+        "Soak the feet, then file the nails into curves",
+        "Cut the nails very short so they need less trimming"
+      ],
+      "answer": 1,
+      "explain": "Poor circulation and nerve damage in diabetes mean small cuts heal slowly and become infected easily, so toenail trimming is done by a nurse or foot specialist according to facility policy. The aide keeps the feet clean and dry, observes them and reports problems."
+    },
+    {
+      "id": "cna-adl-08",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, shaving)",
+      "q": "A resident who takes a blood thinner wants to be shaved. Which razor should the nurse aide use?",
+      "options": [
+        "A new disposable safety razor",
+        "An electric razor",
+        "A straight razor sharpened before use",
+        "A double-edge razor with fresh blades"
+      ],
+      "answer": 1,
+      "explain": "Blood thinners make bleeding from small nicks hard to stop, so an electric razor is used because it does not cut the skin the way a blade can. A new disposable razor is still a blade and carries the same risk of cuts."
+    },
+    {
+      "id": "cna-adl-09",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (nutrition, dysphagia)",
+      "q": "A resident with swallowing problems is about to eat lunch. How should the nurse aide position the resident?",
+      "options": [
+        "Reclining with the head of the bed at 20 degrees",
+        "Lying on the side with the head on a pillow",
+        "Sitting upright, as close to 90 degrees as possible",
+        "Semi-reclined with the chin lifted toward the ceiling"
+      ],
+      "answer": 2,
+      "explain": "An upright position with the head slightly forward helps food move into the esophagus rather than the airway. Reclining or tipping the chin up makes aspiration more likely. The resident usually stays upright for a period after eating, as the care plan directs."
+    },
+    {
+      "id": "cna-adl-10",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (nutrition, thickened liquids)",
+      "q": "The care plan says a resident must have thickened liquids. The resident asks for a glass of plain water. What should the nurse aide do?",
+      "options": [
+        "Give plain water because the resident has the right to choose",
+        "Offer water thickened to the ordered consistency and explain why",
+        "Give plain water but only in small sips through a straw",
+        "Refuse any water until the next meal tray is served"
+      ],
+      "answer": 1,
+      "explain": "Thickened liquids are ordered because thin liquids move fast and are easily aspirated. The aide follows the diet order, offers the correct consistency and reports the request to the nurse. A resident who wants to refuse the ordered diet is reported to the nurse, not given thin liquids by the aide."
+    },
+    {
+      "id": "cna-adl-11",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (nutrition, visual impairment at meals)",
+      "q": "A resident who is blind is served a meal tray. How can the nurse aide best help the resident eat independently?",
+      "options": [
+        "Feed the resident to save time and avoid spills",
+        "Mix all the foods together in one large bowl",
+        "Place every item on the left side of the tray",
+        "Describe food locations using the face of a clock"
+      ],
+      "answer": 3,
+      "explain": "Naming positions like a clock face, such as meat at 3 o'clock and potatoes at 9 o'clock, lets a resident with vision loss find each food and eat without help. Feeding a resident who can feed himself or herself takes away independence and dignity."
+    },
+    {
+      "id": "cna-adl-12",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (nutrition, recording meal intake)",
+      "q": "A resident ate about half of the breakfast tray. How should the nurse aide record this?",
+      "options": [
+        "As a poor appetite, with no amount",
+        "As the number of calories eaten",
+        "As 50 percent of the meal eaten",
+        "Only if the resident asks for more"
+      ],
+      "answer": 2,
+      "explain": "Facilities track meal intake as a percentage of the tray so the nurse and dietitian can follow nutrition over time. A vague note like poor appetite does not give a measurable amount. A clear drop from the resident's usual intake is also reported to the nurse."
+    },
+    {
+      "id": "cna-adl-13",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hydration, signs of dehydration)",
+      "q": "Which observation suggests that a resident may not be drinking enough fluid?",
+      "options": [
+        "Pale, clear urine passed often",
+        "Moist mucous membranes in the mouth",
+        "Steady weight over several weeks",
+        "Dark yellow urine with a strong odor"
+      ],
+      "answer": 3,
+      "explain": "Concentrated dark urine is a common sign of dehydration, along with a dry mouth, cracked lips and new confusion. Pale urine and a moist mouth point to adequate hydration. The aide reports signs of dehydration and offers fluids as the care plan allows."
+    },
+    {
+      "id": "cna-adl-14",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (elimination, catheter care)",
+      "q": "When giving catheter care, in which direction should the nurse aide clean the catheter tubing?",
+      "options": [
+        "Toward the urinary opening, up the tubing",
+        "Back and forth along the tubing several times",
+        "Away from the urinary opening, down the tubing",
+        "Only around the drainage bag connection site"
+      ],
+      "answer": 2,
+      "explain": "Cleaning from the urinary opening outward along about four inches of tubing moves germs away from the body. Wiping toward the opening pushes bacteria into the urethra and raises the risk of a urinary tract infection."
+    },
+    {
+      "id": "cna-adl-15",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (elimination, urinary drainage bag)",
+      "q": "Where should a resident's urinary drainage bag be kept?",
+      "options": [
+        "On the bed beside the resident's hip",
+        "Below the level of the bladder, off the floor",
+        "Hooked to a side rail above the mattress",
+        "On the floor directly under the bed frame"
+      ],
+      "answer": 1,
+      "explain": "Urine drains by gravity only when the bag hangs lower than the bladder; a bag held higher lets urine flow back and can cause infection. Keeping it off the floor prevents contamination. It is attached to the bed frame rather than a movable side rail."
+    },
+    {
+      "id": "cna-adl-16",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (elimination, bedpan use)",
+      "q": "A resident recovering from hip surgery needs to use a bedpan. Which item is most appropriate?",
+      "options": [
+        "A standard bedpan with the wide end under the back",
+        "A fracture pan with the flat end under the buttocks",
+        "A urinal placed between the resident's knees",
+        "A bedside commode the resident walks to alone"
+      ],
+      "answer": 1,
+      "explain": "A fracture pan is shallow and slides under a resident who cannot raise the hips much, with its flat end placed under the buttocks. A standard bedpan requires more lifting and turning, which may not be allowed after hip surgery."
+    },
+    {
+      "id": "cna-adl-17",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (elimination, constipation)",
+      "q": "A resident has not had a bowel movement in four days and has passed only hard, small stools. What should the nurse aide do?",
+      "options": [
+        "Give the resident a laxative from the supply room",
+        "Give the resident an enema as soon as possible",
+        "Wait one more week before telling anyone",
+        "Report it to the nurse and record the observation"
+      ],
+      "answer": 3,
+      "explain": "Changes in bowel pattern are reported so the nurse can assess the resident and adjust the care plan, which may include fluids, fiber and activity. Giving a laxative or an enema is not something the aide decides alone."
+    },
+    {
+      "id": "cna-adl-18",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (elimination, incontinence care)",
+      "q": "A resident is found wet with urine. What is the best action by the nurse aide?",
+      "options": [
+        "Apply powder over the wet skin and let it air dry",
+        "Leave the brief on until the scheduled change time",
+        "Clean and dry the skin promptly and change the linen",
+        "Scold the resident gently so it does not happen again"
+      ],
+      "answer": 2,
+      "explain": "Urine on the skin breaks it down and leads to rashes and pressure injuries, so prompt cleaning, drying and fresh linen protect both skin and dignity. Waiting harms the skin, and making the resident feel ashamed harms self-esteem."
+    },
+    {
+      "id": "cna-adl-19",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (rest and sleep)",
+      "q": "A resident tells the nurse aide at night that he cannot fall asleep. What should the aide try first?",
+      "options": [
+        "Give him a sleeping pill from the medicine cart",
+        "Turn on the television loudly in his room",
+        "Offer comfort measures such as a back rub or toileting",
+        "Tell him to stay in bed and stop worrying"
+      ],
+      "answer": 2,
+      "explain": "Comfort measures such as a back rub, toileting, repositioning, a quiet room and a warm drink if allowed often help sleep. Medications are given only by licensed staff. The aide reports ongoing sleep problems to the nurse."
+    },
+    {
+      "id": "cna-adl-20",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (comfort, recognizing pain)",
+      "q": "While turning a resident, the nurse aide sees the resident grimace and hold her breath. What should the aide do?",
+      "options": [
+        "Finish the turn quickly so the pain ends sooner",
+        "Ignore it because the resident did not say ouch",
+        "Stop, ask about pain and report it to the nurse",
+        "Give her an extra pillow and leave the room"
+      ],
+      "answer": 2,
+      "explain": "Grimacing and holding the breath are nonverbal signs of pain, which is important in residents who do not complain. The aide stops the activity, asks the resident and reports to the nurse so the pain can be assessed and treated."
+    },
+    {
+      "id": "cna-adl-21",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (hygiene, bed bath)",
+      "q": "During a bed bath, how should the nurse aide wash the resident's eyes?",
+      "options": [
+        "With soap, wiping from the outer corner inward",
+        "With plain water, wiping from the inner corner outward",
+        "With soap and water, rubbing in small circles",
+        "With an alcohol pad, one wipe for both eyes"
+      ],
+      "answer": 1,
+      "explain": "Eyes are washed first with water only, using a clean part of the washcloth for each eye and wiping from the inner to the outer corner so debris moves away from the tear duct. Soap and alcohol irritate the eyes."
+    },
+    {
+      "id": "cna-adl-22",
+      "exam": "cna",
+      "domain": "adl",
+      "ref": "NNAAP 2024 outline: Activities of Daily Living (grooming, hair care)",
+      "q": "A resident's long hair is badly tangled. How should the nurse aide comb it?",
+      "options": [
+        "Hold the hair above the tangle and work up from the ends",
+        "Start at the scalp and pull firmly through to the ends",
+        "Cut out the tangle with scissors without asking",
+        "Brush quickly from the scalp downward while it is wet"
+      ],
+      "answer": 0,
+      "explain": "Working from the ends toward the scalp while holding the hair above the knot prevents pulling on the scalp. Combing hard from the roots causes pain and breakage. A resident's hair is never cut without consent."
+    },
+    {
+      "id": "cna-bns-01",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, hand hygiene)",
+      "q": "When is washing with soap and water required instead of using an alcohol-based hand rub?",
+      "options": [
+        "Before entering any resident room",
+        "After touching a clean water pitcher",
+        "Before taking a resident's pulse",
+        "When hands are visibly soiled"
+      ],
+      "answer": 3,
+      "explain": "Alcohol-based rubs are preferred for most routine hand hygiene, but they do not remove visible dirt or body fluids. Soap and water are used then, and also when caring for residents with spore-forming infections such as C. difficile."
+    },
+    {
+      "id": "cna-bns-02",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, C. difficile)",
+      "q": "A resident has diarrhea caused by C. difficile. Which hand hygiene method should the nurse aide use after giving care?",
+      "options": [
+        "Soap and water with friction",
+        "Alcohol-based hand rub only",
+        "Antiseptic wipes on the fingertips",
+        "A glove change without hand hygiene"
+      ],
+      "answer": 0,
+      "explain": "C. difficile spores are not reliably killed by alcohol, so washing with soap, water and friction removes them mechanically. Contact precautions with gown and gloves are also used. Changing gloves never replaces hand hygiene."
+    },
+    {
+      "id": "cna-bns-03",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, handwashing technique)",
+      "q": "During handwashing, how should the nurse aide hold the hands?",
+      "options": [
+        "Higher than the elbows, fingertips pointing up",
+        "Level with the shoulders under the faucet",
+        "Lower than the elbows, fingertips pointing down",
+        "Pressed against the sink to keep them steady"
+      ],
+      "answer": 2,
+      "explain": "Holding the hands lower than the elbows lets dirty water flow off the fingertips into the sink instead of running back up the arms. Touching the sink contaminates the hands. Lathering with friction for at least 20 seconds is part of the technique."
+    },
+    {
+      "id": "cna-bns-04",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, putting on PPE)",
+      "q": "When putting on personal protective equipment, which item does the nurse aide put on last?",
+      "options": [
+        "Gown",
+        "Mask",
+        "Goggles",
+        "Gloves"
+      ],
+      "answer": 3,
+      "explain": "The usual sequence is gown, then mask or respirator, then eye protection, then gloves, so the glove cuffs can be pulled over the gown cuffs. Putting gloves on first would contaminate them while tying the gown and adjusting the mask."
+    },
+    {
+      "id": "cna-bns-05",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, removing PPE)",
+      "q": "When removing personal protective equipment, which item is usually removed first?",
+      "options": [
+        "Mask, because it is the hardest to remove",
+        "Gloves, because they are the most soiled",
+        "Goggles, because they can block vision",
+        "Gown, because it covers the most area"
+      ],
+      "answer": 1,
+      "explain": "Gloves are usually the most contaminated item, so they come off first, followed by eye protection, gown and then the mask, with hand hygiene at the end. Removing the mask last keeps the face protected the longest."
+    },
+    {
+      "id": "cna-bns-06",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, airborne precautions)",
+      "q": "A resident has suspected tuberculosis and is on airborne precautions. What must the nurse aide wear when entering the room?",
+      "options": [
+        "A standard surgical mask",
+        "A fit-tested N95 respirator",
+        "Gloves and a gown only",
+        "A face shield without a mask"
+      ],
+      "answer": 1,
+      "explain": "Tuberculosis spreads through tiny particles that stay in the air, so a fit-tested N95 or higher respirator is required and the door stays closed. A surgical mask does not seal well enough to filter these particles."
+    },
+    {
+      "id": "cna-bns-07",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, droplet precautions)",
+      "q": "A resident has influenza and is on droplet precautions. Which item is required when the nurse aide works close to the resident?",
+      "options": [
+        "Shoe covers",
+        "A hair cover",
+        "A lead apron",
+        "A surgical mask"
+      ],
+      "answer": 3,
+      "explain": "Droplets from coughing and sneezing travel a short distance, so a surgical mask is worn when working near the resident. Airborne precautions with an N95 respirator are used for diseases such as tuberculosis, measles and chickenpox. Standard precautions still apply."
+    },
+    {
+      "id": "cna-bns-08",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, contact precautions)",
+      "q": "A resident has a wound infected with MRSA and is on contact precautions. What should the nurse aide wear when giving care?",
+      "options": [
+        "A mask only",
+        "Goggles only",
+        "Shoe covers only",
+        "Gown and gloves"
+      ],
+      "answer": 3,
+      "explain": "Contact precautions protect against germs spread by touching the resident or nearby surfaces, so a gown and gloves are put on before entering and removed before leaving. Equipment such as a stethoscope is often kept in the room for that resident."
+    },
+    {
+      "id": "cna-bns-09",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, handling linen)",
+      "q": "How should the nurse aide carry soiled linen?",
+      "options": [
+        "Held against the chest so it does not drop",
+        "Held away from the uniform, rolled with the dirty side in",
+        "Shaken out first to remove any crumbs",
+        "Placed on the floor until the hamper arrives"
+      ],
+      "answer": 1,
+      "explain": "Holding soiled linen away from the body and rolling it inward keeps germs off the uniform. Shaking linen spreads microorganisms into the air, and linen placed on the floor becomes more contaminated."
+    },
+    {
+      "id": "cna-bns-10",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (infection control, sharps)",
+      "q": "While making a bed, the nurse aide finds a used needle in the sheets. What should the aide do?",
+      "options": [
+        "Recap it before throwing it away",
+        "Wrap it in the sheet for the laundry",
+        "Put it in the regular trash bin",
+        "Carefully place it in a sharps container"
+      ],
+      "answer": 3,
+      "explain": "Used needles go straight into a puncture-resistant sharps container without recapping, since recapping causes many needlestick injuries. The aide reports finding the needle so the cause can be addressed. Leaving it in linen endangers laundry staff."
+    },
+    {
+      "id": "cna-bns-11",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety and emergency, fire)",
+      "q": "The nurse aide discovers a fire in a resident's room. What is the first action?",
+      "options": [
+        "Remove residents who are in immediate danger",
+        "Try to smother the fire with a blanket",
+        "Open the windows to let the smoke out",
+        "Call the resident's family to inform them"
+      ],
+      "answer": 0,
+      "explain": "The RACE steps are Rescue, Alarm, Confine and Extinguish. Removing people in immediate danger comes first, then sounding the alarm, closing doors to contain smoke and fire, and using an extinguisher only if it is safe. Opening windows feeds the fire with oxygen."
+    },
+    {
+      "id": "cna-bns-12",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety and emergency, fire extinguisher)",
+      "q": "When using a fire extinguisher by the PASS method, what is the first step?",
+      "options": [
+        "Aim at the smoke",
+        "Squeeze the handle",
+        "Sweep side to side",
+        "Pull the pin"
+      ],
+      "answer": 3,
+      "explain": "PASS stands for Pull the pin, Aim at the base of the fire, Squeeze the handle and Sweep from side to side. The pin must be pulled before the handle can be squeezed, and aiming at the base targets the fuel rather than the smoke."
+    },
+    {
+      "id": "cna-bns-13",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety and emergency, choking)",
+      "q": "A resident eating in the dining room clutches the throat and cannot speak or cough. What should the nurse aide do?",
+      "options": [
+        "Give the resident a glass of water",
+        "Pat the resident gently on the shoulder",
+        "Wait to see if the resident clears it",
+        "Call for help and give abdominal thrusts"
+      ],
+      "answer": 3,
+      "explain": "Being unable to speak or cough means a severe airway obstruction. Abdominal thrusts push air up from the lungs to expel the object. Water can worsen the blockage, and waiting lets oxygen levels fall. If the resident becomes unresponsive, CPR is started."
+    },
+    {
+      "id": "cna-bns-14",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety and emergency, falls during ambulation)",
+      "q": "While walking with a resident, the nurse aide feels the resident start to fall. What should the aide do?",
+      "options": [
+        "Ease the resident to the floor, protecting the head",
+        "Hold the resident upright with full strength",
+        "Let go and run to get the nurse quickly",
+        "Pull the resident back up by both arms"
+      ],
+      "answer": 0,
+      "explain": "Trying to stop a fall can injure both the resident and the aide. Using the gait belt and the aide's body to slide the resident down gently, while protecting the head, reduces harm. The aide then calls for the nurse and does not lift the resident alone."
+    },
+    {
+      "id": "cna-bns-15",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety and emergency, resident found on floor)",
+      "q": "The nurse aide finds a resident lying on the floor beside the bed. What should the aide do first?",
+      "options": [
+        "Stay with the resident and call for the nurse",
+        "Help the resident back into bed right away",
+        "Leave the room to find a mechanical lift",
+        "Ask the resident to stand up slowly"
+      ],
+      "answer": 0,
+      "explain": "The resident may have a fracture or head injury, so moving the resident before the nurse assesses can cause more harm. The aide stays, calls for help and keeps the resident calm. The nurse decides how and when to move the resident."
+    },
+    {
+      "id": "cna-bns-16",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety, bed position)",
+      "q": "After giving care to a resident in bed, how should the nurse aide leave the bed?",
+      "options": [
+        "Raised to working height for the next shift",
+        "In the lowest position with the wheels locked",
+        "In the highest position to discourage getting up",
+        "Unlocked so it can be moved more easily"
+      ],
+      "answer": 1,
+      "explain": "A low bed with locked wheels reduces injury if the resident gets up or falls. A high bed makes falls more harmful, and unlocked wheels let the bed roll away during transfers. The call light is also left within reach."
+    },
+    {
+      "id": "cna-bns-17",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety, call light)",
+      "q": "Before leaving a resident's room, what should the nurse aide check?",
+      "options": [
+        "That the door is locked from the outside",
+        "That the privacy curtain is fully closed",
+        "That the call light is within the resident's reach",
+        "That the room lights are switched off"
+      ],
+      "answer": 2,
+      "explain": "The call light lets the resident ask for help, so it must be within reach every time the aide leaves. Locking a resident in a room is unsafe and violates rights. The curtain and lights are arranged according to the resident's wishes."
+    },
+    {
+      "id": "cna-bns-18",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, pulse)",
+      "q": "What is the normal resting pulse rate range for an adult?",
+      "options": [
+        "60 to 100 beats per minute",
+        "40 to 60 beats per minute",
+        "100 to 140 beats per minute",
+        "20 to 40 beats per minute"
+      ],
+      "answer": 0,
+      "explain": "A resting adult pulse usually falls between 60 and 100 beats per minute. A rate below 60 or above 100 is reported to the nurse, along with an irregular rhythm or a weak pulse, so the change can be assessed."
+    },
+    {
+      "id": "cna-bns-19",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, respirations)",
+      "q": "How should the nurse aide count a resident's respirations?",
+      "options": [
+        "Without telling the resident, right after the pulse",
+        "After asking the resident to breathe normally",
+        "Counting each inhalation and exhalation as two",
+        "For ten seconds, then multiplying by six"
+      ],
+      "answer": 0,
+      "explain": "People change their breathing when they know it is being watched, so respirations are counted while the aide still appears to be taking the pulse. One rise and fall of the chest is one breath. Counting for a full 30 or 60 seconds gives a more accurate rate."
+    },
+    {
+      "id": "cna-bns-20",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, normal respiratory rate)",
+      "q": "Which respiratory rate is within the normal range for a resting adult?",
+      "options": [
+        "8 breaths per minute",
+        "28 breaths per minute",
+        "36 breaths per minute",
+        "16 breaths per minute"
+      ],
+      "answer": 3,
+      "explain": "A normal adult respiratory rate is about 12 to 20 breaths per minute. A rate of 8 is too slow, and rates of 28 or 36 are too fast. Any of these abnormal rates would be reported promptly to the nurse."
+    },
+    {
+      "id": "cna-bns-21",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, blood pressure)",
+      "q": "A resident has a dialysis access in the left arm. Where should the nurse aide take the blood pressure?",
+      "options": [
+        "On the right arm",
+        "On the left arm, above the access",
+        "On the left arm, below the access",
+        "On either arm, as the aide prefers"
+      ],
+      "answer": 0,
+      "explain": "A blood pressure cuff squeezes the arm and can damage a dialysis fistula or graft, so the other arm is used. The same rule applies to an arm with an IV or on the side of a mastectomy. The care plan usually notes this restriction."
+    },
+    {
+      "id": "cna-bns-22",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, oral temperature)",
+      "q": "A resident just finished a cup of hot coffee. What should the nurse aide do before taking an oral temperature?",
+      "options": [
+        "Wait about 15 minutes, then measure",
+        "Measure right away to save time",
+        "Have the resident drink cold water first",
+        "Subtract one degree from the reading"
+      ],
+      "answer": 0,
+      "explain": "Hot or cold drinks, food, gum and smoking change the temperature inside the mouth and give a false reading. Waiting about 15 to 20 minutes lets the mouth return to body temperature. Adjusting a reading by guesswork is inaccurate documentation."
+    },
+    {
+      "id": "cna-bns-23",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (intake and output, conversions)",
+      "q": "A resident drank 8 ounces of juice. How many milliliters should the nurse aide record?",
+      "options": [
+        "80 mL",
+        "240 mL",
+        "120 mL",
+        "480 mL"
+      ],
+      "answer": 1,
+      "explain": "One fluid ounce equals about 30 mL, so 8 ounces multiplied by 30 gives 240 mL. Intake is recorded in milliliters so it can be totaled and compared with output over the shift."
+    },
+    {
+      "id": "cna-bns-24",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (intake and output, what counts as fluid)",
+      "q": "Which food served at lunch is counted as fluid intake?",
+      "options": [
+        "A dish of gelatin",
+        "A slice of bread",
+        "Mashed potatoes",
+        "A baked chicken leg"
+      ],
+      "answer": 0,
+      "explain": "Foods that are liquid at room temperature, such as gelatin, ice cream, soup and ice chips, count as fluid intake. Solid foods like bread, potatoes and meat are not measured as fluids even though they contain some water."
+    },
+    {
+      "id": "cna-bns-25",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (intake and output, measuring output)",
+      "q": "How should the nurse aide read the amount of urine in a graduate?",
+      "options": [
+        "Held up toward a ceiling light",
+        "Tilted so the urine is easier to see",
+        "From above while standing over it",
+        "On a flat surface at eye level"
+      ],
+      "answer": 3,
+      "explain": "Reading a graduated container on a level surface at eye level gives an accurate measurement. Holding it up or tilting it changes where the fluid line appears. Gloves are worn, and the amount is recorded in mL right away."
+    },
+    {
+      "id": "cna-bns-26",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (specimen collection, clean-catch urine)",
+      "q": "When collecting a clean-catch urine specimen, which step is correct?",
+      "options": [
+        "Collect the first urine passed into the cup",
+        "Pour urine from the bedpan into the cup",
+        "Clean the area, start voiding, then collect midstream",
+        "Collect urine from the drainage bag spout"
+      ],
+      "answer": 2,
+      "explain": "Cleaning the perineal area and letting the first part of the stream flush the urethra keeps skin bacteria out of the sample. The middle of the stream is caught in a sterile cup. Urine from a bedpan or a drainage bag is not a clean specimen."
+    },
+    {
+      "id": "cna-bns-27",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (specimen collection, stool)",
+      "q": "When collecting a stool specimen, what should the nurse aide tell the resident?",
+      "options": [
+        "Place the toilet tissue in the container",
+        "Flush the toilet before giving the sample",
+        "Do not urinate into the collection container",
+        "Drink a large amount of water first"
+      ],
+      "answer": 2,
+      "explain": "Urine and toilet tissue contaminate a stool specimen and can affect lab results. The resident voids first, then passes stool into the collection container, and used tissue goes into a separate receptacle."
+    },
+    {
+      "id": "cna-bns-28",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (specimen collection, sputum)",
+      "q": "When is the best time to collect a sputum specimen?",
+      "options": [
+        "Right after the resident eats lunch",
+        "Right after the resident uses mouthwash",
+        "Late at night just before bedtime",
+        "Early in the morning after waking"
+      ],
+      "answer": 3,
+      "explain": "Secretions collect in the lungs overnight, so early morning gives more sputum. The resident rinses the mouth with plain water, then coughs deeply to bring up sputum from the lungs rather than saliva. Mouthwash and food can contaminate the sample."
+    },
+    {
+      "id": "cna-bns-29",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (bedmaking, occupied bed)",
+      "q": "While making an occupied bed, what should the nurse aide do?",
+      "options": [
+        "Have the resident sit in a chair throughout",
+        "Lower the bed to its lowest height while working",
+        "Keep the resident covered for privacy and warmth",
+        "Shake each clean sheet open above the resident"
+      ],
+      "answer": 2,
+      "explain": "An occupied bed is made with the resident in it, so a bath blanket or top sheet keeps the resident covered while the aide works one side at a time. The bed is raised to a safe working height and then lowered when done. Shaking linen spreads germs."
+    },
+    {
+      "id": "cna-bns-30",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (data collection, weight)",
+      "q": "A resident is weighed daily. Which practice gives the most accurate comparison from day to day?",
+      "options": [
+        "Same scale, same time, similar clothing",
+        "Any free scale on the unit that day",
+        "Before meals some days, after others",
+        "In shoes on some days for safety"
+      ],
+      "answer": 0,
+      "explain": "Weighing at the same time of day, on the same scale, with similar clothing removes variables so a real change can be seen. A sudden gain or loss is reported to the nurse because it can signal fluid retention or poor nutrition."
+    },
+    {
+      "id": "cna-bns-31",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (data collection, skin observation)",
+      "q": "During care, the nurse aide notices a reddened area over a resident's tailbone that stays red after repositioning. What should the aide do?",
+      "options": [
+        "Massage the red area firmly to restore blood flow",
+        "Report it to the nurse and keep pressure off it",
+        "Apply a heating pad to the area for twenty minutes",
+        "Wait until the next bath to check it again"
+      ],
+      "answer": 1,
+      "explain": "Redness that does not fade can be the first stage of a pressure injury. The aide reports it, relieves pressure by repositioning and follows the care plan. Massaging over a reddened bony area can damage the tissue further."
+    },
+    {
+      "id": "cna-bns-32",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety, oxygen use)",
+      "q": "A resident uses oxygen by nasal cannula. Which action by the nurse aide is appropriate?",
+      "options": [
+        "Keep open flames and smoking away from the room",
+        "Raise the flow rate when the resident seems tired",
+        "Remove the cannula during meals for easier eating",
+        "Store spare tanks lying loose on the floor"
+      ],
+      "answer": 0,
+      "explain": "Oxygen supports burning, so flames, smoking and sparks are kept away. Only licensed staff change the oxygen flow rate or remove the oxygen. Tanks are secured upright in a holder so they cannot fall. The aide reports breathing problems and skin irritation from the tubing."
+    },
+    {
+      "id": "cna-bns-33",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (positioning, Fowler position)",
+      "q": "In the Fowler position, how far is the head of the bed raised?",
+      "options": [
+        "About 45 to 60 degrees",
+        "Flat at 0 degrees",
+        "About 10 to 15 degrees",
+        "Lowered below the feet"
+      ],
+      "answer": 0,
+      "explain": "The Fowler position raises the head of the bed about 45 to 60 degrees, which eases breathing and is used for meals. Semi-Fowler is lower, around 30 degrees. A position with the head lower than the feet is called Trendelenburg."
+    },
+    {
+      "id": "cna-bns-34",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (safety, body mechanics)",
+      "q": "Which body mechanics practice helps the nurse aide lift safely?",
+      "options": [
+        "Bend at the knees and keep the load close",
+        "Bend at the waist and keep legs straight",
+        "Twist at the waist while holding the load",
+        "Keep the feet close together for balance"
+      ],
+      "answer": 0,
+      "explain": "Bending the knees uses the strong leg muscles, and keeping the load close to the body reduces strain on the back. A wide base of support with feet apart improves balance. Twisting while lifting is a common cause of back injury."
+    },
+    {
+      "id": "cna-bns-35",
+      "exam": "cna",
+      "domain": "bns",
+      "ref": "NNAAP 2024 outline: Basic Nursing Skills (vital signs, apical pulse)",
+      "q": "Where does the nurse aide place the stethoscope to count an apical pulse?",
+      "options": [
+        "On the right side of the neck, near the jaw",
+        "On the left side of the chest, below the nipple",
+        "On the inside of the elbow, over the artery",
+        "On the back, between the shoulder blades"
+      ],
+      "answer": 1,
+      "explain": "The apical pulse is heard over the apex of the heart, on the left side of the chest a little below the nipple, and is counted for one full minute. The side of the neck is the carotid site and the inner elbow is the brachial site."
+    },
+    {
+      "id": "cna-self-01",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (ambulation aids, cane)",
+      "q": "A resident with a weak right leg uses a cane. On which side should the cane be held?",
+      "options": [
+        "The right side, the weaker side",
+        "Whichever side the aide stands on",
+        "Centered in front of the body",
+        "The left side, the stronger side"
+      ],
+      "answer": 3,
+      "explain": "The cane is held on the strong side so it moves together with the weak leg, sharing the body's weight and widening the base of support. Holding it on the weak side throws the resident off balance."
+    },
+    {
+      "id": "cna-self-02",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (ambulation aids, walker)",
+      "q": "How should a resident walk with a standard walker that has no wheels?",
+      "options": [
+        "Slide the walker while stepping beside it",
+        "Step forward first, then pull the walker",
+        "Lean on the walker while pushing it ahead",
+        "Lift the walker forward, then step into it"
+      ],
+      "answer": 3,
+      "explain": "A walker without wheels is lifted and set down a short distance ahead with all legs on the floor, and then the resident steps into it. Stepping ahead of the walker or leaning on it while it moves can cause a fall."
+    },
+    {
+      "id": "cna-self-03",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (ambulation, gait belt)",
+      "q": "When helping a resident walk with a gait belt, where should the nurse aide stand?",
+      "options": [
+        "Directly in front, walking backward",
+        "On the stronger side, a step ahead",
+        "Several steps behind to give space",
+        "Slightly behind, on the resident's weaker side"
+      ],
+      "answer": 3,
+      "explain": "Standing slightly behind on the weak side, holding the gait belt, lets the aide support the side most likely to give way and guide the resident down if a fall begins. Walking in front or far behind leaves the aide unable to react."
+    },
+    {
+      "id": "cna-self-04",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (range of motion)",
+      "q": "While doing passive range of motion exercises, the resident says a joint hurts. What should the nurse aide do?",
+      "options": [
+        "Push gently past the point of pain",
+        "Do the exercise faster to finish sooner",
+        "Stop that exercise and report the pain",
+        "Skip all exercises for the rest of the week"
+      ],
+      "answer": 2,
+      "explain": "Range of motion is done slowly and gently, supporting the limb above and below the joint, and never past the point of pain or resistance. Pain is a signal to stop that movement and tell the nurse, who decides what to change."
+    },
+    {
+      "id": "cna-self-05",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (promoting independence)",
+      "q": "A resident who had a stroke is slowly buttoning her own blouse. What should the nurse aide do?",
+      "options": [
+        "Button it for her to save time",
+        "Choose a pullover top without asking",
+        "Allow extra time and let her finish herself",
+        "Tell her to wait for family to help"
+      ],
+      "answer": 2,
+      "explain": "Restorative care promotes independence. Letting the resident do as much as she can, with time and encouragement, helps keep her skills and dignity. Doing tasks for a resident who can do them herself can speed the loss of ability."
+    },
+    {
+      "id": "cna-self-06",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (adaptive equipment)",
+      "q": "A resident with arthritis in the hands has trouble holding a regular spoon. Which item can help the resident eat independently?",
+      "options": [
+        "A smaller spoon with a thin handle",
+        "A plastic straw for all foods",
+        "A utensil with a built-up handle",
+        "A flat plate without any rim"
+      ],
+      "answer": 2,
+      "explain": "Built-up or padded handles are easier to grip for weak or painful hands, so the resident can keep feeding herself. A thin handle is harder to hold, and a plate guard or rimmed plate, not a flat plate, helps push food onto the utensil."
+    },
+    {
+      "id": "cna-self-07",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (transfers, dangling)",
+      "q": "Before helping a resident stand up from bed for the first time that day, what should the nurse aide have the resident do?",
+      "options": [
+        "Stand quickly to avoid getting tired",
+        "Sit on the edge of the bed for a few minutes",
+        "Lie flat for ten minutes before rising",
+        "Hold the breath while pushing up hard"
+      ],
+      "answer": 1,
+      "explain": "Dangling the legs at the edge of the bed lets blood pressure adjust and reduces dizziness from a drop in blood pressure when standing. The aide watches for dizziness or weakness before standing the resident. Rising quickly can cause fainting and falls."
+    },
+    {
+      "id": "cna-self-08",
+      "exam": "cna",
+      "domain": "self",
+      "ref": "NNAAP 2024 outline: Self-care and Independence (restorative care, contracture prevention)",
+      "q": "Why are range of motion exercises done for a resident on bed rest?",
+      "options": [
+        "To raise the resident's blood sugar",
+        "To replace the need for repositioning",
+        "To help prevent contractures and stiffness",
+        "To raise the resident's body temperature"
+      ],
+      "answer": 2,
+      "explain": "Joints that are not moved can stiffen and shorten into contractures, which limit function and cause pain. Range of motion keeps joints flexible. It does not replace repositioning, which is still needed to protect the skin."
+    },
+    {
+      "id": "cna-emo-01",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (dementia, sundowning)",
+      "q": "A resident with dementia becomes more restless and confused every late afternoon. What is this pattern called?",
+      "options": [
+        "Catastrophic reaction",
+        "Sundowning",
+        "Perseveration",
+        "Delusional disorder"
+      ],
+      "answer": 1,
+      "explain": "Sundowning is increased confusion, agitation or restlessness in the late afternoon or evening in people with dementia. Helpful measures include a calm routine, good lighting and less noise. A catastrophic reaction is a sudden overreaction to too much stimulation."
+    },
+    {
+      "id": "cna-emo-02",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (dementia, repetitive questions)",
+      "q": "A resident with dementia asks the same question every few minutes. What is the best response by the nurse aide?",
+      "options": [
+        "Answer calmly each time and gently redirect",
+        "Remind the resident that she already asked",
+        "Ignore the question until she stops asking",
+        "Tell her to write it down and stop asking"
+      ],
+      "answer": 0,
+      "explain": "Memory loss means the resident does not recall asking, so pointing it out causes frustration. A calm, simple answer followed by redirecting to an activity lowers anxiety. Ignoring the resident can increase agitation."
+    },
+    {
+      "id": "cna-emo-03",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (dementia, validation)",
+      "q": "A resident with dementia keeps saying she must go home because her mother is waiting. Her mother died years ago. What should the nurse aide do?",
+      "options": [
+        "Ask her about her mother and offer comfort",
+        "Tell her firmly that her mother is dead",
+        "Tell her to sit down and stop talking",
+        "Lock her room door so she cannot leave"
+      ],
+      "answer": 0,
+      "explain": "Responding to the feelings behind the words, such as talking about her mother, comforts the resident without arguing. Repeatedly telling her that her mother died can cause fresh grief each time. Locking a resident in a room is an unlawful restraint."
+    },
+    {
+      "id": "cna-emo-04",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (behaviors, agitation during care)",
+      "q": "A resident with dementia becomes agitated and starts shouting during a bath. What should the nurse aide do?",
+      "options": [
+        "Finish the bath quickly despite the protests",
+        "Raise the voice to be heard over the shouting",
+        "Stop, stay calm and reduce noise and activity",
+        "Leave the resident alone in the tub to calm down"
+      ],
+      "answer": 2,
+      "explain": "Agitation often signals fear, pain or overstimulation. Pausing, speaking softly, reducing stimulation and trying again later usually works better than forcing care. The resident is kept safe and is never left alone in the tub."
+    },
+    {
+      "id": "cna-emo-05",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (mental health, suicidal statements)",
+      "q": "A resident tells the nurse aide, 'I do not want to live anymore.' What should the aide do?",
+      "options": [
+        "Change the subject to something more cheerful",
+        "Promise to keep the statement a secret",
+        "Stay with the resident and tell the nurse right away",
+        "Tell the resident that everyone feels that way"
+      ],
+      "answer": 2,
+      "explain": "Any statement about wanting to die is taken seriously and reported to the nurse immediately so the resident can be assessed. The aide keeps the resident safe and listens. Keeping it secret or dismissing it can delay help."
+    },
+    {
+      "id": "cna-emo-06",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (mental health, depression)",
+      "q": "Which change in a resident may be a sign of depression that should be reported?",
+      "options": [
+        "Withdrawing from activities once enjoyed",
+        "Asking for a second helping at lunch",
+        "Chatting often with a roommate",
+        "Attending a weekly music group"
+      ],
+      "answer": 0,
+      "explain": "Loss of interest in usual activities, withdrawal, changes in sleep or appetite and persistent sadness can signal depression, which is common and treatable in older adults. The aide reports such changes. Socializing and joining activities are healthy behaviors."
+    },
+    {
+      "id": "cna-emo-07",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (adjustment to admission)",
+      "q": "A newly admitted resident is crying and says she misses her home. What is the best response by the nurse aide?",
+      "options": [
+        "Tell her she will feel fine by tomorrow",
+        "Listen, acknowledge her feelings and help her settle in",
+        "Tell her crying will upset other residents",
+        "Leave her alone until she stops crying"
+      ],
+      "answer": 1,
+      "explain": "Moving to a facility involves real losses. Listening, accepting her feelings and helping her personalize her space support adjustment. Promising quick improvement or discouraging her from expressing emotion blocks communication."
+    },
+    {
+      "id": "cna-emo-08",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (anxiety)",
+      "q": "A resident is anxious and breathing fast before a medical appointment. What can the nurse aide do to help?",
+      "options": [
+        "Tell the resident there is nothing at all to fear",
+        "Speak calmly, explain what will happen and tell the nurse",
+        "Hurry the resident so there is less time waiting",
+        "Talk about the aide's own fears of doctors and tests"
+      ],
+      "answer": 1,
+      "explain": "A calm voice and simple explanations reduce fear of the unknown. Dismissing the feeling does not make it go away, and rushing increases stress. The aide also reports the anxiety and fast breathing to the nurse so physical causes can be checked."
+    },
+    {
+      "id": "cna-emo-09",
+      "exam": "cna",
+      "domain": "emo",
+      "ref": "NNAAP 2024 outline: Emotional and Mental Health Needs (behaviors, combative resident)",
+      "q": "A resident with dementia swings at the nurse aide during morning care. What should the aide do first?",
+      "options": [
+        "Hold both of the resident's arms down",
+        "Raise the voice and order the resident to stop",
+        "Continue care while ignoring the hitting",
+        "Step back out of reach and stay calm"
+      ],
+      "answer": 3,
+      "explain": "Stepping out of reach protects both the aide and the resident, and a calm approach helps the situation settle. Holding the arms down can cause injury and acts as a restraint. The aide reports the behavior so triggers can be identified in the care plan."
+    },
+    {
+      "id": "cna-spi-01",
+      "exam": "cna",
+      "domain": "spi",
+      "ref": "NNAAP 2024 outline: Spiritual and Cultural Needs (religious dietary practices)",
+      "q": "A resident's religion forbids eating pork, and the lunch tray includes ham. What should the nurse aide do?",
+      "options": [
+        "Remove the ham and serve the rest of the tray",
+        "Tell the resident a small amount is acceptable",
+        "Return the tray and request a correct substitute",
+        "Serve the tray as is since the kitchen chose it"
+      ],
+      "answer": 2,
+      "explain": "The resident's religious food practices are respected, so the aide does not serve the item and asks for a tray that follows the resident's diet. Simply removing the ham may not be acceptable because other foods may have touched it. The aide reports the error so the diet card can be corrected."
+    },
+    {
+      "id": "cna-spi-02",
+      "exam": "cna",
+      "domain": "spi",
+      "ref": "NNAAP 2024 outline: Spiritual and Cultural Needs (religious practices, privacy)",
+      "q": "A resident asks for privacy to pray. What should the nurse aide do?",
+      "options": [
+        "Pray with the resident in the aide's own way",
+        "Suggest the resident pray after care is done",
+        "Ask the resident to pray in the chapel only",
+        "Close the door or curtain and give privacy"
+      ],
+      "answer": 3,
+      "explain": "Respecting religious practices is a resident right. Providing privacy and not interrupting supports the resident's spiritual needs. The aide does not impose personal beliefs, and the resident chooses where and when to pray."
+    },
+    {
+      "id": "cna-spi-03",
+      "exam": "cna",
+      "domain": "spi",
+      "ref": "NNAAP 2024 outline: Spiritual and Cultural Needs (cultural preferences in care)",
+      "q": "A resident's culture makes her uncomfortable being bathed by a male caregiver. What should the nurse aide do?",
+      "options": [
+        "Report it so the assignment can be adjusted",
+        "Tell her all caregivers are trained the same",
+        "Skip her bath until she changes her mind",
+        "Bathe her quickly to limit her discomfort"
+      ],
+      "answer": 0,
+      "explain": "Cultural preferences about modesty and the gender of caregivers are respected whenever possible. The aide reports the preference to the nurse so a female caregiver can be assigned and the care plan updated. Skipping care or ignoring the request does not meet the resident's needs."
+    },
+    {
+      "id": "cna-spi-04",
+      "exam": "cna",
+      "domain": "spi",
+      "ref": "NNAAP 2024 outline: Spiritual and Cultural Needs (spiritual needs at end of life)",
+      "q": "A resident who is dying asks to see a spiritual leader of his faith. What should the nurse aide do?",
+      "options": [
+        "Explain that visits are only for family",
+        "Offer to share the aide's own religious views",
+        "Tell the nurse so the visit can be arranged",
+        "Wait until the resident asks a second time"
+      ],
+      "answer": 2,
+      "explain": "Spiritual support is part of end-of-life care and a resident right. The aide passes the request to the nurse or social worker promptly so the visit can be arranged, and provides privacy during it."
+    },
+    {
+      "id": "cna-com-01",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (hearing impairment)",
+      "q": "Which technique helps when speaking to a resident who is hard of hearing?",
+      "options": [
+        "Shout into the ear from behind the resident",
+        "Speak quickly so the message stays short",
+        "Face the resident and speak clearly in a low pitch",
+        "Cover the mouth to make the voice louder"
+      ],
+      "answer": 2,
+      "explain": "Facing the resident in good light allows lip reading and facial cues, and a lower pitch is easier for many older adults to hear. Shouting distorts sound and can startle. Background noise is reduced and hearing aids are checked."
+    },
+    {
+      "id": "cna-com-02",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (hearing aids)",
+      "q": "A resident's hearing aid is making a whistling sound. What should the nurse aide check first?",
+      "options": [
+        "That the volume is turned all the way up",
+        "That it was soaked in water overnight",
+        "That it is placed in the opposite ear",
+        "That it is seated properly in the ear"
+      ],
+      "answer": 3,
+      "explain": "Whistling, called feedback, often happens when a hearing aid is not fully inserted or the ear canal has wax buildup. Turning the volume up makes feedback worse. Hearing aids are never placed in water."
+    },
+    {
+      "id": "cna-com-03",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (vision impairment)",
+      "q": "When entering the room of a resident who is blind, what should the nurse aide do?",
+      "options": [
+        "Touch the resident's arm without speaking",
+        "Knock and state the aide's own name and role",
+        "Enter quietly so as not to disturb anyone",
+        "Move the furniture to make cleaning easier"
+      ],
+      "answer": 1,
+      "explain": "Announcing oneself lets the resident know who is there and prevents startling. Entering silently or touching without warning can frighten the resident. Furniture and belongings stay where the resident expects them so he or she can move safely."
+    },
+    {
+      "id": "cna-com-04",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (aphasia)",
+      "q": "A resident with expressive aphasia after a stroke struggles to find words. How can the nurse aide communicate best?",
+      "options": [
+        "Finish the resident's sentences right away",
+        "Speak loudly and very slowly to the resident",
+        "Avoid talking to the resident to prevent upset",
+        "Ask questions that can be answered yes or no"
+      ],
+      "answer": 3,
+      "explain": "Yes or no questions, gestures, picture boards and patience let a resident with aphasia communicate without struggling for words. Finishing sentences can guess wrong and frustrate the resident. Expressive aphasia is not a hearing problem, so a loud voice does not help."
+    },
+    {
+      "id": "cna-com-05",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (observing and reporting, objective data)",
+      "q": "Which is an objective observation the nurse aide might report?",
+      "options": [
+        "The resident's ankles are swollen",
+        "The resident says she feels dizzy",
+        "The resident reports a headache",
+        "The resident says she feels sick"
+      ],
+      "answer": 0,
+      "explain": "Objective observations are signs the aide can see, hear, feel or smell, such as swelling. Subjective information is what the resident says he or she feels, like dizziness, pain or nausea. Both are reported, and subjective statements are recorded in the resident's own words."
+    },
+    {
+      "id": "cna-com-06",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (reporting changes in condition)",
+      "q": "Which observation should the nurse aide report to the nurse immediately?",
+      "options": [
+        "A request for an extra blanket",
+        "A choice to skip the afternoon game",
+        "Eating 75 percent of lunch",
+        "New slurred speech and facial drooping"
+      ],
+      "answer": 3,
+      "explain": "Sudden slurred speech and a drooping face are warning signs of a stroke, which needs immediate treatment. The other situations are routine and are handled or documented as usual. Changes in condition are always reported promptly."
+    },
+    {
+      "id": "cna-com-07",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (communicating with residents)",
+      "q": "When explaining care to a resident, which approach is best?",
+      "options": [
+        "Use simple words and check for understanding",
+        "Use medical terms to sound more professional",
+        "Explain only after finishing the procedure",
+        "Speak to the family instead of the resident"
+      ],
+      "answer": 0,
+      "explain": "Plain language, and asking the resident to repeat or show understanding, improve communication and cooperation. Medical jargon can confuse. Residents have the right to be told about their care before it begins and to be spoken to directly."
+    },
+    {
+      "id": "cna-com-08",
+      "exam": "cna",
+      "domain": "com",
+      "ref": "NNAAP 2024 outline: Communication (active listening)",
+      "q": "A resident wants to talk about her late husband while the nurse aide makes the bed. Which response shows active listening?",
+      "options": [
+        "Nodding, making eye contact and reflecting key points",
+        "Checking the clock often while she is talking",
+        "Changing the subject to the weather outside",
+        "Telling a long story about the aide's family"
+      ],
+      "answer": 0,
+      "explain": "Active listening means giving full attention, using body language such as nodding and eye contact, and reflecting back what was heard. Looking at the clock or turning the topic to the aide's life tells the resident her words do not matter."
+    },
+    {
+      "id": "cna-rights-01",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (privacy)",
+      "q": "Before entering a resident's room, what should the nurse aide do?",
+      "options": [
+        "Enter quickly to check on the resident",
+        "Open the door and call out the name",
+        "Knock and wait for permission to enter",
+        "Knock only if the door is fully closed"
+      ],
+      "answer": 2,
+      "explain": "The resident's room is his or her home, and knocking and waiting for a response respects privacy. Residents have the right to privacy in care, visits and personal matters. In an emergency the aide may enter immediately."
+    },
+    {
+      "id": "cna-rights-02",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (personal property)",
+      "q": "While cleaning, the nurse aide finds old greeting cards in a resident's drawer. What should the aide do?",
+      "options": [
+        "Throw them away to reduce clutter in the room",
+        "Leave them unless the resident agrees to discard them",
+        "Give them to the family at the next visit",
+        "Read them to learn more about the resident"
+      ],
+      "answer": 1,
+      "explain": "Residents have the right to keep and use personal belongings. The aide does not throw away, move or read personal items without the resident's permission. Reading private cards or letters also violates privacy."
+    },
+    {
+      "id": "cna-rights-03",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (right to refuse care)",
+      "q": "A resident refuses her scheduled shower. What should the nurse aide do?",
+      "options": [
+        "Insist the shower must happen that day",
+        "Tell her she will lose dining privileges",
+        "Respect the refusal, ask why and report it",
+        "Give the shower quickly before she objects"
+      ],
+      "answer": 2,
+      "explain": "Residents have the right to refuse care. The aide can ask the reason, offer another time or a bed bath, and reports the refusal to the nurse. Threats or forced care can be considered abuse."
+    },
+    {
+      "id": "cna-rights-04",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (restraints, definition)",
+      "q": "Which of the following is considered a physical restraint?",
+      "options": [
+        "A walker the resident uses to walk",
+        "A hearing aid worn in both ears",
+        "A lap tray the resident cannot remove",
+        "A seat cushion the resident moves freely"
+      ],
+      "answer": 2,
+      "explain": "A restraint is any device or method that limits a resident's movement or access to the body and that the resident cannot easily remove. A lap tray the resident cannot take off fits that definition. Assistive devices the resident controls are not restraints."
+    },
+    {
+      "id": "cna-rights-05",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (restraints, improper use)",
+      "q": "A resident keeps trying to get up alone. A coworker suggests tying her to the chair with a sheet. What should the nurse aide do?",
+      "options": [
+        "Refuse and report the fall risk to the nurse",
+        "Tie the sheet loosely so it is safer",
+        "Use the sheet only during the night shift",
+        "Ask the family for permission to tie her"
+      ],
+      "answer": 0,
+      "explain": "Restraints require an assessment and a physician's order and are used only after less restrictive measures fail. Tying a resident with a sheet is an improper restraint that can cause injury or death. The aide reports the behavior so the team can find out why she gets up."
+    },
+    {
+      "id": "cna-rights-06",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (abuse reporting)",
+      "q": "The nurse aide sees a coworker slap a resident. What should the aide do?",
+      "options": [
+        "Protect the resident and report it right away",
+        "Talk with the coworker privately later",
+        "Wait to see whether it happens again",
+        "Write it down but tell no supervisor"
+      ],
+      "answer": 0,
+      "explain": "Nurse aides are required to report suspected or witnessed abuse immediately, following facility policy and state law. The resident's safety comes first. Handling it privately or waiting allows the abuse to continue."
+    },
+    {
+      "id": "cna-rights-07",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (privacy, mail)",
+      "q": "A resident receives a letter. What should the nurse aide do?",
+      "options": [
+        "Open it first to check for bills",
+        "Give it to the resident unopened",
+        "Give it to the nurse to read first",
+        "Hold it until the family visits"
+      ],
+      "answer": 1,
+      "explain": "Residents have the right to send and receive mail unopened. The aide may help open or read a letter only when the resident asks. Holding mail or letting others read it violates privacy."
+    },
+    {
+      "id": "cna-rights-08",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (personal choices)",
+      "q": "A resident wants to wear a red sweater that does not match her skirt. What should the nurse aide do?",
+      "options": [
+        "Suggest she change to look more proper",
+        "Pick a matching outfit for her instead",
+        "Tell her the colors look odd together",
+        "Help her wear the sweater she chose"
+      ],
+      "answer": 3,
+      "explain": "Choosing one's own clothing is part of the right to make personal choices. The aide supports the decision unless it creates a safety issue, such as clothing unsuitable for the weather outdoors. Overriding choices reduces dignity and independence."
+    },
+    {
+      "id": "cna-rights-09",
+      "exam": "cna",
+      "domain": "rights",
+      "ref": "NNAAP 2024 outline: Client Rights (abuse, financial exploitation)",
+      "q": "A resident tells the nurse aide that a relative is taking money from her account without permission. What should the aide do?",
+      "options": [
+        "Tell her to settle it with the relative",
+        "Keep it private since it is family business",
+        "Call her bank and ask them to close it",
+        "Report it to the nurse or supervisor"
+      ],
+      "answer": 3,
+      "explain": "Taking a resident's money without permission is financial exploitation, a form of abuse that must be reported. The aide passes the information to the nurse or supervisor, who follows reporting rules. Contacting the bank is outside the aide's role."
+    },
+    {
+      "id": "cna-legal-01",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (scope of practice, medications)",
+      "q": "The nurse asks the nurse aide to give a resident a pill. What should the aide do?",
+      "options": [
+        "Give it, since a nurse asked for it to be done",
+        "Give it only if the resident agrees to take it",
+        "Politely decline, since it is outside the aide's role",
+        "Crush it and mix it into the resident's food"
+      ],
+      "answer": 2,
+      "explain": "Giving medications is not part of the certified nurse aide role unless the aide holds an additional state credential such as medication aide. The aide may remind a resident that it is time for a medication but does not give it. Accepting a task outside one's role can harm the resident."
+    },
+    {
+      "id": "cna-legal-02",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (negligence)",
+      "q": "A nurse aide forgets to lock the wheelchair brakes, and the resident falls during a transfer. What is this an example of?",
+      "options": [
+        "Assault",
+        "Negligence",
+        "Defamation",
+        "False imprisonment"
+      ],
+      "answer": 1,
+      "explain": "Negligence is failing to give the care that a reasonable, trained person would give, resulting in harm. Not locking the brakes is such a failure. Assault is a threat of harm, defamation is a false statement that damages reputation, and false imprisonment is unlawfully limiting movement."
+    },
+    {
+      "id": "cna-legal-03",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (documentation, correcting errors)",
+      "q": "The nurse aide makes an error while writing in a paper chart. How should it be corrected?",
+      "options": [
+        "Erase it fully and write the correct entry",
+        "Draw one line through it, then date and initial it",
+        "Cover it with correction fluid and rewrite",
+        "Scribble over it until it cannot be read"
+      ],
+      "answer": 1,
+      "explain": "A single line keeps the original entry readable, and the date and initials show who made the change, as facility policy directs. Erasing, using correction fluid or blacking out entries can look like tampering with a legal record."
+    },
+    {
+      "id": "cna-legal-04",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (confidentiality, HIPAA)",
+      "q": "In a crowded elevator, a coworker starts talking about a resident's diagnosis. What should the nurse aide do?",
+      "options": [
+        "Join in to share what the aide knows",
+        "Lower the voice and keep on talking",
+        "Suggest they discuss it later in private",
+        "Ask the visitors to step off the elevator"
+      ],
+      "answer": 2,
+      "explain": "Resident health information is confidential under HIPAA and is shared only with those who need it for care, in private settings. Lowering the voice in a public place still risks disclosure. Ending the conversation protects the resident."
+    },
+    {
+      "id": "cna-legal-05",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (confidentiality, social media)",
+      "q": "A nurse aide wants to post a photo taken with a favorite resident on a personal social media page. What should the aide do?",
+      "options": [
+        "Not post it, since it would breach the resident's privacy",
+        "Post it without including the resident's name",
+        "Post it only to a private account for friends",
+        "Post it if the resident is smiling in the photo"
+      ],
+      "answer": 0,
+      "explain": "Photos of residents are protected information, and posting them on personal social media breaches confidentiality and facility policy, even without a name or on a private account. A face alone can identify the resident."
+    },
+    {
+      "id": "cna-legal-06",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (documentation, timing)",
+      "q": "When should the nurse aide document care?",
+      "options": [
+        "At the start of the shift to save time",
+        "After the care is given, not before",
+        "Only at the end of the week in a summary",
+        "Before the care, then fix it if not done"
+      ],
+      "answer": 1,
+      "explain": "Documentation records what actually happened, so care is charted after it is done and as soon as possible. Charting ahead of time creates a false record if plans change. Accurate, timely notes are a legal record of care."
+    },
+    {
+      "id": "cna-legal-07",
+      "exam": "cna",
+      "domain": "legal",
+      "ref": "NNAAP 2024 outline: Legal and Ethical Behavior (ethics, gifts)",
+      "q": "A resident offers the nurse aide a cash tip for good care. What should the aide do?",
+      "options": [
+        "Accept it but keep it a secret",
+        "Accept it and share it with coworkers",
+        "Ask for a gift card instead of cash",
+        "Thank the resident and politely decline"
+      ],
+      "answer": 3,
+      "explain": "Accepting money or gifts from residents is against most facility policies and can be seen as taking advantage of the resident. The aide politely declines and thanks the resident. Sharing or hiding the money does not make it acceptable."
+    },
+    {
+      "id": "cna-team-01",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (chain of command)",
+      "q": "The nurse aide has a question about a resident's diet order. Whom should the aide ask first?",
+      "options": [
+        "The nurse supervising the aide",
+        "The resident's physician directly",
+        "The facility administrator",
+        "Another nurse aide on the unit"
+      ],
+      "answer": 0,
+      "explain": "Following the chain of command, the aide goes to the nurse in charge of the assignment, who can clarify the order or contact the physician. Going straight to the physician or the administrator skips the person responsible for the aide's work."
+    },
+    {
+      "id": "cna-team-02",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (care plan)",
+      "q": "Where does the nurse aide find the approaches the team uses for a resident's care?",
+      "options": [
+        "In the facility phone list",
+        "In the resident's care plan",
+        "In the resident's personal mail",
+        "In a coworker's personal notes"
+      ],
+      "answer": 1,
+      "explain": "The care plan lists the resident's problems, goals and approaches agreed on by the interdisciplinary team. The aide follows it and reports observations that might change it. Informal notes from coworkers may be outdated or incomplete."
+    },
+    {
+      "id": "cna-team-03",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (accepting assignments)",
+      "q": "The nurse assigns a task the nurse aide has never been trained to do. What should the aide do?",
+      "options": [
+        "Try it carefully and hope it goes well",
+        "Ask the resident how it is usually done",
+        "Tell the nurse and ask for training or help",
+        "Skip the task and not mention it"
+      ],
+      "answer": 2,
+      "explain": "Aides perform only tasks they are trained and allowed to do. Speaking up lets the nurse provide instruction, reassign the task or supervise. Attempting an unfamiliar task risks harm, and skipping it silently leaves care undone."
+    },
+    {
+      "id": "cna-team-04",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (time management)",
+      "q": "At the start of the shift, how can the nurse aide best plan the work?",
+      "options": [
+        "Start with the residents closest to the station",
+        "Do the easiest tasks first and leave the rest",
+        "Wait for call lights before starting any care",
+        "Review assignments and do time-sensitive care first"
+      ],
+      "answer": 3,
+      "explain": "Planning means reviewing the assignment and care plans, then putting timed or urgent care, such as scheduled repositioning, toileting or meals, first. Working only on the easiest tasks or waiting for call lights leads to missed care."
+    },
+    {
+      "id": "cna-team-05",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (teamwork and resident safety)",
+      "q": "A coworker needs help repositioning a heavy resident while the nurse aide is between tasks. What should the aide do?",
+      "options": [
+        "Decline because the resident is not assigned",
+        "Tell the coworker to use a sheet alone",
+        "Ask the resident to do more of the work",
+        "Help, since safe moves often need two people"
+      ],
+      "answer": 3,
+      "explain": "Teamwork keeps residents and staff safe, and heavy or dependent residents often need two or more people to move safely. Helping when free is part of being a team member, while moving such a resident alone risks injury to both."
+    },
+    {
+      "id": "cna-team-06",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (shift report)",
+      "q": "Why does the nurse aide listen to the report at the start of each shift?",
+      "options": [
+        "To find out which coworkers are absent",
+        "To get the weekly staff meal schedule",
+        "To review the facility dress code",
+        "To learn about changes in residents' conditions"
+      ],
+      "answer": 3,
+      "explain": "Shift report passes on changes in condition, new orders and concerns from the previous shift so the aide can give safe care. Missing it can mean missing a new fall risk, a diet change or a resident who needs closer watching."
+    },
+    {
+      "id": "cna-team-07",
+      "exam": "cna",
+      "domain": "team",
+      "ref": "NNAAP 2024 outline: Member of the Health Care Team (conflict resolution)",
+      "q": "The nurse aide disagrees with a coworker about how the workload was split. What is the best way to handle it?",
+      "options": [
+        "Discuss it calmly in private with the coworker",
+        "Complain about it in front of residents",
+        "Refuse to work with the coworker again",
+        "Post about the coworker on social media"
+      ],
+      "answer": 0,
+      "explain": "Conflicts are best handled directly, respectfully and privately, and taken to the supervisor if they cannot be resolved. Arguing in front of residents is unprofessional and upsets them. Refusing to work together affects resident care."
+    }
+  ]
+}

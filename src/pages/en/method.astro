@@ -1,0 +1,35 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema, articleSchema } from '../../lib/seo';
+import { helpers } from '../../lib/helpers';
+import { displayDate } from '../../lib/format';
+import { EXAM_IDS } from '../../lib/engine/exam';
+const lang = 'en';
+const h = helpers(lang);
+const { X } = h;
+const s = (k: Parameters<typeof h.src>[0], t: string) => h.src(k, t);
+const rows = EXAM_IDS.map((e) => [X(e).label, `${h.num(X(e).items)} in ${h.time(e)}`, X(e).domains.map((d) => `${d.short} ${d.items}`).join(' · '), h.num(h.inPool(e))]);
+---
+<PageLayout title="Method: how the practice questions and mocks are built" description="How US Health Exams writes practice questions from public outlines, draws and marks a mock in the published format, and dates every fee and retake rule." lang={lang} jsonLd={[articleSchema({ title: 'How the questions, mocks and fees are built', description: 'Method of US Health Exams', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
+  <header class="mb-6"><p class="kicker">Method</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">How the questions, mocks and fees are built</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <p>Every page and every tool reads the same sources: a bank of practice questions, a parameter file of formats, fees and rules read on the official pages on {h.read}, and a drug list built from the National Library of Medicine. No passing score, fee or waiting period is typed into a page; when a rule changes, the parameter file changes and every page follows.</p>
+    <h2>1. The questions</h2>
+    <p>The bank holds {h.num(h.count)} questions. Each one is written by Radif Partners from a topic named in an official outline: the <Fragment set:html={s('credentia_outline', 'NNAAP content outline')} /> for nurse aides, the <Fragment set:html={s('ptcb_outline', 'PTCE content outline')} />, the NHA test plans for the <Fragment set:html={s('nha_excpt_plan', 'ExCPT')} />, the <Fragment set:html={s('nha_cpt_plan', 'CPT')} /> and the <Fragment set:html={s('nha_cet_plan', 'CET')} />, the CCMA test plan (read in an archived copy, the NHA site blocking automated reading), the <Fragment set:html={s('aama_outline', 'CMA (AAMA) content outline')} /> and the <Fragment set:html={s('nremt_exams', 'NREMT EMT exam domains')} />. Each has four options, one right answer, an explanation and the outline point it trains. A question that fits several exams (venipuncture is on the CPT, the CCMA and the CMA) is tagged for each, under the domain where that exam's outline places it.</p>
+    <p>No question was copied from a prep provider, a book, a flash-card site or a real exam, and none is presented as a real exam question. Automated checks run on every build: unique ids and wording, four distinct options, an explanation of 15 to 95 words, no "all of the above", right answers spread over positions A to D and the right answer not given away by being the longest option.</p>
+    <h2>2. How a mock exam is drawn</h2>
+    <p>A mock has the total number of questions of the real exam, unscored pretest questions included, because they are mixed in on the day and you cannot tell them apart, and the published time. It takes from each outline domain the share the outline gives it, then shuffles. The NREMT exam is adaptive and stops between 70 and 120 questions: our EMT mock uses the longest case, 120 questions in 2 hours, with the domain shares of the NREMT ranges. A seed makes every draw reproducible: the first set of each page is drawn when the site is built, and a shared link replays the same questions.</p>
+    <Fragment set:html={h.table(['Exam', 'Mock', 'Questions per domain in a mock', 'Questions in our pool'], rows, 'Pools include the questions tagged from another exam.', ['l', 'l', 'l', 'r'])} />
+    <h2>3. How a mock is marked</h2>
+    <p>None of these exams is passed on a published number of correct answers. The PTCE, the NHA exams, the CMA and the NREMT report scaled scores after equating, and the nurse aide exams set their pass mark state by state. A mock therefore reports your share of correct answers and compares it with a study target of {h.pc(X('ptce').target)} set by this site, which is stated as ours and never as the official pass mark. The official passing standard of each exam is shown beside the result. The readiness estimate is a binomial calculation from your practice rate, labelled as a model.</p>
+    <h2>4. Fees, eligibility and retakes</h2>
+    <p>Fees and rules come from the certifiers' pages and handbooks: the <Fragment set:html={s('ptcb_guidebook', 'PTCB guidebook')} />, the <Fragment set:html={s('aama_elig', 'AAMA eligibility page')} />, the <Fragment set:html={s('nremt_cognitive', 'NREMT cognitive exam handbook')} /> and the NHA candidate handbook (archived copy). The NHA did not show its exam fees on a public page on {h.read}: the site says so rather than repeat a figure from a third party. Nurse aide fees are those of each state's vendor handbook, with the federal floor of <Fragment set:html={s('ecfr_483_154', '42 CFR 483.154')} />. Announced changes, such as the CMA outline of July 2027, are shown as coming, with their date.</p>
+    <h2>5. Pharmacy and clinical math</h2>
+    <p>Household measures follow <Fragment set:html={s('cfr_101_9', '21 CFR 101.9')} /> (teaspoon 5 mL, tablespoon 15 mL, fluid ounce 30 mL, cup 240 mL). Days supply is rounded down to whole days. No federal rule fixes drops per mL, so the drops calculator asks for the figure. EKG boxes are computed from the paper speed the visitor types, and the adult resting heart rate range of 60 to 100 is MedlinePlus's. Each formula has an automated test with a worked example. These tools train exam arithmetic; they are not for dosing patients.</p>
+    <h2>6. Drug list</h2>
+    <p>The top 200 list is a teaching list of commonly dispensed drugs. For each, the generic name, a brand name and the FDA established pharmacologic class were read from <Fragment set:html={s('rxnorm', 'RxNorm and RxClass')} />; a brand is shown only when RxNorm links it to that generic, and a class only when RxClass lists one.</p>
+    <p>Method version of <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-US')}</time>. A figure or an answer that looks wrong: <a href={route('contact', lang)}>contact</a>.</p>
+  </div>
+</PageLayout>

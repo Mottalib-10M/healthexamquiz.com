@@ -1,0 +1,2674 @@
+{
+  "questions": [
+    {
+      "id": "emt-scene-01",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (scene safety, violence)",
+      "q": "You arrive at a residence for an assault call and see a person holding a knife in the front yard. Law enforcement has not arrived. What should you do?",
+      "options": [
+        "Approach calmly and ask the person to drop the knife",
+        "Enter through the back door to reach the patient",
+        "Park in front of the house with emergency lights on",
+        "Stage at a safe distance until police secure the scene"
+      ],
+      "answer": 3,
+      "explain": "An EMT does not enter a scene that is not safe. Staging out of sight at a safe distance and waiting for law enforcement protects the crew so they remain able to treat patients. Trying to disarm someone is outside the EMT role."
+    },
+    {
+      "id": "emt-scene-02",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (standard precautions)",
+      "q": "What is the minimum standard precaution an EMT should take before touching any patient?",
+      "options": [
+        "Wearing an N95 respirator",
+        "Wearing a full-length gown",
+        "Wearing disposable gloves",
+        "Wearing a full face shield"
+      ],
+      "answer": 2,
+      "explain": "Gloves are the baseline protection for any patient contact because blood and body fluids may be present. Additional protection, such as eye protection, a mask or a gown, is added when splashes or airborne disease are likely."
+    },
+    {
+      "id": "emt-scene-03",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (standard precautions, airborne disease)",
+      "q": "You are called for a patient with a productive cough, night sweats and weight loss over several weeks. Which respiratory protection should you wear?",
+      "options": [
+        "No mask if gloves are worn",
+        "A loose cloth face covering",
+        "A fit-tested N95 respirator",
+        "A paper dust mask"
+      ],
+      "answer": 2,
+      "explain": "These findings suggest tuberculosis, which spreads by airborne particles. An N95 or higher respirator protects the EMT. A surgical mask may be placed on the patient to limit spread, but cloth and dust masks do not protect the provider."
+    },
+    {
+      "id": "emt-scene-04",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (scene hazards, electrical)",
+      "q": "A car has struck a utility pole and a power line is lying across the hood. The driver is conscious. What should you do?",
+      "options": [
+        "Move the line off with a dry wooden broom",
+        "Help the driver step out of the car",
+        "Stay clear and tell the driver to remain inside",
+        "Touch the car briefly to test for current"
+      ],
+      "answer": 2,
+      "explain": "A downed line may be energized, and anyone touching the car and the ground at the same time can be electrocuted. The safe zone is set well back, the driver is told to stay in the vehicle, and the utility company or trained crews handle the line."
+    },
+    {
+      "id": "emt-scene-05",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (hazardous materials awareness, positioning)",
+      "q": "You approach an overturned tanker truck with a placard and a liquid leaking onto the road. Where should you position the ambulance?",
+      "options": [
+        "Uphill and upwind at a safe distance",
+        "Downhill so any runoff is easy to see",
+        "Downwind to keep vapors behind you",
+        "Next to the tanker to block traffic"
+      ],
+      "answer": 0,
+      "explain": "Hazardous vapors and liquids move with the wind and flow downhill, so staying upwind and uphill at a distance limits exposure. The EMT reads the placard number from afar, for example with binoculars, and consults the Emergency Response Guidebook."
+    },
+    {
+      "id": "emt-scene-06",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (hazardous materials awareness, reference guide)",
+      "q": "At a hazardous materials scene, what is the Emergency Response Guidebook used for?",
+      "options": [
+        "Finding initial actions from the placard number",
+        "Recording vital signs for each patient",
+        "Calculating doses of rescue medications",
+        "Assigning triage colors to patients"
+      ],
+      "answer": 0,
+      "explain": "The Emergency Response Guidebook links UN identification numbers and material names to guides that describe hazards, isolation distances and initial actions. It helps awareness-level responders keep themselves and others safe until a hazmat team arrives."
+    },
+    {
+      "id": "emt-scene-07",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, frontal impact)",
+      "q": "An unrestrained driver hit a tree head-on, and the steering wheel is bent. Which injury should you suspect?",
+      "options": [
+        "Isolated injury to the lower back",
+        "Burn injury to both hands",
+        "Sprain of the right ankle only",
+        "Chest injury from striking the wheel"
+      ],
+      "answer": 3,
+      "explain": "A deformed steering wheel shows the driver's chest struck it with great force, so chest and abdominal injuries, including to the heart, lungs and liver, are suspected. The mechanism raises the index of suspicion even before signs appear."
+    },
+    {
+      "id": "emt-scene-08",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, windshield damage)",
+      "q": "A front-seat passenger in a head-on crash has a starred windshield in front of her. Which injuries should you suspect?",
+      "options": [
+        "Head and cervical spine injuries",
+        "Hand and wrist fractures only",
+        "Isolated injuries to the feet",
+        "Minor abrasions of the shins"
+      ],
+      "answer": 0,
+      "explain": "A star or spider-web pattern in the glass means the head struck it. Head injury and injury to the cervical spine are suspected, so the EMT watches mental status closely and considers spinal motion restriction."
+    },
+    {
+      "id": "emt-scene-09",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (number of patients, additional resources)",
+      "q": "While sizing up a two-car crash, you count four patients and your unit has two EMTs. When should you request more resources?",
+      "options": [
+        "After treating the most injured patient",
+        "Now, before starting patient care",
+        "After loading the first patient",
+        "Once you reach the receiving hospital"
+      ],
+      "answer": 1,
+      "explain": "Requesting additional units during size-up, before becoming committed to one patient, gets help moving early. Once an EMT starts care it is easy to delay the call, and the other patients wait longer for help."
+    },
+    {
+      "id": "emt-scene-10",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (START triage, walking wounded)",
+      "q": "Using START triage, how are patients who can walk to a designated area categorized?",
+      "options": [
+        "Immediate, tagged red",
+        "Delayed, tagged yellow",
+        "Minor, tagged green",
+        "Expectant, tagged black"
+      ],
+      "answer": 2,
+      "explain": "In START, patients who can follow directions and walk are tagged green, or minor, and assessed again later. This quickly separates them so rescuers can focus on patients who cannot move. Walking patients can still get worse, so they are reassessed."
+    },
+    {
+      "id": "emt-scene-11",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (START triage, apneic adult)",
+      "q": "During START triage, an adult is not breathing. You reposition the airway and the patient still does not breathe. How do you tag this patient?",
+      "options": [
+        "Immediate, red",
+        "Delayed, yellow",
+        "Minor, green",
+        "Expectant or deceased, black"
+      ],
+      "answer": 3,
+      "explain": "In adult START triage, a patient who does not breathe after the airway is repositioned is tagged black. Resources go to patients who can survive with care. If breathing starts after repositioning, the patient is tagged immediate."
+    },
+    {
+      "id": "emt-scene-12",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (START triage, respiratory rate)",
+      "q": "During START triage, an adult who cannot walk is breathing 36 times per minute. What category is this patient?",
+      "options": [
+        "Delayed, yellow",
+        "Immediate, red",
+        "Minor, green",
+        "Expectant, black"
+      ],
+      "answer": 1,
+      "explain": "In START, a respiratory rate above 30 breaths per minute places an adult in the immediate category. Patients breathing 30 or fewer times per minute move on to a perfusion check and then a mental status check."
+    },
+    {
+      "id": "emt-scene-13",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (START triage, perfusion)",
+      "q": "During START triage, an adult is breathing 22 times per minute but has no radial pulse. How should you tag this patient?",
+      "options": [
+        "Delayed, yellow",
+        "Immediate, red",
+        "Minor, green",
+        "Expectant, black"
+      ],
+      "answer": 1,
+      "explain": "An absent radial pulse, or capillary refill longer than 2 seconds, shows poor perfusion and makes the patient immediate in START. The rescuer may quickly control major bleeding before moving on. A normal breathing rate alone does not place the patient in the delayed group."
+    },
+    {
+      "id": "emt-scene-14",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (START triage, mental status)",
+      "q": "During START triage, an adult who cannot walk has a respiratory rate of 18, a radial pulse and follows simple commands. What tag applies?",
+      "options": [
+        "Immediate, red",
+        "Delayed, yellow",
+        "Minor, green",
+        "Expectant, black"
+      ],
+      "answer": 1,
+      "explain": "An adult who cannot walk but breathes 30 or fewer times per minute, has a radial pulse and follows commands is placed in the delayed group. Failing to follow commands would make the patient immediate, and being able to walk would make the patient minor."
+    },
+    {
+      "id": "emt-scene-15",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (JumpSTART pediatric triage)",
+      "q": "Using JumpSTART triage, a child is not breathing after airway positioning but has a palpable pulse. What should the rescuer do?",
+      "options": [
+        "Tag the child black and move on",
+        "Start full CPR at that location",
+        "Tag the child green to treat later",
+        "Give five rescue breaths, then reassess"
+      ],
+      "answer": 3,
+      "explain": "JumpSTART recognizes that children often stop breathing from respiratory causes before the heart stops. An apneic child with a pulse gets five rescue breaths. If breathing resumes, the child is tagged immediate; if not, the child is tagged expectant."
+    },
+    {
+      "id": "emt-scene-16",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (scene hazards, carbon monoxide)",
+      "q": "You respond to a home where three family members all have headaches and nausea. A fuel-burning space heater is running. What should you suspect and do first?",
+      "options": [
+        "Carbon monoxide; get everyone out of the home",
+        "Food poisoning; collect samples of the meal",
+        "Influenza; put masks on everyone inside",
+        "Migraine; dim the lights and treat inside"
+      ],
+      "answer": 0,
+      "explain": "Several people with the same headache and nausea in a building with a fuel-burning heater suggests carbon monoxide. The priority is to move everyone, including the crew, to fresh air and request fire department air monitoring. Pulse oximetry can read falsely normal in this poisoning."
+    },
+    {
+      "id": "emt-scene-17",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (crime scene awareness)",
+      "q": "You are treating a gunshot victim at a crime scene. Which action helps preserve evidence?",
+      "options": [
+        "Cutting clothing around, not through, the bullet holes",
+        "Moving the weapon into the ambulance for police",
+        "Cleaning the blood off the floor before police arrive",
+        "Throwing the cut clothing into a nearby trash bin"
+      ],
+      "answer": 0,
+      "explain": "Patient care comes first, but EMTs avoid disturbing evidence. Cutting around holes in clothing, leaving items where they were found, bagging clothing for police and noting what was moved all help investigators. Touching weapons or cleaning the scene destroys evidence."
+    },
+    {
+      "id": "emt-scene-18",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (scene safety, escalating scene)",
+      "q": "While you treat a patient at a domestic dispute, the partner begins shouting threats and blocking the door. What should you do?",
+      "options": [
+        "Argue back firmly to take control of the room",
+        "Leave with the patient if possible and call police",
+        "Continue your exam and ignore the threats",
+        "Restrain the partner until help arrives"
+      ],
+      "answer": 1,
+      "explain": "A scene that becomes unsafe calls for retreat to safety and help from law enforcement. The EMT's safety comes first, and arguing or restraining the person increases the danger. Care can resume once the scene is secured."
+    },
+    {
+      "id": "emt-scene-19",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, lateral impact)",
+      "q": "A car was struck on the driver's door by another vehicle. Where should you expect most of the driver's injuries?",
+      "options": [
+        "Only to the lower legs",
+        "Mostly to the right side",
+        "Only to the face and jaw",
+        "On the left side of the body"
+      ],
+      "answer": 3,
+      "explain": "In a lateral impact, the occupant on the struck side absorbs the force directly, so injuries to the head, neck, chest, pelvis and arm on that side are common. In the United States the driver sits on the left, so the left side of the body is most at risk."
+    },
+    {
+      "id": "emt-scene-20",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, rollover)",
+      "q": "Why is a rollover crash considered a high-risk mechanism of injury?",
+      "options": [
+        "Vehicles that roll over seldom have airbags",
+        "Rollovers happen only at very low speeds",
+        "Occupants can be struck from many directions",
+        "Seat belts stop working once a vehicle rolls"
+      ],
+      "answer": 2,
+      "explain": "In a rollover, occupants are thrown in several directions and may strike many surfaces or be ejected, so injury patterns are unpredictable. EMTs keep a high index of suspicion for serious injury, especially when an occupant was unrestrained."
+    },
+    {
+      "id": "emt-scene-21",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, ejection)",
+      "q": "A motorcyclist was thrown from the bike and landed about 30 feet away. How does this mechanism affect your assessment?",
+      "options": [
+        "Assume minor injuries because a helmet was worn",
+        "Check only the limbs that struck the pavement",
+        "Suspect serious injuries even if few signs are visible",
+        "Delay the assessment until the bike is moved"
+      ],
+      "answer": 2,
+      "explain": "Ejection transfers large forces to the body and is linked with severe injury. A helmet protects the head but not the chest, abdomen or spine. A rapid full-body assessment is done and the patient is treated as a high priority."
+    },
+    {
+      "id": "emt-scene-22",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, penetrating trauma)",
+      "q": "A patient was stabbed once in the upper abdomen with a kitchen knife. What does this mechanism suggest?",
+      "options": [
+        "Injury is limited to the skin surface",
+        "An exit wound will always be present",
+        "Organs beneath the wound may be injured",
+        "Internal bleeding is rare with knives"
+      ],
+      "answer": 2,
+      "explain": "Low-velocity penetrating injury damages tissue along the path of the blade, so organs such as the liver, stomach or spleen beneath the wound may be injured. External bleeding may be small even when internal bleeding is serious."
+    },
+    {
+      "id": "emt-scene-23",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (mechanism of injury, blast)",
+      "q": "After an explosion, which organs are most at risk from the primary blast pressure wave?",
+      "options": [
+        "Air-filled organs such as the lungs and ears",
+        "Solid bones such as the femur and pelvis",
+        "The skin of the hands and the forearms",
+        "The large muscles of the thighs and back"
+      ],
+      "answer": 0,
+      "explain": "The primary blast wave affects hollow, air-filled organs, so lung, ear and bowel injuries can occur even without visible wounds. Flying debris and being thrown by the blast cause the secondary and tertiary injuries, such as fractures and penetrating wounds."
+    },
+    {
+      "id": "emt-scene-24",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (roadway safety, apparatus placement)",
+      "q": "Fire apparatus is blocking the lane behind a crash on a highway. Where should the ambulance park?",
+      "options": [
+        "Upstream, behind the fire apparatus",
+        "Alongside the wreck in the next lane",
+        "In the median facing oncoming traffic",
+        "Downstream, past the crash scene"
+      ],
+      "answer": 3,
+      "explain": "When fire apparatus blocks traffic upstream, the ambulance parks downstream of the crash, inside the protected area, so patients can be loaded safely and the unit can leave without being boxed in. Parking beside the wreck exposes the crew to passing traffic."
+    },
+    {
+      "id": "emt-scene-25",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (roadway safety, visibility)",
+      "q": "When working at a roadway incident, which item increases an EMT's visibility to drivers?",
+      "options": [
+        "A dark navy uniform jacket",
+        "A pair of safety glasses",
+        "A high-visibility safety vest",
+        "A pair of leather gloves"
+      ],
+      "answer": 2,
+      "explain": "Being struck by vehicles is a leading danger at roadway scenes. A reflective, high-visibility vest makes responders easier to see by day and at night. Dark clothing blends into the surroundings, and glasses or gloves protect the wearer but do not improve visibility."
+    },
+    {
+      "id": "emt-scene-26",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (scene hazards, animals)",
+      "q": "You arrive at a home and a large dog is growling at the door. What should you do?",
+      "options": [
+        "Walk past the dog quickly and confidently",
+        "Spray the dog with water from a bottle",
+        "Enter through a window instead of the door",
+        "Ask the owner to secure the dog before entering"
+      ],
+      "answer": 3,
+      "explain": "Animals are a scene hazard. The EMT asks that the animal be secured in another room, or requests animal control or police. Rushing past an aggressive dog risks bites to the crew, who then cannot help anyone."
+    },
+    {
+      "id": "emt-scene-27",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (nature of illness)",
+      "q": "On a medical call, which source helps you determine the nature of illness during scene size-up?",
+      "options": [
+        "The patient's health insurance card",
+        "Information from the patient, family or bystanders",
+        "The weather report for that day",
+        "The number of cars parked on the street"
+      ],
+      "answer": 1,
+      "explain": "The nature of illness is gathered from what the patient, family and bystanders say, plus scene clues such as medication bottles, home oxygen or odors. It guides the assessment much as the mechanism of injury guides a trauma assessment."
+    },
+    {
+      "id": "emt-scene-28",
+      "exam": "emt",
+      "domain": "scene",
+      "ref": "NREMT EMT exam outline: Scene Size-Up and Safety (hazardous atmospheres, confined space)",
+      "q": "Several workers in a factory collapse near a tank. A coworker runs in to help and also collapses. What should you do?",
+      "options": [
+        "Stay out and call for hazmat resources",
+        "Go in quickly while holding your breath",
+        "Enter wearing a surgical mask and gloves",
+        "Pull the nearest worker out by the arms"
+      ],
+      "answer": 0,
+      "explain": "Several people collapsing in one area, including a rescuer, signals a toxic or oxygen-poor atmosphere. Entering without proper training and breathing apparatus only adds victims. The EMT isolates the area, denies entry and requests specialized resources."
+    },
+    {
+      "id": "emt-primary-01",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (general impression)",
+      "q": "What is the first step of the primary assessment once the scene is safe?",
+      "options": [
+        "Take a full set of vital signs",
+        "Obtain a SAMPLE history",
+        "Perform a head-to-toe exam",
+        "Form a general impression of the patient"
+      ],
+      "answer": 3,
+      "explain": "The primary assessment begins with a general impression: age, sex, level of distress and whether the patient looks sick. It is followed by checking responsiveness, airway, breathing and circulation. Vital signs and history come later, after life threats are managed."
+    },
+    {
+      "id": "emt-primary-02",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (responsiveness, AVPU)",
+      "q": "A patient does not respond to your voice but moans and pulls away when you pinch the trapezius muscle. How is the patient described using AVPU?",
+      "options": [
+        "Alert",
+        "Responds to verbal stimuli",
+        "Unresponsive",
+        "Responds to painful stimuli"
+      ],
+      "answer": 3,
+      "explain": "In AVPU, P means the patient responds only to a painful stimulus. V would mean a response to voice, and U means no response at all. Any level below alert is a reason to watch the airway closely."
+    },
+    {
+      "id": "emt-primary-03",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (responsiveness, AVPU)",
+      "q": "A patient keeps her eyes closed but opens them and answers when you speak loudly. How do you describe her on the AVPU scale?",
+      "options": [
+        "Alert",
+        "Responds to verbal stimuli",
+        "Responds to painful stimuli",
+        "Unresponsive"
+      ],
+      "answer": 1,
+      "explain": "A patient who reacts only when spoken to is at the V level. An alert patient has the eyes open and interacts without prompting. Recording the AVPU level allows later changes to be noticed."
+    },
+    {
+      "id": "emt-primary-04",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway management, trauma)",
+      "q": "An unresponsive patient fell from a ladder. Which technique should you use to open the airway?",
+      "options": [
+        "Head-tilt, chin-lift maneuver",
+        "Neck extension with a pillow",
+        "Jaw-thrust maneuver",
+        "Rolling the patient face down"
+      ],
+      "answer": 2,
+      "explain": "The jaw-thrust opens the airway while keeping the head and neck in line, which is preferred when spinal injury is suspected. If the jaw-thrust does not open the airway, opening the airway takes priority and the head-tilt, chin-lift is used."
+    },
+    {
+      "id": "emt-primary-05",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway management, medical patient)",
+      "q": "An adult is found unresponsive in bed with no sign of trauma. Which method should you use to open the airway?",
+      "options": [
+        "Head-tilt, chin-lift",
+        "Abdominal thrusts",
+        "Back blows",
+        "Chest thrusts"
+      ],
+      "answer": 0,
+      "explain": "Without suspected trauma, the head-tilt, chin-lift is the simplest and most effective way to lift the tongue away from the back of the throat. Abdominal thrusts, chest thrusts and back blows are used for foreign body obstruction, not routine airway opening."
+    },
+    {
+      "id": "emt-primary-06",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway adjuncts, OPA sizing)",
+      "q": "How is an oropharyngeal airway sized?",
+      "options": [
+        "From the tip of the nose to the chin",
+        "From the corner of the mouth to the earlobe",
+        "From the chin to the sternal notch",
+        "From the lips to the eyebrow"
+      ],
+      "answer": 1,
+      "explain": "The correct oropharyngeal airway reaches from the corner of the mouth to the earlobe or the angle of the jaw. An airway that is too long can push the epiglottis over the opening of the airway, and one that is too short can push the tongue back."
+    },
+    {
+      "id": "emt-primary-07",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway adjuncts, OPA contraindication)",
+      "q": "You insert an oral airway into an unresponsive patient, and the patient begins to gag. What should you do?",
+      "options": [
+        "Push it in further to get past the gag",
+        "Tape it in place and keep ventilating",
+        "Replace it with a larger oral airway",
+        "Remove the airway and have suction ready"
+      ],
+      "answer": 3,
+      "explain": "A gag reflex means the patient can partly protect the airway, and an oral airway can trigger vomiting and aspiration. It is removed, suction is kept ready, and a nasopharyngeal airway may be considered instead."
+    },
+    {
+      "id": "emt-primary-08",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway adjuncts, NPA sizing)",
+      "q": "How is a nasopharyngeal airway sized?",
+      "options": [
+        "From the corner of the mouth to the chin",
+        "From the tip of the nose to the earlobe",
+        "From the nose to the sternal notch",
+        "From the earlobe to the collarbone"
+      ],
+      "answer": 1,
+      "explain": "The nasopharyngeal airway length matches the distance from the tip of the nose to the earlobe, and its diameter should fit the nostril. It is lubricated with a water-soluble lubricant before insertion."
+    },
+    {
+      "id": "emt-primary-09",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway adjuncts, NPA contraindication)",
+      "q": "Which finding is a reason not to insert a nasopharyngeal airway?",
+      "options": [
+        "An intact gag reflex in a drowsy patient",
+        "Snoring respirations in an overdose patient",
+        "Clear fluid draining from the nose after head trauma",
+        "Clenched teeth during a seizure"
+      ],
+      "answer": 2,
+      "explain": "Clear fluid from the nose after head trauma may be cerebrospinal fluid from a skull fracture, and the airway could pass into the skull. Nasopharyngeal airways are tolerated by patients with a gag reflex and are useful when the teeth are clenched."
+    },
+    {
+      "id": "emt-primary-10",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway adjuncts, NPA insertion)",
+      "q": "When inserting a nasopharyngeal airway into the right nostril, which way should the bevel face?",
+      "options": [
+        "Toward the outer nostril wall",
+        "Toward the upper lip",
+        "Toward the forehead",
+        "Toward the nasal septum"
+      ],
+      "answer": 3,
+      "explain": "The bevel faces the septum, the wall between the nostrils, so the tip slides along it without catching tissue. Using a lubricated airway and gentle insertion straight back along the floor of the nose reduces bleeding."
+    },
+    {
+      "id": "emt-primary-11",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (suction, adult)",
+      "q": "What is the maximum time to suction an adult's airway in a single attempt?",
+      "options": [
+        "30 seconds",
+        "45 seconds",
+        "15 seconds",
+        "60 seconds"
+      ],
+      "answer": 2,
+      "explain": "Suction removes oxygen along with secretions, so adult attempts are limited to about 15 seconds, with shorter times for children and infants. The patient is oxygenated or ventilated between attempts."
+    },
+    {
+      "id": "emt-primary-12",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (suction, infant)",
+      "q": "How long should a single suction attempt last for an infant?",
+      "options": [
+        "About 15 seconds",
+        "About 5 seconds",
+        "About 20 seconds",
+        "About 30 seconds"
+      ],
+      "answer": 1,
+      "explain": "Infants have small oxygen reserves and become hypoxic quickly, and suctioning can slow the heart rate. EMT teaching limits infant suction attempts to about 5 seconds, compared with about 10 seconds for children and 15 seconds for adults."
+    },
+    {
+      "id": "emt-primary-13",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (suction, technique)",
+      "q": "When suctioning the mouth with a rigid tip, how far should it be inserted?",
+      "options": [
+        "Down into the trachea",
+        "Only as far as you can see",
+        "Until the patient gags",
+        "Past the vocal cords"
+      ],
+      "answer": 1,
+      "explain": "The rigid tip goes only where the EMT can see it, usually not beyond the base of the tongue, to avoid injuring tissue or triggering vomiting and a slow heart rate. Suction is applied while the tip is withdrawn."
+    },
+    {
+      "id": "emt-primary-14",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway sounds, gurgling)",
+      "q": "An unresponsive patient has gurgling sounds with each breath. What should you do first?",
+      "options": [
+        "Insert an oral airway",
+        "Apply a nasal cannula",
+        "Check the blood glucose",
+        "Suction the airway"
+      ],
+      "answer": 3,
+      "explain": "Gurgling means fluid is in the upper airway, and it must be cleared before ventilation or adjuncts are used. Inserting an airway or ventilating first can push secretions deeper and cause aspiration."
+    },
+    {
+      "id": "emt-primary-15",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway sounds, snoring)",
+      "q": "An unresponsive patient's breathing sounds like snoring. What is the most likely cause?",
+      "options": [
+        "Fluid in the lower airways",
+        "The tongue partly blocking the airway",
+        "Spasm of the small airways",
+        "A collapsed lung on one side"
+      ],
+      "answer": 1,
+      "explain": "Snoring respirations come from the tongue and soft tissue falling back into the upper airway. Repositioning the head and jaw or inserting an airway adjunct usually corrects it. Fluid causes gurgling, and small-airway spasm causes wheezing."
+    },
+    {
+      "id": "emt-primary-16",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway sounds, stridor in a child)",
+      "q": "A child makes a harsh, high-pitched sound when breathing in. What does this sound indicate?",
+      "options": [
+        "Fluid in the small air sacs",
+        "Normal breathing for a child",
+        "Narrowing of the upper airway",
+        "Spasm of the lower airways"
+      ],
+      "answer": 2,
+      "explain": "Stridor is a harsh, high-pitched sound, usually on inhalation, caused by partial obstruction or swelling of the upper airway, as with croup or a foreign body. Wheezing points to narrowing of the lower airways. A child with stridor is kept calm in a position of comfort."
+    },
+    {
+      "id": "emt-primary-17",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (oxygen devices, nonrebreather)",
+      "q": "At what flow rate should a nonrebreather mask be set for an adult?",
+      "options": [
+        "10 to 15 liters per minute",
+        "1 to 2 liters per minute",
+        "4 to 6 liters per minute",
+        "20 to 25 liters per minute"
+      ],
+      "answer": 0,
+      "explain": "A nonrebreather needs 10 to 15 L/min so the reservoir bag stays inflated during inhalation and delivers a high concentration of oxygen. With too little flow the bag collapses and the patient may not get enough air."
+    },
+    {
+      "id": "emt-primary-18",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (oxygen devices, nasal cannula)",
+      "q": "What is the usual flow range for a nasal cannula?",
+      "options": [
+        "1 to 6 liters per minute",
+        "10 to 15 liters per minute",
+        "8 to 12 liters per minute",
+        "15 to 25 liters per minute"
+      ],
+      "answer": 0,
+      "explain": "A nasal cannula delivers low-concentration oxygen at 1 to 6 L/min. Higher flows dry and irritate the nose without adding much oxygen. It suits patients with mild hypoxia or those who cannot tolerate a mask."
+    },
+    {
+      "id": "emt-primary-19",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (oxygen administration, indications)",
+      "q": "According to current AHA guidance, what is appropriate for a patient with chest pain who is alert, breathing normally and has an oxygen saturation of 98 percent on room air?",
+      "options": [
+        "Apply a nonrebreather at 15 L/min",
+        "Begin ventilations with a BVM",
+        "Withhold supplemental oxygen and monitor",
+        "Apply a nasal cannula at 6 L/min"
+      ],
+      "answer": 2,
+      "explain": "Current AHA guidance does not recommend routine oxygen for suspected acute coronary syndrome when the saturation is normal and there is no respiratory distress. Oxygen is given when the saturation is low or the patient shows hypoxia or breathing difficulty."
+    },
+    {
+      "id": "emt-primary-20",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (ventilation, adult with a pulse)",
+      "q": "An adult has a pulse but is not breathing adequately. How often should you ventilate with a bag-valve mask?",
+      "options": [
+        "One breath every 6 seconds",
+        "One breath every 2 seconds",
+        "One breath every 12 seconds",
+        "One breath every 15 seconds"
+      ],
+      "answer": 0,
+      "explain": "For an adult with a pulse who needs ventilation, about one breath every 6 seconds, or 10 breaths per minute, is given. Each breath lasts about 1 second and just makes the chest rise. Faster rates cause stomach inflation and reduce blood return to the heart."
+    },
+    {
+      "id": "emt-primary-21",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (ventilation, infant with a pulse)",
+      "q": "An infant has a pulse but is breathing inadequately. At what rate should you give rescue breaths?",
+      "options": [
+        "One breath every 6 to 8 seconds",
+        "One breath every 10 seconds",
+        "One breath every 2 to 3 seconds",
+        "One breath every 15 seconds"
+      ],
+      "answer": 2,
+      "explain": "Current AHA guidance for infants and children with a pulse who need rescue breathing is one breath every 2 to 3 seconds, or 20 to 30 breaths per minute. Children use oxygen faster and need a higher ventilation rate than adults."
+    },
+    {
+      "id": "emt-primary-22",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, advanced airway)",
+      "q": "During adult CPR, an advanced airway is in place. How should ventilations be given?",
+      "options": [
+        "Two breaths after every 30 compressions",
+        "One breath every 2 seconds without pausing",
+        "One breath every 6 seconds with continuous compressions",
+        "Two breaths after every 15 compressions"
+      ],
+      "answer": 2,
+      "explain": "With an advanced airway, compressions continue without pauses and a breath is given about every 6 seconds. The 30 to 2 ratio applies to adults without an advanced airway. Overventilation reduces blood flow back to the heart."
+    },
+    {
+      "id": "emt-primary-23",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, pediatric ratio)",
+      "q": "Two rescuers are performing CPR on a 6-year-old. What compression to ventilation ratio should they use?",
+      "options": [
+        "30 compressions to 2 breaths",
+        "15 compressions to 2 breaths",
+        "5 compressions to 1 breath",
+        "3 compressions to 1 breath"
+      ],
+      "answer": 1,
+      "explain": "For children and infants with two rescuers, the ratio is 15 to 2. A single rescuer uses 30 to 2 for all ages beyond the newborn period. The 3 to 1 ratio is used for newborns just after birth."
+    },
+    {
+      "id": "emt-primary-24",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, compression rate)",
+      "q": "What compression rate is recommended during CPR?",
+      "options": [
+        "100 to 120 per minute",
+        "60 to 80 per minute",
+        "80 to 100 per minute",
+        "120 to 150 per minute"
+      ],
+      "answer": 0,
+      "explain": "High-quality CPR uses a rate of 100 to 120 compressions per minute. Slower rates produce less blood flow, and faster rates reduce depth and leave too little time for the heart to refill between compressions."
+    },
+    {
+      "id": "emt-primary-25",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, adult compression depth)",
+      "q": "How deep should chest compressions be for an adult?",
+      "options": [
+        "At least 2 inches but not more than 2.4 inches",
+        "About 1 inch, to avoid any rib fractures",
+        "About 1.5 inches, the same as for an infant",
+        "At least 3 inches, for adequate blood flow"
+      ],
+      "answer": 0,
+      "explain": "Adult compressions should be at least 2 inches (5 cm) deep but not more than 2.4 inches (6 cm), with full chest recoil after each one. Shallow compressions do not move enough blood, and excessive depth increases injury."
+    },
+    {
+      "id": "emt-primary-26",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, infant compression depth)",
+      "q": "How deep should chest compressions be for an infant?",
+      "options": [
+        "About 1.5 inches, one third of chest depth",
+        "About 0.5 inch, one tenth of chest depth",
+        "About 2.5 inches, half of chest depth",
+        "About 3 inches, the same as an adult"
+      ],
+      "answer": 0,
+      "explain": "Infant compressions are about one third of the front-to-back depth of the chest, which is about 1.5 inches (4 cm). For children it is about 2 inches. Compressions that are too shallow give little blood flow."
+    },
+    {
+      "id": "emt-primary-27",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (CPR, infant technique)",
+      "q": "Two rescuers are performing CPR on an infant. Which compression technique is recommended?",
+      "options": [
+        "Heels of both hands on the lower sternum",
+        "One closed fist on the upper sternum",
+        "Two fingers placed over the xiphoid",
+        "Two thumbs with the hands encircling the chest"
+      ],
+      "answer": 3,
+      "explain": "The two thumb-encircling hands technique produces better depth and blood flow and is recommended when two rescuers are present. Compressions are on the lower half of the sternum, just below the nipple line, and never over the xiphoid process."
+    },
+    {
+      "id": "emt-primary-28",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (AED, early use)",
+      "q": "You arrive at an adult in cardiac arrest with an AED while your partner performs CPR. What should you do first with the AED?",
+      "options": [
+        "Check a pulse for 30 seconds",
+        "Give two breaths before using it",
+        "Turn it on and attach the pads",
+        "Wait for paramedics to arrive"
+      ],
+      "answer": 2,
+      "explain": "Early defibrillation improves survival in shockable rhythms, so the AED is turned on and the pads applied as soon as it arrives, while CPR continues until the device analyzes. Long pulse checks delay both compressions and shocks."
+    },
+    {
+      "id": "emt-primary-29",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (AED, analysis)",
+      "q": "The AED announces that it is analyzing the heart rhythm. What should the rescuers do?",
+      "options": [
+        "Continue compressions during the analysis",
+        "Give two breaths while it is analyzing",
+        "Check for a pulse at the wrist",
+        "Pause compressions and not touch the patient"
+      ],
+      "answer": 3,
+      "explain": "Movement from compressions or touching the patient can interfere with rhythm analysis. Everyone clears the patient, and CPR resumes right after a shock is delivered or a no-shock message is given."
+    },
+    {
+      "id": "emt-primary-30",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (AED, pediatric use)",
+      "q": "You are using an AED on a 4-year-old in cardiac arrest, but pediatric pads are not available. What should you do?",
+      "options": [
+        "Skip the AED and continue CPR alone",
+        "Use adult pads, making sure they do not touch",
+        "Cut the adult pads to a smaller size",
+        "Use one adult pad on the chest only"
+      ],
+      "answer": 1,
+      "explain": "For children under 8, pediatric pads or a dose attenuator are preferred. When they are not available, adult pads are used, placed front and back if needed so they do not touch. A shock through adult pads is better than no defibrillation."
+    },
+    {
+      "id": "emt-primary-31",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (circulation, pulse check)",
+      "q": "How long should a rescuer take to check for a pulse in an unresponsive adult who is not breathing normally?",
+      "options": [
+        "No more than 10 seconds",
+        "At least 20 seconds",
+        "About 30 seconds",
+        "A full 60 seconds"
+      ],
+      "answer": 0,
+      "explain": "Pulse checks are limited to 10 seconds so compressions are not delayed. If a definite pulse is not felt within that time in an unresponsive patient who is not breathing normally, CPR is started."
+    },
+    {
+      "id": "emt-primary-32",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (circulation, infant pulse)",
+      "q": "Where should you check the pulse of an unresponsive infant?",
+      "options": [
+        "The carotid artery in the neck",
+        "The radial artery at the wrist",
+        "The brachial artery in the upper arm",
+        "The pedal pulse on top of the foot"
+      ],
+      "answer": 2,
+      "explain": "An infant's short, chubby neck makes the carotid pulse hard to find, so the brachial artery on the inside of the upper arm is used. For children, the carotid or femoral pulse is checked."
+    },
+    {
+      "id": "emt-primary-33",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, agonal breathing)",
+      "q": "An unresponsive adult is taking occasional gasping breaths and has no pulse. What should you do?",
+      "options": [
+        "Apply a nonrebreather mask",
+        "Place the patient on the side",
+        "Begin chest compressions",
+        "Wait to see if breathing improves"
+      ],
+      "answer": 2,
+      "explain": "Occasional gasps, called agonal breathing, are not effective breathing and are common early in cardiac arrest. A pulseless, unresponsive patient with only gasping needs CPR right away. Oxygen by mask does not help a patient who is not moving air."
+    },
+    {
+      "id": "emt-primary-34",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, inadequate breathing)",
+      "q": "A patient who took an unknown amount of pills is breathing 6 times per minute with shallow chest rise. What is the priority?",
+      "options": [
+        "Apply a nasal cannula at 4 L/min",
+        "Obtain a full list of medications",
+        "Assist ventilations with a bag-valve mask",
+        "Place the patient on the side and observe"
+      ],
+      "answer": 2,
+      "explain": "A rate of 6 with shallow breaths does not move enough air, so ventilation is assisted with a BVM and oxygen. A cannula or mask needs adequate breathing to work. The history is gathered after the airway and breathing are managed."
+    },
+    {
+      "id": "emt-primary-35",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (bleeding control, direct pressure)",
+      "q": "A patient has steady dark red bleeding from a cut on the forearm. What should you do first?",
+      "options": [
+        "Apply a tourniquet above the elbow",
+        "Apply firm direct pressure to the wound",
+        "Raise the arm and wait before pressure",
+        "Place a cold pack on the forearm"
+      ],
+      "answer": 1,
+      "explain": "Most external bleeding stops with firm direct pressure. A tourniquet is used for life-threatening limb bleeding that direct pressure does not control, or when pressure cannot be applied. Elevation alone is not a reliable way to control bleeding."
+    },
+    {
+      "id": "emt-primary-36",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (bleeding control, tourniquet placement)",
+      "q": "Direct pressure fails to control severe bleeding from a lower leg wound. Where should the tourniquet be applied?",
+      "options": [
+        "Directly over the wound itself",
+        "Just below the wound, toward the foot",
+        "Over the knee joint for a firmer hold",
+        "2 to 3 inches above the wound, not over a joint"
+      ],
+      "answer": 3,
+      "explain": "A tourniquet is placed 2 to 3 inches above the wound, avoiding joints, and tightened until the bleeding stops and the distal pulse is gone. If the wound location is unclear, it is placed high on the limb."
+    },
+    {
+      "id": "emt-primary-37",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (bleeding control, tourniquet care)",
+      "q": "After applying a tourniquet that stopped the bleeding, what should the EMT do?",
+      "options": [
+        "Loosen it every 10 minutes",
+        "Note the time and leave it in place",
+        "Hide it under clothing for warmth",
+        "Remove it once the bleeding slows"
+      ],
+      "answer": 1,
+      "explain": "Once applied, a tourniquet is left in place and loosened only by hospital staff. The time of application is written down and reported, and the tourniquet stays visible. Loosening it can restart heavy bleeding."
+    },
+    {
+      "id": "emt-primary-38",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (bleeding control, junctional wounds)",
+      "q": "A patient has severe bleeding from a deep wound in the groin where a tourniquet cannot be applied. What should you do?",
+      "options": [
+        "Pack the wound and hold firm direct pressure",
+        "Apply a tourniquet around the waist",
+        "Cover it lightly and transport quickly",
+        "Raise the leg and apply an ice pack"
+      ],
+      "answer": 0,
+      "explain": "Junctional wounds, such as in the groin or armpit, cannot be controlled with a limb tourniquet. Packing the wound tightly with gauze, hemostatic if available, and holding firm pressure is the accepted approach. A light covering does not stop arterial bleeding."
+    },
+    {
+      "id": "emt-primary-39",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (bleeding, types)",
+      "q": "Which description fits arterial bleeding?",
+      "options": [
+        "Dark red blood flowing steadily",
+        "Slow oozing from small vessels",
+        "Clear fluid weeping from the skin",
+        "Bright red blood spurting with the pulse"
+      ],
+      "answer": 3,
+      "explain": "Arterial blood is rich in oxygen, so it is bright red, and it spurts in time with the heartbeat because it is under high pressure. Venous bleeding is darker and flows steadily, while capillary bleeding oozes slowly."
+    },
+    {
+      "id": "emt-primary-40",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (shock, early signs)",
+      "q": "Which finding is an early sign of shock in an adult?",
+      "options": [
+        "Low blood pressure",
+        "Fixed, dilated pupils",
+        "Absent radial pulses",
+        "Anxiety and a rapid pulse"
+      ],
+      "answer": 3,
+      "explain": "Early in shock, the body compensates by raising the heart rate and narrowing blood vessels, and reduced brain perfusion causes restlessness or anxiety. Falling blood pressure and loss of peripheral pulses are late signs that compensation is failing."
+    },
+    {
+      "id": "emt-primary-41",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (shock, pediatric considerations)",
+      "q": "Why is blood pressure an unreliable early sign of shock in children?",
+      "options": [
+        "Children have higher pressure than adults",
+        "Children maintain pressure until shock is advanced",
+        "Blood pressure cannot be measured in children",
+        "Children rarely lose enough blood to drop it"
+      ],
+      "answer": 1,
+      "explain": "Children compensate well by increasing heart rate and narrowing vessels, so blood pressure stays near normal until a large share of blood volume is lost. A fast heart rate, delayed capillary refill and mottled skin are earlier signs. Low blood pressure in a child is an ominous late finding."
+    },
+    {
+      "id": "emt-primary-42",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (shock, treatment)",
+      "q": "A trauma patient has cool, pale skin and a rapid, weak pulse. Which action is appropriate?",
+      "options": [
+        "Give sips of water to replace lost fluid",
+        "Keep the patient warm and transport promptly",
+        "Have the patient walk to the ambulance",
+        "Stay on scene until the pulse slows down"
+      ],
+      "answer": 1,
+      "explain": "Shock care at the EMT level includes controlling bleeding, giving oxygen as needed, keeping the patient supine and warm, and rapid transport. Nothing is given by mouth because surgery may be needed, and walking increases oxygen demand."
+    },
+    {
+      "id": "emt-primary-43",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (circulation, capillary refill in a child)",
+      "q": "In a 3-year-old, capillary refill takes 4 seconds. What does this suggest?",
+      "options": [
+        "Poor perfusion, a possible sign of shock",
+        "Normal circulation for a toddler",
+        "Fever without any circulation problem",
+        "Good hydration and normal perfusion"
+      ],
+      "answer": 0,
+      "explain": "In infants and young children, capillary refill longer than about 2 seconds suggests poor perfusion. Combined with a fast heart rate or cool skin, it points to shock. Cold surroundings can also slow refill, so it is interpreted together with other findings."
+    },
+    {
+      "id": "emt-primary-44",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (priority and transport decisions)",
+      "q": "Which patient is a high priority for rapid transport?",
+      "options": [
+        "An alert patient with a minor ankle injury",
+        "An unresponsive patient with no gag reflex",
+        "A patient with a small cut on one hand",
+        "An alert patient with a mild headache"
+      ],
+      "answer": 1,
+      "explain": "Unresponsiveness and loss of the gag reflex mean the patient cannot protect the airway and may be getting worse. Such patients need immediate airway management and prompt transport. The other patients are stable and lower priority."
+    },
+    {
+      "id": "emt-primary-45",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (priority and transport decisions, trauma)",
+      "q": "A trauma patient is unresponsive and shows signs of shock. What is the goal for on-scene time?",
+      "options": [
+        "Stay at least 30 minutes to stabilize",
+        "Finish a detailed exam before leaving",
+        "Wait until all splints are applied",
+        "Keep it short, ideally 10 minutes or less"
+      ],
+      "answer": 3,
+      "explain": "Critical trauma patients often need surgery that cannot be done in the field. The aim is to treat immediate life threats and keep scene time to about 10 minutes or less. Detailed exams and splinting of minor injuries are done during transport if time allows."
+    },
+    {
+      "id": "emt-primary-46",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing, open chest wound)",
+      "q": "A patient has a stab wound to the chest with air bubbling from it. What should you do?",
+      "options": [
+        "Pack the wound with dry gauze",
+        "Leave it open so air can escape",
+        "Cover it with a moist dressing",
+        "Cover it with an occlusive dressing"
+      ],
+      "answer": 3,
+      "explain": "An open chest wound lets air enter the chest, so it is sealed quickly with an occlusive dressing or vented chest seal. The patient is watched for signs of tension pneumothorax, and the dressing is lifted briefly to release pressure if breathing worsens."
+    },
+    {
+      "id": "emt-primary-47",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway management, infant positioning)",
+      "q": "How can you keep an unresponsive infant's airway in a neutral position on a flat surface?",
+      "options": [
+        "Place a thick pillow under the head",
+        "Tilt the head back as far as possible",
+        "Place a thin pad under the shoulders",
+        "Turn the head fully to one side"
+      ],
+      "answer": 2,
+      "explain": "An infant's large back of the head pushes the chin toward the chest when lying flat, which can block the airway. A thin pad under the shoulders brings the airway to a neutral position. Overextending the neck can also block the soft infant airway."
+    },
+    {
+      "id": "emt-primary-48",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway obstruction, infant)",
+      "q": "A responsive infant is choking and cannot cry or cough. What should you do?",
+      "options": [
+        "Give abdominal thrusts until it clears",
+        "Give 5 back slaps and 5 chest thrusts",
+        "Sweep the mouth blindly with a finger",
+        "Hold the infant upside down by the feet"
+      ],
+      "answer": 1,
+      "explain": "For a responsive infant with a severe obstruction, repeated cycles of 5 back slaps and 5 chest thrusts are used. Abdominal thrusts can injure an infant's liver, and blind finger sweeps may push the object deeper."
+    },
+    {
+      "id": "emt-primary-49",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway obstruction, adult becomes unresponsive)",
+      "q": "An adult who was choking becomes unresponsive. What should you do?",
+      "options": [
+        "Keep giving abdominal thrusts while standing",
+        "Do blind finger sweeps before anything else",
+        "Start CPR and look in the mouth before breaths",
+        "Give back blows with the patient on the floor"
+      ],
+      "answer": 2,
+      "explain": "When a choking adult becomes unresponsive, the rescuer lowers the patient and starts CPR, since compressions may dislodge the object. Each time the airway is opened for breaths, the rescuer looks in the mouth and removes a visible object. Blind sweeps are avoided."
+    },
+    {
+      "id": "emt-primary-50",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway obstruction, pregnancy)",
+      "q": "A woman who is 8 months pregnant is choking and cannot speak. Which maneuver should you use?",
+      "options": [
+        "Abdominal thrusts",
+        "Chest thrusts",
+        "Back slaps alone",
+        "Blind finger sweeps"
+      ],
+      "answer": 1,
+      "explain": "Chest thrusts are used in late pregnancy, and in patients so large the rescuer cannot reach around the abdomen. Abdominal thrusts could harm the uterus and fetus. Back slaps alone are not the standard adult technique."
+    },
+    {
+      "id": "emt-primary-51",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (OB, supine hypotension)",
+      "q": "A woman in her third trimester becomes dizzy and pale while lying flat on her back. What should you do?",
+      "options": [
+        "Raise her legs and keep her flat",
+        "Turn her onto her left side",
+        "Have her stand and walk around",
+        "Place her head lower than her feet"
+      ],
+      "answer": 1,
+      "explain": "In late pregnancy, the uterus can press on the inferior vena cava when the woman lies on her back, reducing blood return to the heart and lowering blood pressure. Turning her to the left side moves the uterus off the vessel."
+    },
+    {
+      "id": "emt-primary-52",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (OB, trauma positioning)",
+      "q": "A patient who is 34 weeks pregnant is secured to a long board after a crash. How should the board be positioned during transport?",
+      "options": [
+        "Flat with the feet raised",
+        "Head down at 30 degrees",
+        "Upright at 90 degrees",
+        "Tilted toward her left side"
+      ],
+      "answer": 3,
+      "explain": "Tilting the board to the left keeps the heavy uterus from pressing on the inferior vena cava, which could cause low blood pressure in the mother and reduced blood flow to the fetus. Raising the feet or lowering the head does not relieve this compression."
+    },
+    {
+      "id": "emt-primary-53",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (OB, bleeding in late pregnancy)",
+      "q": "A woman at 32 weeks of pregnancy has heavy, painless, bright red vaginal bleeding and a rapid pulse. What is the priority?",
+      "options": [
+        "Look inside the vagina for the source",
+        "Treat for shock and transport promptly",
+        "Pack the vagina to stop the bleeding",
+        "Have her walk to help the uterus settle"
+      ],
+      "answer": 1,
+      "explain": "Heavy bleeding in late pregnancy can come from the placenta and lead to shock in the mother and harm to the fetus. The EMT places a pad over the vaginal opening, treats for shock and transports rapidly. Nothing is placed inside the vagina."
+    },
+    {
+      "id": "emt-primary-54",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (cardiac arrest sequence)",
+      "q": "An adult is unresponsive, not breathing and has no pulse. In what order should care begin?",
+      "options": [
+        "Airway, then breathing, then compressions",
+        "Breathing, then compressions, then airway",
+        "Airway, then compressions, then breathing",
+        "Compressions, then airway, then breathing"
+      ],
+      "answer": 3,
+      "explain": "For adult cardiac arrest, the sequence is compressions, airway, breathing, because moving oxygenated blood quickly matters most and starting compressions avoids delays. For patients with a pulse, the airway and breathing are assessed and managed first."
+    },
+    {
+      "id": "emt-primary-55",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, hypoxia)",
+      "q": "Which is an early sign of hypoxia?",
+      "options": [
+        "Blue lips and nail beds",
+        "A slowing heart rate",
+        "No response to pain",
+        "Restlessness and anxiety"
+      ],
+      "answer": 3,
+      "explain": "The brain is sensitive to low oxygen, so restlessness, anxiety and confusion appear early, along with a fast heart rate. Cyanosis, a slowing heart rate and unresponsiveness are late signs that call for immediate airway and ventilation support."
+    },
+    {
+      "id": "emt-primary-56",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, pediatric work of breathing)",
+      "q": "A 2-year-old with difficulty breathing shows skin pulling in between the ribs with each breath. What does this indicate?",
+      "options": [
+        "Normal breathing for a toddler",
+        "A rib fracture from a fall",
+        "Low blood sugar in the child",
+        "Increased work of breathing"
+      ],
+      "answer": 3,
+      "explain": "Retractions between the ribs, above the collarbones or below the sternum show the child is working hard to breathe. Other signs include nasal flaring, grunting and head bobbing. These children need oxygen, a position of comfort and close monitoring for fatigue."
+    },
+    {
+      "id": "emt-primary-57",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, posture)",
+      "q": "A patient with COPD is sitting upright, leaning forward with the hands on the knees. What does this position suggest?",
+      "options": [
+        "Abdominal pain only",
+        "Low blood sugar",
+        "Respiratory distress",
+        "A normal resting posture"
+      ],
+      "answer": 2,
+      "explain": "This tripod position helps the patient use accessory muscles to move air, and it is a sign of significant respiratory distress. The patient is allowed to stay in this position of comfort and is not forced to lie flat."
+    },
+    {
+      "id": "emt-primary-58",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway and ventilation, opioid overdose)",
+      "q": "A patient with a suspected opioid overdose is unresponsive, has a pulse and is breathing 4 times per minute. What is the first priority?",
+      "options": [
+        "Open the airway and ventilate with a BVM",
+        "Give naloxone before any other care",
+        "Obtain a blood glucose reading",
+        "Search the area for drug items"
+      ],
+      "answer": 0,
+      "explain": "Inadequate breathing is the immediate threat, so the airway is opened and ventilations are given with a BVM and oxygen. Naloxone is given as soon as practical, but it takes time to work and ventilation is not delayed for it."
+    },
+    {
+      "id": "emt-primary-59",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (ventilation, stoma)",
+      "q": "A patient who breathes through a neck stoma needs ventilations. How should you deliver them?",
+      "options": [
+        "Ventilate through the mouth and nose",
+        "Cover the stoma with a dry dressing first",
+        "Seal a small mask over the stoma and ventilate",
+        "Insert an oral airway into the stoma"
+      ],
+      "answer": 2,
+      "explain": "A patient who has had the larynx removed breathes through the stoma, so ventilations go through it, often with an infant or child mask for a good seal. Covering the stoma blocks the airway. If air escapes from the mouth or nose, they may need to be sealed."
+    },
+    {
+      "id": "emt-primary-60",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (ventilation, gastric distention)",
+      "q": "While you ventilate a patient with a BVM, the abdomen grows larger. What is the likely cause?",
+      "options": [
+        "Breaths given too fast or with too much force",
+        "A mask sized slightly too small for the face",
+        "Oxygen flow to the bag set a little too low",
+        "Blood collecting in the patient's lungs"
+      ],
+      "answer": 0,
+      "explain": "Air pushed in too quickly or with too much volume enters the esophagus and inflates the stomach, which can cause vomiting and limit lung expansion. Each breath is given over about 1 second, with just enough volume to see the chest rise, at the proper rate."
+    },
+    {
+      "id": "emt-primary-61",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (ventilation, tidal volume)",
+      "q": "How much volume should each BVM ventilation deliver to an adult?",
+      "options": [
+        "The full bag squeezed as hard as possible",
+        "A small puff that causes no chest rise",
+        "Enough to make the chest visibly rise",
+        "Twice the patient's usual breath size"
+      ],
+      "answer": 2,
+      "explain": "The goal is visible chest rise with each breath, delivered over about 1 second. Squeezing hard or overfilling the lungs leads to stomach inflation and higher pressure in the chest, which lowers blood return to the heart."
+    },
+    {
+      "id": "emt-primary-62",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (oxygenation, pulse oximetry limits)",
+      "q": "In which situation may a pulse oximeter show a falsely normal reading?",
+      "options": [
+        "A patient with a normal pulse",
+        "A well-warmed finger",
+        "Carbon monoxide poisoning",
+        "A patient breathing room air"
+      ],
+      "answer": 2,
+      "explain": "Standard pulse oximeters cannot tell oxygen from carbon monoxide bound to hemoglobin, so the reading may look normal while tissues are starved of oxygen. Cold fingers, poor perfusion and some nail polish can also cause inaccurate readings."
+    },
+    {
+      "id": "emt-primary-63",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway protection, recovery position)",
+      "q": "An unresponsive adult with no suspected trauma is breathing adequately and has a pulse. How should the patient be positioned?",
+      "options": [
+        "Flat on the back with the head still",
+        "In the recovery position on the side",
+        "Face down with the head turned",
+        "Sitting upright with the head forward"
+      ],
+      "answer": 1,
+      "explain": "The recovery position keeps the airway open and lets fluids drain from the mouth, lowering the risk of aspiration. An unresponsive patient lying on the back can lose the airway to the tongue or vomit. Breathing is monitored continuously."
+    },
+    {
+      "id": "emt-primary-64",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway, active seizure)",
+      "q": "A patient is having a generalized seizure. What should you do during the seizure?",
+      "options": [
+        "Place a bite block between the teeth",
+        "Protect the patient from injury",
+        "Hold the arms and legs to stop jerking",
+        "Pour water in the mouth to wake them"
+      ],
+      "answer": 1,
+      "explain": "During a seizure, the EMT moves objects away, cushions the head and does not restrain movement or put anything in the mouth. After the seizure, the airway is opened and suctioned as needed and oxygen is given. A long or repeated seizure needs urgent care."
+    },
+    {
+      "id": "emt-primary-65",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (newborn resuscitation, ventilation)",
+      "q": "A newborn is not breathing after being dried, warmed and stimulated. What should you do?",
+      "options": [
+        "Start chest compressions right away",
+        "Keep stimulating for two more minutes",
+        "Hold the newborn upside down",
+        "Begin ventilations with a BVM"
+      ],
+      "answer": 3,
+      "explain": "Most newborns who need help respond to effective ventilation. If a newborn is apneic or gasping, or has a heart rate below 100 per minute after the initial steps, ventilation with a BVM begins at 40 to 60 breaths per minute."
+    },
+    {
+      "id": "emt-primary-66",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (newborn resuscitation, compressions)",
+      "q": "A newborn's heart rate stays below 60 per minute despite 30 seconds of effective ventilation. What should be added?",
+      "options": [
+        "Chest compressions at a 3 to 1 ratio",
+        "Oral glucose placed in the cheek",
+        "Chest compressions at a 30 to 2 ratio",
+        "Back slaps given between breaths"
+      ],
+      "answer": 0,
+      "explain": "In newborn resuscitation, a heart rate below 60 per minute despite effective ventilation calls for chest compressions coordinated with breaths at 3 compressions to 1 breath. The 30 to 2 ratio is for single-rescuer CPR in older patients."
+    },
+    {
+      "id": "emt-primary-67",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (priority decisions, multiple patients)",
+      "q": "You have two patients: one with a broken arm who is screaming in pain, and one who is quiet with snoring respirations. Whom do you treat first?",
+      "options": [
+        "The screaming patient with the broken arm",
+        "Both equally, switching every minute",
+        "The quiet patient with snoring respirations",
+        "Whoever was injured first at the scene"
+      ],
+      "answer": 2,
+      "explain": "Snoring respirations in a quiet patient suggest decreased responsiveness and a partly blocked airway, an immediate life threat. A patient who can scream has an open airway and is breathing. Airway problems are managed before painful but stable injuries."
+    },
+    {
+      "id": "emt-primary-68",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (circulation and breathing, anaphylaxis recognition)",
+      "q": "A patient stung by a bee has hives, wheezing and a weak, rapid pulse. What do these findings suggest?",
+      "options": [
+        "A local reaction needing ice",
+        "Anxiety needing reassurance",
+        "Mild asthma needing rest only",
+        "Anaphylaxis needing epinephrine"
+      ],
+      "answer": 3,
+      "explain": "Hives together with breathing difficulty and signs of shock indicate anaphylaxis, a life-threatening allergic reaction. Epinephrine by auto-injector is the key treatment, followed by rapid transport. A local reaction involves only swelling at the sting site."
+    },
+    {
+      "id": "emt-primary-69",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (breathing assessment, pediatric respiratory failure)",
+      "q": "A 4-year-old with asthma was struggling to breathe but now seems sleepy, with slower and weaker breaths. What does this suggest?",
+      "options": [
+        "The asthma attack is ending normally",
+        "The child is calm because care worked",
+        "The child is tiring and may be near failure",
+        "The child simply needs to take a nap"
+      ],
+      "answer": 2,
+      "explain": "A child who goes from working hard to breathe to drowsy with slow, shallow breathing is likely exhausted and in respiratory failure. This calls for assisted ventilation with a BVM and immediate transport. Real improvement looks like easier breathing with good alertness."
+    },
+    {
+      "id": "emt-primary-70",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (pediatric assessment triangle)",
+      "q": "Which three components make up the Pediatric Assessment Triangle?",
+      "options": [
+        "Airway, blood pressure, pupil response",
+        "Appearance, work of breathing, circulation to skin",
+        "Pulse, temperature, blood glucose level",
+        "Speech, arm drift, facial symmetry"
+      ],
+      "answer": 1,
+      "explain": "The Pediatric Assessment Triangle is a quick look from across the room at the child's appearance, work of breathing and circulation to the skin. It helps the EMT judge how sick a child is before touching the child. Speech, arm drift and facial symmetry belong to a stroke scale."
+    },
+    {
+      "id": "emt-primary-71",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (oxygen devices, pediatric blow-by)",
+      "q": "A frightened 3-year-old with breathing difficulty will not tolerate a mask. How can you give oxygen?",
+      "options": [
+        "Hold the mask or tubing near the child's face",
+        "Strap the mask on firmly while the child cries",
+        "Withhold oxygen until hospital arrival",
+        "Give oxygen only by bag-valve mask"
+      ],
+      "answer": 0,
+      "explain": "Blow-by oxygen, with the mask or tubing held near the face, often by a parent, delivers some oxygen without upsetting the child. Forcing a mask on increases crying and oxygen demand and can worsen airway swelling. A BVM is for inadequate breathing."
+    },
+    {
+      "id": "emt-primary-72",
+      "exam": "emt",
+      "domain": "primary",
+      "ref": "NREMT EMT exam outline: Primary Assessment (airway, pediatric upper airway infection)",
+      "q": "A child has stridor and drooling and sits leaning forward, refusing to lie down. What should you avoid?",
+      "options": [
+        "Looking in the throat with a tongue depressor",
+        "Letting a parent hold the child",
+        "Keeping the child in a position of comfort",
+        "Giving blow-by oxygen near the face"
+      ],
+      "answer": 0,
+      "explain": "These signs suggest a serious upper airway infection, and probing the throat can trigger spasm and complete obstruction. The EMT keeps the child calm in a position of comfort, gives oxygen as tolerated and transports promptly."
+    },
+    {
+      "id": "emt-secondary-01",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (SAMPLE history)",
+      "q": "In a SAMPLE history, what does the letter E stand for?",
+      "options": [
+        "Exposure to heat or cold",
+        "Examination of the extremities",
+        "Events leading up to the illness or injury",
+        "Estimated time of arrival"
+      ],
+      "answer": 2,
+      "explain": "SAMPLE stands for Signs and symptoms, Allergies, Medications, Pertinent past history, Last oral intake and Events leading to the problem. Asking what the patient was doing when symptoms began helps identify the cause."
+    },
+    {
+      "id": "emt-secondary-02",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (OPQRST)",
+      "q": "When assessing chest pain with OPQRST, which question addresses provocation?",
+      "options": [
+        "When did the pain first start?",
+        "Does the pain spread anywhere?",
+        "How bad is it on a scale of 1 to 10?",
+        "Does anything make the pain better or worse?"
+      ],
+      "answer": 3,
+      "explain": "Provocation, or palliation, asks what makes the pain better or worse, such as movement, breathing or rest. Onset is when it started, radiation is where it spreads, and severity is the 1 to 10 rating."
+    },
+    {
+      "id": "emt-secondary-03",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (vital signs, infant heart rate)",
+      "q": "Which resting heart rate in an infant is too slow and needs immediate attention?",
+      "options": [
+        "120 beats per minute",
+        "130 beats per minute",
+        "140 beats per minute",
+        "70 beats per minute"
+      ],
+      "answer": 3,
+      "explain": "A resting infant's heart rate is normally well above 100 beats per minute. A rate of 70 is too slow, and in infants a slow heart rate is often caused by hypoxia, so oxygenation and ventilation are checked right away. The other rates fall in the expected range."
+    },
+    {
+      "id": "emt-secondary-04",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (vital signs, blood pressure by palpation)",
+      "q": "When taking a blood pressure by palpation, what can you measure?",
+      "options": [
+        "Diastolic pressure only",
+        "Systolic pressure only",
+        "Both systolic and diastolic",
+        "Mean arterial pressure only"
+      ],
+      "answer": 1,
+      "explain": "By palpation, the EMT feels for the radial pulse returning as the cuff deflates, which gives the systolic pressure. The diastolic pressure requires listening with a stethoscope. Palpation is useful in noisy settings."
+    },
+    {
+      "id": "emt-secondary-05",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (blood glucose)",
+      "q": "A patient with diabetes is confused and sweaty. Which blood glucose reading supports hypoglycemia?",
+      "options": [
+        "52 mg/dL",
+        "95 mg/dL",
+        "110 mg/dL",
+        "140 mg/dL"
+      ],
+      "answer": 0,
+      "explain": "A blood glucose below about 70 mg/dL is generally considered low, and confusion, sweating and shakiness are common symptoms. A reading of 52 mg/dL with these signs supports giving glucose if the patient can swallow. The other readings are in or near the normal range."
+    },
+    {
+      "id": "emt-secondary-06",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (stroke scales)",
+      "q": "Which test is part of the Cincinnati Prehospital Stroke Scale?",
+      "options": [
+        "A fingerstick blood glucose",
+        "Pupil reaction to a light",
+        "Walking heel to toe in a line",
+        "Arm drift with the eyes closed"
+      ],
+      "answer": 3,
+      "explain": "The Cincinnati scale checks for facial droop when smiling, arm drift when both arms are held out with the eyes closed, and abnormal speech. One abnormal finding raises concern for stroke. Blood glucose is also checked because low sugar can mimic stroke, but it is not part of the scale."
+    },
+    {
+      "id": "emt-secondary-07",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (stroke, time last known well)",
+      "q": "Why is it important to find out when a stroke patient was last known well?",
+      "options": [
+        "It decides which ambulance should respond",
+        "It sets the oxygen flow rate to be used",
+        "It tells the hospital the patient's age",
+        "It guides which treatments may be possible"
+      ],
+      "answer": 3,
+      "explain": "Many stroke treatments must start within limited time windows, so the time the patient was last seen normal guides hospital decisions and the choice of destination. If the patient woke up with symptoms, the last known well time is when he or she went to sleep."
+    },
+    {
+      "id": "emt-secondary-08",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (trauma exam, DCAP-BTLS)",
+      "q": "During a trauma exam, what does the letter B stand for in DCAP-BTLS?",
+      "options": [
+        "Burns",
+        "Bleeding",
+        "Bruising",
+        "Breathing"
+      ],
+      "answer": 0,
+      "explain": "DCAP-BTLS lists findings to look and feel for: Deformities, Contusions, Abrasions, Punctures or penetrations, Burns, Tenderness, Lacerations and Swelling. Bruising is covered by contusions, and bleeding is managed in the primary assessment."
+    },
+    {
+      "id": "emt-secondary-09",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (neurological exam, pupils)",
+      "q": "After a head injury, one pupil is dilated and does not react to light. What does this suggest?",
+      "options": [
+        "A normal reaction to bright light",
+        "Low blood sugar and nothing else",
+        "Simple irritation of the eye",
+        "Rising pressure inside the skull"
+      ],
+      "answer": 3,
+      "explain": "A single dilated, nonreactive pupil after head trauma can mean pressure on the nerve from bleeding or swelling inside the skull. It is a serious finding that calls for rapid transport and frequent reassessment of mental status and vital signs."
+    },
+    {
+      "id": "emt-secondary-10",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (full-body exam, significant mechanism)",
+      "q": "A patient was ejected from a vehicle and responds only to pain. Which assessment should follow the primary assessment?",
+      "options": [
+        "A focused exam of a single complaint",
+        "A detailed exam before any treatment",
+        "A SAMPLE history from the patient",
+        "A rapid full-body trauma assessment"
+      ],
+      "answer": 3,
+      "explain": "A significant mechanism and altered mental status call for a rapid head-to-toe exam to find hidden life threats. A focused exam suits isolated injuries with a minor mechanism. This patient cannot give a reliable history, so information comes from bystanders."
+    },
+    {
+      "id": "emt-secondary-11",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (focused exam, chest trauma)",
+      "q": "A patient with chest trauma has distended neck veins while sitting upright. What might this indicate?",
+      "options": [
+        "A normal finding after exertion",
+        "Dehydration from blood loss",
+        "Increased pressure within the chest",
+        "A low blood sugar level"
+      ],
+      "answer": 2,
+      "explain": "Jugular vein distention in a sitting patient suggests blood is backing up because of increased pressure in the chest, as with tension pneumothorax or pericardial tamponade, or from heart failure. Blood loss usually causes flat neck veins."
+    },
+    {
+      "id": "emt-secondary-12",
+      "exam": "emt",
+      "domain": "secondary",
+      "ref": "NREMT EMT exam outline: Secondary Assessment (focused exam, medical patient)",
+      "q": "A responsive patient complains only of abdominal pain. Which secondary assessment approach fits?",
+      "options": [
+        "A rapid full-body trauma survey",
+        "A focused exam of the abdomen and related areas",
+        "No exam until arrival at the hospital",
+        "An exam of the arms and legs only"
+      ],
+      "answer": 1,
+      "explain": "For a responsive medical patient with one complaint, the history guides a focused exam of the affected area, such as inspecting and gently palpating the abdomen. A rapid full-body exam is for unresponsive or seriously injured patients."
+    },
+    {
+      "id": "emt-treat-01",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, oral glucose)",
+      "q": "Which patient is appropriate to receive oral glucose?",
+      "options": [
+        "An unresponsive diabetic with low blood sugar",
+        "An alert diabetic who can swallow and feels shaky",
+        "A patient having a seizure with known diabetes",
+        "A patient with a very high blood sugar reading"
+      ],
+      "answer": 1,
+      "explain": "Oral glucose is given to patients with suspected low blood sugar who are awake enough to swallow and protect their airway. Unresponsive or seizing patients could choke or aspirate. Giving sugar to a patient with high blood glucose does not treat the problem."
+    },
+    {
+      "id": "emt-treat-02",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, aspirin contraindications)",
+      "q": "A patient with chest pain suspected to be cardiac might receive aspirin. Which finding is a reason not to give it?",
+      "options": [
+        "Pain that began 20 minutes ago",
+        "A known allergy to aspirin",
+        "A history of high blood pressure",
+        "An age of more than 50 years"
+      ],
+      "answer": 1,
+      "explain": "Aspirin reduces clot formation in acute coronary syndrome, but it is not given to patients who are allergic to it or, per protocol, who have recent gastrointestinal bleeding. Age and high blood pressure are common in cardiac patients and do not prevent aspirin use."
+    },
+    {
+      "id": "emt-treat-03",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, aspirin administration)",
+      "q": "How is aspirin given for suspected acute coronary syndrome at the EMT level?",
+      "options": [
+        "Swallowed whole with water",
+        "Dissolved under the tongue",
+        "Chewed, using low-dose tablets",
+        "Injected into a muscle"
+      ],
+      "answer": 2,
+      "explain": "Chewing aspirin speeds absorption so its antiplatelet effect begins sooner. Low-dose chewable tablets totaling about 160 to 325 mg are typical, as protocol directs. Placing a tablet under the tongue is the route for nitroglycerin."
+    },
+    {
+      "id": "emt-treat-04",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, nitroglycerin contraindications)",
+      "q": "A patient with chest pain has his own prescribed nitroglycerin. He took a medication for erectile dysfunction yesterday. What should you do?",
+      "options": [
+        "Not assist with nitroglycerin and inform medical control",
+        "Assist with one tablet only and then reassess",
+        "Assist with half of the usual tablet dose",
+        "Assist only if the pain is above 5 of 10"
+      ],
+      "answer": 0,
+      "explain": "Erectile dysfunction drugs combined with nitroglycerin can cause a severe drop in blood pressure. Nitroglycerin is withheld when such drugs were taken recently, usually within 24 to 48 hours depending on the drug. A smaller dose does not remove the risk."
+    },
+    {
+      "id": "emt-treat-05",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, assisting with nitroglycerin)",
+      "q": "Before assisting a patient with nitroglycerin, which condition must be met?",
+      "options": [
+        "The medication is prescribed to that patient",
+        "The patient has never had chest pain before",
+        "The patient has eaten within the last hour",
+        "The patient has already taken an aspirin"
+      ],
+      "answer": 0,
+      "explain": "EMTs assist only with nitroglycerin prescribed to the patient, after confirming the right drug, an adequate blood pressure per protocol and medical direction approval. A first episode of chest pain, recent eating or prior aspirin do not determine eligibility."
+    },
+    {
+      "id": "emt-treat-06",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, nitroglycerin side effects)",
+      "q": "After taking nitroglycerin, a patient reports a throbbing headache. What explains this?",
+      "options": [
+        "Widening of blood vessels by the drug",
+        "An allergic reaction to the tablet",
+        "A stroke caused by the medication",
+        "A rise in blood sugar from the drug"
+      ],
+      "answer": 0,
+      "explain": "Nitroglycerin relaxes and widens blood vessels, which commonly causes headache, flushing and a drop in blood pressure. Blood pressure is rechecked after each dose. A headache alone is an expected side effect, not an allergy."
+    },
+    {
+      "id": "emt-treat-07",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, metered-dose inhaler)",
+      "q": "When assisting a patient with a prescribed metered-dose inhaler, what should the patient do?",
+      "options": [
+        "Inhale fully, then press it while breathing out",
+        "Press it twice quickly without breathing in",
+        "Hold it away from the mouth and then press it",
+        "Exhale fully, then inhale deeply as it is pressed"
+      ],
+      "answer": 3,
+      "explain": "The patient shakes the inhaler, exhales fully, seals the lips around the mouthpiece or spacer, presses the inhaler while breathing in slowly and deeply, then holds the breath as long as comfortable. This carries the medication into the lungs."
+    },
+    {
+      "id": "emt-treat-08",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, epinephrine auto-injector site)",
+      "q": "Where is an epinephrine auto-injector given?",
+      "options": [
+        "The outer thigh",
+        "The upper arm",
+        "The buttock",
+        "The abdomen"
+      ],
+      "answer": 0,
+      "explain": "Epinephrine auto-injectors are given into the lateral thigh muscle, which absorbs the drug quickly and can be reached through clothing if needed. The device is held in place for the time the manufacturer specifies, and the used injector is disposed of safely."
+    },
+    {
+      "id": "emt-treat-09",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, epinephrine dose)",
+      "q": "What is the standard adult epinephrine auto-injector dose?",
+      "options": [
+        "0.15 mg",
+        "1 mg",
+        "3 mg",
+        "0.3 mg"
+      ],
+      "answer": 3,
+      "explain": "The adult auto-injector delivers 0.3 mg of epinephrine into the thigh muscle, while the pediatric version delivers 0.15 mg for smaller children. Larger doses are not given by auto-injector and could cause dangerous heart effects."
+    },
+    {
+      "id": "emt-treat-10",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, epinephrine action)",
+      "q": "Why is epinephrine given in anaphylaxis?",
+      "options": [
+        "It slows the heart and lowers blood pressure",
+        "It blocks pain signals from the sting site",
+        "It narrows blood vessels and opens the airways",
+        "It raises blood sugar to prevent fainting"
+      ],
+      "answer": 2,
+      "explain": "Epinephrine constricts blood vessels to raise blood pressure and relaxes airway muscle to ease breathing, reversing key effects of anaphylaxis. It speeds the heart rate, so side effects include palpitations, anxiety and tremors."
+    },
+    {
+      "id": "emt-treat-11",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, naloxone)",
+      "q": "Which patient is most appropriate for intranasal naloxone given by an EMT?",
+      "options": [
+        "Unresponsive with pinpoint pupils and slow breathing",
+        "Alert with chest pain after exercising",
+        "Confused with a low blood glucose reading",
+        "Agitated with fast breathing and a fever"
+      ],
+      "answer": 0,
+      "explain": "Naloxone reverses opioid effects and is indicated for suspected opioid overdose with depressed breathing. Pinpoint pupils, unresponsiveness and slow breathing are classic signs. Ventilation is supported while naloxone takes effect, and the patient may wake agitated or in withdrawal."
+    },
+    {
+      "id": "emt-treat-12",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, oxygen in COPD)",
+      "q": "A patient with COPD is in severe respiratory distress with an oxygen saturation of 82 percent. What is appropriate?",
+      "options": [
+        "Withhold oxygen because of the COPD",
+        "Give oxygen only after hospital arrival",
+        "Give oxygen and monitor breathing closely",
+        "Limit oxygen to 0.5 liters per minute"
+      ],
+      "answer": 2,
+      "explain": "Hypoxia must be corrected in any patient in distress. Patients with COPD receive oxygen titrated to the target saturation in the protocol while the EMT watches their breathing and mental status. Withholding oxygen from a hypoxic patient is dangerous."
+    },
+    {
+      "id": "emt-treat-13",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (respiratory support, CPAP)",
+      "q": "Which patient is appropriate for continuous positive airway pressure?",
+      "options": [
+        "An unresponsive patient without a gag reflex",
+        "An alert patient with fluid in the lungs who breathes on his own",
+        "A patient with a suspected collapsed lung",
+        "A patient with low blood pressure who is vomiting"
+      ],
+      "answer": 1,
+      "explain": "CPAP helps alert, cooperative patients in respiratory distress from causes such as pulmonary edema, who are still breathing on their own. It is contraindicated when the patient cannot protect the airway, has low blood pressure, is vomiting or may have a pneumothorax."
+    },
+    {
+      "id": "emt-treat-14",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (splinting, long bones)",
+      "q": "When splinting a suspected forearm fracture, what should the splint immobilize?",
+      "options": [
+        "The wrist and the elbow",
+        "The forearm alone",
+        "The shoulder and elbow",
+        "The fingers alone"
+      ],
+      "answer": 0,
+      "explain": "A long-bone fracture is splinted so the joints above and below the injury, here the elbow and wrist, are immobilized. This prevents movement of the bone ends that causes pain and further damage. The hand is placed in the position of function."
+    },
+    {
+      "id": "emt-treat-15",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (splinting, distal checks)",
+      "q": "When should you check pulse, motor function and sensation in an injured extremity?",
+      "options": [
+        "Before and after applying the splint",
+        "Only before applying the splint",
+        "Only once at the hospital",
+        "Only after the splint is on"
+      ],
+      "answer": 0,
+      "explain": "Checking distal circulation, movement and sensation before and after splinting shows whether the injury or the splint is affecting nerves or blood flow. A loss after splinting means the splint may be too tight and needs adjusting."
+    },
+    {
+      "id": "emt-treat-16",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (splinting, joint injuries)",
+      "q": "A patient has a deformed knee injury with a good distal pulse. How should you splint it?",
+      "options": [
+        "In the position found",
+        "Fully straightened first",
+        "Bent to 90 degrees first",
+        "With a traction splint"
+      ],
+      "answer": 0,
+      "explain": "Joint injuries are splinted in the position found when circulation is intact, because moving them can damage nerves and vessels. Traction splints are contraindicated for knee injuries. Protocols address what to do if the distal pulse is absent."
+    },
+    {
+      "id": "emt-treat-17",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (splinting, traction splint)",
+      "q": "Which injury is an indication for a traction splint?",
+      "options": [
+        "A fracture next to the ankle joint",
+        "An isolated midshaft femur fracture",
+        "A suspected fracture of the pelvis",
+        "A dislocation of the knee joint"
+      ],
+      "answer": 1,
+      "explain": "Traction splints reduce pain and bleeding from isolated, closed midshaft femur fractures by keeping the bone aligned. They are not used for pelvis, hip, knee or ankle injuries, because traction would pull across those injured areas."
+    },
+    {
+      "id": "emt-treat-18",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (splinting, pelvic binder)",
+      "q": "Where should a pelvic binder be placed?",
+      "options": [
+        "Around the waist at the belly button",
+        "Around the hips at the greater trochanters",
+        "Around the lower ribs below the chest",
+        "Around the upper thighs below the hips"
+      ],
+      "answer": 1,
+      "explain": "A pelvic binder is centered over the greater trochanters, the bony points at the sides of the hips, to stabilize an unstable pelvic fracture and limit bleeding. Placing it at the waist does not compress the pelvic ring."
+    },
+    {
+      "id": "emt-treat-19",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (spinal motion restriction, indications)",
+      "q": "After a fall, which patient most clearly meets criteria for spinal motion restriction?",
+      "options": [
+        "An alert patient with only a wrist injury",
+        "A patient with midline neck pain and tingling arms",
+        "A patient walking around with a bruised knee",
+        "An alert patient with a small cut on the scalp"
+      ],
+      "answer": 1,
+      "explain": "Spinal motion restriction is indicated for patients with midline spine pain or tenderness, neurological deficits, altered mental status or intoxication, or distracting injuries after a concerning mechanism. Tingling in the arms with neck pain suggests possible spinal cord injury."
+    },
+    {
+      "id": "emt-treat-20",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (spinal motion restriction, manual stabilization)",
+      "q": "When can manual stabilization of the head be released?",
+      "options": [
+        "As soon as a cervical collar is in place",
+        "When the patient is fully secured to a device",
+        "Once the patient says the neck feels fine",
+        "After the first set of vital signs"
+      ],
+      "answer": 1,
+      "explain": "A cervical collar alone does not fully prevent movement, so manual stabilization continues until the patient is secured to a device, such as a long board, scoop or vacuum mattress, with the head immobilized. The patient's own report is not reliable for this."
+    },
+    {
+      "id": "emt-treat-21",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (burns, rule of nines)",
+      "q": "Using the rule of nines, what percentage of body surface area is one entire arm in an adult?",
+      "options": [
+        "18 percent",
+        "4.5 percent",
+        "9 percent",
+        "1 percent"
+      ],
+      "answer": 2,
+      "explain": "In the adult rule of nines, each arm is 9 percent, each leg 18 percent, the front and the back of the trunk 18 percent each, the head 9 percent and the genital area 1 percent. The patient's palm is about 1 percent and can be used to estimate scattered burns."
+    },
+    {
+      "id": "emt-treat-22",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (burns, pediatric body surface area)",
+      "q": "Compared with an adult, which body area makes up a larger share of total body surface area in an infant?",
+      "options": [
+        "Each leg",
+        "Each arm",
+        "The genitals",
+        "The head"
+      ],
+      "answer": 3,
+      "explain": "Infants have relatively large heads, which make up about 18 percent of body surface area in the pediatric rule of nines, compared with 9 percent in adults. Each leg makes up a smaller share. Burn size in infants is estimated with the pediatric chart."
+    },
+    {
+      "id": "emt-treat-23",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (burns, thermal burn care)",
+      "q": "After the burning process is stopped on a small thermal burn, what should you do?",
+      "options": [
+        "Apply ice directly onto the burned area",
+        "Spread butter or a greasy ointment on it",
+        "Break the blisters so the fluid drains",
+        "Cool it briefly with clean water, then cover it dry"
+      ],
+      "answer": 3,
+      "explain": "Cooling a small burn with water stops further damage, and a dry sterile dressing protects it. Ice injures tissue, and greasy substances trap heat and complicate hospital care. Blisters are left intact to protect against infection. Large burns are not cooled for long because of hypothermia risk."
+    },
+    {
+      "id": "emt-treat-24",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (burns, dry chemicals)",
+      "q": "A worker has a dry chemical powder on both arms. What should you do first?",
+      "options": [
+        "Flush with a little water right away",
+        "Rub the powder off with a damp cloth",
+        "Brush off the powder, then flush with water",
+        "Cover the powder with a dry dressing"
+      ],
+      "answer": 2,
+      "explain": "Some dry chemicals react with water, so as much powder as possible is brushed off before flushing with large amounts of water. Contaminated clothing is removed. EMTs protect themselves from contact while doing this."
+    },
+    {
+      "id": "emt-treat-25",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (burns, electrical injuries)",
+      "q": "A patient touched a high-voltage line and has small burns on one hand and one foot. What is the main concern?",
+      "options": [
+        "Infection of the small skin wounds",
+        "Scarring of the hand over time",
+        "Internal damage and heart rhythm problems",
+        "Dehydration from heavy sweating"
+      ],
+      "answer": 2,
+      "explain": "Electric current travels through the body, damaging deep tissues and possibly causing dangerous heart rhythms, even when skin burns look small. The entry and exit wounds suggest the path of the current. The patient is monitored closely with the AED kept ready."
+    },
+    {
+      "id": "emt-treat-26",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (childbirth, imminent delivery)",
+      "q": "During labor, the baby's head is visible at the vaginal opening with each contraction. What should you do?",
+      "options": [
+        "Prepare to deliver on scene",
+        "Transport with lights and siren",
+        "Have the mother cross her legs",
+        "Ask the mother to hold back"
+      ],
+      "answer": 0,
+      "explain": "Crowning means delivery is near, so the EMT prepares to deliver on scene rather than risk a birth in a moving ambulance. The mother is never asked to hold back the delivery. Gentle support of the head helps prevent an explosive birth."
+    },
+    {
+      "id": "emt-treat-27",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (childbirth, nuchal cord)",
+      "q": "As the head delivers, you feel the umbilical cord wrapped loosely around the baby's neck. What should you do?",
+      "options": [
+        "Pull the baby out quickly by the head",
+        "Gently slip the cord over the baby's head",
+        "Push the baby back into the vagina",
+        "Wait for the next contraction to check"
+      ],
+      "answer": 1,
+      "explain": "A loose cord around the neck is slipped over the head or shoulders so delivery can continue. If it is too tight to slip, protocols call for clamping it in two places and cutting between the clamps. Pulling on the baby can injure it."
+    },
+    {
+      "id": "emt-treat-28",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (newborn care, initial steps)",
+      "q": "Right after delivery, the newborn is crying and has good muscle tone. What should you do next?",
+      "options": [
+        "Hold the newborn upside down by the feet",
+        "Cut the cord within the first few seconds",
+        "Start ventilations with a BVM right away",
+        "Dry and warm the newborn"
+      ],
+      "answer": 3,
+      "explain": "Drying and warming prevent heat loss, which newborns suffer quickly. A crying newborn with good tone usually needs only routine care and can be placed skin to skin with the mother. Holding a newborn by the feet is unsafe, and cord clamping is commonly delayed in vigorous newborns."
+    },
+    {
+      "id": "emt-treat-29",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (childbirth, limb presentation)",
+      "q": "During labor, an arm is the first part of the baby to come out of the vagina. What should you do?",
+      "options": [
+        "Position the mother and transport rapidly",
+        "Pull gently on the arm to deliver",
+        "Push the arm back into the vagina",
+        "Stay on scene and wait for delivery"
+      ],
+      "answer": 0,
+      "explain": "A limb presentation cannot be delivered in the field and requires surgery. The EMT covers the limb, positions the mother to reduce pressure, gives oxygen as needed and transports immediately. Pulling or pushing on the limb can injure the baby and the mother."
+    },
+    {
+      "id": "emt-treat-30",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (childbirth, prolapsed cord)",
+      "q": "The umbilical cord comes out before the baby during labor. What should you do?",
+      "options": [
+        "Push the cord back up inside the vagina",
+        "Keep the presenting part off the cord with gloved fingers",
+        "Clamp and cut the cord right away",
+        "Have the mother push hard to speed birth"
+      ],
+      "answer": 1,
+      "explain": "A prolapsed cord can be squeezed by the baby's head, cutting off oxygen. The EMT places the mother in a knee-chest or hips-raised position, uses gloved fingers to keep pressure off the cord and transports rapidly. The cord is kept moist and is not pushed back."
+    },
+    {
+      "id": "emt-treat-31",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (childbirth, postpartum bleeding)",
+      "q": "After the placenta delivers, the mother is bleeding heavily. What can you do to help the uterus contract?",
+      "options": [
+        "Massage the top of the uterus",
+        "Pack gauze inside the vagina",
+        "Lay her flat with legs crossed",
+        "Give her water to drink often"
+      ],
+      "answer": 0,
+      "explain": "Firm massage of the top of the uterus, the fundus, helps it contract and close bleeding vessels. Breastfeeding also helps the uterus contract. Nothing is placed inside the vagina, and the mother is treated for shock and transported."
+    },
+    {
+      "id": "emt-treat-32",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (newborn care, APGAR)",
+      "q": "Which items are scored in the APGAR assessment of a newborn?",
+      "options": [
+        "Airway, pressure, glucose, alertness, rhythm",
+        "Age, pupils, gestation, arms, reflexes",
+        "Appearance, pulse, grimace, activity, respirations",
+        "Allergies, pain, gait, attention, reach"
+      ],
+      "answer": 2,
+      "explain": "APGAR scores appearance or skin color, pulse, grimace or reflex response, activity or muscle tone, and respirations, each from 0 to 2, at 1 and 5 minutes after birth. Resuscitation is never delayed to obtain the score."
+    },
+    {
+      "id": "emt-treat-33",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (environmental emergencies, heat stroke)",
+      "q": "A runner on a hot day is confused and has hot skin. What is the priority?",
+      "options": [
+        "Oral fluids and rest in the shade only",
+        "Warm blankets to prevent shivering",
+        "Salt tablets with a sports drink",
+        "Rapid cooling and prompt transport"
+      ],
+      "answer": 3,
+      "explain": "Altered mental status with a high body temperature indicates heat stroke, a life-threatening emergency. Aggressive cooling starts at once, such as removing clothing, applying cold packs to the neck, armpits and groin, and wetting and fanning the skin. Oral fluids are unsafe in a confused patient."
+    },
+    {
+      "id": "emt-treat-34",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (environmental emergencies, hypothermia)",
+      "q": "Why should a patient with severe hypothermia be handled gently?",
+      "options": [
+        "Rough handling can warm the patient too quickly",
+        "Rough handling can trigger dangerous heart rhythms",
+        "Cold skin tears more easily than warm skin",
+        "Movement makes the patient start to shiver"
+      ],
+      "answer": 1,
+      "explain": "A very cold heart is irritable, and jostling can provoke ventricular fibrillation. The EMT moves the patient gently, removes wet clothing, insulates the patient and begins passive warming. Pulse checks may take longer because the pulse can be slow and weak."
+    },
+    {
+      "id": "emt-treat-35",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (environmental emergencies, frostbite)",
+      "q": "A patient has frostbite of the toes, and transport to the hospital will be short. What should you do?",
+      "options": [
+        "Rub the toes briskly with clean snow",
+        "Have the patient walk to warm them up",
+        "Protect the area and avoid rubbing it",
+        "Rewarm them close to a heater flame"
+      ],
+      "answer": 2,
+      "explain": "Rubbing frozen tissue causes more damage, and walking on frozen feet injures them further. Direct heat can burn numb skin. The area is protected with dry dressings, and rewarming is usually left to the hospital, especially if refreezing could occur."
+    },
+    {
+      "id": "emt-treat-36",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (environmental emergencies, drowning)",
+      "q": "A swimmer pulled from the water is unresponsive and not breathing but has a pulse. What is the priority?",
+      "options": [
+        "Give abdominal thrusts to drain water",
+        "Begin rescue breaths with a BVM",
+        "Wait for the patient to cough it up",
+        "Warm the patient before any breaths"
+      ],
+      "answer": 1,
+      "explain": "Drowning causes hypoxia, so restoring oxygen with ventilation is the priority. Abdominal thrusts to remove water are not recommended because they delay ventilation and risk vomiting. The patient is also protected from cold and transported."
+    },
+    {
+      "id": "emt-treat-37",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (environmental emergencies, snakebite)",
+      "q": "A hiker was bitten on the lower leg by a venomous snake. What is appropriate care?",
+      "options": [
+        "Apply ice packs over the bite site",
+        "Cut the bite and suck out the venom",
+        "Keep the patient calm and the limb still",
+        "Apply a tight tourniquet above it"
+      ],
+      "answer": 2,
+      "explain": "Keeping the patient calm and the limb immobilized slows the spread of venom. Jewelry and tight clothing are removed before swelling starts. Ice, cutting, suction and tourniquets cause more tissue damage and are not recommended. Transport to a facility with antivenom is key."
+    },
+    {
+      "id": "emt-treat-38",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (transport positioning, heart failure)",
+      "q": "A patient with heart failure is short of breath with crackles in both lungs. How should you transport the patient?",
+      "options": [
+        "Sitting upright",
+        "Flat on the back",
+        "Head lower than the feet",
+        "Face down on the stretcher"
+      ],
+      "answer": 0,
+      "explain": "Sitting upright lets fluid settle in the lower lungs and makes breathing easier. Lying flat worsens shortness of breath in heart failure. The patient's position of comfort is usually upright."
+    },
+    {
+      "id": "emt-treat-39",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (reassessment intervals)",
+      "q": "How often should you reassess vital signs in an unstable patient?",
+      "options": [
+        "About every 5 minutes",
+        "About every 15 minutes",
+        "About every 30 minutes",
+        "Only once during transport"
+      ],
+      "answer": 0,
+      "explain": "Unstable patients can change quickly, so vital signs and the primary assessment are repeated about every 5 minutes. Stable patients are reassessed about every 15 minutes. Any change in condition calls for immediate reassessment."
+    },
+    {
+      "id": "emt-treat-40",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (medications, oral glucose in a child)",
+      "q": "A 7-year-old with diabetes is unresponsive with a blood glucose of 38 mg/dL. Why should you not give oral glucose?",
+      "options": [
+        "Oral glucose is never used in children",
+        "The child cannot protect the airway",
+        "The level is not low enough to treat",
+        "Oral glucose raises sugar too quickly"
+      ],
+      "answer": 1,
+      "explain": "Oral glucose requires a patient who can swallow and protect the airway, and an unresponsive child could aspirate it. The EMT manages the airway, requests advanced life support if available and transports promptly. Oral glucose can be used in children who are awake and able to swallow."
+    },
+    {
+      "id": "emt-treat-41",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (eye injuries, chemical exposure)",
+      "q": "A patient splashed a cleaning chemical into both eyes. What should you do?",
+      "options": [
+        "Patch both eyes closed and transport",
+        "Rinse once quickly and then cover",
+        "Flush the eyes with water for a long time",
+        "Rub the eyes to remove the chemical"
+      ],
+      "answer": 2,
+      "explain": "Chemical eye injuries need immediate, continuous flushing with large amounts of clean water or saline, typically for at least 15 to 20 minutes and continued during transport. The water flows from the inner corner outward so it does not run into the other eye."
+    },
+    {
+      "id": "emt-treat-42",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (soft tissue injuries, impaled object)",
+      "q": "A patient has a metal rod impaled in the thigh. What should you do?",
+      "options": [
+        "Remove it and then apply direct pressure",
+        "Cut it flush with the surface of the skin",
+        "Twist it slightly to check how deep it is",
+        "Stabilize the object in place with bulky dressings"
+      ],
+      "answer": 3,
+      "explain": "Removing an impaled object can cause severe bleeding and more damage, so it is stabilized in place with bulky dressings. Exceptions include an object in the cheek that blocks the airway, or one that prevents CPR. Bleeding around the object is controlled with pressure."
+    },
+    {
+      "id": "emt-treat-43",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (soft tissue injuries, evisceration)",
+      "q": "A patient has abdominal organs protruding from a wound. How should you care for it?",
+      "options": [
+        "Cover with a moist sterile dressing, then an occlusive one",
+        "Push the organs gently back inside the abdomen",
+        "Cover with dry gauze and press down firmly",
+        "Rinse the organs with cold tap water first"
+      ],
+      "answer": 0,
+      "explain": "Eviscerated organs are covered with sterile dressings moistened with sterile saline, then with an occlusive layer to keep in moisture and heat. They are never pushed back in. Dry dressings stick to the organs and damage them."
+    },
+    {
+      "id": "emt-treat-44",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (soft tissue injuries, amputation)",
+      "q": "How should an amputated finger be prepared for transport?",
+      "options": [
+        "Placed directly in a cup of ice water",
+        "Wrapped in dry towels at room temperature",
+        "Wrapped in moist gauze, bagged and kept cool",
+        "Packed directly on dry ice to freeze it"
+      ],
+      "answer": 2,
+      "explain": "The part is wrapped in sterile gauze moistened as protocol directs, sealed in a plastic bag and kept cool without direct contact with ice, which can freeze and destroy tissue. It is transported with the patient."
+    },
+    {
+      "id": "emt-treat-45",
+      "exam": "emt",
+      "domain": "treat",
+      "ref": "NREMT EMT exam outline: Patient Treatment and Transport (bleeding, nosebleed)",
+      "q": "A patient has a nosebleed without any trauma. How should the patient be positioned?",
+      "options": [
+        "Sitting up, leaning forward, pinching the nostrils",
+        "Lying flat with the head tilted back",
+        "Sitting up with the head tilted back",
+        "Lying on the side with no pressure"
+      ],
+      "answer": 0,
+      "explain": "Leaning forward keeps blood from running down the throat, where it can be swallowed or aspirated and cause vomiting. Firmly pinching the soft part of the nose applies direct pressure. Tilting the head back hides ongoing bleeding."
+    },
+    {
+      "id": "emt-ops-01",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (consent, implied)",
+      "q": "An unresponsive adult is found after a fall. Under which type of consent do you provide care?",
+      "options": [
+        "Expressed consent",
+        "Informed refusal",
+        "Implied consent",
+        "Involuntary consent"
+      ],
+      "answer": 2,
+      "explain": "Implied consent assumes that a reasonable person who cannot respond would want lifesaving care. Expressed consent comes from a competent, alert adult who agrees to care. If the patient regains consciousness and is competent, he or she may then accept or refuse care."
+    },
+    {
+      "id": "emt-ops-02",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (consent, minors)",
+      "q": "A 10-year-old is seriously injured at school, and a parent cannot be reached right away. What should you do?",
+      "options": [
+        "Wait until a parent gives consent before treating",
+        "Have the child sign a consent form before treating",
+        "Refuse to treat until a guardian arrives on scene",
+        "Treat under implied consent and keep trying to reach a parent"
+      ],
+      "answer": 3,
+      "explain": "Minors generally cannot give legal consent, so consent comes from a parent or guardian. In an emergency when they cannot be reached, care is given under implied consent. Delaying treatment of a serious injury to obtain permission is not appropriate."
+    },
+    {
+      "id": "emt-ops-03",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (refusal of care)",
+      "q": "A competent adult with chest pain refuses transport. What should you do?",
+      "options": [
+        "Explain the risks and document the refusal",
+        "Transport the patient against his will",
+        "Leave right away without documenting",
+        "Have a family member sign for him"
+      ],
+      "answer": 0,
+      "explain": "A competent adult may refuse care after being informed of the risks, including death. The EMT tries to persuade, explains the risks, advises calling back, involves medical control per protocol and documents the refusal with signatures. Transporting a competent adult against his will can be battery."
+    },
+    {
+      "id": "emt-ops-04",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (abandonment)",
+      "q": "Which action by an EMT is an example of abandonment?",
+      "options": [
+        "Turning care over to a paramedic crew",
+        "Leaving a patient before care is transferred",
+        "Honoring a competent patient's refusal",
+        "Handing off care with a verbal report"
+      ],
+      "answer": 1,
+      "explain": "Abandonment is ending care once it has begun without making sure the patient is turned over to someone with equal or higher training. Transferring care to a paramedic or hospital staff with a report is appropriate."
+    },
+    {
+      "id": "emt-ops-05",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (HIPAA)",
+      "q": "Which disclosure of patient information is permitted under HIPAA?",
+      "options": [
+        "Giving a report to the receiving hospital",
+        "Telling a neighbor about the illness",
+        "Posting call details on social media",
+        "Discussing the patient with friends"
+      ],
+      "answer": 0,
+      "explain": "HIPAA allows protected health information to be shared for treatment, payment and health care operations, so reporting to the receiving hospital is permitted. Sharing details with neighbors, friends or online audiences violates patient privacy."
+    },
+    {
+      "id": "emt-ops-06",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (mandatory reporting, child abuse)",
+      "q": "A 4-year-old has bruises in different stages of healing, and the parent's story does not match the injuries. What should you do?",
+      "options": [
+        "Treat the child and report as required by law",
+        "Confront the parent about the abuse",
+        "Leave without treating to avoid conflict",
+        "Ignore it since there is no proof"
+      ],
+      "answer": 0,
+      "explain": "EMTs are mandated reporters of suspected child abuse in most states. Proof is not required, only reasonable suspicion. The EMT provides care, documents objective findings and reports to the proper authority without accusing the parent."
+    },
+    {
+      "id": "emt-ops-07",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (documentation, correcting errors)",
+      "q": "You made a mistake in a written patient care report. How should you correct it?",
+      "options": [
+        "Erase it completely and rewrite it",
+        "Cover it with correction fluid",
+        "Tear out the page and start over",
+        "Draw one line through it, then initial and date it"
+      ],
+      "answer": 3,
+      "explain": "A single line through the error keeps it readable and shows an honest correction, with initials and the date. Erasing or covering errors can suggest falsification. Electronic reports have their own amendment process."
+    },
+    {
+      "id": "emt-ops-08",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (documentation, falsification)",
+      "q": "An EMT forgot to give oxygen but writes in the report that it was given. What is this?",
+      "options": [
+        "An acceptable charting shortcut",
+        "A minor timing error",
+        "Falsification of the report",
+        "A permitted report summary"
+      ],
+      "answer": 2,
+      "explain": "Recording care that was not given is falsification, which can lead to legal action and loss of certification and can mislead the next caregivers. Omissions are documented honestly, along with what was actually done."
+    },
+    {
+      "id": "emt-ops-09",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (ambulance operations, emergency driving)",
+      "q": "When driving with lights and siren, what must the ambulance operator do?",
+      "options": [
+        "Drive with due regard for the safety of others",
+        "Pass through red lights at full speed",
+        "Assume other drivers will always yield",
+        "Disregard all posted speed limits"
+      ],
+      "answer": 0,
+      "explain": "Emergency vehicle laws allow certain exemptions, but the driver must still use due regard for the safety of others. Other drivers may not hear or see the ambulance, so the operator slows and stops as needed at intersections."
+    },
+    {
+      "id": "emt-ops-10",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (lifting and moving, body mechanics)",
+      "q": "Which technique helps an EMT lift a stretcher safely?",
+      "options": [
+        "Bend at the waist and lift with the back",
+        "Twist while lifting to save a step",
+        "Keep the feet together while lifting",
+        "Keep the back straight and lift with the legs"
+      ],
+      "answer": 3,
+      "explain": "The power lift uses a straight back, feet about shoulder width apart and the strong leg muscles to raise the load, keeping it close to the body. Bending at the waist or twisting puts heavy stress on the spine and causes injury."
+    },
+    {
+      "id": "emt-ops-11",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (lifting and moving, emergency moves)",
+      "q": "A patient is in a car that is on fire. Which move is appropriate?",
+      "options": [
+        "Full spinal immobilization before any movement",
+        "A standard stretcher transfer once fire is out",
+        "An emergency drag along the long axis of the body",
+        "Waiting for extrication tools to arrive first"
+      ],
+      "answer": 2,
+      "explain": "When there is immediate danger, such as fire, the patient is moved quickly with an emergency move, pulling along the long axis of the body to limit spinal movement. Spinal precautions do not delay removal from a life-threatening hazard."
+    },
+    {
+      "id": "emt-ops-12",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (lifting and moving, devices)",
+      "q": "A conscious patient with shortness of breath must be carried down a narrow staircase. Which device is best?",
+      "options": [
+        "A stair chair",
+        "A long backboard",
+        "A scoop stretcher",
+        "A basket stretcher"
+      ],
+      "answer": 0,
+      "explain": "A stair chair lets an alert patient sit upright, which eases breathing, and it is easy to carry on stairs. Lying a short-of-breath patient flat on a board or scoop worsens distress. Stair chairs are not used for unresponsive patients or suspected spinal injuries."
+    },
+    {
+      "id": "emt-ops-13",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (incident command, first arriving unit)",
+      "q": "At a mass casualty incident, what should the first arriving EMS unit do?",
+      "options": [
+        "Begin treating the closest patient",
+        "Establish command and size up the scene",
+        "Transport the most injured patient",
+        "Wait for a supervisor to arrive"
+      ],
+      "answer": 1,
+      "explain": "The first arriving unit establishes command, assesses the scene, requests resources and begins organizing triage. Treating or transporting the first patient seen delays the system that will help everyone."
+    },
+    {
+      "id": "emt-ops-14",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (incident command, MCI roles)",
+      "q": "Under the incident command system at a mass casualty incident, which role oversees sorting patients by priority?",
+      "options": [
+        "The transport officer",
+        "The staging officer",
+        "The public information officer",
+        "The triage officer"
+      ],
+      "answer": 3,
+      "explain": "The triage officer oversees rapid sorting and tagging of patients. The treatment officer manages care areas, the transport officer coordinates moving patients to hospitals, and the staging officer manages arriving units. The public information officer speaks with the media."
+    },
+    {
+      "id": "emt-ops-15",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (communication, medical direction orders)",
+      "q": "Medical control gives an order by radio to assist with a medication. What should the EMT do?",
+      "options": [
+        "Carry it out without replying",
+        "Ask the patient to approve it",
+        "Repeat the order back to confirm it",
+        "Write it down later from memory"
+      ],
+      "answer": 2,
+      "explain": "Repeating the order word for word, called echoing, confirms the drug, dose and route and catches errors. If an order seems unclear or inappropriate, the EMT asks for clarification before acting."
+    },
+    {
+      "id": "emt-ops-16",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (communication, radio report)",
+      "q": "Which information belongs in a radio report to the receiving hospital?",
+      "options": [
+        "Full home address and phone number",
+        "Chief complaint, vital signs and care given",
+        "Insurance details and billing codes",
+        "The EMT's opinion of the family"
+      ],
+      "answer": 1,
+      "explain": "A radio report is brief and gives the hospital what it needs to prepare: unit and level, age and sex, chief complaint, key findings, vital signs, care given, response to care and arrival time. Identifying details are limited on the radio for privacy."
+    },
+    {
+      "id": "emt-ops-17",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (advance directives)",
+      "q": "A patient in cardiac arrest at home has a valid, signed do not resuscitate order that meets local requirements. What should you do?",
+      "options": [
+        "Start CPR until the family agrees to stop",
+        "Ignore the order because it is not yours",
+        "Begin CPR and then call the physician",
+        "Honor the order and withhold resuscitation"
+      ],
+      "answer": 3,
+      "explain": "A valid do not resuscitate or out-of-hospital order that meets state and local requirements reflects the patient's wishes and is honored. The EMT confirms validity, supports the family and documents. If validity is in doubt, resuscitation is generally started per protocol."
+    },
+    {
+      "id": "emt-ops-18",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (legal concepts, negligence)",
+      "q": "To prove negligence against an EMT, what must be shown in addition to duty, breach of duty and damages?",
+      "options": [
+        "Intent to harm the patient",
+        "A written patient complaint",
+        "A statement from a witness",
+        "Causation linking the breach to the harm"
+      ],
+      "answer": 3,
+      "explain": "Negligence requires a duty to act, a breach of that duty, harm or damages, and causation showing that the breach caused the harm. Intent is not required for negligence. A complaint or a witness may be evidence but is not one of the elements."
+    },
+    {
+      "id": "emt-ops-19",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (infection control, equipment cleaning)",
+      "q": "After transporting a patient, the crew finds blood on the stretcher. What should they do?",
+      "options": [
+        "Clean and disinfect it per protocol",
+        "Wipe it with plain water only",
+        "Cover it with a clean sheet",
+        "Wait until end of shift to clean it"
+      ],
+      "answer": 0,
+      "explain": "Blood on equipment can transmit infection, so it is cleaned and disinfected with an approved product before the next patient. Covering contamination with a sheet does not remove the risk. Crews wear gloves while cleaning."
+    },
+    {
+      "id": "emt-ops-20",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (infection control, exposure response)",
+      "q": "An EMT is stuck by a used needle during a call. What should the EMT do first?",
+      "options": [
+        "Finish the shift, then report it",
+        "Wash the site with soap and water",
+        "Wait to see if symptoms develop",
+        "Pour bleach into the puncture"
+      ],
+      "answer": 1,
+      "explain": "After a needlestick, the site is washed with soap and water right away, and the exposure is reported promptly so testing and possible preventive treatment can begin within the recommended time. Caustic agents like bleach damage tissue and are not recommended."
+    },
+    {
+      "id": "emt-ops-21",
+      "exam": "emt",
+      "domain": "ops",
+      "ref": "NREMT EMT exam outline: Operations (ambulance operations, pediatric transport)",
+      "q": "How should a stable 3-year-old be secured for ambulance transport?",
+      "options": [
+        "On a parent's lap on the bench seat",
+        "In a child restraint secured to the stretcher",
+        "Unrestrained on the stretcher mattress",
+        "Standing beside a parent holding a rail"
+      ],
+      "answer": 1,
+      "explain": "Children are transported in a properly sized restraint system, such as a child restraint device secured to the stretcher. Holding a child on a lap is unsafe because an adult cannot hold a child in place during a crash or sudden stop."
+    }
+  ]
+}

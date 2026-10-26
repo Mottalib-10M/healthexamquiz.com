@@ -1,0 +1,16 @@
+---
+/**
+ * Folded standfirst (RECETTE §5, §21): ONE <p> in the HTML, whole, shown on three lines until the
+ * reader unfolds it with a checkbox (no JavaScript). Never a <details>: check-seo must find the
+ * 120-word block in the first 30 % of the page.
+ */
+import { t } from '../i18n/ui';
+import type { Locale } from '../i18n/routes';
+interface Props { text: string; id: string; lang: Locale; class?: string }
+const { text, id, lang, class: cls = '' } = Astro.props;
+---
+<div class={`clamp ${cls}`}>
+  <input type="checkbox" id={id} class="clamp-toggle" aria-label={t(lang).readMore} />
+  <p class="clamp-text text-navy-800"><Fragment set:html={text} /></p>
+  <label for={id} class="clamp-more">{t(lang).readMore}</label>
+</div>

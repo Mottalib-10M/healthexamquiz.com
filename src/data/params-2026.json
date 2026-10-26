@@ -1,0 +1,1134 @@
+{
+  "retrieved_at": "2026-10-26",
+  "valid_from": "2026-01-06",
+  "valid_to": "2027-06-30",
+  "source": "Exam pages, content outlines, test plans and candidate handbooks of the PTCB, the NHA, the AAMA, the NREMT, Credentia, Prometric, D&S Diversified Technologies and the state nurse aide programs; eCFR (42 CFR 483.152 and 483.154).",
+  "studyTarget": 0.8,
+  "exams": {
+    "cna": {
+      "label": "CNA",
+      "name": "Nurse aide written exam (NNAAP format)",
+      "owner": "Credentia (NNAAP) and state programs",
+      "vendor": "Credentia, Prometric, D&S Diversified Technologies (Headmaster) or another state vendor",
+      "items": 70,
+      "scored": 60,
+      "minutes": 120,
+      "scoring": "Pass or fail on each part; where a percentage is published it ranges from 70% to 75%",
+      "passText": "Official pass mark: set by each state program (70% to 75% where a vendor publishes it)",
+      "target": 0.8,
+      "fee": 0,
+      "domains": [
+        {
+          "code": "adl",
+          "name": "Activities of Daily Living",
+          "short": "Daily living",
+          "items": 15,
+          "share": 0.2167
+        },
+        {
+          "code": "bns",
+          "name": "Basic Nursing Skills",
+          "short": "Basic nursing skills",
+          "items": 24,
+          "share": 0.35
+        },
+        {
+          "code": "self",
+          "name": "Self-care and Independence",
+          "short": "Independence",
+          "items": 5,
+          "share": 0.0667
+        },
+        {
+          "code": "emo",
+          "name": "Emotional and Mental Health Needs",
+          "short": "Emotional health",
+          "items": 6,
+          "share": 0.0833
+        },
+        {
+          "code": "spi",
+          "name": "Spiritual and Cultural Needs",
+          "short": "Spiritual, cultural",
+          "items": 1,
+          "share": 0.0167
+        },
+        {
+          "code": "com",
+          "name": "Communication",
+          "short": "Communication",
+          "items": 5,
+          "share": 0.0667
+        },
+        {
+          "code": "rights",
+          "name": "Client Rights",
+          "short": "Client rights",
+          "items": 6,
+          "share": 0.0833
+        },
+        {
+          "code": "legal",
+          "name": "Legal and Ethical Behavior",
+          "short": "Legal, ethical",
+          "items": 4,
+          "share": 0.05
+        },
+        {
+          "code": "team",
+          "name": "Member of the Health Care Team",
+          "short": "Care team",
+          "items": 4,
+          "share": 0.0667
+        }
+      ]
+    },
+    "ptce": {
+      "label": "PTCE",
+      "name": "Pharmacy Technician Certification Exam (PTCB)",
+      "owner": "PTCB",
+      "vendor": "Pearson VUE",
+      "items": 90,
+      "scored": 80,
+      "minutes": 110,
+      "scoring": "Scaled score from 1,000 to 1,600; passing scaled score 1,400",
+      "passText": "Official pass: scaled score of 1,400 (scale 1,000 to 1,600)",
+      "target": 0.8,
+      "fee": 129,
+      "domains": [
+        {
+          "code": "med",
+          "name": "Medications",
+          "short": "Medications",
+          "items": 32,
+          "share": 0.35
+        },
+        {
+          "code": "fed",
+          "name": "Federal Requirements",
+          "short": "Federal requirements",
+          "items": 17,
+          "share": 0.1875
+        },
+        {
+          "code": "safe",
+          "name": "Patient Safety and Quality Assurance",
+          "short": "Safety and QA",
+          "items": 21,
+          "share": 0.2375
+        },
+        {
+          "code": "order",
+          "name": "Order Entry and Processing",
+          "short": "Order entry",
+          "items": 20,
+          "share": 0.225
+        }
+      ]
+    },
+    "excpt": {
+      "label": "ExCPT",
+      "name": "Exam for the Certification of Pharmacy Technicians (NHA)",
+      "owner": "NHA",
+      "vendor": "NHA (PSI test centers or live remote proctoring)",
+      "items": 120,
+      "scored": 100,
+      "minutes": 130,
+      "scoring": "Scaled score from 200 to 500; passing scaled score 390",
+      "passText": "Official pass: scaled score of 390 (scale 200 to 500)",
+      "target": 0.8,
+      "fee": 0,
+      "domains": [
+        {
+          "code": "role",
+          "name": "Role, Responsibilities and General Duties",
+          "short": "Role and duties",
+          "items": 18,
+          "share": 0.15
+        },
+        {
+          "code": "laws",
+          "name": "Laws",
+          "short": "Laws",
+          "items": 18,
+          "share": 0.15
+        },
+        {
+          "code": "drugs",
+          "name": "Drugs and Drug Therapy",
+          "short": "Drugs and therapy",
+          "items": 16,
+          "share": 0.13
+        },
+        {
+          "code": "disp",
+          "name": "Dispensing Process",
+          "short": "Dispensing",
+          "items": 52,
+          "share": 0.43
+        },
+        {
+          "code": "msqa",
+          "name": "Medication and Patient Safety and Quality Assurance",
+          "short": "Safety and QA",
+          "items": 16,
+          "share": 0.14
+        }
+      ]
+    },
+    "ccma": {
+      "label": "CCMA",
+      "name": "Certified Clinical Medical Assistant (NHA)",
+      "owner": "NHA",
+      "vendor": "NHA (PSI test centers or live remote proctoring)",
+      "items": 180,
+      "scored": 150,
+      "minutes": 180,
+      "scoring": "Scaled score from 200 to 500; passing scaled score 390",
+      "passText": "Official pass: scaled score of 390 (scale 200 to 500)",
+      "target": 0.8,
+      "fee": 0,
+      "domains": [
+        {
+          "code": "found",
+          "name": "Foundational Knowledge and Basic Science",
+          "short": "Foundational knowledge",
+          "items": 18,
+          "share": 0.1
+        },
+        {
+          "code": "ap",
+          "name": "Anatomy and Physiology",
+          "short": "Anatomy, physiology",
+          "items": 10,
+          "share": 0.0533
+        },
+        {
+          "code": "vitals",
+          "name": "Clinical Patient Care: Intake and Vitals",
+          "short": "Intake and vitals",
+          "items": 17,
+          "share": 0.0933
+        },
+        {
+          "code": "care",
+          "name": "Clinical Patient Care: General Patient Care",
+          "short": "General patient care",
+          "items": 35,
+          "share": 0.1867
+        },
+        {
+          "code": "infect",
+          "name": "Clinical Patient Care: Infection Control",
+          "short": "Infection control",
+          "items": 18,
+          "share": 0.1
+        },
+        {
+          "code": "poct",
+          "name": "Clinical Patient Care: Point-of-Care Testing and Laboratory",
+          "short": "POCT and lab",
+          "items": 11,
+          "share": 0.06
+        },
+        {
+          "code": "phleb",
+          "name": "Clinical Patient Care: Phlebotomy",
+          "short": "Phlebotomy",
+          "items": 14,
+          "share": 0.08
+        },
+        {
+          "code": "ekg",
+          "name": "Clinical Patient Care: EKG and Cardiovascular Testing",
+          "short": "EKG",
+          "items": 8,
+          "share": 0.04
+        },
+        {
+          "code": "coord",
+          "name": "Patient Care Coordination and Education",
+          "short": "Care coordination",
+          "items": 14,
+          "share": 0.08
+        },
+        {
+          "code": "admin",
+          "name": "Administrative Assisting",
+          "short": "Administrative",
+          "items": 14,
+          "share": 0.08
+        },
+        {
+          "code": "comm",
+          "name": "Communication and Customer Service",
+          "short": "Communication",
+          "items": 14,
+          "share": 0.08
+        },
+        {
+          "code": "law",
+          "name": "Medical Law and Ethics",
+          "short": "Law and ethics",
+          "items": 7,
+          "share": 0.0467
+        }
+      ]
+    },
+    "cma": {
+      "label": "CMA (AAMA)",
+      "name": "Certified Medical Assistant exam (AAMA)",
+      "owner": "AAMA",
+      "vendor": "Prometric",
+      "items": 200,
+      "scored": 180,
+      "minutes": 160,
+      "scoring": "Scaled score from 200 to 800; minimum passing score 405",
+      "passText": "Official pass: scaled score of 405 (scale 200 to 800)",
+      "target": 0.8,
+      "fee": 125,
+      "feeNonMember": 250,
+      "domains": [
+        {
+          "code": "clin",
+          "name": "Clinical Competency",
+          "short": "Clinical",
+          "items": 118,
+          "share": 0.59
+        },
+        {
+          "code": "gen",
+          "name": "General",
+          "short": "General",
+          "items": 42,
+          "share": 0.21
+        },
+        {
+          "code": "adm",
+          "name": "Administrative",
+          "short": "Administrative",
+          "items": 40,
+          "share": 0.2
+        }
+      ]
+    },
+    "cpt": {
+      "label": "CPT",
+      "name": "Certified Phlebotomy Technician (NHA)",
+      "owner": "NHA",
+      "vendor": "NHA (PSI test centers or live remote proctoring)",
+      "items": 120,
+      "scored": 100,
+      "minutes": 120,
+      "scoring": "Scaled score from 200 to 500; passing scaled score 390",
+      "passText": "Official pass: scaled score of 390 (scale 200 to 500)",
+      "target": 0.8,
+      "fee": 0,
+      "domains": [
+        {
+          "code": "safety",
+          "name": "Safety and Compliance",
+          "short": "Safety, compliance",
+          "items": 31,
+          "share": 0.26
+        },
+        {
+          "code": "prep",
+          "name": "Patient Preparation",
+          "short": "Patient preparation",
+          "items": 24,
+          "share": 0.2
+        },
+        {
+          "code": "routine",
+          "name": "Routine Blood Collections",
+          "short": "Routine collections",
+          "items": 34,
+          "share": 0.28
+        },
+        {
+          "code": "special",
+          "name": "Special Collections",
+          "short": "Special collections",
+          "items": 14,
+          "share": 0.12
+        },
+        {
+          "code": "process",
+          "name": "Processing",
+          "short": "Processing",
+          "items": 17,
+          "share": 0.14
+        }
+      ]
+    },
+    "cet": {
+      "label": "CET",
+      "name": "Certified EKG Technician (NHA)",
+      "owner": "NHA",
+      "vendor": "NHA (PSI test centers or live remote proctoring)",
+      "items": 120,
+      "scored": 100,
+      "minutes": 120,
+      "scoring": "Scaled score from 200 to 500; passing scaled score 390",
+      "passText": "Official pass: scaled score of 390 (scale 200 to 500)",
+      "target": 0.8,
+      "fee": 0,
+      "domains": [
+        {
+          "code": "safety",
+          "name": "Safety, Compliance and Coordinated Patient Care",
+          "short": "Safety, patient care",
+          "items": 38,
+          "share": 0.32
+        },
+        {
+          "code": "acq",
+          "name": "EKG Acquisition",
+          "short": "Acquisition",
+          "items": 53,
+          "share": 0.44
+        },
+        {
+          "code": "anal",
+          "name": "EKG Analysis and Interpretation",
+          "short": "Analysis",
+          "items": 29,
+          "share": 0.24
+        }
+      ]
+    },
+    "emt": {
+      "label": "NREMT EMT",
+      "name": "NREMT EMT cognitive exam",
+      "owner": "NREMT",
+      "vendor": "Pearson VUE (test center or OnVUE)",
+      "items": 120,
+      "itemsMin": 70,
+      "scored": 110,
+      "minutes": 120,
+      "scoring": "Computer adaptive, 70 to 120 items; scale 100 to 1,500, passing point 950",
+      "passText": "Official pass: 950 on a 100 to 1,500 scale, decided adaptively (70 to 120 items)",
+      "target": 0.8,
+      "fee": 104,
+      "domains": [
+        {
+          "code": "scene",
+          "name": "Scene Size-Up and Safety",
+          "short": "Scene size-up",
+          "items": 20,
+          "share": 0.17,
+          "range": "15% to 19%"
+        },
+        {
+          "code": "primary",
+          "name": "Primary Assessment",
+          "short": "Primary assessment",
+          "items": 50,
+          "share": 0.41,
+          "range": "39% to 43%"
+        },
+        {
+          "code": "secondary",
+          "name": "Secondary Assessment",
+          "short": "Secondary assessment",
+          "items": 8,
+          "share": 0.07,
+          "range": "5% to 9%"
+        },
+        {
+          "code": "treat",
+          "name": "Patient Treatment and Transport",
+          "short": "Treatment, transport",
+          "items": 28,
+          "share": 0.22,
+          "range": "20% to 24%"
+        },
+        {
+          "code": "ops",
+          "name": "Operations",
+          "short": "Operations",
+          "items": 14,
+          "share": 0.12,
+          "range": "10% to 14%"
+        }
+      ]
+    }
+  },
+  "rules": {
+    "ptce": {
+      "outlineEffective": "2026-01-06",
+      "retake": "No wait before the second and third attempts; six months before the fourth; after four attempts, PTCB-approved preparation must be shown",
+      "waits": [
+        0,
+        0,
+        180
+      ],
+      "eligibility": "A PTCB-recognized education or training program (or completion within 60 days of applying), or at least 500 hours of work experience as a pharmacy technician",
+      "renewYears": 2,
+      "renewCE": 20,
+      "renewFee": 55,
+      "workHours": 500
+    },
+    "nha": {
+      "retake": "30-day wait after a failed attempt; three attempts, then one year of waiting after each further failure",
+      "waitDays": 30,
+      "attempts": 3,
+      "longWaitDays": 365,
+      "eligibility": "High school diploma or equivalent, then a training program completed within the last five years or supervised work experience (one year within the last three years, or two years within the last five)",
+      "renewYears": 2,
+      "renewCredits": 10,
+      "renewFee": 195,
+      "pharmHours": 1200,
+      "cptVenipunctures": 30,
+      "cptCapillary": 10,
+      "cetEkgs": 10,
+      "ccmaLaunch": "2024-01-10",
+      "cptLaunch": "2026-01-07",
+      "cetNext": "Winter 2027/2028",
+      "pharmRenewCE": 20
+    },
+    "cma": {
+      "attempts": 6,
+      "withinMonths": 12,
+      "retake": "Six attempts within a 12-month period, with no required wait between attempts",
+      "eligibility": "Student or graduate of a medical assisting program accredited by CAAHEP or ABHES (other pathways: medical assisting instructor with 1,000 hours of teaching, recertifying CMA, or the Alternative Pathway)",
+      "renewMonths": 60,
+      "renewCEU": 60,
+      "renewFeeMember": 80,
+      "renewFeeNonMember": 160,
+      "nextOutline": "2027-07-01",
+      "nextShares": {
+        "clin": 0.65,
+        "gen": 0.2,
+        "adm": 0.15
+      }
+    },
+    "emt": {
+      "launched": "2025-04-07",
+      "attempts": 6,
+      "remedialAfter": 3,
+      "waitDays": 15,
+      "courseWithinYears": 2,
+      "renewYears": 2,
+      "renewFee": 29,
+      "renewFeeFrom": "2026-10-01",
+      "remedialHours": 20
+    },
+    "cnaFederal": {
+      "trainingHours": 75,
+      "clinicalHours": 16,
+      "preContactHours": 16,
+      "minAttempts": 3,
+      "lapseMonths": 24
+    },
+    "nnaap": {
+      "writtenItems": 70,
+      "writtenScored": 60,
+      "writtenMinutes": 120,
+      "oralItems": 60,
+      "oralWordItems": 10,
+      "skills": 5,
+      "skillsMinutes": 30,
+      "outlineEffective": "2024-10-01"
+    }
+  },
+  "cnaStates": [
+    {
+      "id": "ca",
+      "name": "California",
+      "vendors": [
+        {
+          "vendor": "Credentia (NNAAP)",
+          "written": 40,
+          "skills": 80,
+          "oral": 55,
+          "retakeWritten": 40,
+          "retakeSkills": 80,
+          "format": "NNAAP: 70 questions in 2 hours; 5 skills in 30 minutes",
+          "source": "credentia_fees"
+        },
+        {
+          "vendor": "D&S Diversified Technologies (Headmaster)",
+          "written": 40,
+          "skills": 100,
+          "oral": 45,
+          "retakeWritten": 40,
+          "retakeSkills": 100,
+          "format": "75 questions in 60 minutes, 75% to pass; 3 or 4 skill tasks in 30 minutes",
+          "source": "hdmaster_ca"
+        },
+        {
+          "vendor": "Regional Testing Center (Golden West College)",
+          "written": 40,
+          "skills": 80,
+          "oral": 55,
+          "retakeWritten": 40,
+          "retakeSkills": 80,
+          "format": "70 questions in 120 minutes, 70% to pass",
+          "source": "rtc_ca"
+        }
+      ],
+      "attempts": "Three attempts within two years of completing training",
+      "agency": "California Department of Public Health",
+      "stateSource": "cdph_cna"
+    },
+    {
+      "id": "tx",
+      "name": "Texas",
+      "vendors": [
+        {
+          "vendor": "Prometric",
+          "written": 33,
+          "skills": 92,
+          "oral": 33,
+          "retakeWritten": 33,
+          "retakeSkills": 92,
+          "format": "60 questions in 90 minutes; skills: five scored, three assigned plus handwashing and indirect care",
+          "source": "prometric_tx"
+        }
+      ],
+      "attempts": "Three attempts at each part within 24 months",
+      "agency": "Texas Health and Human Services Commission",
+      "stateSource": "hhsc_natcep"
+    },
+    {
+      "id": "fl",
+      "name": "Florida",
+      "vendors": [
+        {
+          "vendor": "Prometric",
+          "written": 35,
+          "skills": 120,
+          "oral": 35,
+          "retakeWritten": 35,
+          "retakeSkills": 120,
+          "format": "60 questions in 90 minutes (English or Spanish); skills: five scored, three assigned plus handwashing and indirect care, 31 to 40 minutes",
+          "source": "prometric_fl"
+        }
+      ],
+      "attempts": "Three attempts, then retraining (section 464.203(2), Florida Statutes); a candidate who finished an approved program within 6 months takes the written part only",
+      "agency": "Florida Board of Nursing",
+      "stateSource": "fl_bon"
+    },
+    {
+      "id": "ny",
+      "name": "New York",
+      "vendors": [
+        {
+          "vendor": "Prometric",
+          "written": null,
+          "skills": null,
+          "oral": null,
+          "retakeWritten": 57,
+          "retakeSkills": 68,
+          "bundle": 115,
+          "bundleOral": 135,
+          "format": "60 questions in 90 minutes; skills: five scored, three assigned plus handwashing and indirect care, 31 to 40 minutes",
+          "source": "prometric_ny"
+        }
+      ],
+      "attempts": "Three attempts at each part within two years",
+      "agency": "New York State Department of Health",
+      "stateSource": "nys_registry"
+    },
+    {
+      "id": "pa",
+      "name": "Pennsylvania",
+      "vendors": [
+        {
+          "vendor": "Credentia (NNAAP)",
+          "written": null,
+          "skills": null,
+          "oral": null,
+          "retakeWritten": 50,
+          "retakeSkills": 85,
+          "bundle": 135,
+          "format": "NNAAP: 70 questions in 2 hours; 5 skills in 30 minutes",
+          "source": "credentia_pa"
+        }
+      ],
+      "attempts": "Three attempts within two years of completing the training program",
+      "agency": "Pennsylvania Department of Health",
+      "stateSource": "pa_doh"
+    },
+    {
+      "id": "il",
+      "name": "Illinois",
+      "vendors": [
+        {
+          "vendor": "Southern Illinois University Carbondale (INACE)",
+          "written": null,
+          "skills": null,
+          "oral": null,
+          "retakeWritten": null,
+          "retakeSkills": null,
+          "format": "Written exam of 90 minutes (question count not published) and a skills exam, one fee per attempt",
+          "source": "siuc_il",
+          "bundle": 85,
+          "retakeBundle": 85
+        }
+      ],
+      "attempts": "Three attempts within 12 months of completing the program",
+      "agency": "Illinois Department of Public Health",
+      "stateSource": "idph_cna"
+    },
+    {
+      "id": "oh",
+      "name": "Ohio",
+      "vendors": [
+        {
+          "vendor": "D&S Diversified Technologies (Headmaster)",
+          "written": 30,
+          "skills": 90,
+          "oral": 40,
+          "retakeWritten": 30,
+          "retakeSkills": 90,
+          "format": "79 questions in 90 minutes, 70% to pass; 3 or 4 skill tasks in 35 minutes",
+          "source": "hdmaster_oh"
+        }
+      ],
+      "attempts": "Three attempts within two years",
+      "agency": "Ohio Department of Health",
+      "stateSource": "odh_na"
+    },
+    {
+      "id": "ga",
+      "name": "Georgia",
+      "vendors": [
+        {
+          "vendor": "Credentia (NNAAP)",
+          "written": 35,
+          "skills": 95,
+          "oral": 35,
+          "retakeWritten": 35,
+          "retakeSkills": 95,
+          "bundle": 130,
+          "format": "NNAAP: 70 questions; 5 skills in 30 minutes",
+          "source": "credentia_ga"
+        }
+      ],
+      "attempts": "Three attempts within one year of completing training",
+      "agency": "Georgia Nurse Aide Registry (Alliant Health Solutions)",
+      "stateSource": "credentia_ga"
+    },
+    {
+      "id": "nc",
+      "name": "North Carolina",
+      "vendors": [
+        {
+          "vendor": "Credentia (NNAAP)",
+          "written": 40,
+          "skills": 100,
+          "oral": 40,
+          "retakeWritten": 40,
+          "retakeSkills": 100,
+          "bundle": 140,
+          "format": "NNAAP: 70 questions in 2 hours; 5 skills in 30 minutes",
+          "source": "credentia_nc"
+        }
+      ],
+      "attempts": "Within two years of training or three attempts, whichever comes first",
+      "agency": "North Carolina Nurse Aide I Registry (NCDHHS)",
+      "stateSource": "nc_registry"
+    },
+    {
+      "id": "mi",
+      "name": "Michigan",
+      "vendors": [
+        {
+          "vendor": "D&S Diversified Technologies (Headmaster)",
+          "written": null,
+          "skills": null,
+          "oral": null,
+          "retakeWritten": 175,
+          "retakeSkills": 175,
+          "bundle": 175,
+          "format": "65 questions in 60 minutes, 74% to pass; 3 or 4 skill tasks in 30 minutes",
+          "source": "hdmaster_mi"
+        }
+      ],
+      "attempts": "Three attempts within 24 months",
+      "agency": "Michigan LARA Nurse Aide Registry",
+      "stateSource": "hdmaster_mi"
+    }
+  ],
+  "pharmMath": {
+    "tspMl": 5,
+    "tbspMl": 15,
+    "flozMl": 30,
+    "cupMl": 240,
+    "lbKg": 0.45359237,
+    "lbPerKg": 2.2,
+    "grainMg": 64.79891
+  },
+  "ekg": {
+    "adultRestMin": 60,
+    "adultRestMax": 100
+  },
+  "apgar": {
+    "normalMin": 7
+  },
+  "sources": {
+    "ptcb_cpht": {
+      "label": {
+        "en": "PTCB: Certified Pharmacy Technician (CPhT), PTCE format, fee and scoring"
+      },
+      "url": "https://www.ptcb.org/credentials/certified-pharmacy-technician"
+    },
+    "ptcb_outline": {
+      "label": {
+        "en": "PTCB: PTCE Content Outline effective January 6, 2026 (PDF)"
+      },
+      "url": "https://ptcb.org/wp-content/uploads/2025/07/PTCE-Content-Outline.pdf"
+    },
+    "ptcb_guidebook": {
+      "label": {
+        "en": "PTCB: Certification Guidebook (eligibility, retakes, recertification)"
+      },
+      "url": "https://myaccount.ptcb.org/guidebook/guidebook_sections?print=1"
+    },
+    "ptcb_renewal": {
+      "label": {
+        "en": "PTCB: renewal requirements and fees"
+      },
+      "url": "https://ptcb.org/renewal-requirements/"
+    },
+    "nha_excpt_plan": {
+      "label": {
+        "en": "NHA: ExCPT test plan, 2023 job analysis (PDF)"
+      },
+      "url": "https://info.nhanow.com/hubfs/Test%20Plans/2023%20ExCPT%20Test%20Plan.pdf"
+    },
+    "nha_cpt_plan": {
+      "label": {
+        "en": "NHA: CPT test plan, exam launched January 7, 2026 (PDF)"
+      },
+      "url": "https://info.nhanow.com/hubfs/Test%20Plans/nha-2025-cpt-test-plan.pdf"
+    },
+    "nha_cet_plan": {
+      "label": {
+        "en": "NHA: CET test plan, 2017 job analysis (PDF)"
+      },
+      "url": "https://info.nhanow.com/hubfs/Test%20Plans/nha_2017-cet-test-plan.pdf"
+    },
+    "nha_news": {
+      "label": {
+        "en": "NHA media center: certification exam updates"
+      },
+      "url": "https://info.nhanow.com/mediacenter/topic/certification-exams"
+    },
+    "nha_ccma_plan": {
+      "label": {
+        "en": "NHA: CCMA test plan, 2022 job analysis (PDF, archived copy of August 31, 2026)"
+      },
+      "url": "https://web.archive.org/web/20260831192904/https://www.nhanow.com/docs/default-source/test-plans/nha_ccma_test_plan_2022.pdf"
+    },
+    "nha_handbook": {
+      "label": {
+        "en": "NHA: candidate handbook, updated October 5, 2026 (archived copy of October 9, 2026)"
+      },
+      "url": "https://web.archive.org/web/20261009200317/https://www.nhanow.com/docs/default-source/test-plans/candidate_handbook.pdf?sfvrsn=523d64d7_39"
+    },
+    "nha_renew": {
+      "label": {
+        "en": "NHA: stay certified, renewal every two years (archived copy of October 12, 2026)"
+      },
+      "url": "https://web.archive.org/web/20261012033911/https://www.nhanow.com/stay-certified"
+    },
+    "aama_cert": {
+      "label": {
+        "en": "AAMA: CMA (AAMA) certification exam, segments, scoring and attempts"
+      },
+      "url": "https://www.aama-ntl.org/certification"
+    },
+    "aama_elig": {
+      "label": {
+        "en": "AAMA: eligibility and exam fees"
+      },
+      "url": "https://www.aama-ntl.org/certification/eligibility"
+    },
+    "aama_outline": {
+      "label": {
+        "en": "AAMA: CMA (AAMA) exam content outline in effect (PDF)"
+      },
+      "url": "https://www.aama-ntl.org/docs/default-source/about-profession-and-credential/cma-exam/exam-content-outline-effective.pdf"
+    },
+    "aama_outline_2027": {
+      "label": {
+        "en": "AAMA: content outline effective July 2027 (PDF)"
+      },
+      "url": "https://www.aama-ntl.org/docs/default-source/about-profession-and-credential/cma-%28aama%29-content-outline-effective-july-2027.pdf"
+    },
+    "aama_recert": {
+      "label": {
+        "en": "AAMA: recertification every 60 months"
+      },
+      "url": "https://www.aama-ntl.org/certification/recertification"
+    },
+    "nremt_exams": {
+      "label": {
+        "en": "NREMT: EMR and EMT certification examinations (format and domains)"
+      },
+      "url": "https://www.nremt.org/Pages/Examinations/EMR-and-EMT-Certification-Examinations"
+    },
+    "nremt_cognitive": {
+      "label": {
+        "en": "NREMT: EMT cognitive exam handbook (score, attempts, waiting period)"
+      },
+      "url": "https://www.nremt.org/Handbooks/EMT/Cognitive-Exam"
+    },
+    "nremt_fee": {
+      "label": {
+        "en": "NREMT: EMT full education program pathway and fees"
+      },
+      "url": "https://www.nremt.org/Document/EMT-Full-Education-Program"
+    },
+    "nremt_structure": {
+      "label": {
+        "en": "NREMT: how the computer adaptive exam is structured"
+      },
+      "url": "https://www.nremt.org/Handbooks/Certification-Examinations/Examinations-Structure"
+    },
+    "nremt_recert": {
+      "label": {
+        "en": "NREMT: EMT certification process and recertification"
+      },
+      "url": "https://www.nremt.org/Handbooks/EMT/Certification-Process"
+    },
+    "ecfr_483_152": {
+      "label": {
+        "en": "42 CFR 483.152: nurse aide training program requirements (eCFR)"
+      },
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-483/subpart-D/section-483.152"
+    },
+    "ecfr_483_154": {
+      "label": {
+        "en": "42 CFR 483.154: nurse aide competency evaluation (eCFR)"
+      },
+      "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-483/subpart-D/section-483.154"
+    },
+    "ncsbn_nnaap": {
+      "label": {
+        "en": "NCSBN: NNAAP and MACE now owned by Credentia"
+      },
+      "url": "https://www.ncsbn.org/nnaap-and-mace.htm"
+    },
+    "credentia_outline": {
+      "label": {
+        "en": "Credentia: 2024 NNAAP content outline (effective October 2024)"
+      },
+      "url": "https://kb-nc.credentia.com/en/article/the-2024-national-nurse-aide-assessment-program-nnaap-content-outline"
+    },
+    "credentia_written": {
+      "label": {
+        "en": "Credentia (Pennsylvania): the NNAAP written examination"
+      },
+      "url": "https://kb-pa.credentia.com/en/article/the-nnaap-written-examination"
+    },
+    "credentia_fees": {
+      "label": {
+        "en": "Credentia (California): NNAAP exam fees"
+      },
+      "url": "https://kb-nc.credentia.com/en/article/exam-fees"
+    },
+    "credentia_pa": {
+      "label": {
+        "en": "Credentia (Pennsylvania): quick reference, fees and attempts"
+      },
+      "url": "https://kb-pa.credentia.com/en/article/quick-reference"
+    },
+    "credentia_ga": {
+      "label": {
+        "en": "Credentia (Georgia): quick reference, fees and attempts"
+      },
+      "url": "https://kb-ga.credentia.com/en/article/quick-reference"
+    },
+    "credentia_nc": {
+      "label": {
+        "en": "Credentia (North Carolina): quick reference, fees and attempts"
+      },
+      "url": "https://kb-ncna.credentia.com/en/article/quick-reference-updated"
+    },
+    "credentia_testtakers": {
+      "label": {
+        "en": "Credentia: test taker pages by state"
+      },
+      "url": "https://credentia.com/test-takers"
+    },
+    "hdmaster_ca": {
+      "label": {
+        "en": "Headmaster: California candidate handbook, October 2026 (PDF)"
+      },
+      "url": "https://hdmaster.com/assets/ca-candidate-handbook-10.1.2026.pdf"
+    },
+    "hdmaster_oh": {
+      "label": {
+        "en": "Headmaster: Ohio candidate handbook (PDF)"
+      },
+      "url": "https://hdmaster.com/assets/oh-candidate-handbook-10.19.26.pdf"
+    },
+    "hdmaster_mi": {
+      "label": {
+        "en": "Headmaster: Michigan candidate handbook, July 2026 (PDF)"
+      },
+      "url": "https://hdmaster.com/assets/mi-candidate-handbook-10.19.26.pdf"
+    },
+    "rtc_ca": {
+      "label": {
+        "en": "Regional Testing Center, Golden West College: CNA examination handbook (PDF)"
+      },
+      "url": "https://www.goldenwestcollege.edu/Links/pdf/rtc/rtc-cna-examination-handbook.pdf"
+    },
+    "prometric_tx": {
+      "label": {
+        "en": "Prometric: Texas nurse aide candidate information bulletin (PDF)"
+      },
+      "url": "https://www.prometric.com/files/Nurse-Aide/TX-CNA-CIB.pdf"
+    },
+    "prometric_fl": {
+      "label": {
+        "en": "Prometric: Florida CNA candidate information bulletin (PDF)"
+      },
+      "url": "https://www.prometric.com/files/Nurse-Aide/FL-CNA-CIB.pdf"
+    },
+    "prometric_ny": {
+      "label": {
+        "en": "Prometric: New York nurse aide bulletin (PDF)"
+      },
+      "url": "https://www.prometric.com/files/Nurse-Aide/NY-NA-Bulletin.pdf"
+    },
+    "cdph_cna": {
+      "label": {
+        "en": "California Department of Public Health: CNA testing vendors"
+      },
+      "url": "https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/CNA-Testing-Vendors.aspx"
+    },
+    "hhsc_natcep": {
+      "label": {
+        "en": "Texas HHSC: Nurse Aide Training and Competency Evaluation Program"
+      },
+      "url": "https://www.hhs.texas.gov/business/licensing-credentialing-regulation/long-term-care-credentialing/nurse-aide-training-competency-evaluation-program-natcep"
+    },
+    "fl_bon": {
+      "label": {
+        "en": "Florida Board of Nursing: certified nursing assistant"
+      },
+      "url": "https://floridasnursing.gov/certified-nursing-assistant/"
+    },
+    "nys_registry": {
+      "label": {
+        "en": "New York State Department of Health: nurse aide registry"
+      },
+      "url": "https://www.health.ny.gov/health_care/consumer_information/nurse_aide_registry/using_the_nurse_aide_registry.htm"
+    },
+    "pa_doh": {
+      "label": {
+        "en": "Pennsylvania Department of Health: nurse aide"
+      },
+      "url": "https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide"
+    },
+    "idph_cna": {
+      "label": {
+        "en": "Illinois Department of Public Health: CNA facts"
+      },
+      "url": "https://dph.illinois.gov/topics-services/health-care-regulation/health-care-worker-registry/cna-facts.html"
+    },
+    "siuc_il": {
+      "label": {
+        "en": "Southern Illinois University Carbondale: Illinois nurse aide testing"
+      },
+      "url": "https://www.nurseaidetesting.com"
+    },
+    "odh_na": {
+      "label": {
+        "en": "Ohio Department of Health: nurse aide (NATCEP)"
+      },
+      "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/nurse-aide-training-and-competency-evaluation-program-natcep/nurse-aide/nurse-aide"
+    },
+    "nc_registry": {
+      "label": {
+        "en": "North Carolina Nurse Aide I Registry (NCDHHS)"
+      },
+      "url": "https://ncnar.ncdhhs.gov"
+    },
+    "cfr_101_9": {
+      "label": {
+        "en": "21 CFR 101.9(b)(5)(viii): teaspoon 5 mL, tablespoon 15 mL, cup 240 mL, fluid ounce 30 mL (eCFR)"
+      },
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9"
+    },
+    "nist_units": {
+      "label": {
+        "en": "NIST Handbook 44, Appendix C: general tables of units of measurement"
+      },
+      "url": "https://www.nist.gov/pml/owm/nist-handbook-44-current-edition"
+    },
+    "rxnorm": {
+      "label": {
+        "en": "RxNorm and RxClass APIs, US National Library of Medicine (drug names and FDA classes)"
+      },
+      "url": "https://lhncbc.nlm.nih.gov/RxNav/APIs/index.html"
+    },
+    "dailymed": {
+      "label": {
+        "en": "DailyMed, US National Library of Medicine: FDA drug labels"
+      },
+      "url": "https://dailymed.nlm.nih.gov/dailymed/"
+    },
+    "fda_ndc": {
+      "label": {
+        "en": "FDA: National Drug Code directory"
+      },
+      "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory"
+    },
+    "dea_schedules": {
+      "label": {
+        "en": "DEA Diversion Control: controlled substance schedules"
+      },
+      "url": "https://www.deadiversion.usdoj.gov/schedules/schedules.html"
+    },
+    "clsi_order": {
+      "label": {
+        "en": "CLSI: order of blood draw, tubes and additives (standard GP41)"
+      },
+      "url": "https://clsi.org/about/blog/order-of-blood-draw-tubes-and-additives/"
+    },
+    "medline_pulse": {
+      "label": {
+        "en": "MedlinePlus: pulse, normal resting heart rate by age"
+      },
+      "url": "https://medlineplus.gov/ency/article/003399.htm"
+    },
+    "medline_apgar": {
+      "label": {
+        "en": "MedlinePlus: Apgar score"
+      },
+      "url": "https://medlineplus.gov/ency/article/003402.htm"
+    },
+    "medline_ekg": {
+      "label": {
+        "en": "MedlinePlus: electrocardiogram"
+      },
+      "url": "https://medlineplus.gov/ency/article/003868.htm"
+    },
+    "cdc_hands": {
+      "label": {
+        "en": "CDC: hand hygiene in healthcare settings"
+      },
+      "url": "https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html"
+    },
+    "osha_bbp": {
+      "label": {
+        "en": "OSHA: bloodborne pathogens standard, 29 CFR 1910.1030"
+      },
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030"
+    },
+    "bls_occ": {
+      "label": {
+        "en": "BLS Occupational Outlook Handbook: healthcare support occupations"
+      },
+      "url": "https://www.bls.gov/ooh/healthcare/home.htm"
+    }
+  }
+}

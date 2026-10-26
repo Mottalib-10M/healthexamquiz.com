@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy of ${SITE_NAMES[lang]}: sources and corrections`} description="Which certifier, vendor and state documents US Health Exams relies on, how its practice questions are written, which sources it refuses and how a mistake is corrected and dated." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial and corrections policy</h1>
+    <p>People use these pages to decide when to sit an exam that costs between about a hundred and a few hundred dollars and that stands between them and a job. A stale fee, a wrong waiting period or a wrong answer costs them money or weeks, so every figure points to the official page it was read on, and every question to the outline point it trains.</p>
+    <h2>Who is responsible</h2><p>{AUTHOR_NAME}, reachable at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>What we read</h2>
+    <ul>
+      <li>the certifiers' own pages, content outlines, test plans and candidate handbooks: PTCB, NHA, AAMA and NREMT;</li>
+      <li>the nurse aide testing vendors' state handbooks (Credentia, Prometric, D&amp;S Diversified Technologies and others) and the state agencies that run each registry;</li>
+      <li>federal texts: 42 CFR 483.152 and 483.154 for nurse aide training and testing, 21 CFR 101.9 for household measures;</li>
+      <li>the National Library of Medicine (RxNorm, RxClass, DailyMed, MedlinePlus) for drug names, drug classes and the clinical reference values a tool uses.</li>
+    </ul>
+    <h2>How the questions are written</h2><p>Each question takes one topic of an official outline and asks about it in our own words, with four options, one right answer and an explanation. We never copy a question from a prep provider, a book, a flash-card site or a real exam, and we never present our questions as real exam questions.</p>
+    <h2>Sources we refuse</h2><p>Prep providers, schools, course sellers, forums and flash-card sites never supply a figure here. Pass rates are not published, because the certifiers do not publish current ones for every exam. A rule we cannot read on an official page is not published; when an official page could only be read in an archived copy, the page says so with the date of the copy.</p>
+    <h2>Health content</h2><p>The clinical facts on this site are exam content for future aides, technicians and EMTs. They are not medical advice, and no tool on this site should be used to dose a patient or interpret a real test.</p>
+    <h2>Review cycle</h2><p>Formats and fees are read again when a certifier publishes a new outline, a new handbook or new fees, and at least every three months. Announced changes are shown as coming, with their date, never as current.</p>
+    <h2>Corrections</h2>
+    <ol><li>We open the official page again.</li><li>We correct the parameter file or the question, and add an automated test for the case.</li><li>The site rebuilds and every page shows the new date.</li></ol>
+    <h2>Independence</h2><p>No certifier, vendor, school or publisher pays for or reviews what is published here, and the site carries no affiliate link. See also the <a href={route('method', lang)}>method page</a>. Version of <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-US')}</time>.</p>
+  </div>
+</PageLayout>

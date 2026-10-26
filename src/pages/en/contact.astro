@@ -1,0 +1,25 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'en';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: a fee, a question, an embed`} description="Write to US Health Exams when an exam fee or a retake rule looks out of date, when a practice question seems wrong, or to embed a free quiz on a school or library site." lang={lang} noindex={true} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>Email: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. A person reads every message.</p>
+    <h2>A fee or a rule looks out of date</h2>
+    <p>Name the exam and the rule and, if you have it, the page of the certifier, the test vendor or the state that says otherwise. We read the official page again, correct the parameter file and date the change.</p>
+    <h2>A practice question seems wrong</h2>
+    <p>Send the first words of the question. Each one names the outline point it was written from; if the answer is wrong, unclear or out of date, we rewrite or remove it.</p>
+    <h2>What we cannot do</h2>
+    <p>We are not the PTCB, the NHA, the AAMA, the NREMT, a state nurse aide registry or a test vendor. We cannot register you, move an appointment, read a score report or judge your eligibility. Please do not send a candidate number, a Social Security number, a score report or health information.</p>
+    <h2>Using a quiz on your own site</h2>
+    <p>Libraries, adult education centers and student clubs can show a quiz in an iframe at no cost: see the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>Updated on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-US')}</time>.</p>
+  </div>
+</PageLayout>

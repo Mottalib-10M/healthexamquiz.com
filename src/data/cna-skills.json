@@ -1,0 +1,209 @@
+{
+ "source": "Skill titles: NNAAP skills listing (Credentia, 2024 outline). Steps: written by Radif Partners in its own words from standard nurse aide practice; the evaluator's checklist in your state handbook is the reference on test day.",
+ "opening": [
+  "Knock, introduce yourself by name and title, and check the client's identity",
+  "Perform hand hygiene",
+  "Explain the procedure in plain words and give the client time to answer",
+  "Provide privacy with a curtain, screen or door"
+ ],
+ "closing": [
+  "Leave the call light or signal device within the client's reach",
+  "Leave the bed in its lowest position, with wheels locked",
+  "Perform hand hygiene",
+  "Report any change you noticed to the nurse"
+ ],
+ "skills": [
+  { "id": "hand-hygiene", "title": "Hand Hygiene (Hand Washing)", "always": true, "wrap": false, "steps": [
+   "Turn on the water and wet hands and wrists, fingertips pointing down",
+   "Apply soap to the hands",
+   "Lather all surfaces, between the fingers and around the nails, for at least 20 seconds",
+   "Keep the hands lower than the elbows the whole time",
+   "Rinse from the wrists down to the fingertips",
+   "Dry with a clean paper towel, from fingertips toward the wrists",
+   "Turn off the faucet with a clean, dry paper towel",
+   "Discard the towel without touching the waste container with your hands"
+  ] },
+  { "id": "elastic-stocking", "title": "Applies One Knee-High Elastic Stocking", "steps": [
+   "Have the client lying down before the stocking goes on",
+   "Turn the stocking inside out down to the heel",
+   "Slip the foot of the stocking over the toes, foot and heel",
+   "Pull the rest of the stocking up over the leg, smooth and without twists or wrinkles",
+   "Check that the heel sits in the heel of the stocking and the toe opening lies flat",
+   "Avoid force and keep the leg supported throughout"
+  ] },
+  { "id": "ambulate-belt", "title": "Assists to Ambulate Using Transfer Belt", "steps": [
+   "Lock the bed wheels and have the client put on nonskid footwear",
+   "Help the client sit on the edge of the bed with feet flat on the floor",
+   "Apply the transfer belt snugly at the waist, over clothing, with room for your fingers",
+   "Grip the belt from underneath with both hands and give a signal before standing",
+   "Help the client stand, then walk slightly behind and to the weaker side, holding the belt",
+   "Walk the agreed distance, then help the client back to bed or chair",
+   "Remove the transfer belt once the client is seated safely"
+  ] },
+  { "id": "bedpan", "title": "Assists With Use of Bedpan", "steps": [
+   "Put on gloves",
+   "Lower the head of the bed and position the client on the back",
+   "Place the bedpan correctly, wide end under the buttocks, by having the client raise the hips or roll",
+   "Raise the head of the bed so the client is in a sitting position",
+   "Leave tissue and the call light within reach and step out if the client is safe alone",
+   "Remove the bedpan, cover it, and help clean the perineal area front to back",
+   "Empty and rinse the bedpan into the toilet, and store it",
+   "Remove gloves and help the client wash the hands"
+  ] },
+  { "id": "denture", "title": "Cleans Upper or Lower Denture", "steps": [
+   "Put on gloves",
+   "Line the sink with a towel or washcloth to cushion the denture",
+   "Hold the denture over the sink while handling it",
+   "Brush all surfaces with a denture brush and denture cleanser or toothpaste",
+   "Rinse under cool running water",
+   "Place the denture in a clean cup with cool water or solution, or give it back to the client",
+   "Rinse and store the brush, then remove gloves"
+  ] },
+  { "id": "radial-pulse", "title": "Counts and Records Radial Pulse", "measure": true, "steps": [
+   "Place your fingertips on the thumb side of the inner wrist",
+   "Count the beats for one full minute",
+   "Record the pulse rate right away",
+   "Compare with the evaluator's count: it must fall within the margin your handbook allows"
+  ] },
+  { "id": "respirations", "title": "Counts and Records Respirations", "measure": true, "steps": [
+   "Count respirations while the client is unaware, for example while still holding the wrist after the pulse",
+   "Count one rise and fall of the chest as one respiration",
+   "Count for one full minute",
+   "Record the rate right away and compare with the evaluator's count"
+  ] },
+  { "id": "ppe", "title": "Donning and Removing PPE (Gown and Gloves)", "wrap": false, "steps": [
+   "Pick up the gown and unfold it, opening toward you",
+   "Put arms in the sleeves and tie the gown at the neck and the waist",
+   "Put on gloves, pulling the cuffs over the gown sleeves",
+   "To remove, take off the first glove by pinching it at the palm, then slide a bare finger inside the second",
+   "Untie the gown and pull it away from the neck and shoulders, touching only the inside",
+   "Turn the gown inside out as it comes off and roll it away from the body",
+   "Discard the gown and gloves in the proper container",
+   "Perform hand hygiene"
+  ] },
+  { "id": "dress-weak-arm", "title": "Dresses Client with Affected (Weak) Right Arm", "steps": [
+   "Ask the client which clothing to wear",
+   "Remove the gown from the strong side first, then from the weak side",
+   "Put the sleeve on the weak right arm first",
+   "Then put the sleeve on the strong left arm",
+   "Finish dressing with as little movement of the weak arm as possible",
+   "Leave the client comfortable and the clothing straight"
+  ] },
+  { "id": "feed", "title": "Feeds Client Who Cannot Feed Self", "steps": [
+   "Check the name on the tray against the client and the diet card",
+   "Position the client upright, at 75 to 90 degrees",
+   "Clean the client's hands before the meal",
+   "Sit at eye level facing the client",
+   "Offer small bites and sips, telling the client what each food is",
+   "Give the client time to chew and swallow before the next bite",
+   "Wipe the mouth and hands at the end",
+   "Record the share of food eaten and the fluid intake in mL"
+  ] },
+  { "id": "bed-bath", "title": "Gives Modified Bed Bath (Face and One Arm, Hand and Underarm)", "steps": [
+   "Remove or fold back the gown and cover the client with a bath blanket",
+   "Check the water temperature is comfortable and safe before use",
+   "Wash the eyes with water only, from the inner corner to the outer, a clean part of the cloth for each eye",
+   "Wash, rinse and dry the face",
+   "Place a towel under the arm and wash, rinse and dry the hand, arm and underarm",
+   "Put a clean gown on the client",
+   "Empty and rinse the basin and dispose of linens properly"
+  ] },
+  { "id": "bp-electronic", "title": "Measures and Records Electronic Blood Pressure", "measure": true, "state": "State specific", "steps": [
+   "Choose the right cuff size and wipe the cuff if the facility requires it",
+   "Have the client sit or lie with the arm supported at heart level",
+   "Place the cuff on the bare upper arm, with the artery mark over the brachial artery",
+   "Start the machine and ask the client to keep still and quiet",
+   "Read the systolic and diastolic values once the reading is complete",
+   "Remove the cuff and record the reading right away"
+  ] },
+  { "id": "urinary-output", "title": "Measures and Records Urinary Output", "measure": true, "steps": [
+   "Put on gloves",
+   "Pour the contents of the bedpan or collection device into a graduate",
+   "Set the graduate on a flat surface and read it at eye level",
+   "Empty the urine into the toilet and rinse the equipment",
+   "Remove gloves and perform hand hygiene",
+   "Record the amount in mL, within the margin your handbook allows"
+  ] },
+  { "id": "weight", "title": "Measures and Records Weight of Ambulatory Client", "measure": true, "steps": [
+   "Have the client wear nonskid footwear",
+   "Check that the scale reads zero before use",
+   "Help the client step onto the center of the scale",
+   "Read the weight once the client stands still without holding on",
+   "Help the client off the scale",
+   "Record the weight right away"
+  ] },
+  { "id": "prom-knee-ankle", "title": "Performs Modified Passive Range of Motion (PROM) for One Knee and One Ankle", "steps": [
+   "Position the client on the back, lying flat",
+   "Support the leg at the knee and the ankle",
+   "Bend the knee and hip, then straighten them, at least three times",
+   "Support the foot and ankle and push the foot up, then down, at least three times",
+   "Move each joint gently, without pain, and ask the client to report any discomfort"
+  ] },
+  { "id": "prom-shoulder", "title": "Performs Modified Passive Range of Motion (PROM) for One Shoulder", "steps": [
+   "Support the arm at the elbow and the wrist",
+   "Raise the straight arm up over the head and bring it back down, at least three times",
+   "Move the straight arm away from the side and back toward the body, at least three times",
+   "Move gently, stopping at any sign of pain, and ask the client to report discomfort"
+  ] },
+  { "id": "positions-side", "title": "Positions on Side", "steps": [
+   "Lower the head of the bed and raise the side rail on the side the client will turn toward",
+   "Move the client toward you, to the near side of the bed",
+   "Bend the client's knee and turn the client gently toward the raised rail",
+   "Place a pillow behind the back to support the position",
+   "Support the top arm and the top leg with pillows, with no limb pressing on another",
+   "Check that the head is supported and the body is aligned"
+  ] },
+  { "id": "catheter-care", "title": "Provides Catheter Care for Female", "steps": [
+   "Put on gloves and place a protective pad under the perineal area",
+   "Expose only the area around the catheter",
+   "Separate the labia and wash the area where the catheter enters, with soap and water",
+   "Hold the catheter near the meatus and wash at least four inches down the tubing, moving away from the body",
+   "Use a clean part of the cloth for each stroke, then rinse and dry the same way",
+   "Keep the drainage bag below the level of the bladder and the tubing free of kinks",
+   "Remove gloves and perform hand hygiene"
+  ] },
+  { "id": "foot-care", "title": "Provides Foot Care on One Foot", "steps": [
+   "Check the water temperature is safe before use",
+   "Place the basin on a protective barrier at the client's feet",
+   "Soak the foot in the water",
+   "Wash the entire foot, including between the toes, then rinse",
+   "Dry the foot thoroughly, especially between the toes",
+   "Apply lotion to the top and the bottom of the foot, not between the toes",
+   "Support the foot and ankle throughout"
+  ] },
+  { "id": "mouth-care", "title": "Provides Mouth Care", "steps": [
+   "Put on gloves and raise the head of the bed",
+   "Place a towel across the chest",
+   "Brush the teeth, the inner and outer surfaces, and the tongue gently",
+   "Have the client rinse and spit into an emesis basin",
+   "Wipe the mouth and remove the towel",
+   "Rinse and store the equipment, then remove gloves"
+  ] },
+  { "id": "perineal-care", "title": "Provides Perineal Care (Peri-Care) for Female", "steps": [
+   "Put on gloves and place a protective pad under the buttocks",
+   "Check the water temperature is safe before use",
+   "Wash the genital area from front to back, using a clean part of the washcloth for each stroke",
+   "Rinse and dry the area from front to back the same way",
+   "Turn the client and wash, rinse and dry the rectal area from front to back",
+   "Remove the pad, dispose of linens properly and remove gloves"
+  ] },
+  { "id": "bed-to-wheelchair", "title": "Transfers from Bed to Wheelchair Using Transfer Belt", "steps": [
+   "Place the wheelchair at the side of the bed, lock its brakes and lift or move the footrests",
+   "Lock the bed wheels and help the client put on nonskid footwear",
+   "Help the client sit on the edge of the bed with feet flat on the floor",
+   "Apply the transfer belt snugly at the waist over clothing",
+   "Grip the belt from underneath, block the client's knees if needed, and give a signal before standing",
+   "Help the client stand, pivot and sit down in the wheelchair",
+   "Remove the belt, position the feet on the footrests and check the client sits well back in the seat"
+  ] },
+  { "id": "bp-manual", "title": "Measures and Records Manual Blood Pressure", "measure": true, "state": "State specific", "steps": [
+   "Clean the earpieces and diaphragm of the stethoscope",
+   "Have the client's arm bare, supported and at heart level",
+   "Wrap the right size cuff on the upper arm, above the elbow",
+   "Locate the brachial pulse and place the diaphragm over it",
+   "Inflate the cuff to the level your handbook gives, then deflate it slowly and steadily",
+   "Note the first sound (systolic) and the point the sound disappears (diastolic)",
+   "Deflate the cuff fully, remove it, and record the reading within the allowed margin"
+  ] }
+ ]
+}

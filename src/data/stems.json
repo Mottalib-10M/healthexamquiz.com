@@ -1,0 +1,130 @@
+{
+ "source": "USAN Council approved stems (American Medical Association); classes checked against the FDA Established Pharmacologic Class of the drugs listed",
+ "stems": [
+  {
+   "stem": "-olol",
+   "cls": "Beta blockers",
+   "match": "beta-Adrenergic Blocker"
+  },
+  {
+   "stem": "-pril",
+   "cls": "ACE inhibitors",
+   "match": "Angiotensin Converting Enzyme Inhibitor"
+  },
+  {
+   "stem": "-sartan",
+   "cls": "Angiotensin II receptor blockers",
+   "match": "Angiotensin 2 Receptor Blocker"
+  },
+  {
+   "stem": "-vastatin",
+   "cls": "HMG-CoA reductase inhibitors (statins)",
+   "match": "HMG-CoA Reductase Inhibitor"
+  },
+  {
+   "stem": "-prazole",
+   "cls": "Proton pump inhibitors",
+   "match": "Proton Pump Inhibitor"
+  },
+  {
+   "stem": "-dipine",
+   "cls": "Dihydropyridine calcium channel blockers",
+   "match": "Calcium Channel Blocker"
+  },
+  {
+   "stem": "-tidine",
+   "cls": "H2 receptor antagonists",
+   "match": "Histamine-2 Receptor Antagonist"
+  },
+  {
+   "stem": "-gliptin",
+   "cls": "DPP-4 inhibitors",
+   "match": "Dipeptidyl Peptidase 4 Inhibitor"
+  },
+  {
+   "stem": "-gliflozin",
+   "cls": "SGLT2 inhibitors",
+   "match": "Sodium-Glucose Cotransporter 2 Inhibitor"
+  },
+  {
+   "stem": "-glutide",
+   "cls": "GLP-1 receptor agonists",
+   "match": "GLP-1 Receptor Agonist"
+  },
+  {
+   "stem": "-azepam / -azolam",
+   "cls": "Benzodiazepines",
+   "match": "Benzodiazepine"
+  },
+  {
+   "stem": "-floxacin",
+   "cls": "Fluoroquinolone antibiotics",
+   "match": "Fluoroquinolone Antibacterial"
+  },
+  {
+   "stem": "-cycline",
+   "cls": "Tetracycline antibiotics",
+   "match": "Tetracycline-class Drug"
+  },
+  {
+   "stem": "cef- / ceph-",
+   "cls": "Cephalosporin antibiotics",
+   "match": "Cephalosporin Antibacterial"
+  },
+  {
+   "stem": "-cillin",
+   "cls": "Penicillin antibiotics",
+   "match": "Penicillin-class Antibacterial"
+  },
+  {
+   "stem": "-conazole",
+   "cls": "Azole antifungals",
+   "match": "Azole Antifungal"
+  },
+  {
+   "stem": "-vir",
+   "cls": "Antivirals",
+   "match": ""
+  },
+  {
+   "stem": "-triptan",
+   "cls": "Serotonin 5-HT1B/1D agonists (migraine)",
+   "match": "Serotonin-1b and Serotonin-1d Receptor Agonist"
+  },
+  {
+   "stem": "-setron",
+   "cls": "Serotonin 5-HT3 antagonists (nausea)",
+   "match": "Serotonin-3 Receptor Antagonist"
+  },
+  {
+   "stem": "-lukast",
+   "cls": "Leukotriene receptor antagonists",
+   "match": "Leukotriene Receptor Antagonist"
+  },
+  {
+   "stem": "-terol",
+   "cls": "Beta-2 agonists (bronchodilators)",
+   "match": "beta2-Adrenergic Agonist"
+  },
+  {
+   "stem": "-sone / -olone",
+   "cls": "Corticosteroids",
+   "match": "Corticosteroid"
+  },
+  {
+   "stem": "-xaban",
+   "cls": "Factor Xa inhibitors",
+   "match": "Factor Xa Inhibitor"
+  },
+  {
+   "stem": "-dronate",
+   "cls": "Bisphosphonates",
+   "match": "Bisphosphonate"
+  },
+  {
+   "stem": "-osin",
+   "cls": "Alpha-1 blockers",
+   "match": "alpha-Adrenergic Blocker"
+  }
+ ]
+}

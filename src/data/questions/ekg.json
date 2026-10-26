@@ -1,0 +1,2459 @@
+{
+  "questions": [
+    {
+      "id": "ek-safety-01",
+      "exam": "cet",
+      "domain": "safety",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient identification)",
+      "q": "Before recording a 12-lead EKG, how does the technician confirm the patient's identity?",
+      "options": [
+        "Two identifiers checked against the order",
+        "The room number on the door",
+        "The name on the bed's whiteboard",
+        "Asking \"Are you Mr. Jones?\" and waiting for a yes"
+      ],
+      "answer": 0,
+      "explain": "Two patient-specific identifiers, such as full name and date of birth, are matched with the order and ID band. Room numbers and yes-or-no questions do not reliably identify a patient."
+    },
+    {
+      "id": "ek-safety-02",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient identification)",
+      "q": "The name on the EKG order does not match the patient's ID band. What should the technician do?",
+      "options": [
+        "Record it and fix the name later",
+        "Stop and clarify before recording",
+        "Use the name on the ID band only",
+        "Ask the patient which name is right"
+      ],
+      "answer": 1,
+      "explain": "A mismatch between the order and the ID band must be resolved with the nurse or ordering provider before testing, so the tracing is not filed under the wrong patient."
+    },
+    {
+      "id": "ek-safety-03",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (explaining the procedure)",
+      "q": "A patient asks whether the EKG machine will send electricity into his body. What is the best response?",
+      "options": [
+        "Yes, but the current is very small and safe",
+        "Only if the heart rhythm is abnormal",
+        "No, it only records the heart's own signals",
+        "Yes, which is why it may tingle"
+      ],
+      "answer": 2,
+      "explain": "An EKG is a passive recording of the electrical activity the heart produces. No current is delivered to the patient, which is a common worry worth addressing before the test."
+    },
+    {
+      "id": "ek-safety-04",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (explaining the procedure)",
+      "q": "Why does the technician explain the EKG procedure before starting?",
+      "options": [
+        "To meet the department time limit for the whole test",
+        "To ask the patient to interpret it",
+        "To ease anxiety and get the patient's cooperation",
+        "To avoid documenting the procedure"
+      ],
+      "answer": 2,
+      "explain": "Explaining what will happen reduces anxiety and muscle tension, which also reduces artifact, and gives the patient a chance to ask questions or decline."
+    },
+    {
+      "id": "ek-safety-05",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (privacy)",
+      "q": "How can the technician protect a patient's privacy during electrode placement?",
+      "options": [
+        "Leave the door open for others to see",
+        "Close the curtain and expose only what is needed",
+        "Remove the gown completely for the entire recording time",
+        "Ask visitors to stay and hold the gown"
+      ],
+      "answer": 1,
+      "explain": "Closing the door or curtain and draping so that only the needed areas are exposed protects dignity. Visitors may stay only if the patient wishes."
+    },
+    {
+      "id": "ek-safety-06",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (privacy)",
+      "q": "When placing chest electrodes on a female patient, how can modesty be preserved?",
+      "options": [
+        "Ask her to remove all upper clothing for the test",
+        "Keep her draped and uncover only as needed",
+        "Place the chest leads over the gown",
+        "Skip V4 through V6 if she is shy"
+      ],
+      "answer": 1,
+      "explain": "The patient stays draped and only the needed area is uncovered briefly; electrodes are placed on the skin, not over clothing. Leads cannot be skipped to save time or embarrassment."
+    },
+    {
+      "id": "ek-safety-07",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (infection control)",
+      "q": "When should the technician perform hand hygiene during an EKG?",
+      "options": [
+        "Only after removing the electrodes at the end",
+        "Before and after contact with each patient",
+        "Only if the patient looks ill",
+        "Only at the start of each shift"
+      ],
+      "answer": 1,
+      "explain": "Hand hygiene is performed before and after patient contact and after removing gloves, as part of standard precautions. Infection is not always visible, so appearance does not matter."
+    },
+    {
+      "id": "ek-safety-08",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (infection control)",
+      "q": "How should EKG lead wires and cables be handled between patients?",
+      "options": [
+        "Clean them with an approved disinfectant",
+        "Wipe them with a dry paper towel from the sink",
+        "Rinse them under running tap water",
+        "Clean them once a month only"
+      ],
+      "answer": 0,
+      "explain": "Reusable lead wires contact patients' skin and can carry organisms, so they are cleaned with a facility-approved disinfectant between patients, following the manufacturer's guidance."
+    },
+    {
+      "id": "ek-safety-09",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (infection control)",
+      "q": "What is done with disposable EKG electrodes after the test?",
+      "options": [
+        "Store them for the next patient",
+        "Discard them per facility policy",
+        "Return them to the open package",
+        "Rinse them for later reuse"
+      ],
+      "answer": 1,
+      "explain": "Disposable electrodes are single use. Reusing them risks infection and poor contact from used gel, which can also cause artifact."
+    },
+    {
+      "id": "ek-safety-10",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (transmission-based precautions)",
+      "q": "An EKG is ordered for a patient on contact precautions. What should the technician do?",
+      "options": [
+        "Wear no PPE because the test is brief and noninvasive",
+        "Wear gown and gloves and disinfect equipment after",
+        "Wear a mask only and skip disinfection",
+        "Ask the patient to come to the hallway"
+      ],
+      "answer": 1,
+      "explain": "Contact precautions require a gown and gloves on entry. The machine and cables are disinfected after use, or dedicated equipment is used, to avoid spreading organisms to other patients."
+    },
+    {
+      "id": "ek-safety-11",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient distress)",
+      "q": "During a resting EKG, the patient reports new chest pain. What should the technician do?",
+      "options": [
+        "Stay with the patient and alert the nurse or provider",
+        "Finish the full test first and mention the pain at the end",
+        "Tell the patient to stay still and stop talking",
+        "Leave the room to look for a chair"
+      ],
+      "answer": 0,
+      "explain": "New chest pain may signal a cardiac emergency. The technician stays with the patient, gets help immediately, and may be asked to record or repeat a tracing during the pain."
+    },
+    {
+      "id": "ek-safety-12",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient distress)",
+      "q": "A patient becomes unresponsive during an EKG and has no pulse. What should the technician do?",
+      "options": [
+        "Finish the tracing first",
+        "Go to find the ordering provider",
+        "Remove all electrodes and wait",
+        "Call a code and begin CPR"
+      ],
+      "answer": 3,
+      "explain": "An unresponsive patient without a pulse is in cardiac arrest. The technician activates the emergency response and starts CPR right away, using an AED as soon as one arrives."
+    },
+    {
+      "id": "ek-safety-13",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (reporting critical findings)",
+      "q": "The technician sees a rhythm that looks like ventricular tachycardia on a responsive patient's tracing. What is the correct action?",
+      "options": [
+        "Print it and place it in the provider inbox for later",
+        "Notify the licensed provider or nurse at once",
+        "Tell the patient the rhythm is dangerous",
+        "Repeat the test tomorrow morning"
+      ],
+      "answer": 1,
+      "explain": "Potentially life-threatening rhythms are reported immediately to the licensed provider or nurse, following facility protocol, while the technician stays with the patient. Technicians do not interpret results for patients."
+    },
+    {
+      "id": "ek-safety-14",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (reporting critical findings)",
+      "q": "After notifying the nurse about an abnormal tracing, what should the technician document?",
+      "options": [
+        "Who was notified, when and what was reported",
+        "Only that the tracing looked bad",
+        "Nothing, since the nurse was told",
+        "The technician's diagnosis of the rhythm"
+      ],
+      "answer": 0,
+      "explain": "Documentation of critical communication includes the name of the person notified, the time and the information given. This creates a record that the finding was acted on."
+    },
+    {
+      "id": "ek-safety-15",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (scope of practice)",
+      "q": "After the EKG, the patient asks, \"Is my heart OK?\" What is the best response?",
+      "options": [
+        "The provider will review it and talk with you",
+        "Your heart looks perfectly normal to me",
+        "You definitely had a heart attack before",
+        "I am not allowed to tell you anything about it ever"
+      ],
+      "answer": 0,
+      "explain": "Interpreting results and giving a diagnosis are the provider's role. The technician explains that the provider will review the tracing and discuss it, without being dismissive."
+    },
+    {
+      "id": "ek-safety-16",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (equipment safety)",
+      "q": "The technician notices the EKG machine's power cord is frayed. What should be done?",
+      "options": [
+        "Wrap the cord in tape and keep using it",
+        "Take it out of service and report it",
+        "Use it only for short tracings today",
+        "Unplug it while recording to be safe"
+      ],
+      "answer": 1,
+      "explain": "Damaged cords create shock and fire hazards. The equipment is tagged out of service and reported according to facility policy for biomedical repair."
+    },
+    {
+      "id": "ek-safety-17",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (equipment safety)",
+      "q": "Which practice supports electrical safety when using an EKG machine plugged into the wall?",
+      "options": [
+        "Use a household extension cord",
+        "Remove the ground prong if it does not fit",
+        "Use a properly grounded three-prong outlet",
+        "Plug in with wet hands to save time"
+      ],
+      "answer": 2,
+      "explain": "Properly grounded hospital-grade outlets reduce shock risk and electrical interference. Extension cords, missing ground prongs and wet hands all increase hazards."
+    },
+    {
+      "id": "ek-safety-18",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (HIPAA)",
+      "q": "A completed EKG tracing is left on a counter in a public hallway. What is the problem?",
+      "options": [
+        "It may fade under the hallway lights",
+        "It is too early to give to the provider",
+        "It may be filed in the wrong order",
+        "It exposes protected health information"
+      ],
+      "answer": 3,
+      "explain": "EKG tracings carry patient identifiers and health information, so they must be kept secure and delivered only to authorized staff. Leaving them in public areas is a privacy violation."
+    },
+    {
+      "id": "ek-safety-19",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (HIPAA)",
+      "q": "A visitor in the hallway asks the technician what a patient's EKG showed. What should the technician do?",
+      "options": [
+        "Share the result if the visitor is family",
+        "Share the rhythm name but not the details",
+        "Show the tracing quickly without comment",
+        "Decline and refer questions to the care team"
+      ],
+      "answer": 3,
+      "explain": "Health information is shared only with people the patient has authorized, through the appropriate care team. The technician does not discuss results with visitors."
+    },
+    {
+      "id": "ek-safety-20",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (HIPAA)",
+      "q": "Which practice protects electronic EKG records?",
+      "options": [
+        "Sharing a password among the night shift",
+        "Logging out of the EKG cart after each use",
+        "Saving tracings to a personal flash drive",
+        "Taking phone photos of tracings for review"
+      ],
+      "answer": 1,
+      "explain": "Unique logins, logging out and storing tracings only in approved systems protect electronic health information. Shared passwords and personal devices break security rules."
+    },
+    {
+      "id": "ek-safety-21",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (documentation)",
+      "q": "Which information should appear on every EKG tracing?",
+      "options": [
+        "Only the date the test was performed",
+        "Only the room number and bed letter",
+        "The technician's personal phone number",
+        "Patient name, identifier, date and time"
+      ],
+      "answer": 3,
+      "explain": "Each tracing must be clearly identified with the patient's name and identifier and the date and time, so it can be compared with earlier tracings and filed correctly."
+    },
+    {
+      "id": "ek-safety-22",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (coordinated patient care)",
+      "q": "For a patient with suspected acute coronary syndrome arriving at the emergency department, within about how long is a 12-lead EKG commonly expected?",
+      "options": [
+        "2 hours",
+        "10 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "answer": 1,
+      "explain": "Guidelines call for a 12-lead EKG within about 10 minutes of arrival for patients with symptoms suggesting acute coronary syndrome, so treatment for a heart attack is not delayed."
+    },
+    {
+      "id": "ek-safety-23",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (coordinated patient care)",
+      "q": "A stat EKG is ordered. What does stat mean?",
+      "options": [
+        "Perform it within the shift",
+        "Perform it immediately",
+        "Perform it the next morning",
+        "Perform it when convenient"
+      ],
+      "answer": 1,
+      "explain": "Stat means immediately. Stat EKGs are prioritized over routine orders because they are usually ordered for urgent problems such as chest pain."
+    },
+    {
+      "id": "ek-safety-24",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (coordinated patient care)",
+      "q": "A patient has a pacemaker. Why should this be noted with the EKG?",
+      "options": [
+        "Pacemakers stop the EKG machine",
+        "The test must be canceled for the patient's safety",
+        "Only lead aVR can be recorded",
+        "The device changes how the tracing looks"
+      ],
+      "answer": 3,
+      "explain": "Paced beats show pacemaker spikes and often wide QRS complexes, so noting the device helps the reader interpret the tracing correctly. A pacemaker is not a reason to cancel an EKG."
+    },
+    {
+      "id": "ek-safety-25",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (coordinated patient care)",
+      "q": "Why is it helpful to note certain cardiac medications, such as digoxin, when an EKG is recorded?",
+      "options": [
+        "Medications make electrodes stick poorly",
+        "Some drugs can change the tracing",
+        "The machine needs the dose to print",
+        "Patients on them cannot have an EKG"
+      ],
+      "answer": 1,
+      "explain": "Several drugs affect heart rate, intervals and ST segments, so noting them per facility policy helps the provider interpret the tracing. They do not prevent the test."
+    },
+    {
+      "id": "ek-safety-26",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient safety)",
+      "q": "An older patient is unsteady getting onto the exam table for an EKG. What should the technician do?",
+      "options": [
+        "Let the patient climb up alone",
+        "Record the EKG with the patient standing",
+        "Help the patient and use a step stool",
+        "Ask a visitor to lift the patient"
+      ],
+      "answer": 2,
+      "explain": "Fall prevention includes assisting unsteady patients, using a stable step and locking the table or bed. If the patient cannot get onto the table, the EKG can be recorded in a chair or bed."
+    },
+    {
+      "id": "ek-safety-27",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient safety)",
+      "q": "A patient arrives in a wheelchair for an EKG. What is done before helping the patient transfer?",
+      "options": [
+        "Remove both armrests",
+        "Tilt the wheelchair back",
+        "Unlock the exam table",
+        "Lock the wheelchair brakes"
+      ],
+      "answer": 3,
+      "explain": "Locking the brakes keeps the wheelchair from rolling during the transfer, preventing falls. The table or bed is also kept locked and at a safe height."
+    },
+    {
+      "id": "ek-safety-28",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient safety)",
+      "q": "A patient reports a latex allergy before an EKG. What should the technician do?",
+      "options": [
+        "Proceed because EKGs never use latex",
+        "Ask the patient to wear long sleeves",
+        "Use latex-free gloves and supplies",
+        "Reschedule the test for another day"
+      ],
+      "answer": 2,
+      "explain": "Some gloves, tourniquets and supplies contain latex. The technician uses latex-free products and follows facility allergy procedures; the EKG itself can proceed."
+    },
+    {
+      "id": "ek-safety-29",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient distress)",
+      "q": "During setup, a patient becomes pale, sweaty and dizzy while sitting up. What should the technician do first?",
+      "options": [
+        "Ask the patient to stand up and walk it off slowly",
+        "Give the patient a cup of hot coffee",
+        "Leave to find a blood pressure cuff",
+        "Help the patient lie down and call for help"
+      ],
+      "answer": 3,
+      "explain": "Lying the patient down protects against a fall from fainting, and summoning help gets a clinician to assess the cause. The technician stays with the patient."
+    },
+    {
+      "id": "ek-safety-30",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (communication)",
+      "q": "A patient is deaf and reads lips. How should the technician explain the EKG?",
+      "options": [
+        "Shout the instructions from behind",
+        "Face the patient and speak clearly",
+        "Explain only to the patient's visitor",
+        "Skip the explanation entirely"
+      ],
+      "answer": 1,
+      "explain": "Facing the patient in good light and speaking clearly at a normal pace helps lip reading; written notes or an interpreter can also be used. Shouting distorts lip movements."
+    },
+    {
+      "id": "ek-safety-31",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (communication)",
+      "q": "A patient speaks only Spanish and the technician does not. What is the best way to explain the EKG?",
+      "options": [
+        "Use hand signals and proceed",
+        "Use a qualified medical interpreter",
+        "Ask another patient to translate",
+        "Proceed without any explanation"
+      ],
+      "answer": 1,
+      "explain": "A qualified interpreter, in person, by phone or video, lets the patient understand and agree to the test. Other patients cannot be used as interpreters because of privacy and accuracy concerns."
+    },
+    {
+      "id": "ek-safety-32",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (communication)",
+      "q": "A young child is frightened before an EKG. Which approach is best?",
+      "options": [
+        "Hold the child down without explaining",
+        "Tell the child the test will hurt a lot",
+        "Send the parent out of the room first",
+        "Explain simply and let a parent stay close"
+      ],
+      "answer": 3,
+      "explain": "Simple honest explanations, letting the child see or touch an electrode and keeping a parent nearby reduce fear and movement artifact."
+    },
+    {
+      "id": "ek-safety-33",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient distress)",
+      "q": "A patient is very anxious and the heart rate is fast on the monitor before the EKG. What can the technician do?",
+      "options": [
+        "Reassure and help the patient relax",
+        "Tell the patient to hold the breath",
+        "Record quickly before explaining",
+        "Ask the patient to tense the arms"
+      ],
+      "answer": 0,
+      "explain": "Explaining the test, keeping the patient warm and covered and encouraging slow, normal breathing helps the patient relax, which also reduces muscle artifact."
+    },
+    {
+      "id": "ek-safety-34",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (consent)",
+      "q": "A patient refuses an ordered EKG after it is explained. What should the technician do?",
+      "options": [
+        "Perform the EKG anyway because the provider ordered it",
+        "Ask a family member to sign for the patient",
+        "Hold the patient's arms to place the leads",
+        "Respect the refusal and notify the nurse or provider"
+      ],
+      "answer": 3,
+      "explain": "Competent patients may refuse procedures. The technician does not proceed, informs the nurse or provider so they can discuss it, and documents the refusal per policy."
+    },
+    {
+      "id": "ek-safety-35",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (consent)",
+      "q": "How does a patient usually give consent for a routine EKG?",
+      "options": [
+        "A separate written surgical consent form signed by a witness",
+        "Implied consent by cooperating after an explanation",
+        "A court order from a judge",
+        "Permission from the hospital administrator"
+      ],
+      "answer": 1,
+      "explain": "For routine, noninvasive procedures, consent is usually implied when the patient cooperates after the procedure is explained. The patient can withdraw that consent at any time."
+    },
+    {
+      "id": "ek-safety-36",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (telemetry)",
+      "q": "A telemetry monitor alarms for a dangerous rhythm. What should be checked first?",
+      "options": [
+        "The patient",
+        "The battery",
+        "The printer",
+        "The lead wire color"
+      ],
+      "answer": 0,
+      "explain": "Alarms are first answered by looking at the patient, because the rhythm may be real. Only after the patient is assessed are leads, batteries and connections checked for artifact."
+    },
+    {
+      "id": "ek-safety-37",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (telemetry)",
+      "q": "Why should telemetry alarms never be turned off or silenced without following policy?",
+      "options": [
+        "Alarms help the monitor save battery",
+        "The alarm sound calibrates the leads",
+        "Silencing erases the stored tracing",
+        "A real emergency could be missed"
+      ],
+      "answer": 3,
+      "explain": "Disabled or ignored alarms can lead to missed life-threatening rhythms. Alarm limits are set and changed only according to facility policy and orders."
+    },
+    {
+      "id": "ek-safety-38",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (stress testing)",
+      "q": "Why must emergency equipment be readily available during an exercise stress test?",
+      "options": [
+        "The treadmill often loses power during testing",
+        "Exercise can trigger ischemia or arrhythmias",
+        "Patients always faint after exercise",
+        "The test requires an injection"
+      ],
+      "answer": 1,
+      "explain": "Stress testing deliberately increases cardiac workload, which can provoke chest pain, ischemia or dangerous rhythms. A defibrillator, emergency medications and trained staff are kept ready."
+    },
+    {
+      "id": "ek-safety-39",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (stress testing)",
+      "q": "During a treadmill stress test, the patient reports severe chest pain and dizziness. What should the technician do?",
+      "options": [
+        "Encourage the patient to keep walking",
+        "Increase the speed to finish sooner",
+        "Alert the supervising provider immediately",
+        "Note it and review it after the test"
+      ],
+      "answer": 2,
+      "explain": "Severe chest pain or dizziness are warning signs, and the supervising provider decides on stopping the test, which is usually done. The technician reports symptoms immediately and keeps monitoring."
+    },
+    {
+      "id": "ek-safety-40",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (infection control)",
+      "q": "A disposable razor was used to remove chest hair before electrode placement. How is it discarded?",
+      "options": [
+        "In a sharps container",
+        "In the regular trash can",
+        "In the paper recycling bin",
+        "In the patient's bedside drawer"
+      ],
+      "answer": 0,
+      "explain": "Razors are sharps and go into a puncture-resistant sharps container. Many facilities prefer clippers, which lower the risk of nicks."
+    },
+    {
+      "id": "ek-safety-41",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (compliance)",
+      "q": "The technician is unsure whether an order is for a 12-lead EKG or a rhythm strip. What should be done?",
+      "options": [
+        "Record whichever test is faster to finish on the unit",
+        "Clarify the order with the nurse or provider",
+        "Record both and bill for both",
+        "Ask the patient which one to do"
+      ],
+      "answer": 1,
+      "explain": "When an order is unclear, the technician clarifies it before performing the test. Guessing may lead to the wrong test and delayed care."
+    },
+    {
+      "id": "ek-safety-42",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (compliance)",
+      "q": "A technician wants to share an interesting EKG tracing on social media with the name removed. What is the concern?",
+      "options": [
+        "EKGs are public records that anyone may post online",
+        "It is fine if the hospital is named",
+        "Other details may still identify the patient",
+        "It is fine if posted after hours only"
+      ],
+      "answer": 2,
+      "explain": "Even without a name, dates, locations or unusual details may identify a patient, and posting patient information without authorization violates policy and privacy law."
+    },
+    {
+      "id": "ek-safety-43",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (abuse and neglect)",
+      "q": "During electrode placement, the technician notices bruises in different stages of healing on an older patient. What should the technician do?",
+      "options": [
+        "Ignore it because it is not related to the heart",
+        "Ask the family member to explain it",
+        "Report the observation per facility policy",
+        "Post a note on the patient's door"
+      ],
+      "answer": 2,
+      "explain": "Unexplained injuries can indicate abuse or neglect. The technician reports objective observations to the nurse or supervisor according to facility policy, which addresses mandated reporting."
+    },
+    {
+      "id": "ek-safety-44",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (infection control)",
+      "q": "The technician must enter the room of a patient on airborne precautions for an EKG. Which protection is required?",
+      "options": [
+        "A surgical mask only",
+        "Gloves only",
+        "A fit-tested N95 respirator",
+        "A gown only"
+      ],
+      "answer": 2,
+      "explain": "Airborne precautions, used for diseases such as tuberculosis or measles, require a fit-tested N95 or higher respirator before entering. A surgical mask does not filter small airborne particles adequately."
+    },
+    {
+      "id": "ek-safety-45",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (patient identification)",
+      "q": "An outpatient arrives for an EKG. How should identity be confirmed?",
+      "options": [
+        "Ask the patient to state name and birth date",
+        "Say the patient's name and wait for a nod",
+        "Check the name on the parking ticket",
+        "Ask which doctor ordered the test"
+      ],
+      "answer": 0,
+      "explain": "Open-ended questions asking the patient to state their full name and date of birth avoid errors from patients agreeing to the wrong name. The answers are compared with the order."
+    },
+    {
+      "id": "ek-safety-46",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (equipment safety)",
+      "q": "Why is EKG equipment routinely inspected by biomedical engineering?",
+      "options": [
+        "To change the paper roll each week",
+        "To update the patient list",
+        "To confirm it is safe and works correctly",
+        "To clean the lead wires between patients"
+      ],
+      "answer": 2,
+      "explain": "Scheduled preventive maintenance and electrical safety checks confirm that the machine records accurately and does not leak current. Cleaning and paper changes are the user's routine tasks."
+    },
+    {
+      "id": "ek-safety-47",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (coordinated patient care)",
+      "q": "The provider asks for a comparison with a prior EKG. Why is it important that tracings are correctly labeled and filed?",
+      "options": [
+        "Old tracings are used to set the paper speed",
+        "Changes over time help with diagnosis",
+        "Filing order sets the heart rate",
+        "It allows tracings to be reused"
+      ],
+      "answer": 1,
+      "explain": "Comparing a new tracing with earlier ones shows whether findings are new or old, which affects decisions. Mislabeled tracings could lead to wrong conclusions."
+    },
+    {
+      "id": "ek-safety-48",
+      "exam": "cet",
+      "domain": "safety",
+      "ref": "NHA CET test plan (2017), Safety, Compliance and Coordinated Patient Care (body mechanics)",
+      "q": "How should the technician adjust the bed before placing electrodes on a patient in bed?",
+      "options": [
+        "Lower it all the way down to the floor level",
+        "Leave it at any height",
+        "Raise it to a comfortable working height",
+        "Tilt the head far down"
+      ],
+      "answer": 2,
+      "explain": "Raising the bed to waist height reduces back strain for the technician. The bed is lowered again and the call light left in reach when finished."
+    },
+    {
+      "id": "ek-acq-01",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "How many electrodes are placed on the patient to record a standard 12-lead EKG?",
+      "options": [
+        "4",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "A standard 12-lead EKG uses 10 electrodes: four on the limbs and six on the chest. The machine combines them to produce 12 different views, or leads, of the heart."
+    },
+    {
+      "id": "ek-acq-02",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V1 electrode placed?",
+      "options": [
+        "Fourth intercostal space, left sternal border",
+        "Fifth intercostal space, midclavicular line",
+        "Second intercostal space, right sternal border",
+        "Fourth intercostal space, right sternal border"
+      ],
+      "answer": 3,
+      "explain": "V1 goes in the fourth intercostal space just to the right of the sternum. V2 mirrors it on the left side, and V4 sits in the fifth space at the midclavicular line."
+    },
+    {
+      "id": "ek-acq-03",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V2 electrode placed?",
+      "options": [
+        "Fourth intercostal space, right sternal border",
+        "Fourth intercostal space, left sternal border",
+        "Fifth intercostal space, left anterior axillary line",
+        "Third intercostal space, left midclavicular line"
+      ],
+      "answer": 1,
+      "explain": "V2 is in the fourth intercostal space at the left sternal border, directly across from V1. Placing V1 and V2 too high is a common error that changes the tracing."
+    },
+    {
+      "id": "ek-acq-04",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V4 electrode placed?",
+      "options": [
+        "Fourth intercostal space, midclavicular line",
+        "Fifth intercostal space, midaxillary line",
+        "Fifth intercostal space, midclavicular line",
+        "Sixth intercostal space, sternal border"
+      ],
+      "answer": 2,
+      "explain": "V4 sits in the fifth intercostal space on the left midclavicular line. V5 and V6 are placed at the same horizontal level as V4 at the anterior and midaxillary lines."
+    },
+    {
+      "id": "ek-acq-05",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V3 electrode placed?",
+      "options": [
+        "Directly below V1",
+        "Midway between V4 and V6",
+        "Midway between V2 and V4",
+        "At the left midaxillary line"
+      ],
+      "answer": 2,
+      "explain": "V3 is placed halfway between V2 and V4, so V4 is usually located first. V5 lies between V4 and V6."
+    },
+    {
+      "id": "ek-acq-06",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V5 electrode placed?",
+      "options": [
+        "Left anterior axillary line, level with V4",
+        "Left midaxillary line, level with V4",
+        "Left midclavicular line, fourth space",
+        "Right anterior axillary line, level with V4"
+      ],
+      "answer": 0,
+      "explain": "V5 goes on the left anterior axillary line at the same horizontal level as V4. V6 is on the midaxillary line at that level."
+    },
+    {
+      "id": "ek-acq-07",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Where is the V6 electrode placed?",
+      "options": [
+        "Left midaxillary line, level with V4",
+        "Left anterior axillary line, level with V4",
+        "Left posterior axillary line, sixth space",
+        "Right midaxillary line, level with V4"
+      ],
+      "answer": 0,
+      "explain": "V6 sits on the left midaxillary line, level with V4 and V5. Placing it too low or too far back is a common error."
+    },
+    {
+      "id": "ek-acq-08",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Which landmark helps the technician locate the second intercostal space when counting down to V1?",
+      "options": [
+        "The xiphoid process",
+        "The umbilicus",
+        "The sternal angle",
+        "The clavicle midpoint"
+      ],
+      "answer": 2,
+      "explain": "The sternal angle, or angle of Louis, is the ridge where the manubrium meets the sternal body; the second rib attaches there, and the space below it is the second intercostal space. Counting down from there finds the fourth space."
+    },
+    {
+      "id": "ek-acq-09",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "What is the midclavicular line?",
+      "options": [
+        "A horizontal line drawn across the chest at the nipples",
+        "A line down the center of the sternum",
+        "A line from the armpit to the hip",
+        "A vertical line through the middle of the clavicle"
+      ],
+      "answer": 3,
+      "explain": "The midclavicular line runs straight down from the midpoint of the clavicle and is used to place V4. The midsternal line runs down the center of the sternum."
+    },
+    {
+      "id": "ek-acq-10",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (limb leads)",
+      "q": "Which limb electrode serves as the ground or reference electrode?",
+      "options": [
+        "Left leg",
+        "Right arm",
+        "Left arm",
+        "Right leg"
+      ],
+      "answer": 3,
+      "explain": "The right leg electrode acts as a ground or reference and does not form part of any limb lead. Leads I, II and III are formed from the right arm, left arm and left leg."
+    },
+    {
+      "id": "ek-acq-11",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (limb leads)",
+      "q": "For a resting EKG, where are limb electrodes generally placed?",
+      "options": [
+        "Directly over bony prominences",
+        "On fleshy areas of the arms and legs",
+        "On the chest near the collarbones",
+        "On the palms and the soles"
+      ],
+      "answer": 1,
+      "explain": "Limb electrodes are placed on fleshy, flat areas of the limbs, avoiding bone, to get good contact and less artifact. Placement should be symmetrical on both sides."
+    },
+    {
+      "id": "ek-acq-12",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (limb leads)",
+      "q": "A patient has a left leg amputation below the knee. Where is the left leg electrode placed?",
+      "options": [
+        "On the right leg, next to the right leg electrode",
+        "On the left arm below the left arm lead",
+        "It is left off and the EKG is recorded",
+        "On the residual limb, with the right matching it"
+      ],
+      "answer": 3,
+      "explain": "The electrode is placed on the residual limb, and the opposite electrode is placed at a matching level to keep the leads balanced. The modification is noted on the tracing."
+    },
+    {
+      "id": "ek-acq-13",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "Which leads are the standard bipolar limb leads?",
+      "options": [
+        "aVR, aVL and aVF",
+        "V1, V2 and V3",
+        "V4, V5 and V6",
+        "I, II and III"
+      ],
+      "answer": 3,
+      "explain": "Leads I, II and III each compare a positive and negative limb electrode, so they are bipolar. The augmented leads aVR, aVL and aVF and the precordial leads are unipolar."
+    },
+    {
+      "id": "ek-acq-14",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "How are leads aVR, aVL and aVF classified?",
+      "options": [
+        "Standard bipolar limb leads",
+        "Precordial chest leads",
+        "Right-sided chest leads",
+        "Augmented unipolar limb leads"
+      ],
+      "answer": 3,
+      "explain": "The augmented leads compare one limb electrode with a combination of the others, and the machine amplifies the signal. They are limb leads, not chest leads."
+    },
+    {
+      "id": "ek-acq-15",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "Which leads are the precordial leads?",
+      "options": [
+        "V1 through V6",
+        "I, II and III",
+        "aVR, aVL and aVF",
+        "Lead II and aVF only"
+      ],
+      "answer": 0,
+      "explain": "The precordial, or chest, leads are V1 through V6, placed across the chest to view the heart in the horizontal plane. The limb leads view it in the frontal plane."
+    },
+    {
+      "id": "ek-acq-16",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "Which electrodes form lead I?",
+      "options": [
+        "Right arm and left leg",
+        "Left arm and left leg",
+        "Right arm and left arm",
+        "Right leg and left leg"
+      ],
+      "answer": 2,
+      "explain": "Lead I records between the right arm (negative) and the left arm (positive). Lead II uses right arm and left leg, and lead III uses left arm and left leg."
+    },
+    {
+      "id": "ek-acq-17",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "Which lead is most often used for a continuous rhythm strip?",
+      "options": [
+        "Lead aVR",
+        "Lead V6",
+        "Lead aVL",
+        "Lead II"
+      ],
+      "answer": 3,
+      "explain": "Lead II usually shows clear, upright P waves and QRS complexes, so it is commonly used for rhythm strips and monitoring. Other leads may be used when ordered."
+    },
+    {
+      "id": "ek-acq-18",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead types)",
+      "q": "Which triangle describes the relationship of leads I, II and III?",
+      "options": [
+        "The triangle of Koch",
+        "The femoral triangle",
+        "Einthoven's triangle",
+        "The Wilson triangle"
+      ],
+      "answer": 2,
+      "explain": "Einthoven's triangle is formed by the right arm, left arm and left leg, with leads I, II and III as its sides. The femoral triangle and the triangle of Koch are anatomic regions."
+    },
+    {
+      "id": "ek-acq-19",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (calibration)",
+      "q": "At standard calibration, how tall is the calibration mark for 1 millivolt?",
+      "options": [
+        "5 mm",
+        "10 mm",
+        "20 mm",
+        "25 mm"
+      ],
+      "answer": 1,
+      "explain": "Standard calibration makes 1 mV produce a 10 mm deflection, or two large boxes. Half standard produces 5 mm and double standard produces 20 mm."
+    },
+    {
+      "id": "ek-acq-20",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (calibration)",
+      "q": "QRS complexes are so tall that they overlap the leads above and below. Which adjustment is commonly made?",
+      "options": [
+        "Change to double standard and note it",
+        "Increase paper speed to 50 mm/s",
+        "Turn off all filters on the machine",
+        "Change to half standard and note it"
+      ],
+      "answer": 3,
+      "explain": "Half standard, 5 mm per mV, shrinks very tall complexes so they fit. The change must be noted on the tracing so the reader measures voltage correctly."
+    },
+    {
+      "id": "ek-acq-21",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (calibration)",
+      "q": "What does the standard calibration pulse look like at the start of a tracing?",
+      "options": [
+        "A spike 25 mm tall",
+        "A rectangle 10 mm tall",
+        "A wavy line 1 mm tall",
+        "A circle at the baseline"
+      ],
+      "answer": 1,
+      "explain": "At standard settings the calibration pulse is a rectangle, or square wave, 10 mm tall. Its shape and height confirm that the machine is calibrated correctly."
+    },
+    {
+      "id": "ek-acq-22",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (paper speed)",
+      "q": "What is the standard paper speed for a 12-lead EKG?",
+      "options": [
+        "10 mm/s",
+        "25 mm/s",
+        "50 mm/s",
+        "100 mm/s"
+      ],
+      "answer": 1,
+      "explain": "The standard speed is 25 mm per second, which makes each small box equal 0.04 seconds. Changing the speed changes the time each box represents."
+    },
+    {
+      "id": "ek-acq-23",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (paper speed)",
+      "q": "A tracing is accidentally recorded at 50 mm/s. How do the complexes appear?",
+      "options": [
+        "Wider, with intervals that look longer",
+        "Narrower, with intervals that look shorter",
+        "Taller, with doubled voltage",
+        "Unchanged in every way"
+      ],
+      "answer": 0,
+      "explain": "At 50 mm/s the paper moves twice as fast, spreading each complex across twice as many boxes, so intervals look twice as long. Voltage is not affected."
+    },
+    {
+      "id": "ek-acq-24",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (EKG paper)",
+      "q": "What type of paper does a standard EKG machine use?",
+      "options": [
+        "Heat-sensitive graph paper",
+        "Plain white printer copy paper",
+        "Carbon paper",
+        "Photographic film"
+      ],
+      "answer": 0,
+      "explain": "EKG machines commonly print with a heated stylus or thermal printhead on heat-sensitive grid paper. The grid lets the reader measure time and voltage."
+    },
+    {
+      "id": "ek-acq-25",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "A tracing shows a thick, regular, fuzzy baseline in several leads. What is the most likely cause?",
+      "options": [
+        "Alternating current interference",
+        "Patient breathing deeply",
+        "A completely detached electrode",
+        "Correct machine settings"
+      ],
+      "answer": 0,
+      "explain": "AC interference produces a regular, fine, thick baseline from nearby electrical equipment, poor grounding or crossed cables. Breathing causes a wandering baseline instead."
+    },
+    {
+      "id": "ek-acq-26",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "Which action helps reduce alternating current interference?",
+      "options": [
+        "Have the patient hold the metal bed rails firmly",
+        "Coil the lead wires tightly together",
+        "Unplug nearby unneeded electrical devices",
+        "Move the machine onto the patient"
+      ],
+      "answer": 2,
+      "explain": "Moving away from or unplugging nearby electrical devices, checking grounding and keeping lead wires untangled reduce AC interference. Touching metal bed rails can make it worse."
+    },
+    {
+      "id": "ek-acq-27",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "A shivering patient's tracing shows irregular, jagged spikes. What is this artifact?",
+      "options": [
+        "AC interference",
+        "Wandering baseline",
+        "Somatic tremor",
+        "Interrupted baseline"
+      ],
+      "answer": 2,
+      "explain": "Somatic tremor, or muscle artifact, comes from muscle activity such as shivering, tension, talking or tremors. Warming and relaxing the patient usually reduces it."
+    },
+    {
+      "id": "ek-acq-28",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "A patient with a hand tremor shows muscle artifact in the limb leads. What can help?",
+      "options": [
+        "Move chest electrodes toward the abdomen",
+        "Increase the calibration to double",
+        "Move limb electrodes closer to the trunk",
+        "Have the patient grip the bed rails"
+      ],
+      "answer": 2,
+      "explain": "Placing limb electrodes on the upper arms and thighs, away from the trembling hands, often reduces tremor artifact. The placement is noted on the tracing."
+    },
+    {
+      "id": "ek-acq-29",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "The baseline slowly drifts up and down with each breath. What is this artifact called?",
+      "options": [
+        "Wandering baseline",
+        "Somatic tremor",
+        "AC interference",
+        "Electrode reversal"
+      ],
+      "answer": 0,
+      "explain": "A wandering baseline moves up and down, often with breathing, poor electrode contact or lotion on the skin. Good skin prep and asking the patient to breathe normally help."
+    },
+    {
+      "id": "ek-acq-30",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "One lead shows a flat line while the others look normal. What is the most likely cause?",
+      "options": [
+        "The patient is in asystole",
+        "The paper speed is too high",
+        "A loose or disconnected electrode",
+        "The calibration is set to half"
+      ],
+      "answer": 2,
+      "explain": "A flat line in only one lead points to a loose electrode or broken wire, called an interrupted baseline. True asystole would appear in every lead and the patient would be unresponsive."
+    },
+    {
+      "id": "ek-acq-31",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "In lead I, the P wave and QRS are both inverted on an adult with a normal heart position. What is a likely technical cause?",
+      "options": [
+        "Paper speed is set to 50 mm/s instead of 25",
+        "Calibration is set to half standard",
+        "Right and left arm electrodes are reversed",
+        "Chest leads V5 and V6 are swapped"
+      ],
+      "answer": 2,
+      "explain": "Reversing the arm electrodes flips lead I, inverting the P wave and QRS. Before removing electrodes, the technician checks the tracing and corrects any reversal."
+    },
+    {
+      "id": "ek-acq-32",
+      "exam": "cet",
+      "domain": "acq",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Acquisition (skin preparation)",
+      "q": "Why is the skin cleaned and lightly abraded before electrode placement?",
+      "options": [
+        "To remove oil and dead skin for good contact",
+        "To numb the skin before the electrodes are applied",
+        "To mark the electrode sites in ink",
+        "To warm the skin for the patient"
+      ],
+      "answer": 0,
+      "explain": "Oils, lotion and dead skin cells increase resistance and cause artifact. Cleaning and gentle abrasion improve electrode contact and signal quality."
+    },
+    {
+      "id": "ek-acq-33",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (skin preparation)",
+      "q": "A patient has heavy chest hair at the V3 and V4 sites. What should the technician do?",
+      "options": [
+        "Place the electrodes over the hair",
+        "Move those leads to the abdomen",
+        "Use extra tape over the electrodes",
+        "Clip or shave a small area per policy"
+      ],
+      "answer": 3,
+      "explain": "Hair prevents good contact, so a small area is clipped or shaved per facility policy. Moving electrodes away from the correct sites changes the tracing."
+    },
+    {
+      "id": "ek-acq-34",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (skin preparation)",
+      "q": "A patient is very sweaty and electrodes keep falling off. What helps?",
+      "options": [
+        "Apply lotion to the skin to help them stick better",
+        "Add water to the electrode gel",
+        "Place them on top of the gown",
+        "Dry the skin well before placing them"
+      ],
+      "answer": 3,
+      "explain": "Electrodes adhere poorly to moist skin, so the skin is dried thoroughly; some facilities allow additional prep steps. Lotion and water make adhesion worse."
+    },
+    {
+      "id": "ek-acq-35",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (supplies)",
+      "q": "Why should the technician check that electrodes are not dried out before use?",
+      "options": [
+        "Dry electrodes give the patient a shock",
+        "Dry gel gives poor contact and artifact",
+        "Dry gel changes the paper speed",
+        "Dry electrodes make the leads reverse"
+      ],
+      "answer": 1,
+      "explain": "Electrodes with dried gel conduct poorly and cause artifact. Packages are kept sealed and used before the expiration date, since gel dries out once a package is opened or ages."
+    },
+    {
+      "id": "ek-acq-36",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (patient positioning)",
+      "q": "How is a patient usually positioned for a resting 12-lead EKG?",
+      "options": [
+        "Supine with arms relaxed at the sides",
+        "Standing with arms raised overhead",
+        "Seated with legs crossed",
+        "Prone with arms under the chest"
+      ],
+      "answer": 0,
+      "explain": "The patient lies supine and relaxed, arms at the sides and legs uncrossed, to reduce muscle artifact. If the patient cannot lie flat, the position is adjusted and noted."
+    },
+    {
+      "id": "ek-acq-37",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (patient positioning)",
+      "q": "A patient with breathing difficulty cannot lie flat for an EKG. What should be done?",
+      "options": [
+        "Insist that the patient lie flat",
+        "Cancel the test until tomorrow",
+        "Record it with the patient standing",
+        "Raise the head of the bed and note it"
+      ],
+      "answer": 3,
+      "explain": "The EKG can be recorded in a semi-Fowler or sitting position for comfort. The position is noted because it can slightly affect the tracing."
+    },
+    {
+      "id": "ek-acq-38",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (patient instructions)",
+      "q": "Which instruction helps reduce artifact during recording?",
+      "options": [
+        "Lie still, breathe normally and do not talk",
+        "Hold your breath until the recording is finished",
+        "Tighten your arm muscles during it",
+        "Keep your legs crossed during it"
+      ],
+      "answer": 0,
+      "explain": "Lying still, breathing normally and not talking keeps muscle activity low. Holding the breath and tensing muscles can cause artifact."
+    },
+    {
+      "id": "ek-acq-39",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "How are chest electrodes placed on a patient with large breasts?",
+      "options": [
+        "On the chest wall beneath the breast tissue",
+        "On top of the breast at the nipple level",
+        "Higher on the chest above the breasts",
+        "On the abdomen below the ribs"
+      ],
+      "answer": 0,
+      "explain": "Common guidance is to place V4 through V6 on the chest wall under the breast, at their correct landmarks, rather than on breast tissue. Moving electrodes up or down changes the tracing."
+    },
+    {
+      "id": "ek-acq-40",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (special situations)",
+      "q": "A provider orders a right-sided EKG. Where is lead V4R placed?",
+      "options": [
+        "Right fifth intercostal space, midclavicular line",
+        "Left fifth intercostal space, midaxillary line",
+        "Right second intercostal space, sternal border",
+        "Left fourth intercostal space, sternal border"
+      ],
+      "answer": 0,
+      "explain": "Right-sided leads mirror the standard left chest placements, so V4R goes in the right fifth intercostal space at the midclavicular line. The tracing is labeled as right-sided."
+    },
+    {
+      "id": "ek-acq-41",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (special situations)",
+      "q": "Which change is commonly made when recording an EKG on an infant?",
+      "options": [
+        "Use adult electrodes placed on the abdomen instead",
+        "Place all leads on one arm",
+        "Use smaller electrodes suited to the chest",
+        "Record only the limb leads"
+      ],
+      "answer": 2,
+      "explain": "Small pediatric electrodes fit the small chest and avoid overlapping. Placement follows the same landmarks, and the patient's age is entered into the machine."
+    },
+    {
+      "id": "ek-acq-42",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (special situations)",
+      "q": "Electrodes cannot be placed on a site because of a bandage over a wound on the left arm. What is done?",
+      "options": [
+        "Place it directly over the bandage to save time",
+        "Leave the left arm lead unattached",
+        "Place it above the bandage and match the right",
+        "Place it on the right arm as well"
+      ],
+      "answer": 2,
+      "explain": "The electrode is moved to an intact site nearby, and the electrode on the other limb is placed at a matching level. The change is noted on the tracing."
+    },
+    {
+      "id": "ek-acq-43",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (special situations)",
+      "q": "Electrodes should generally be kept off which areas?",
+      "options": [
+        "Broken skin, scars and bony areas",
+        "Fleshy parts of the forearms",
+        "Fleshy parts of the lower legs",
+        "The correct chest landmarks"
+      ],
+      "answer": 0,
+      "explain": "Broken skin, scar tissue and bony prominences give poor contact or discomfort, so nearby suitable sites are used and noted. Fleshy limb areas are preferred."
+    },
+    {
+      "id": "ek-acq-44",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (machine settings)",
+      "q": "What should be entered into the EKG machine before recording?",
+      "options": [
+        "The patient's home address",
+        "The insurance member number",
+        "The technician's birth date",
+        "Patient identifiers, age and sex"
+      ],
+      "answer": 3,
+      "explain": "Correct identifiers, age and sex let the tracing be filed properly and allow the machine's measurements to use the right reference values."
+    },
+    {
+      "id": "ek-acq-45",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (machine settings)",
+      "q": "What is the purpose of the 60 Hz filter on an EKG machine?",
+      "options": [
+        "To speed up the paper during the recording",
+        "To double the voltage",
+        "To reduce electrical interference",
+        "To detect lead reversal"
+      ],
+      "answer": 2,
+      "explain": "The AC or 60 Hz filter reduces interference from power lines and electrical equipment. Filters should be used as directed because they can also slightly alter the tracing."
+    },
+    {
+      "id": "ek-acq-46",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (machine settings)",
+      "q": "The machine prints a computer interpretation on the tracing. How should it be treated?",
+      "options": [
+        "As a preliminary reading the provider confirms",
+        "As the final diagnosis to be placed in the chart",
+        "As information to share with the patient",
+        "As a reason to skip the provider review"
+      ],
+      "answer": 0,
+      "explain": "Computer interpretations can be wrong, especially with artifact. A qualified provider over-reads and confirms the tracing; the technician does not interpret it for patients."
+    },
+    {
+      "id": "ek-acq-47",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (machine settings)",
+      "q": "How many leads are displayed on a standard 12-lead tracing, and from how many electrodes?",
+      "options": [
+        "12 leads from 12 electrodes",
+        "10 leads from 12 electrodes",
+        "6 leads from 10 electrodes",
+        "12 leads from 10 electrodes"
+      ],
+      "answer": 3,
+      "explain": "The 10 electrodes produce 12 leads: three standard limb leads, three augmented leads and six chest leads. The right leg electrode is a reference."
+    },
+    {
+      "id": "ek-acq-48",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (Holter monitor)",
+      "q": "How long is a standard Holter monitor commonly worn?",
+      "options": [
+        "2 weeks to 30 days",
+        "6 months",
+        "15 minutes",
+        "24 to 48 hours"
+      ],
+      "answer": 3,
+      "explain": "A Holter monitor continuously records the rhythm, typically for 24 to 48 hours. Monitors worn for weeks are usually event or extended patch monitors."
+    },
+    {
+      "id": "ek-acq-49",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (Holter monitor)",
+      "q": "What should a patient record in the Holter diary?",
+      "options": [
+        "Only the meals eaten each day",
+        "Only the hours spent sleeping",
+        "Nothing, since the device records all",
+        "Activities and symptoms with the times"
+      ],
+      "answer": 3,
+      "explain": "The diary links symptoms such as palpitations or dizziness and activities to specific times, so the provider can compare them with the recorded rhythm."
+    },
+    {
+      "id": "ek-acq-50",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (Holter monitor)",
+      "q": "Which instruction is commonly given to a patient wearing a Holter monitor?",
+      "options": [
+        "Remove it at night so the patient can sleep better",
+        "Unplug it when walking outdoors",
+        "Take it off during symptoms",
+        "Do not shower or bathe while wearing it"
+      ],
+      "answer": 3,
+      "explain": "Most Holter recorders must stay dry, so patients are told not to shower, bathe or swim unless the device instructions allow it. The monitor stays on continuously."
+    },
+    {
+      "id": "ek-acq-51",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (Holter monitor)",
+      "q": "Why is skin preparation especially important for a Holter monitor?",
+      "options": [
+        "The patient will be lying still all day",
+        "Electrodes must stay attached for a long time",
+        "The monitor uses higher voltage than a 12-lead",
+        "Holter leads are placed on the limbs"
+      ],
+      "answer": 1,
+      "explain": "The electrodes must stay securely attached for a day or more during normal activity. Good skin prep and securing lead wires reduce artifact and lost data."
+    },
+    {
+      "id": "ek-acq-52",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (Holter monitor)",
+      "q": "When a patient returns the Holter monitor, what should be noted?",
+      "options": [
+        "The patient's new address",
+        "The weather during the test",
+        "The time the recording ended",
+        "The number of meals eaten"
+      ],
+      "answer": 2,
+      "explain": "Noting the start and end times lets the recording be matched with the diary entries. The diary is collected with the device."
+    },
+    {
+      "id": "ek-acq-53",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (event monitor)",
+      "q": "How does an event monitor differ from a standard Holter monitor?",
+      "options": [
+        "It records only while the patient is asleep",
+        "It is used only in the hospital emergency room",
+        "It is worn longer and saves events when triggered",
+        "It records a single 12-lead tracing once"
+      ],
+      "answer": 2,
+      "explain": "Event monitors are worn for weeks and save rhythm strips when the patient presses a button during symptoms, or automatically for some devices. A Holter records continuously for a shorter period."
+    },
+    {
+      "id": "ek-acq-54",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "Which instruction is commonly given before an exercise stress test?",
+      "options": [
+        "Eat a large meal right before the test for energy",
+        "Wear comfortable shoes and avoid a heavy meal",
+        "Wear dress shoes and a tight belt",
+        "Drink several cups of coffee first"
+      ],
+      "answer": 1,
+      "explain": "Patients are usually told to wear comfortable clothes and walking shoes and to avoid heavy meals, and to follow the provider's instructions about caffeine and medications."
+    },
+    {
+      "id": "ek-acq-55",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "Using the common formula, what is the estimated maximum heart rate of a 60-year-old patient?",
+      "options": [
+        "140 beats per minute",
+        "160 beats per minute",
+        "180 beats per minute",
+        "220 beats per minute"
+      ],
+      "answer": 1,
+      "explain": "The commonly taught estimate is 220 minus age, so 220 minus 60 equals 160 beats per minute. A target heart rate is often set at about 85 percent of this value."
+    },
+    {
+      "id": "ek-acq-56",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "What is recorded before the patient begins exercising on the treadmill?",
+      "options": [
+        "Only the patient's weight",
+        "A peak exercise heart rate",
+        "A resting EKG and blood pressure",
+        "A recovery blood pressure"
+      ],
+      "answer": 2,
+      "explain": "Baseline resting EKG and blood pressure are recorded first so changes during exercise and recovery can be compared with them."
+    },
+    {
+      "id": "ek-acq-57",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "In the commonly used Bruce protocol, what happens about every 3 minutes?",
+      "options": [
+        "Treadmill speed and incline increase",
+        "The patient stops walking to rest for a while",
+        "The electrodes are replaced",
+        "Treadmill speed decreases"
+      ],
+      "answer": 0,
+      "explain": "The Bruce protocol increases both speed and grade at roughly 3-minute stages to raise the workload. EKG, blood pressure and symptoms are monitored throughout every stage."
+    },
+    {
+      "id": "ek-acq-58",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "A patient cannot walk on a treadmill but needs a stress test. What type of test may be ordered?",
+      "options": [
+        "A resting rhythm strip only",
+        "A Holter monitor for 1 hour",
+        "A test with the limb leads off",
+        "A pharmacologic stress test"
+      ],
+      "answer": 3,
+      "explain": "A pharmacologic stress test uses medication to stress the heart or increase blood flow when the patient cannot exercise adequately. It is supervised by a provider."
+    },
+    {
+      "id": "ek-acq-59",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "Why are limb electrodes often placed on the torso for exercise stress testing?",
+      "options": [
+        "To reduce motion artifact from the arms and legs",
+        "To make the test faster to set up for the technician",
+        "To avoid the need for skin prep",
+        "To lower the patient's heart rate"
+      ],
+      "answer": 0,
+      "explain": "Torso placement of limb electrodes keeps them away from moving limbs and reduces motion artifact during exercise. The modified placement is noted."
+    },
+    {
+      "id": "ek-acq-60",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (stress testing)",
+      "q": "After a treadmill stress test ends, how long is the patient monitored?",
+      "options": [
+        "Only until the treadmill belt has come to a full stop",
+        "No monitoring is needed after the test",
+        "Only until the patient puts shoes on",
+        "Until heart rate, BP and EKG return toward baseline"
+      ],
+      "answer": 3,
+      "explain": "Monitoring continues during recovery because abnormal rhythms or ST changes can appear after exercise. The patient is released when values approach baseline per protocol."
+    },
+    {
+      "id": "ek-acq-61",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (telemetry)",
+      "q": "In a hospital unit, what is telemetry monitoring?",
+      "options": [
+        "A single 12-lead EKG recorded with the patient at rest",
+        "A 24-hour blood pressure test",
+        "Continuous remote monitoring of the rhythm",
+        "An ultrasound of the heart"
+      ],
+      "answer": 2,
+      "explain": "Telemetry transmits the heart rhythm continuously, often wirelessly, to a central station where it is watched. It usually uses 3 or 5 electrodes."
+    },
+    {
+      "id": "ek-acq-62",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (telemetry)",
+      "q": "In the common US color code for a 5-lead monitoring system, which color goes on the right arm?",
+      "options": [
+        "Black",
+        "Red",
+        "White",
+        "Green"
+      ],
+      "answer": 2,
+      "explain": "In the AHA color code used in the US, white is right arm, black is left arm, red is left leg, green is right leg and brown is the chest lead. \"White on right\" is a common memory aid."
+    },
+    {
+      "id": "ek-acq-63",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (telemetry)",
+      "q": "A telemetry transmitter shows a low battery warning. What should be done?",
+      "options": [
+        "Ignore it until the shift ends",
+        "Remove the electrodes from the patient",
+        "Turn off the central monitor",
+        "Replace the battery per policy"
+      ],
+      "answer": 3,
+      "explain": "A dead battery stops monitoring, which could cause a missed rhythm. The battery is replaced promptly and the monitoring station is informed per policy."
+    },
+    {
+      "id": "ek-acq-64",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (pacemakers)",
+      "q": "On a tracing from a patient with a pacemaker, what is the pacemaker spike?",
+      "options": [
+        "A thin vertical line before the paced beat",
+        "A wide wandering baseline across the whole strip",
+        "A sawtooth pattern between beats",
+        "A flat line between complexes"
+      ],
+      "answer": 0,
+      "explain": "A pacemaker spike is a narrow vertical line produced by the device's electrical stimulus, followed by the paced P wave or QRS. Some machine filters can make spikes harder to see."
+    },
+    {
+      "id": "ek-acq-65",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead views)",
+      "q": "Which leads view the inferior wall of the heart?",
+      "options": [
+        "I, aVL, V5 and V6",
+        "II, III and aVF",
+        "V1 and V2",
+        "V3 and V4"
+      ],
+      "answer": 1,
+      "explain": "Leads II, III and aVF look at the inferior wall. I, aVL, V5 and V6 view the lateral wall, V1 and V2 the septum and V3 and V4 the anterior wall."
+    },
+    {
+      "id": "ek-acq-66",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (lead views)",
+      "q": "Which leads view the lateral wall of the left ventricle?",
+      "options": [
+        "II, III and aVF",
+        "I, aVL, V5 and V6",
+        "V1 and V2",
+        "aVR only"
+      ],
+      "answer": 1,
+      "explain": "The lateral leads are I, aVL, V5 and V6. The inferior leads are II, III and aVF, and V1 and V2 are septal leads."
+    },
+    {
+      "id": "ek-acq-67",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (electrode placement)",
+      "q": "Before removing electrodes, why does the technician check the printed tracing?",
+      "options": [
+        "To interpret the rhythm for the patient before leaving",
+        "To decide on the patient's medications",
+        "To catch artifact or lead errors and repeat it",
+        "To set the next appointment"
+      ],
+      "answer": 2,
+      "explain": "Reviewing the tracing for artifact, missing leads or reversal lets the technician correct problems and re-record before the patient leaves."
+    },
+    {
+      "id": "ek-acq-68",
+      "exam": "cet",
+      "domain": "acq",
+      "ref": "NHA CET test plan (2017), EKG Acquisition (artifacts)",
+      "q": "A patient is cold and shivering in the exam room. What should the technician do before recording?",
+      "options": [
+        "Record quickly before it worsens",
+        "Increase the paper speed",
+        "Offer a blanket and warm the room",
+        "Turn off the 60 Hz filter"
+      ],
+      "answer": 2,
+      "explain": "Warming the patient reduces shivering, which causes somatic tremor artifact. Covering exposed areas also preserves privacy and helps the patient relax."
+    },
+    {
+      "id": "ek-anal-01",
+      "exam": "cet",
+      "domain": "anal",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (EKG grid)",
+      "q": "At a paper speed of 25 mm/s, how much time does one small box represent?",
+      "options": [
+        "0.04 seconds",
+        "0.10 seconds",
+        "0.20 seconds",
+        "1.0 second"
+      ],
+      "answer": 0,
+      "explain": "Each small 1 mm box equals 0.04 seconds at 25 mm per second. Five small boxes make one large box, which equals 0.20 seconds."
+    },
+    {
+      "id": "ek-anal-02",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (EKG grid)",
+      "q": "At a paper speed of 25 mm/s, how much time does one large box represent?",
+      "options": [
+        "0.04 seconds",
+        "0.20 seconds",
+        "0.40 seconds",
+        "1.0 second"
+      ],
+      "answer": 1,
+      "explain": "One large box is five small boxes, so 5 times 0.04 equals 0.20 seconds. Five large boxes equal one second."
+    },
+    {
+      "id": "ek-anal-03",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (EKG grid)",
+      "q": "At standard calibration, what voltage does one small box represent vertically?",
+      "options": [
+        "0.1 mV",
+        "0.5 mV",
+        "1.0 mV",
+        "10 mV"
+      ],
+      "answer": 0,
+      "explain": "At 10 mm per mV, each 1 mm small box represents 0.1 mV vertically. Ten small boxes, or two large boxes, equal 1 mV."
+    },
+    {
+      "id": "ek-anal-04",
+      "exam": "cet",
+      "domain": "anal",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart rate)",
+      "q": "Using the 1500 method, there are 20 small boxes between two R waves in a regular rhythm. What is the heart rate?",
+      "options": [
+        "60 beats per minute",
+        "75 beats per minute",
+        "100 beats per minute",
+        "150 beats per minute"
+      ],
+      "answer": 1,
+      "explain": "The 1500 method divides 1500 by the number of small boxes between consecutive R waves: 1500 divided by 20 equals 75. The method works for regular rhythms."
+    },
+    {
+      "id": "ek-anal-05",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart rate)",
+      "q": "Using the 300 method, there are 3 large boxes between R waves in a regular rhythm. What is the heart rate?",
+      "options": [
+        "75 beats per minute",
+        "100 beats per minute",
+        "150 beats per minute",
+        "300 beats per minute"
+      ],
+      "answer": 1,
+      "explain": "Dividing 300 by the number of large boxes between R waves gives the rate: 300 divided by 3 equals 100. The sequence 300, 150, 100, 75, 60, 50 is a quick memory aid."
+    },
+    {
+      "id": "ek-anal-06",
+      "exam": "cet",
+      "domain": "anal",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart rate)",
+      "q": "A six-second strip shows 8 QRS complexes. What is the estimated heart rate?",
+      "options": [
+        "48 beats per minute",
+        "60 beats per minute",
+        "80 beats per minute",
+        "100 beats per minute"
+      ],
+      "answer": 2,
+      "explain": "The six-second method multiplies the number of QRS complexes in six seconds by 10, so 8 times 10 equals 80. This method works for irregular rhythms."
+    },
+    {
+      "id": "ek-anal-07",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart rate)",
+      "q": "Which heart rate method is best suited to an irregular rhythm such as atrial fibrillation?",
+      "options": [
+        "The six-second strip method",
+        "The 1500 method",
+        "The 300 method",
+        "Counting one R to R interval"
+      ],
+      "answer": 0,
+      "explain": "Because R to R intervals vary in irregular rhythms, counting complexes in a six-second strip and multiplying by 10 gives a better estimate than measuring one interval."
+    },
+    {
+      "id": "ek-anal-08",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (waveforms)",
+      "q": "What does the P wave represent?",
+      "options": [
+        "Ventricular depolarization",
+        "Ventricular repolarization",
+        "Atrial repolarization",
+        "Atrial depolarization"
+      ],
+      "answer": 3,
+      "explain": "The P wave reflects electrical activation of the atria. Ventricular depolarization is the QRS, ventricular repolarization is the T wave, and atrial repolarization is hidden in the QRS."
+    },
+    {
+      "id": "ek-anal-09",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (waveforms)",
+      "q": "What does the QRS complex represent?",
+      "options": [
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Ventricular repolarization",
+        "Conduction through the SA node"
+      ],
+      "answer": 1,
+      "explain": "The QRS complex represents depolarization of the ventricles, which triggers ventricular contraction. The P wave is atrial depolarization and the T wave is ventricular repolarization."
+    },
+    {
+      "id": "ek-anal-10",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (waveforms)",
+      "q": "What does the T wave represent?",
+      "options": [
+        "Ventricular repolarization",
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Atrial contraction"
+      ],
+      "answer": 0,
+      "explain": "The T wave reflects recovery, or repolarization, of the ventricles. It normally follows the ST segment after each QRS. The P wave and QRS represent depolarization instead."
+    },
+    {
+      "id": "ek-anal-11",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (waveforms)",
+      "q": "Why is atrial repolarization not usually seen on the EKG?",
+      "options": [
+        "It happens before the P wave in every cardiac cycle",
+        "It is too large to print",
+        "It appears only in lead aVR",
+        "It is hidden within the QRS complex"
+      ],
+      "answer": 3,
+      "explain": "Atrial repolarization occurs at about the same time as ventricular depolarization, so the much larger QRS hides it. It is not a separate wave the technician measures."
+    },
+    {
+      "id": "ek-anal-12",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (intervals)",
+      "q": "How is the PR interval measured?",
+      "options": [
+        "From the end of the P wave to the end of the QRS",
+        "From the start of the P wave to the start of the QRS",
+        "From the start of the QRS to the end of the T wave",
+        "From one P wave to the next P wave"
+      ],
+      "answer": 1,
+      "explain": "The PR interval runs from the beginning of the P wave to the beginning of the QRS complex and reflects conduction from the atria through the AV node."
+    },
+    {
+      "id": "ek-anal-13",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (intervals)",
+      "q": "What PR interval range is commonly taught as normal for adults?",
+      "options": [
+        "0.04 to 0.10 seconds",
+        "0.12 to 0.20 seconds",
+        "0.20 to 0.30 seconds",
+        "0.30 to 0.40 seconds"
+      ],
+      "answer": 1,
+      "explain": "A normal adult PR interval is commonly taught as 0.12 to 0.20 seconds, or 3 to 5 small boxes. A longer constant PR interval suggests a first-degree AV block."
+    },
+    {
+      "id": "ek-anal-14",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (intervals)",
+      "q": "What QRS duration is commonly taught as normal for adults?",
+      "options": [
+        "Between 0.12 and 0.20 seconds",
+        "More than 0.20 seconds",
+        "Exactly 0.40 seconds",
+        "Less than 0.12 seconds"
+      ],
+      "answer": 3,
+      "explain": "A normal QRS is commonly taught as less than 0.12 seconds, often about 0.06 to 0.10 seconds. A wider QRS suggests the impulse spread abnormally through the ventricles."
+    },
+    {
+      "id": "ek-anal-15",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (intervals)",
+      "q": "A PR interval spans 4 small boxes. What is its duration?",
+      "options": [
+        "0.04 seconds",
+        "0.12 seconds",
+        "0.16 seconds",
+        "0.20 seconds"
+      ],
+      "answer": 2,
+      "explain": "Each small box is 0.04 seconds, so 4 boxes equal 0.16 seconds, within the commonly taught normal range of 0.12 to 0.20 seconds."
+    },
+    {
+      "id": "ek-anal-16",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (intervals)",
+      "q": "A QRS complex spans 2 small boxes. What is its duration?",
+      "options": [
+        "0.02 seconds",
+        "0.08 seconds",
+        "0.12 seconds",
+        "0.40 seconds"
+      ],
+      "answer": 1,
+      "explain": "Two small boxes times 0.04 seconds equals 0.08 seconds, which is a normal QRS duration because it is less than the commonly taught limit of 0.12 seconds."
+    },
+    {
+      "id": "ek-anal-17",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "Which finding fits normal sinus rhythm in an adult?",
+      "options": [
+        "Irregular rhythm without any visible P waves at all",
+        "Regular rate of 60 to 100 with a P before each QRS",
+        "Regular rate over 150 with wide QRS complexes",
+        "Sawtooth waves between the QRS complexes"
+      ],
+      "answer": 1,
+      "explain": "Normal sinus rhythm is regular at 60 to 100 beats per minute, with an upright P wave before every QRS and normal intervals. The other choices describe atrial fibrillation, ventricular tachycardia and atrial flutter."
+    },
+    {
+      "id": "ek-anal-18",
+      "exam": "cet",
+      "domain": "anal",
+      "also": [
+        {
+          "exam": "ccma",
+          "domain": "ekg"
+        },
+        {
+          "exam": "cma",
+          "domain": "clin"
+        }
+      ],
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A regular sinus rhythm has a rate of 48 beats per minute. What is it called?",
+      "options": [
+        "Sinus bradycardia",
+        "Sinus tachycardia",
+        "Atrial flutter",
+        "Normal sinus rhythm"
+      ],
+      "answer": 0,
+      "explain": "Sinus bradycardia is a sinus rhythm under 60 beats per minute. It can be normal in athletes but can also cause symptoms that need reporting."
+    },
+    {
+      "id": "ek-anal-19",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A sinus rhythm has a rate of 120 beats per minute. What is it called?",
+      "options": [
+        "Sinus tachycardia",
+        "Sinus bradycardia",
+        "Ventricular tachycardia",
+        "Atrial fibrillation"
+      ],
+      "answer": 0,
+      "explain": "Sinus tachycardia is a sinus rhythm over 100 beats per minute with normal P waves and narrow QRS complexes. Ventricular tachycardia has wide QRS complexes without related P waves."
+    },
+    {
+      "id": "ek-anal-20",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A rhythm is irregularly irregular with no distinct P waves and a wavy baseline. What does this suggest?",
+      "options": [
+        "Atrial flutter",
+        "Atrial fibrillation",
+        "Sinus arrhythmia",
+        "First-degree AV block"
+      ],
+      "answer": 1,
+      "explain": "Atrial fibrillation has chaotic atrial activity with fibrillatory waves instead of P waves and an irregularly irregular ventricular response. Atrial flutter shows regular sawtooth waves."
+    },
+    {
+      "id": "ek-anal-21",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A tracing shows regular sawtooth-shaped waves between the QRS complexes. What does this suggest?",
+      "options": [
+        "Atrial flutter",
+        "Atrial fibrillation",
+        "Ventricular fibrillation",
+        "Sinus bradycardia"
+      ],
+      "answer": 0,
+      "explain": "Atrial flutter produces regular flutter waves in a sawtooth pattern, often best seen in leads II, III and aVF. Atrial fibrillation has an irregular wavy baseline instead."
+    },
+    {
+      "id": "ek-anal-22",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "An early, wide and bizarre QRS appears without a P wave before it, followed by a pause. What is it?",
+      "options": [
+        "A premature ventricular contraction",
+        "A premature atrial contraction",
+        "A normal sinus beat",
+        "A pacemaker spike"
+      ],
+      "answer": 0,
+      "explain": "A PVC arises in the ventricles, so it comes early with a wide, unusual QRS, no preceding P wave and usually a compensatory pause. A premature atrial contraction has an early P wave and a narrow QRS."
+    },
+    {
+      "id": "ek-anal-23",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "Every other beat on a strip is a PVC. What is this pattern called?",
+      "options": [
+        "Ventricular trigeminy",
+        "Ventricular bigeminy",
+        "A PVC couplet",
+        "Ventricular tachycardia"
+      ],
+      "answer": 1,
+      "explain": "Bigeminy means every second beat is a PVC. In trigeminy every third beat is a PVC, a couplet is two PVCs in a row and three or more in a row is a run of ventricular tachycardia."
+    },
+    {
+      "id": "ek-anal-24",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A rhythm shows wide, regular QRS complexes at about 180 beats per minute with no visible P waves. What does this most likely suggest?",
+      "options": [
+        "Sinus tachycardia",
+        "Atrial flutter",
+        "Ventricular tachycardia",
+        "Sinus bradycardia"
+      ],
+      "answer": 2,
+      "explain": "Ventricular tachycardia is a fast, usually regular, wide-complex rhythm without related P waves. It can be life-threatening, so the technician checks the patient and notifies the provider immediately."
+    },
+    {
+      "id": "ek-anal-25",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A tracing shows chaotic, irregular waves with no identifiable QRS complexes. What should the technician do first?",
+      "options": [
+        "Print another copy of the tracing for the chart now",
+        "Check the patient for responsiveness and a pulse",
+        "Adjust the filter and record again later",
+        "Ask the patient to hold still and wait"
+      ],
+      "answer": 1,
+      "explain": "This pattern suggests ventricular fibrillation, but artifact can look similar. The technician checks the patient immediately; an unresponsive pulseless patient needs a code call, CPR and defibrillation."
+    },
+    {
+      "id": "ek-anal-26",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A monitor shows a flat line, but the patient is talking and alert. What is the most likely explanation?",
+      "options": [
+        "A lead or electrode has come off",
+        "The patient is in asystole",
+        "The patient is in ventricular fibrillation",
+        "The calibration is at double standard"
+      ],
+      "answer": 0,
+      "explain": "An alert, talking patient cannot be in asystole, so a flat line points to a disconnected lead or electrode. The technician checks connections and confirms in more than one lead."
+    },
+    {
+      "id": "ek-anal-27",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A patient is unresponsive and the tracing shows a flat line in more than one lead. What does this suggest?",
+      "options": [
+        "Atrial flutter",
+        "Asystole",
+        "Sinus bradycardia",
+        "First-degree AV block"
+      ],
+      "answer": 1,
+      "explain": "A flat line confirmed in more than one lead in an unresponsive, pulseless patient indicates asystole, a cardiac arrest rhythm requiring an immediate code call and CPR."
+    },
+    {
+      "id": "ek-anal-28",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart blocks)",
+      "q": "Every P wave is followed by a QRS, but the PR interval is constant at 0.28 seconds. What does this suggest?",
+      "options": [
+        "First-degree AV block",
+        "Second-degree AV block, type II",
+        "Third-degree AV block",
+        "Normal sinus rhythm"
+      ],
+      "answer": 0,
+      "explain": "A PR interval consistently longer than 0.20 seconds, with every P conducted, is first-degree AV block. In type II second-degree block some P waves are not followed by a QRS."
+    },
+    {
+      "id": "ek-anal-29",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart blocks)",
+      "q": "The PR interval gets longer with each beat until a P wave is not followed by a QRS, then the cycle repeats. What does this suggest?",
+      "options": [
+        "Second-degree AV block, type II",
+        "First-degree AV block",
+        "Third-degree AV block",
+        "Second-degree AV block, type I"
+      ],
+      "answer": 3,
+      "explain": "Progressive PR lengthening until a dropped QRS is second-degree type I, also called Wenckebach or Mobitz I. In type II the PR stays constant before a dropped beat."
+    },
+    {
+      "id": "ek-anal-30",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart blocks)",
+      "q": "The PR interval stays the same, but some P waves are suddenly not followed by a QRS. What does this suggest?",
+      "options": [
+        "Second-degree AV block, type I",
+        "First-degree AV block",
+        "Second-degree AV block, type II",
+        "Sinus arrhythmia"
+      ],
+      "answer": 2,
+      "explain": "Type II second-degree block, or Mobitz II, has constant PR intervals with sudden dropped QRS complexes. It can progress to complete heart block and is reported promptly."
+    },
+    {
+      "id": "ek-anal-31",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (heart blocks)",
+      "q": "P waves and QRS complexes occur regularly but have no relationship to each other. What does this suggest?",
+      "options": [
+        "First-degree AV block",
+        "Third-degree AV block",
+        "Atrial fibrillation",
+        "Sinus tachycardia"
+      ],
+      "answer": 1,
+      "explain": "In third-degree, or complete, heart block no atrial impulses reach the ventricles, so atria and ventricles beat independently. It often causes a slow rate and needs immediate reporting."
+    },
+    {
+      "id": "ek-anal-32",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (critical findings)",
+      "q": "Which rhythm requires immediate notification and emergency response?",
+      "options": [
+        "Normal sinus rhythm",
+        "Sinus arrhythmia",
+        "Ventricular fibrillation",
+        "Sinus rhythm at 72 per minute"
+      ],
+      "answer": 2,
+      "explain": "Ventricular fibrillation produces no effective cardiac output and is a cardiac arrest rhythm requiring immediate CPR and defibrillation. The other choices are usually benign."
+    },
+    {
+      "id": "ek-anal-33",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (critical findings)",
+      "q": "On a patient's 12-lead, the technician notices ST segments clearly elevated in leads II, III and aVF. What should be done?",
+      "options": [
+        "Notify the provider or nurse immediately",
+        "File the tracing with routine work",
+        "Repeat the EKG next week",
+        "Tell the patient a heart attack is happening"
+      ],
+      "answer": 0,
+      "explain": "ST elevation in related leads can indicate an acute heart attack, so the tracing is brought to the provider or nurse immediately. Diagnosis and explanation to the patient are the provider's role."
+    },
+    {
+      "id": "ek-anal-34",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "In a young adult, the heart rate speeds up with inhalation and slows with exhalation. What is this rhythm called?",
+      "options": [
+        "Atrial fibrillation",
+        "Atrial flutter",
+        "Sinus arrhythmia",
+        "Second-degree AV block"
+      ],
+      "answer": 2,
+      "explain": "Sinus arrhythmia is a sinus rhythm whose rate varies with breathing, common and usually normal in young people. Each beat still has a normal P wave before the QRS."
+    },
+    {
+      "id": "ek-anal-35",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "A very fast, regular rhythm at about 180 beats per minute has narrow QRS complexes. What does this most likely suggest?",
+      "options": [
+        "Ventricular tachycardia",
+        "Sinus bradycardia",
+        "Third-degree AV block",
+        "Supraventricular tachycardia"
+      ],
+      "answer": 3,
+      "explain": "A narrow QRS shows the impulse travels the normal ventricular pathway, so a very fast regular narrow-complex rhythm suggests supraventricular tachycardia. Ventricular tachycardia has wide complexes."
+    },
+    {
+      "id": "ek-anal-36",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "Which finding helps identify a rhythm as sinus in origin?",
+      "options": [
+        "A QRS wider than 0.12 seconds in most of the leads",
+        "An upright P wave in lead II before each QRS",
+        "No P waves visible in any lead",
+        "Sawtooth waves in lead II"
+      ],
+      "answer": 1,
+      "explain": "Sinus rhythms start in the SA node, producing an upright P wave in lead II before every QRS. Absent P waves and sawtooth waves point to other atrial rhythms."
+    },
+    {
+      "id": "ek-anal-37",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (waveforms)",
+      "q": "What is the isoelectric line on an EKG?",
+      "options": [
+        "The tallest point of the R wave in each QRS complex",
+        "The line formed by the calibration pulse",
+        "The line that marks one second",
+        "The flat baseline with no net electrical activity"
+      ],
+      "answer": 3,
+      "explain": "The isoelectric line is the flat baseline between waveforms, where no net electrical activity is recorded. Elevation or depression of segments is judged against it."
+    },
+    {
+      "id": "ek-anal-38",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "Two PVCs occur back to back on a strip. What is this called?",
+      "options": [
+        "Bigeminy",
+        "Trigeminy",
+        "Asystole",
+        "A couplet"
+      ],
+      "answer": 3,
+      "explain": "Two consecutive PVCs form a couplet. Bigeminy and trigeminy describe PVCs alternating with normal beats in patterns, and three or more PVCs in a row are a run of ventricular tachycardia."
+    },
+    {
+      "id": "ek-anal-39",
+      "exam": "cet",
+      "domain": "anal",
+      "ref": "NHA CET test plan (2017), EKG Analysis and Interpretation (rhythm recognition)",
+      "q": "How can the technician check whether a rhythm is regular?",
+      "options": [
+        "Compare R to R intervals across the strip",
+        "Count only the P waves that appear in lead aVR",
+        "Measure the height of a single T wave",
+        "Look only at the calibration mark"
+      ],
+      "answer": 0,
+      "explain": "Measuring successive R to R intervals with calipers or marked paper shows whether they are equal. Regularity helps identify the rhythm and choose a rate method."
+    }
+  ]
+}

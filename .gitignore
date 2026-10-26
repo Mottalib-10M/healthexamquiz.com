@@ -1,0 +1,8 @@
+node_modules
+dist
+.astro
+__pycache__/
+scripts/__pycache__
+# Copies de travail des outlines, handbooks et pages officielles : jamais versionnées (droits, RECETTE §12.1)
+data/raw/
+data/textes-sources/

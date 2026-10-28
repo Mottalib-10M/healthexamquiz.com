@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://us-health-exams.example/sitemap-index.xml
+Sitemap: https://healthexamquiz.com/sitemap-index.xml

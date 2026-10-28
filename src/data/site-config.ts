@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://us-health-exams.example";
-export const SITE_NAMES: Record<string, string> = {"en": "US Health Exams"};
+export const SITE_URL = "https://healthexamquiz.com";
+export const SITE_NAMES: Record<string, string> = {"en": "Health Exam Quiz"};
 // Partie du nom affichée en couleur dans l'en-tête (RECETTE §10.3), « » pour aucune.
 export const BRAND_ACCENT = "";
 export const LANG_TAGS: Record<string, string> = {"en": "en-US"};
@@ -18,7 +18,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners reads 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Nurse aide competency evaluation (NNAAP and state CNA exams)", "Pharmacy Technician Certification Exam (PTCE) content outline", "ExCPT pharmacy technician exam", "Certified Clinical Medical Assistant (CCMA) and CMA (AAMA) exams", "Certified Phlebotomy Technician (CPT) and Certified EKG Technician (CET) exams", "NREMT EMT cognitive exam", "Pharmacy math and dosage calculations"]};
-export const CONTACT_EMAIL = "contact@us-health-exams.example";
+export const CONTACT_EMAIL = "contact@healthexamquiz.com";
 export const THEME_COLOR = '#0E5A66';
 export const LOGO_SYMBOL = '+';
 export const BING_VERIFY_CODE = '';

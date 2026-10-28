@@ -1,6 +1,6 @@
 {
- "name": "US Health Exams",
- "short_name": "US Health Exams",
+ "name": "Health Exam Quiz",
+ "short_name": "Health Exam Quiz",
  "description": "Free practice tests for the CNA, PTCE, ExCPT, CCMA, CMA, CPT, CET and NREMT EMT exams: questions by outline domain, timed mocks in the published format, fees and retakes.",
  "start_url": "/en/",
  "display": "standalone",
